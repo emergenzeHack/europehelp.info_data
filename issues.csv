@@ -1405,12 +1405,10 @@ Tipo_di_soggetto: pubblico
 Titolo: In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari,
   infermieri, medici, e tecnici.
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/622,582276623,2020-03-16 23:00:16,2020-03-16 13:00:56,Help 3D - Chiarimento sulle valvole in 3D #Brescia,45.538716,10.222435,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Comune"": ""Brescia"", ""Cosa"": ""Brescia: chiarimento sulle valvole stampate in 3D"", ""Descrizione"": ""Le valvole stampate in 3D a Brescia dopo reverse engineering.\nChiarimenti su norme, tecnologie, ..."", ""Link"": ""https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/"", ""Posizione"": ""45.538716 10.222435 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/622,582276623,2020-03-17 23:38:24,2020-03-16 13:00:56,Help 3D - Chiarimento sulle valvole in 3D #Brescia,45.538716,10.222435,"[""Informazioni utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Brescia"", ""Cosa"": ""Brescia: chiarimento sulle valvole stampate in 3D"", ""Descrizione"": ""Le valvole stampate in 3D a Brescia dopo reverse engineering. Chiarimenti su norme, tecnologie, ..."", ""Link"": ""https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/"", ""Posizione"": ""45.538716 10.222435 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia""}","<pre><yamldata>
 Comune: Brescia
 Cosa: 'Brescia: chiarimento sulle valvole stampate in 3D'
-Descrizione: 'Le valvole stampate in 3D a Brescia dopo reverse engineering.
-
-  Chiarimenti su norme, tecnologie, ...'
+Descrizione: 'Le valvole stampate in 3D a Brescia dopo reverse engineering. Chiarimenti su norme, tecnologie, ...'
 Link: https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/
 Posizione: 45.538716 10.222435 0 0
 Provincia: Brescia
