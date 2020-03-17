@@ -1,4 +1,38 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/722,583185466,2020-03-17 19:59:11,2020-03-17 17:40:25,Servizio di consegna a domicilio per persone fragili comune #Marsala (TP),37.801646,12.434464,"[""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Marsala"", ""Da_chi_offerta"": ""Comune di Marsala"", ""Descrizione"": ""Considerato il periodo di emergenza, il Comune di Marsala - di concerto con Enti del Terzo Settore,  Associazioni di Volontariato, Parrocchie - intende organizzare un servizio a domicilio per acquisto/consegna della spesa. L\u2019iniziativa dell\u2019Amministrazione \u00e8 rivolta agli anziani e a coloro che sono impossibilitati ad uscire da casa per acquistare generi di prima necessit\u00e0. Quanti volessero collaborare a questa iniziativa, possono inviare una mail al Protocollo del Comune (protocollogenerale@comune.marsala.tp.it) o ai Servizi Sociali (servizisociali@comune.marsala.tp.it), indicando dati anagrafici e cellulare del singolo volontario. Questi, incaricato di svolgere il servizio, ricever\u00e0 specifica autorizzazione da parte del Comune, a tutela sia delle persone cui verr\u00e0 consegnata la spesa che dello stesso volontario."", ""Destinatari"": ""Anziani e persone fragili"", ""Link"": ""http://www.comune.marsala.tp.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/29932"", ""Natura"": ""solidale"", ""Posizione"": ""37.801646 12.434464 0 0"", ""Provincia"": ""Trapani"", ""Regione"": ""Sicilia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Marsala attiva servizio di consegna a domicilio per persone fragili""}","<pre><yamldata>
+Comune: Marsala
+Da_chi_offerta: Comune di Marsala
+Descrizione: ""Considerato il periodo di emergenza, il Comune di Marsala - di concerto\
+  \ con Enti del Terzo Settore,  Associazioni di Volontariato, Parrocchie - intende\
+  \ organizzare un servizio a domicilio per acquisto/consegna della spesa. L\u2019\
+  iniziativa dell\u2019Amministrazione \xE8 rivolta agli anziani e a coloro che sono\
+  \ impossibilitati ad uscire da casa per acquistare generi di prima necessit\xE0\
+  . Quanti volessero collaborare a questa iniziativa, possono inviare una mail al\
+  \ Protocollo del Comune (protocollogenerale@comune.marsala.tp.it) o ai Servizi Sociali\
+  \ (servizisociali@comune.marsala.tp.it), indicando dati anagrafici e cellulare del\
+  \ singolo volontario. Questi, incaricato di svolgere il servizio, ricever\xE0 specifica\
+  \ autorizzazione da parte del Comune, a tutela sia delle persone cui verr\xE0 consegnata\
+  \ la spesa che dello stesso volontario.""
+Destinatari: Anziani e persone fragili
+Link: http://www.comune.marsala.tp.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/29932
+Natura: solidale
+Posizione: 37.801646 12.434464 0 0
+Provincia: Trapani
+Regione: Sicilia
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Marsala attiva servizio di consegna a domicilio per persone fragili
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/720,583166144,2020-03-17 19:55:27,2020-03-17 17:09:07,"Raccolta fondi per presidio ospedaliero ""Dono Svizzero"" #Formia (LT)",41.25931,13.60802,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione per DPI e ventilatori polmonari per l'Ospedale Dono Svizzero di Formia"", ""Descrizione"": ""Donazioni per presidio ospedaliero \""Dono Svizzero\"" di Formia"", ""IBAN"": ""IT05 L053 7273 9800 0001 1022 898"", ""Intestazione"": ""Associazione di Volontariato delle Protezione Civile VER Sud Pontino"", ""Link"": ""https://www.gofundme.com/f/aiutiamo-il-dono-svizzero-di-formia?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0lnWAzXGQtZF8jDJwITWG6nWxXwHvqc9fcpveKruNLOzYOzG8EQV_cU0I"", ""Nome"": ""Comune di Formia, Living Califormia,  Ver Sud Pontino Formia Protezione Civile, CURVA CONI FORMIA"", ""Posizione"": ""41.25931 13.60802""}","<pre><yamldata>
+Causale: Donazione per DPI e ventilatori polmonari per l'Ospedale Dono Svizzero di
+  Formia
+Descrizione: Donazioni per presidio ospedaliero ""Dono Svizzero"" di Formia
+IBAN: IT05 L053 7273 9800 0001 1022 898
+Intestazione: Associazione di Volontariato delle Protezione Civile VER Sud Pontino
+Link: https://www.gofundme.com/f/aiutiamo-il-dono-svizzero-di-formia?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0lnWAzXGQtZF8jDJwITWG6nWxXwHvqc9fcpveKruNLOzYOzG8EQV_cU0I
+Nome: Comune di Formia, Living Califormia,  Ver Sud Pontino Formia Protezione Civile,
+  CURVA CONI FORMIA
+Posizione: 41.25931 13.60802
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/719,583160796,2020-03-17 18:33:43,2020-03-17 17:00:20,Raccolta fondi per Ospedali #Policoro (MT) #Potenza #Matera #Basilicata,40.652031,15.805326,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Potenza"", ""Descrizione"": ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima persona per supportare la mia terra e aiutare gli ospedali affinch\u00e9 si dotino di tutte le attrezzature necessarie per combattere l\u2019emergenza che ha colpito la nostra Nazione. Ho avviato una raccolta fondi per la Regione Basilicata da destinare agli Ospedali di Policoro, Potenza e Matera ed incrementare le postazioni di terapia intensiva. Grazie di cuore a chiunque mi dar\u00e0 un aiuto. \nSimone Zaza"", ""Link"": ""https://www.gofundme.com/f/1xaucxa3eo?utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=ccce81e5889b4c6684edf8223a1f9d2d"", ""Nome"": ""Simone Zaza"", ""Posizione"": ""40.652031 15.805326 0 0"", ""Provincia"": ""Potenza"", ""Regione"": ""Basilicata""}","<pre><yamldata>
 Comune: Potenza
 Descrizione: ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima\
