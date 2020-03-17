@@ -1,8 +1,8 @@
 [
     { 
-    "name" : "Abruzzo"
+    "nome_regione" : "Abruzzo"
 },
 {
-    "name" :"Lombardia"
-},
+    "nome_regione" :"Lombardia"
+}
 ]
