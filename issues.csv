@@ -1,41 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/719,583160796,2020-03-17 17:07:41,2020-03-17 17:00:20,Raccolta fondi per Ospedali #Policoro (MT) #Potenza #Matera #Basilicata,40.652031,15.805326,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima persona per supportare la mia terra e aiutare gli ospedali affinch\u00e9 si dotino di tutte le attrezzature necessarie per combattere l\u2019emergenza che ha colpito la nostra Nazione. Ho avviato una raccolta fondi per la Regione Basilicata da destinare agli Ospedali di Policoro, Potenza e Matera ed incrementare le postazioni di terapia intensiva. Grazie di cuore a chiunque mi dar\u00e0 un aiuto. \nSimone Zaza"", ""Link"": ""https://www.gofundme.com/f/1xaucxa3eo?utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=ccce81e5889b4c6684edf8223a1f9d2d"", ""Nome"": ""Simone Zaza"", ""Posizione"": ""40.652031 15.805326 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/719,583160796,2020-03-17 18:33:43,2020-03-17 17:00:20,Raccolta fondi per Ospedali #Policoro (MT) #Potenza #Matera #Basilicata,40.652031,15.805326,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Potenza"", ""Descrizione"": ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima persona per supportare la mia terra e aiutare gli ospedali affinch\u00e9 si dotino di tutte le attrezzature necessarie per combattere l\u2019emergenza che ha colpito la nostra Nazione. Ho avviato una raccolta fondi per la Regione Basilicata da destinare agli Ospedali di Policoro, Potenza e Matera ed incrementare le postazioni di terapia intensiva. Grazie di cuore a chiunque mi dar\u00e0 un aiuto. \nSimone Zaza"", ""Link"": ""https://www.gofundme.com/f/1xaucxa3eo?utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=ccce81e5889b4c6684edf8223a1f9d2d"", ""Nome"": ""Simone Zaza"", ""Posizione"": ""40.652031 15.805326 0 0"", ""Provincia"": ""Potenza"", ""Regione"": ""Basilicata""}","<pre><yamldata>
+Comune: Potenza
 Descrizione: ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima\
-  \ persona per supportare la mia terra e aiutare gli ospedali affinché si dotino\
-  \ di tutte le attrezzature necessarie per combattere l’emergenza che ha colpito\
+  \ persona per supportare la mia terra e aiutare gli ospedali affinch\xE9 si dotino\
+  \ di tutte le attrezzature necessarie per combattere l\u2019emergenza che ha colpito\
   \ la nostra Nazione. Ho avviato una raccolta fondi per la Regione Basilicata da\
   \ destinare agli Ospedali di Policoro, Potenza e Matera ed incrementare le postazioni\
-  \ di terapia intensiva. Grazie di cuore a chiunque mi darà un aiuto. \nSimone Zaza""
+  \ di terapia intensiva. Grazie di cuore a chiunque mi dar\xE0 un aiuto. \nSimone\
+  \ Zaza""
 Link: https://www.gofundme.com/f/1xaucxa3eo?utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=ccce81e5889b4c6684edf8223a1f9d2d
 Nome: Simone Zaza
 Posizione: 40.652031 15.805326 0 0
+Provincia: Potenza
+Regione: Basilicata
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/718,583148477,2020-03-17 17:13:16,2020-03-17 16:42:15,Richiesta aiuto per servizio mensa Opera San Francesco #Milano,45.46680,9.19050,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Servizio Mensa"", ""Descrizione"": ""Fino ad adesso, nonostante l\u2019emergenza coronavirus, L'Opera San Francesco \u00e8 riuscita a mantenere aperti i propri servizi grazie al lavoro instancabile dei suoi preziosi volontari. Ora cominciano a esserci dei problemi per coprire i turni e quindi per garantire aiuto ai poveri.\n\nL\u2019appello \u00e8 a chiunque sia in buona salute e abbia voglia di aiutarci nei giorni a venire per mantenere i servizi aperti. Potrebbe esserci necessit\u00e0 nelle due Mense, dove si tratterebbe di preparare i sacchetti per la distribuzione pranzo e cena agli ospiti, oppure di dedicare qualche ora al Servizio Docce.\n\nSe avete bisogno di ulteriori informazioni sulle modalit\u00e0 della vostra possibile collaborazione volontaria, scrivete a Andrea Rossetto per la Mensa andrea.rossetto@operasanfrancesco.it o a fra Domenico fradomenico@operasanfrancesco.it.\n\nGrazie a tutti i volontari che hanno permesso a OSF di essere, anche in questi giorni difficili, un punto di riferimento per i poveri. E grazie a chi vorr\u00e0 unirsi a loro per continuare a tendere la mano ai nostri ospiti."", ""Destinatari"": ""Tutti"", ""Email"": ""andrea.rossetto@operasanfrancesco.it"", ""Link"": ""https://operasanfrancesco.it/volontari-emergenza/"", ""Posizione"": ""45.46680 9.19050 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/718,583148477,2020-03-17 18:33:45,2020-03-17 16:42:15,Richiesta aiuto per servizio mensa Opera San Francesco #Milano,45.46680,9.19050,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Cosa"": ""Servizio Mensa"", ""Descrizione"": ""Fino ad adesso, nonostante l\u2019emergenza coronavirus, L'Opera San Francesco \u00e8 riuscita a mantenere aperti i propri servizi grazie al lavoro instancabile dei suoi preziosi volontari. Ora cominciano a esserci dei problemi per coprire i turni e quindi per garantire aiuto ai poveri.\n\nL\u2019appello \u00e8 a chiunque sia in buona salute e abbia voglia di aiutarci nei giorni a venire per mantenere i servizi aperti. Potrebbe esserci necessit\u00e0 nelle due Mense, dove si tratterebbe di preparare i sacchetti per la distribuzione pranzo e cena agli ospiti, oppure di dedicare qualche ora al Servizio Docce.\n\nSe avete bisogno di ulteriori informazioni sulle modalit\u00e0 della vostra possibile collaborazione volontaria, scrivete a Andrea Rossetto per la Mensa andrea.rossetto@operasanfrancesco.it o a fra Domenico fradomenico@operasanfrancesco.it.\n\nGrazie a tutti i volontari che hanno permesso a OSF di essere, anche in questi giorni difficili, un punto di riferimento per i poveri. E grazie a chi vorr\u00e0 unirsi a loro per continuare a tendere la mano ai nostri ospiti."", ""Destinatari"": ""Tutti"", ""Email"": ""andrea.rossetto@operasanfrancesco.it"", ""Link"": ""https://operasanfrancesco.it/volontari-emergenza/"", ""Posizione"": ""45.46680 9.19050 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Comune: Milano
 Cosa: Servizio Mensa
-Descrizione: 'Fino ad adesso, nonostante l’emergenza coronavirus, L''Opera San Francesco
-  è riuscita a mantenere aperti i propri servizi grazie al lavoro instancabile dei
-  suoi preziosi volontari. Ora cominciano a esserci dei problemi per coprire i turni
-  e quindi per garantire aiuto ai poveri.
-
-
-  L’appello è a chiunque sia in buona salute e abbia voglia di aiutarci nei giorni
-  a venire per mantenere i servizi aperti. Potrebbe esserci necessità nelle due Mense,
-  dove si tratterebbe di preparare i sacchetti per la distribuzione pranzo e cena
-  agli ospiti, oppure di dedicare qualche ora al Servizio Docce.
-
-
-  Se avete bisogno di ulteriori informazioni sulle modalità della vostra possibile
-  collaborazione volontaria, scrivete a Andrea Rossetto per la Mensa andrea.rossetto@operasanfrancesco.it
-  o a fra Domenico fradomenico@operasanfrancesco.it.
-
-
-  Grazie a tutti i volontari che hanno permesso a OSF di essere, anche in questi giorni
-  difficili, un punto di riferimento per i poveri. E grazie a chi vorrà unirsi a loro
-  per continuare a tendere la mano ai nostri ospiti.'
+Descrizione: ""Fino ad adesso, nonostante l\u2019emergenza coronavirus, L'Opera San\
+  \ Francesco \xE8 riuscita a mantenere aperti i propri servizi grazie al lavoro instancabile\
+  \ dei suoi preziosi volontari. Ora cominciano a esserci dei problemi per coprire\
+  \ i turni e quindi per garantire aiuto ai poveri.\n\nL\u2019appello \xE8 a chiunque\
+  \ sia in buona salute e abbia voglia di aiutarci nei giorni a venire per mantenere\
+  \ i servizi aperti. Potrebbe esserci necessit\xE0 nelle due Mense, dove si tratterebbe\
+  \ di preparare i sacchetti per la distribuzione pranzo e cena agli ospiti, oppure\
+  \ di dedicare qualche ora al Servizio Docce.\n\nSe avete bisogno di ulteriori informazioni\
+  \ sulle modalit\xE0 della vostra possibile collaborazione volontaria, scrivete a\
+  \ Andrea Rossetto per la Mensa andrea.rossetto@operasanfrancesco.it o a fra Domenico\
+  \ fradomenico@operasanfrancesco.it.\n\nGrazie a tutti i volontari che hanno permesso\
+  \ a OSF di essere, anche in questi giorni difficili, un punto di riferimento per\
+  \ i poveri. E grazie a chi vorr\xE0 unirsi a loro per continuare a tendere la mano\
+  \ ai nostri ospiti.""
 Destinatari: Tutti
 Email: andrea.rossetto@operasanfrancesco.it
 Link: https://operasanfrancesco.it/volontari-emergenza/
-Posizione: 45.46680 9.19050 0 0 
+Posizione: 45.46680 9.19050 0 0
+Provincia: Milano
+Regione: Lombardia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/713,583123786,2020-03-17 17:26:58,2020-03-17 16:05:10,Ordinanza del 17 marzo 2020: ulteriori misure per la prevenzione e gestione dell’emergenza epidemiologica #Lazio,66.93006,-51.328125,"[""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""TELESORVEGLIANZA DOMICILIARE misure per la prevenzione e gestione dell'emergenza"", ""Descrizione"": ""Proposta n. 3999 del 16/03/2020                                                  Oggetto:\nUlteriori misure per la prevenzione e gestione dell'emergenza epidemiologica da COVID-2019. Ordinanza ai sensi dell'art. 32, comma 3, della legge 23 dicembre 1978, n. 833 in materia di igiene e sanit\u00e0 pubblica."", ""Fonte"": ""Regione Lazio- Ordinanza del Presidente N. Z00009 del 17/03/2020"", ""Link"": ""http://www.regione.lazio.it/rl/coronavirus/wp-content/uploads/sites/72/Ordinanza_Z00009_2020.pdf..pdf"", ""Posizione"": ""66.93006 -51.328125 0 0""}","<pre><yamldata>
 Cosa: TELESORVEGLIANZA DOMICILIARE misure per la prevenzione e gestione dell'emergenza
@@ -48,41 +49,48 @@ Fonte: Regione Lazio- Ordinanza del Presidente N. Z00009 del 17/03/2020
 Link: http://www.regione.lazio.it/rl/coronavirus/wp-content/uploads/sites/72/Ordinanza_Z00009_2020.pdf..pdf
 Posizione: 66.93006 -51.328125 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/710,583084894,2020-03-17 15:35:03,2020-03-17 15:11:47,Trasporto dializzati e spesa a domicilio #Cesena,44.210231,12.059096,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Solidariet\u00e0 Cesenate ODV"", ""Descrizione"": ""I Volontari di Arci Solidariet\u00e0 Cesenate assicurano il servizio di trasporto a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana. Inoltre per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo il servizio di spese a domicilio"", ""Destinatari"": ""Utenti Dialisi e Anziani residenti nella periferia di Cesena"", ""Link"": ""www.arcicesena.it"", ""Natura"": ""solidale"", ""Posizione"": ""44.210231 12.059096 0 65"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Trasporto Dializzati e spese a domicilio""}","<pre><yamldata>
-Da_chi_offerta: Arci Solidarietà Cesenate ODV
-Descrizione: I Volontari di Arci Solidarietà Cesenate assicurano il servizio di trasporto
-  a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana. Inoltre
-  per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo il servizio
-  di spese a domicilio
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/710,583084894,2020-03-17 18:33:49,2020-03-17 15:11:47,Trasporto dializzati e spesa a domicilio #Cesena,44.210231,12.059096,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Forl\u00ec"", ""Da_chi_offerta"": ""Arci Solidariet\u00e0 Cesenate ODV"", ""Descrizione"": ""I Volontari di Arci Solidariet\u00e0 Cesenate assicurano il servizio di trasporto a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana. Inoltre per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo il servizio di spese a domicilio"", ""Destinatari"": ""Utenti Dialisi e Anziani residenti nella periferia di Cesena"", ""Link"": ""www.arcicesena.it"", ""Natura"": ""solidale"", ""Posizione"": ""44.210231 12.059096 0 65"", ""Provincia"": ""Forli'-Cesena"", ""Regione"": ""Emilia-Romagna"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Trasporto Dializzati e spese a domicilio""}","<pre><yamldata>
+Comune: ""Forl\xEC""
+Da_chi_offerta: ""Arci Solidariet\xE0 Cesenate ODV""
+Descrizione: ""I Volontari di Arci Solidariet\xE0 Cesenate assicurano il servizio di\
+  \ trasporto a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana.\
+  \ Inoltre per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo\
+  \ il servizio di spese a domicilio""
 Destinatari: Utenti Dialisi e Anziani residenti nella periferia di Cesena
 Link: www.arcicesena.it
 Natura: solidale
 Posizione: 44.210231 12.059096 0 65
+Provincia: Forli'-Cesena
+Regione: Emilia-Romagna
 Tipo_di_soggetto: privato
 Titolo: Trasporto Dializzati e spese a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/708,583065234,2020-03-17 16:05:59,2020-03-17 14:44:20,Città del Sole Prato: rubrica quotidiana per bambine e bambini,43.882209,11.096368,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Citt\u00e0 del sole Prato"", ""Descrizione"": ""Dopo aver appreso della notizia in merito alla chiusura di tutte le scuole italiane ci siamo sentiti in dovere di dare il nostro contributo, attraverso un aiuto, un sostegno a tutti quegli adulti che da oggi si troveranno a trascorrere tanto tempo insieme ai bambini. Cos\u00ec attraverso i social, per chi ci segue da tempo, abbiamo creato una rubrica quotidiana nella quale daremo dei suggerimenti di attivit\u00e0 per bambini. Tutto questo perch\u00e9 vorremmo provare a far almeno riflettere le persone su un cambio di prospettiva di questa eccezionale situazione che il nostro Paese (e non solo) sta vivendo: non vivere questi giorni come una costrizione ma come un\u2019opportunit\u00e0. Tanto si parla di tempo di qualit\u00e0 con i bambini, ormai \u00e8 sicuramente una riflessione condivisa ma adesso ci troveremo ad affrontare anche la \u201cquantit\u00e0\u201d e vorremmo provare a dare degli strumenti per affrontare al meglio questa situazione cos\u00ec fuori dalla quotidianit\u00e0 che siamo abituati a vivere. \nIl programma prevede attivit\u00e0 con materiali di facile reperibilit\u00e0 e che spesso tutti abbiamo a casa e che possano essere trasversali come et\u00e0.\nSperiamo di riuscire a dare il nostro piccolo, piccolissimo contributo in questo momento cos\u00ec Difficile.\nTutto \u00e8 partito da qui...\nhttps://youtu.be/jYnmNGAApxE"", ""Destinatari"": ""Famiglie con bambini"", ""Link"": ""https://www.youtube.com/user/cittadelsoleprato"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.882209 11.096368 59.8735237121582 65"", ""Titolo"": ""Rubrica Supercalifragilispichespiralidoso""}","<pre><yamldata>
-Da_chi_offerta: Città del sole Prato
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/708,583065234,2020-03-17 18:33:51,2020-03-17 14:44:20,Città del Sole Prato: rubrica quotidiana per bambine e bambini,43.882209,11.096368,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Comune"": ""Prato"", ""Da_chi_offerta"": ""Citt\u00e0 del sole Prato"", ""Descrizione"": ""Dopo aver appreso della notizia in merito alla chiusura di tutte le scuole italiane ci siamo sentiti in dovere di dare il nostro contributo, attraverso un aiuto, un sostegno a tutti quegli adulti che da oggi si troveranno a trascorrere tanto tempo insieme ai bambini. Cos\u00ec attraverso i social, per chi ci segue da tempo, abbiamo creato una rubrica quotidiana nella quale daremo dei suggerimenti di attivit\u00e0 per bambini. Tutto questo perch\u00e9 vorremmo provare a far almeno riflettere le persone su un cambio di prospettiva di questa eccezionale situazione che il nostro Paese (e non solo) sta vivendo: non vivere questi giorni come una costrizione ma come un\u2019opportunit\u00e0. Tanto si parla di tempo di qualit\u00e0 con i bambini, ormai \u00e8 sicuramente una riflessione condivisa ma adesso ci troveremo ad affrontare anche la \u201cquantit\u00e0\u201d e vorremmo provare a dare degli strumenti per affrontare al meglio questa situazione cos\u00ec fuori dalla quotidianit\u00e0 che siamo abituati a vivere. \nIl programma prevede attivit\u00e0 con materiali di facile reperibilit\u00e0 e che spesso tutti abbiamo a casa e che possano essere trasversali come et\u00e0.\nSperiamo di riuscire a dare il nostro piccolo, piccolissimo contributo in questo momento cos\u00ec Difficile.\nTutto \u00e8 partito da qui...\nhttps://youtu.be/jYnmNGAApxE"", ""Destinatari"": ""Famiglie con bambini"", ""Link"": ""https://www.youtube.com/user/cittadelsoleprato"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.882209 11.096368 59.8735237121582 65"", ""Provincia"": ""Prato"", ""Regione"": ""Toscana"", ""Titolo"": ""Rubrica Supercalifragilispichespiralidoso""}","<pre><yamldata>
+Comune: Prato
+Da_chi_offerta: ""Citt\xE0 del sole Prato""
 Descrizione: ""Dopo aver appreso della notizia in merito alla chiusura di tutte le\
   \ scuole italiane ci siamo sentiti in dovere di dare il nostro contributo, attraverso\
   \ un aiuto, un sostegno a tutti quegli adulti che da oggi si troveranno a trascorrere\
-  \ tanto tempo insieme ai bambini. Così attraverso i social, per chi ci segue da\
-  \ tempo, abbiamo creato una rubrica quotidiana nella quale daremo dei suggerimenti\
-  \ di attività per bambini. Tutto questo perché vorremmo provare a far almeno riflettere\
-  \ le persone su un cambio di prospettiva di questa eccezionale situazione che il\
-  \ nostro Paese (e non solo) sta vivendo: non vivere questi giorni come una costrizione\
-  \ ma come un’opportunità. Tanto si parla di tempo di qualità con i bambini, ormai\
-  \ è sicuramente una riflessione condivisa ma adesso ci troveremo ad affrontare anche\
-  \ la “quantità” e vorremmo provare a dare degli strumenti per affrontare al meglio\
-  \ questa situazione così fuori dalla quotidianità che siamo abituati a vivere. \n\
-  Il programma prevede attività con materiali di facile reperibilità e che spesso\
-  \ tutti abbiamo a casa e che possano essere trasversali come età.\nSperiamo di riuscire\
-  \ a dare il nostro piccolo, piccolissimo contributo in questo momento così Difficile.\n\
-  Tutto è partito da qui...\nhttps://youtu.be/jYnmNGAApxE""
+  \ tanto tempo insieme ai bambini. Cos\xEC attraverso i social, per chi ci segue\
+  \ da tempo, abbiamo creato una rubrica quotidiana nella quale daremo dei suggerimenti\
+  \ di attivit\xE0 per bambini. Tutto questo perch\xE9 vorremmo provare a far almeno\
+  \ riflettere le persone su un cambio di prospettiva di questa eccezionale situazione\
+  \ che il nostro Paese (e non solo) sta vivendo: non vivere questi giorni come una\
+  \ costrizione ma come un\u2019opportunit\xE0. Tanto si parla di tempo di qualit\xE0\
+  \ con i bambini, ormai \xE8 sicuramente una riflessione condivisa ma adesso ci troveremo\
+  \ ad affrontare anche la \u201Cquantit\xE0\u201D e vorremmo provare a dare degli\
+  \ strumenti per affrontare al meglio questa situazione cos\xEC fuori dalla quotidianit\xE0\
+  \ che siamo abituati a vivere. \nIl programma prevede attivit\xE0 con materiali\
+  \ di facile reperibilit\xE0 e che spesso tutti abbiamo a casa e che possano essere\
+  \ trasversali come et\xE0.\nSperiamo di riuscire a dare il nostro piccolo, piccolissimo\
+  \ contributo in questo momento cos\xEC Difficile.\nTutto \xE8 partito da qui...\n\
+  https://youtu.be/jYnmNGAApxE""
 Destinatari: Famiglie con bambini
 Link: https://www.youtube.com/user/cittadelsoleprato
 Natura: culturale-ricr
 Posizione: 43.882209 11.096368 59.8735237121582 65
+Provincia: Prato
+Regione: Toscana
 Titolo: Rubrica Supercalifragilispichespiralidoso
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/707,583058675,2020-03-17 16:45:12,2020-03-17 14:34:58,Contatti utili comune #Muggia (TS),,,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Email"": ""josef.vuch@alice.it"", ""Indirizzo"": ""45.604072 13.767318 0 0"", ""Link"": ""http://www.comune.muggia.ts.it/index.php?id=4160&no_cache=1&tx_ttnews%5Btt_news%5D=46063&cHash=15c31e09b109934c9586ebc4ca005990"", ""Nome"": ""Josef Vuch"", ""Scopo"": ""il Comune di Muggia, con la preziosa collaborazione del Gruppo Comunale Volontari Protezione Civile - MUGGIA e del Gruppo Scout Muggia ha attivato un sistema di assistenza e sostegno a soggetti deboli o anziani del territorio (et\u00e0 maggiore di 70 anni) - ad esclusione di eventuali soggetti sottoposti a quarantena - per fronteggiare l'emergenza Coronavirus, fornendo laddove necessario un servizio a domicilio di consegna degli acquisti di generi alimentari e di prima necessit\u00e0 (per esempio medicinali con ricetta) in modo da consentire loro di non dover correre rischi legati al contagio uscendo di casa.\n\n\nLa spesa sostenuta per le commissioni rimarr\u00e0 a carico degli utenti.\n\nPer usufruire del servizio, contattare, dalle 08.00 alle 12.00 e dalle 14.00 alle 18.00, il numero 040-3360101."", ""Telefono"": ""3403814952""}","<pre><yamldata>
@@ -129,42 +137,68 @@ Indirizzo: 45.629683 12.5638 0 0
 Link: https://www.facebook.com/sdonadipiave/photos/a.327145657336771/2965231163528194/?type=3&theater
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/705,583042074,2020-03-17 16:38:28,2020-03-17 14:11:37,Servizio gratuito di consegna farmaci e spesa - Comitato CRI #SanDonàdiPiave #Venezia,45.630245,12.562802,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana - Comitato di San Dona' di Piave"", ""Descrizione"": ""Abbiamo attivato il servizio gratuito di consegna farmaci e spesa, che pu\u00f2 essere richiesto ai nostri numeri: 0421-50767 e 392-9549009 attivi dal luned\u00ec al venerd\u00ec negli orari 10-12 / 15-17 e sabato 10-12, oppure contattando il n.verde nazionale CRI per le Persone 800 065510 attivo h24."", ""Destinatari"": ""Anziani, persone fragili e immunodepressi"", ""Link"": ""https://www.facebook.com/crisandona/photos/a.1151276735016594/1990868434390749/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.630245 12.562802 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio gratuito di consegna farmaci e spesa - Anziani, persone fragili e immunodepressi""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/705,583042074,2020-03-17 18:33:53,2020-03-17 14:11:37,Servizio gratuito di consegna farmaci e spesa - Comitato CRI #SanDonàdiPiave #Venezia,45.630245,12.562802,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""San Don\u00e0 di Piave"", ""Da_chi_offerta"": ""Croce Rossa Italiana - Comitato di San Dona' di Piave"", ""Descrizione"": ""Abbiamo attivato il servizio gratuito di consegna farmaci e spesa, che pu\u00f2 essere richiesto ai nostri numeri: 0421-50767 e 392-9549009 attivi dal luned\u00ec al venerd\u00ec negli orari 10-12 / 15-17 e sabato 10-12, oppure contattando il n.verde nazionale CRI per le Persone 800 065510 attivo h24."", ""Destinatari"": ""Anziani, persone fragili e immunodepressi"", ""Link"": ""https://www.facebook.com/crisandona/photos/a.1151276735016594/1990868434390749/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.630245 12.562802 0 0"", ""Provincia"": ""Venezia"", ""Regione"": ""Veneto"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio gratuito di consegna farmaci e spesa - Anziani, persone fragili e immunodepressi""}","<pre><yamldata>
+Comune: ""San Don\xE0 di Piave""
 Da_chi_offerta: Croce Rossa Italiana - Comitato di San Dona' di Piave
-Descrizione: 'Abbiamo attivato il servizio gratuito di consegna farmaci e spesa, che
-  può essere richiesto ai nostri numeri: 0421-50767 e 392-9549009 attivi dal lunedì
-  al venerdì negli orari 10-12 / 15-17 e sabato 10-12, oppure contattando il n.verde
-  nazionale CRI per le Persone 800 065510 attivo h24.'
+Descrizione: ""Abbiamo attivato il servizio gratuito di consegna farmaci e spesa, che\
+  \ pu\xF2 essere richiesto ai nostri numeri: 0421-50767 e 392-9549009 attivi dal\
+  \ luned\xEC al venerd\xEC negli orari 10-12 / 15-17 e sabato 10-12, oppure contattando\
+  \ il n.verde nazionale CRI per le Persone 800 065510 attivo h24.""
 Destinatari: Anziani, persone fragili e immunodepressi
 Link: https://www.facebook.com/crisandona/photos/a.1151276735016594/1990868434390749/?type=3&theater
 Natura: solidale
 Posizione: 45.630245 12.562802 0 0
+Provincia: Venezia
+Regione: Veneto
 Tipo_di_soggetto: privato
 Titolo: Servizio gratuito di consegna farmaci e spesa - Anziani, persone fragili e
   immunodepressi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/703,583036664,2020-03-17 16:33:50,2020-03-17 14:03:44,Raccolta fondi per terapia intensiva #Provincia autonoma di Trento,46.067556,11.116825,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Siamo i rappresentanti degli studenti e delle studentesse dell\u2019Universit\u00e0 di Trento e abbiamo deciso di avviare questa raccolta fondi per supportare concretamente chi ci sta aiutando giorno dopo giorno: medici, infermieri, oss, personale tecnico ed ospedali, in particolare le terapie intensive."", ""Link"": ""https://www.gofundme.com/f/insieme-aiutiamo-la-terapia-intensiva-in-trentino?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR33S_bbh9HZ3gFL0p5j2Xt3xtG_R2bbSvtRgfUIdwU50eUij2KeieKxaBo"", ""Nome"": ""Edoardo Meneghini - Studenti Uni TN"", ""Posizione"": ""46.067556 11.116825 0 0""}","<pre><yamldata>
-Descrizione: 'Siamo i rappresentanti degli studenti e delle studentesse dell’Università
-  di Trento e abbiamo deciso di avviare questa raccolta fondi per supportare concretamente
-  chi ci sta aiutando giorno dopo giorno: medici, infermieri, oss, personale tecnico
-  ed ospedali, in particolare le terapie intensive.'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/703,583036664,2020-03-17 18:33:55,2020-03-17 14:03:44,Raccolta fondi per terapia intensiva #Provincia autonoma di Trento,46.067556,11.116825,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Trento"", ""Descrizione"": ""Siamo i rappresentanti degli studenti e delle studentesse dell\u2019Universit\u00e0 di Trento e abbiamo deciso di avviare questa raccolta fondi per supportare concretamente chi ci sta aiutando giorno dopo giorno: medici, infermieri, oss, personale tecnico ed ospedali, in particolare le terapie intensive."", ""Link"": ""https://www.gofundme.com/f/insieme-aiutiamo-la-terapia-intensiva-in-trentino?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR33S_bbh9HZ3gFL0p5j2Xt3xtG_R2bbSvtRgfUIdwU50eUij2KeieKxaBo"", ""Nome"": ""Edoardo Meneghini - Studenti Uni TN"", ""Posizione"": ""46.067556 11.116825 0 0"", ""Provincia"": ""Trento"", ""Regione"": ""Trentino-Alto Adige""}","<pre><yamldata>
+Comune: Trento
+Descrizione: ""Siamo i rappresentanti degli studenti e delle studentesse dell\u2019\
+  Universit\xE0 di Trento e abbiamo deciso di avviare questa raccolta fondi per supportare\
+  \ concretamente chi ci sta aiutando giorno dopo giorno: medici, infermieri, oss,\
+  \ personale tecnico ed ospedali, in particolare le terapie intensive.""
 Link: https://www.gofundme.com/f/insieme-aiutiamo-la-terapia-intensiva-in-trentino?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR33S_bbh9HZ3gFL0p5j2Xt3xtG_R2bbSvtRgfUIdwU50eUij2KeieKxaBo
 Nome: Edoardo Meneghini - Studenti Uni TN
 Posizione: 46.067556 11.116825 0 0
+Provincia: Trento
+Regione: Trentino-Alto Adige
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/701,583030226,2020-03-17 17:00:45,2020-03-17 13:54:35,Assistenza psicologica telefonica comune #SanDonàDiPiave #Venezia,45.629645,12.563832,"[""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Citt\u00e0 di San Dona' di Piave"", ""Descrizione"": ""Dalle 13 del 14 marzo possiamo incontrarvi anche al telefono, grazie al servizio di assistenza psicologica telefonica 342 028 9224. Il servizio operer\u00e0: Luned\u00ec 13:00 \u2013 18:30; Marted\u00ec 13:00 \u2013 15:30; Mercoled\u00ec 13:00 \u2013 15:30; Gioved\u00ec 13:00 \u2013 18:30; Venerd\u00ec 13:00 \u2013 18:30 e Sabato 13:00 \u2013 18:30. Grazie alle professioniste che hanno messo a disposizione, gratuitamente, le loro competenze e il loro tempo!"", ""Destinatari"": ""Cittadini"", ""Link"": ""https://www.facebook.com/sdonadipiave/photos/a.327145657336771/2966880170029960/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.629645 12.563832 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Assistenza psicologica telefonica emergenza Coronavirus""}","<pre><yamldata>
-Da_chi_offerta: Città di San Dona' di Piave
-Descrizione: 'Dalle 13 del 14 marzo possiamo incontrarvi anche al telefono,
-  grazie al servizio di assistenza psicologica telefonica 342 028 9224. Il servizio
-  opererà: Lunedì 13:00 – 18:30; Martedì 13:00 – 15:30; Mercoledì 13:00 – 15:30; Giovedì
-  13:00 – 18:30; Venerdì 13:00 – 18:30 e Sabato 13:00 – 18:30. Grazie alle professioniste
-  che hanno messo a disposizione, gratuitamente, le loro competenze e il loro tempo!'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/701,583030226,2020-03-17 18:33:58,2020-03-17 13:54:35,Assistenza psicologica telefonica comune #SanDonàDiPiave #Venezia,45.629645,12.563832,"[""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""San Don\u00e0 di Piave"", ""Da_chi_offerta"": ""Citt\u00e0 di San Dona' di Piave"", ""Descrizione"": ""Dalle 13 del 14 marzo possiamo incontrarvi anche al telefono, grazie al servizio di assistenza psicologica telefonica 342 028 9224. Il servizio operer\u00e0: Luned\u00ec 13:00 \u2013 18:30; Marted\u00ec 13:00 \u2013 15:30; Mercoled\u00ec 13:00 \u2013 15:30; Gioved\u00ec 13:00 \u2013 18:30; Venerd\u00ec 13:00 \u2013 18:30 e Sabato 13:00 \u2013 18:30. Grazie alle professioniste che hanno messo a disposizione, gratuitamente, le loro competenze e il loro tempo!"", ""Destinatari"": ""Cittadini"", ""Link"": ""https://www.facebook.com/sdonadipiave/photos/a.327145657336771/2966880170029960/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.629645 12.563832 0 0"", ""Provincia"": ""Venezia"", ""Regione"": ""Veneto"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Assistenza psicologica telefonica emergenza Coronavirus""}","<pre><yamldata>
+Comune: ""San Don\xE0 di Piave""
+Da_chi_offerta: ""Citt\xE0 di San Dona' di Piave""
+Descrizione: ""Dalle 13 del 14 marzo possiamo incontrarvi anche al telefono, grazie\
+  \ al servizio di assistenza psicologica telefonica 342 028 9224. Il servizio operer\xE0\
+  : Luned\xEC 13:00 \u2013 18:30; Marted\xEC 13:00 \u2013 15:30; Mercoled\xEC 13:00\
+  \ \u2013 15:30; Gioved\xEC 13:00 \u2013 18:30; Venerd\xEC 13:00 \u2013 18:30 e Sabato\
+  \ 13:00 \u2013 18:30. Grazie alle professioniste che hanno messo a disposizione,\
+  \ gratuitamente, le loro competenze e il loro tempo!""
 Destinatari: Cittadini
 Link: https://www.facebook.com/sdonadipiave/photos/a.327145657336771/2966880170029960/?type=3&theater
 Natura: solidale
 Posizione: 45.629645 12.563832 0 0
+Provincia: Venezia
+Regione: Veneto
 Tipo_di_soggetto: pubblico
 Titolo: Assistenza psicologica telefonica emergenza Coronavirus
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/700,583020650,2020-03-17 17:34:40,2020-03-17 13:40:02,Raaccolta fondi Ospedale Uboldo #Cernuscosulnaviglio (MI),,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+BIC_SWIFT: ICRAITRRCLO
+CC_Postale: IT 19 E 07601 01600 000038998209
+Causale: TERAPIA INTENSIVA CERNUSCO
+Descrizione: La raccolta è promossa da tutto il team della terapia intensiva dell'ospedale Uboldo di Cernusco sul Naviglio, rappresentato dal direttore dell'unità operativa dott. Massimo Zambon e dal coordinatore infermieristico Franco Cipriani.
+
+I fondi raccolti saranno utilizzati per l'acquisto urgente di attrezzature e dispositivi utili a migliorare le cure dei pazienti ricoverati in terapia intensiva, quali ventilatori, monitor,  un ecografo dedicato, macchine per CPAP, letti articolati, etc.
+
+Il Centro Gianni Mori Onlus, da sempre presente sul territorio ed attivo per donazioni all'ospedale di Cernusco, ci sta aiutando a gestire la raccolta fondi e si incarica della finalizzazione degli acquisti e delle pratiche per la donazione.
+Email: centrodrgm@gmail.com
+IBAN: IT 78 W 08453 33590 000000002458
+Intestazione: Centro Studi e Ricerche Mediche Dr. Gianni Mori - onlus
+Link: http://cgm.sitonline.it/1/emergenza_coronavirus_4513867.html
+Nome: Reparto di terapia intensiva Ospedale Uboldo - Cernusco s/Nav. (MI)
+Posizione: 45.52456 9.33093 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/699,583011840,2020-03-17 17:23:22,2020-03-17 13:26:42,Non è vero che il farmaco Arbidol cura il Coronavirus,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Cosa: Non è vero che il farmaco Arbidol cura il Corona Virus
@@ -173,35 +207,35 @@ Descrizione: Su internet sta circolando il video di un uomo che assieme a un ami
 continua su: https://scienze.fanpage.it/il-farmaco-russo-arbidol-non-cura-il-coronavirus-e-una-bufala/
 https://scienze.fanpage.it/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/698,583010951,2020-03-17 16:25:45,2020-03-17 13:25:22,Raccolta fondi per ospedali di #Firenze,43.76987,11.25558,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""50137"", ""Descrizione"": ""|QUESTA\u00e8FIRENZE|\n\nQuesta raccolta fondi nasce dal desiderio di creare un \""FONDOFIRENZE\"" in grado di poter sostenere tutte le strutture ospedaliere che, data l'emergenza, potrebbero aver bisogno di aiuto.\n\nAnche una piccola donazione pu\u00f2 fare la differenza: INSIEME SIAMO TUTTI PI\u00d9 FORTI!"", ""Email"": ""danieleinnocenti11@gmail.com"", ""Link"": ""https://www.gofundme.com/f/1x7zccut9c"", ""Nome"": ""Daniele  Innocenti"", ""Posizione"": ""43.76987 11.25558 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/698,583010951,2020-03-17 18:34:00,2020-03-17 13:25:22,Raccolta fondi per ospedali di #Firenze,43.76987,11.25558,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""50137"", ""Comune"": ""Firenze"", ""Descrizione"": ""|QUESTA\u00e8FIRENZE|\n\nQuesta raccolta fondi nasce dal desiderio di creare un \""FONDOFIRENZE\"" in grado di poter sostenere tutte le strutture ospedaliere che, data l'emergenza, potrebbero aver bisogno di aiuto.\n\nAnche una piccola donazione pu\u00f2 fare la differenza: INSIEME SIAMO TUTTI PI\u00d9 FORTI!"", ""Email"": ""danieleinnocenti11@gmail.com"", ""Link"": ""https://www.gofundme.com/f/1x7zccut9c"", ""Nome"": ""Daniele  Innocenti"", ""Posizione"": ""43.76987 11.25558 0 0"", ""Provincia"": ""Firenze"", ""Regione"": ""Toscana""}","<pre><yamldata>
 CC_Postale: '50137'
-Descrizione: '|QUESTAèFIRENZE|
-
-
-  Questa raccolta fondi nasce dal desiderio di creare un ""FONDOFIRENZE"" in grado di
-  poter sostenere tutte le strutture ospedaliere che, data l''emergenza, potrebbero
-  aver bisogno di aiuto.
-
-
-  Anche una piccola donazione può fare la differenza: INSIEME SIAMO TUTTI PIÙ FORTI!'
+Comune: Firenze
+Descrizione: ""|QUESTA\xE8FIRENZE|\n\nQuesta raccolta fondi nasce dal desiderio di\
+  \ creare un \""FONDOFIRENZE\"" in grado di poter sostenere tutte le strutture ospedaliere\
+  \ che, data l'emergenza, potrebbero aver bisogno di aiuto.\n\nAnche una piccola\
+  \ donazione pu\xF2 fare la differenza: INSIEME SIAMO TUTTI PI\xD9 FORTI!""
 Email: danieleinnocenti11@gmail.com
-Posizione: 43.76987 11.25558 0 0
 Link: https://www.gofundme.com/f/1x7zccut9c
 Nome: Daniele  Innocenti
+Posizione: 43.76987 11.25558 0 0
+Provincia: Firenze
+Regione: Toscana
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/696,582994124,2020-03-17 15:56:04,2020-03-17 12:58:14,"Canto, letture e giochi per bambini #Torino",45.03638,7.68084,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione CasaOz Onlus"", ""Descrizione"": ""#casaoznonozia \u00e8 un programma di attivit\u00e0 fruibile attraverso la pagina Facebook di CasaOz. Canto, letture, giochi saranno proposti dal luned\u00ec al venerd\u00ec alle ore 16.30.\nMolti sono gli amici pi\u00f9 o meno \""famosi\"" che ci accompagneranno in questa avventura. Perch\u00e9 anche lontani da casa \u00e8 possibile vivere la magia e la bellezza di CasaOz!"", ""Destinatari"": ""Bambini di tutte le et\u00e0, bambini fragili e con disabilit\u00e0"", ""Link"": ""https://www.facebook.com/casaozonlus/?fref=ts"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.03638 7.68084 0 0"", ""Titolo"": ""CasaOz non Ozia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/696,582994124,2020-03-17 18:34:03,2020-03-17 12:58:14,"Canto, letture e giochi per bambini #Torino",45.03638,7.68084,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Comune"": ""Torino"", ""Da_chi_offerta"": ""Associazione CasaOz Onlus"", ""Descrizione"": ""#casaoznonozia \u00e8 un programma di attivit\u00e0 fruibile attraverso la pagina Facebook di CasaOz. Canto, letture, giochi saranno proposti dal luned\u00ec al venerd\u00ec alle ore 16.30.\nMolti sono gli amici pi\u00f9 o meno \""famosi\"" che ci accompagneranno in questa avventura. Perch\u00e9 anche lontani da casa \u00e8 possibile vivere la magia e la bellezza di CasaOz!"", ""Destinatari"": ""Bambini di tutte le et\u00e0, bambini fragili e con disabilit\u00e0"", ""Link"": ""https://www.facebook.com/casaozonlus/?fref=ts"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.03638 7.68084 0 0"", ""Provincia"": ""Torino"", ""Regione"": ""Piemonte"", ""Titolo"": ""CasaOz non Ozia""}","<pre><yamldata>
+Comune: Torino
 Da_chi_offerta: Associazione CasaOz Onlus
-Descrizione: '#casaoznonozia è un programma di attività fruibile attraverso la pagina
-  Facebook di CasaOz. Canto, letture, giochi saranno proposti dal lunedì al venerdì
-  alle ore 16.30.
-
-  Molti sono gli amici più o meno ""famosi"" che ci accompagneranno in questa avventura.
-  Perché anche lontani da casa è possibile vivere la magia e la bellezza di CasaOz!'
-Destinatari: Bambini di tutte le età, bambini fragili e con disabilità
+Descrizione: ""#casaoznonozia \xE8 un programma di attivit\xE0 fruibile attraverso\
+  \ la pagina Facebook di CasaOz. Canto, letture, giochi saranno proposti dal luned\xEC\
+  \ al venerd\xEC alle ore 16.30.\nMolti sono gli amici pi\xF9 o meno \""famosi\"" che\
+  \ ci accompagneranno in questa avventura. Perch\xE9 anche lontani da casa \xE8 possibile\
+  \ vivere la magia e la bellezza di CasaOz!""
+Destinatari: ""Bambini di tutte le et\xE0, bambini fragili e con disabilit\xE0""
 Link: https://www.facebook.com/casaozonlus/?fref=ts
 Natura: culturale-ricr
-Titolo: CasaOz non Ozia
 Posizione: 45.03638 7.68084 0 0
+Provincia: Torino
+Regione: Piemonte
+Titolo: CasaOz non Ozia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/695,582989886,2020-03-17 15:46:16,2020-03-17 12:51:09,Raccolta fondi progetto Varcare la Soglia #Palermo #Napoli #Milano #Catanzaro #Genova,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione L'Albero della Vita"", ""Descrizione"": ""Vogliamo acquistare tablet, fornire connessione a internet e un educatore per il sostegno One-to-One anche a distanza a tutti i 500 bambini del programma Varcare la Soglia attivo a Palermo, Napoli, Milano, Catanzaro, Genova. Ecco cosa faremo con le donazioni raccolte: Con 30 \u20ac puoi dare internet per un mese a una famiglia. Con 50 \u20ac acquistiamo una cesta basica con beni alimentari e di prima necessit\u00e0 per una famiglia per una settimana. Con 60 \u20ac possiamo garantire il supporto dedicato a distanza di un educatore per un bambino e la sua famiglia per una settimana. Con 100 \u20ac possiamo acquistare un tablet per garantire l'attivit\u00e0 di didattica a distanza. OBIETTIVO: Con 24.000 euro per ogni citt\u00e0 possiamo realizzare tutto questo ma abbiamo bisogno di te! (Totale per 500 bambini = 120.000\u20ac) ALTRI MODI PER DONARE: BONIFICO BANCARIO - IBAN IT 31 H 03111 01645 000000039398 CAUSALE: VARCARE LA SOGLIA ONLINE CON CARTA DI CREDITO https://tinyurl.com/tutti-connessi\nPER INFORMAZIONI:\nEmail: info@alberodellavita.org\nTel.: 02.90.75.1517"", ""Destinatari"": ""Bambini e ragazzi in condizione di disagio nelle periferie delle grandi citt\u00e0"", ""Link"": ""https://www.alberodellavita.org/intervento-modificato-emergenza-coronavirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emergenza Coronavirus: riguarda anche i bambini""}","<pre><yamldata>
 Da_chi_offerta: Fondazione L'Albero della Vita
@@ -236,18 +270,19 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: 'Emergenza Coronavirus: riguarda anche i bambini'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/694,582975580,2020-03-17 15:34:01,2020-03-17 12:25:02,Nuova sede centro prelievi unificato Ospedale Maggiore #Novara,45.442216,8.619968,"[""Bollettino"", ""Informazioni utili"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Nuova sede centro prelievi unificato Ospedale Maggiore Novara"", ""Descrizione"": ""Gioved\u00ec 19 marzo 2020 il Centro prelievi unificato dell\u2019Azienda ospedaliero-universitaria \u201cMaggiore della Carit\u00e0\u201d di Novara sar\u00e0 trasferito presso la sede distaccata di viale Piazza D\u2019Armi 1 (ex San Giuliano) a Novara, a conclusione di un processo di riorganizzazione durato mesi.\n\nPer poter effettuare il trasloco il Centro prelievi rimarr\u00e0 chiuso mercoled\u00ec 18 marzo 2020."", ""Link"": ""http://www.maggioreinformazione.it/una-nuova-sede-per-il-centro-prelievi-unificato-dellospedale-maggiore-di-novara/"", ""Posizione"": ""45.442216 8.619968 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/694,582975580,2020-03-17 18:34:05,2020-03-17 12:25:02,Nuova sede centro prelievi unificato Ospedale Maggiore #Novara,45.442216,8.619968,"[""Bollettino"", ""Informazioni utili"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Comune"": ""Novara"", ""Cosa"": ""Nuova sede centro prelievi unificato Ospedale Maggiore Novara"", ""Descrizione"": ""Gioved\u00ec 19 marzo 2020 il Centro prelievi unificato dell\u2019Azienda ospedaliero-universitaria \u201cMaggiore della Carit\u00e0\u201d di Novara sar\u00e0 trasferito presso la sede distaccata di viale Piazza D\u2019Armi 1 (ex San Giuliano) a Novara, a conclusione di un processo di riorganizzazione durato mesi.\n\nPer poter effettuare il trasloco il Centro prelievi rimarr\u00e0 chiuso mercoled\u00ec 18 marzo 2020."", ""Link"": ""http://www.maggioreinformazione.it/una-nuova-sede-per-il-centro-prelievi-unificato-dellospedale-maggiore-di-novara/"", ""Posizione"": ""45.442216 8.619968 0 0"", ""Provincia"": ""Novara"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+Comune: Novara
 Cosa: Nuova sede centro prelievi unificato Ospedale Maggiore Novara
-Descrizione: 'Giovedì 19 marzo 2020 il Centro prelievi unificato dell’Azienda ospedaliero-universitaria
-  “Maggiore della Carità” di Novara sarà trasferito presso la sede distaccata di viale
-  Piazza D’Armi 1 (ex San Giuliano) a Novara, a conclusione di un processo di riorganizzazione
-  durato mesi.
-
-
-  Per poter effettuare il trasloco il Centro prelievi rimarrà chiuso mercoledì 18
-  marzo 2020.'
+Descrizione: ""Gioved\xEC 19 marzo 2020 il Centro prelievi unificato dell\u2019Azienda\
+  \ ospedaliero-universitaria \u201CMaggiore della Carit\xE0\u201D di Novara sar\xE0\
+  \ trasferito presso la sede distaccata di viale Piazza D\u2019Armi 1 (ex San Giuliano)\
+  \ a Novara, a conclusione di un processo di riorganizzazione durato mesi.\n\nPer\
+  \ poter effettuare il trasloco il Centro prelievi rimarr\xE0 chiuso mercoled\xEC\
+  \ 18 marzo 2020.""
 Link: http://www.maggioreinformazione.it/una-nuova-sede-per-il-centro-prelievi-unificato-dellospedale-maggiore-di-novara/
 Posizione: 45.442216 8.619968 0 0
+Provincia: Novara
+Regione: Piemonte
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/692,582966797,2020-03-17 14:53:15,2020-03-17 12:09:44,Dati AUSL (da aprire) #Bologna,,,"[""Bollettino"", ""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dati AUSL Bologna (da aprire)"", ""Fonte"": ""Ausl Bologna"", ""Indirizzo"": ""44.4943668 11.3417208"", ""Link"": ""http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza""}","<pre><yamldata>
 Cosa: Dati AUSL Bologna (da aprire)
@@ -255,20 +290,24 @@ Fonte: Ausl Bologna
 Indirizzo: 44.4943668 11.3417208
 Link: http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/691,582959619,2020-03-17 15:34:17,2020-03-17 11:56:19,Servizi a domicilio #Carpiano (MI),45.341003,9.273378,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Carpiano"", ""Descrizione"": ""Le limitazioni introdotte per prevenire la diffusione del Coronavirus hanno un forte impatto sulle persone anziane o non autosufficienti: molte di loro vivono sole e in questi giorni, anche quando autosufficienti, non si fidano ad uscire di casa, hanno timore a chiedere assistenza per il rischio di contagio o vedono una riduzione dei servizi loro dedicati (es. chiusura del Centro Anziani).\nSoprattutto le persone anziane si sentono pi\u00f9 fragili e pi\u00f9 esposte.\n \nPer contrastare questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio attivi sul territorio e ha attivato, a partire da gioved\u00ec 5 marzo, una nuova \u201cLINEA VICINA\u201d"", ""Destinatari"": ""Anziani, non autosufficienti"", ""Link"": ""http://www.comune.carpiano.mi.it/c015050/po/mostra_news.php?id=926&area=H"", ""Natura"": ""solidale"", ""Posizione"": ""45.341003 9.273378 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea Vicina Carpiano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/691,582959619,2020-03-17 18:34:09,2020-03-17 11:56:19,Servizi a domicilio #Carpiano (MI),45.341003,9.273378,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Carpiano"", ""Da_chi_offerta"": ""Comune di Carpiano"", ""Descrizione"": ""Le limitazioni introdotte per prevenire la diffusione del Coronavirus hanno un forte impatto sulle persone anziane o non autosufficienti: molte di loro vivono sole e in questi giorni, anche quando autosufficienti, non si fidano ad uscire di casa, hanno timore a chiedere assistenza per il rischio di contagio o vedono una riduzione dei servizi loro dedicati (es. chiusura del Centro Anziani).\nSoprattutto le persone anziane si sentono pi\u00f9 fragili e pi\u00f9 esposte.\n \nPer contrastare questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio attivi sul territorio e ha attivato, a partire da gioved\u00ec 5 marzo, una nuova \u201cLINEA VICINA\u201d"", ""Destinatari"": ""Anziani, non autosufficienti"", ""Link"": ""http://www.comune.carpiano.mi.it/c015050/po/mostra_news.php?id=926&area=H"", ""Natura"": ""solidale"", ""Posizione"": ""45.341003 9.273378 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea Vicina Carpiano""}","<pre><yamldata>
+Comune: Carpiano
 Da_chi_offerta: Comune di Carpiano
 Descrizione: ""Le limitazioni introdotte per prevenire la diffusione del Coronavirus\
   \ hanno un forte impatto sulle persone anziane o non autosufficienti: molte di loro\
   \ vivono sole e in questi giorni, anche quando autosufficienti, non si fidano ad\
   \ uscire di casa, hanno timore a chiedere assistenza per il rischio di contagio\
   \ o vedono una riduzione dei servizi loro dedicati (es. chiusura del Centro Anziani).\n\
-  Soprattutto le persone anziane si sentono più fragili e più esposte.\n \nPer contrastare\
-  \ questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio attivi sul\
-  \ territorio e ha attivato, a partire da giovedì 5 marzo, una nuova “LINEA VICINA”""
+  Soprattutto le persone anziane si sentono pi\xF9 fragili e pi\xF9 esposte.\n \n\
+  Per contrastare questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio\
+  \ attivi sul territorio e ha attivato, a partire da gioved\xEC 5 marzo, una nuova\
+  \ \u201CLINEA VICINA\u201D""
 Destinatari: Anziani, non autosufficienti
 Link: http://www.comune.carpiano.mi.it/c015050/po/mostra_news.php?id=926&area=H
 Natura: solidale
 Posizione: 45.341003 9.273378 0 0
+Provincia: Milano
+Regione: Lombardia
 Tipo_di_soggetto: pubblico
 Titolo: Linea Vicina Carpiano
 </yamldata></pre>",open
@@ -286,159 +325,124 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/687,582945277,2020-03-17 15:24:14,2020-03-17 11:29:19,Raccolta fondi Ospedale San Bartolo #Vicenza,45.556477,11.545901,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione San Bortolo Onlus"", ""Descrizione"": ""Aiutiamo gli ospedali dell\u2019Ulss 8, i medici, gli infermieri, i volontari ad essere pi\u00f9 forti del virus.\nLa Fondazione San Bortolo, il Comune di Vicenza, il Giornale di Vicenza e Tva si rivolgono ai cittadini, alla loro sensibilit\u00e0 e al senso di solidariet\u00e0 lanciando una raccolta fondi per affrontare l\u2019emergenza Covid 19.\n\nIn accordo con la direzione dell\u2019Ulss 8 sono state individuate alcune priorit\u00e0, in particolare:\n\n-apparecchiature per la ventilazione assistita\n-un\u2019ambulanza e\\o automedica da dedicare ai pazienti colpiti dal virus\n \nLe donazioni per il progetto AiutiAMO Vicenza verranno utilizzate per l\u2019acquisto di strumentazioni che aiutino ad opporci in maniera ancora pi\u00f9 decisa all\u2019epidemia, che non sta risparmiando alcun territorio."", ""Destinatari"": ""FONDAZIONE SAN BORTOLO ONLUS"", ""Link"": ""https://www.fondazionesanbortolo.it/index.php/sostienici-anche-tu/fai-una-donazione-online"", ""Natura"": ""solidale"", ""Posizione"": ""45.556477 11.545901 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Campagna di raccolta fondi per l\u2019emergenza Coronavirus""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/687,582945277,2020-03-17 18:34:10,2020-03-17 11:29:19,Raccolta fondi Ospedale San Bartolo #Vicenza,45.556477,11.545901,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Vicenza"", ""Da_chi_offerta"": ""Fondazione San Bortolo Onlus"", ""Descrizione"": ""Aiutiamo gli ospedali dell\u2019Ulss 8, i medici, gli infermieri, i volontari ad essere pi\u00f9 forti del virus.\nLa Fondazione San Bortolo, il Comune di Vicenza, il Giornale di Vicenza e Tva si rivolgono ai cittadini, alla loro sensibilit\u00e0 e al senso di solidariet\u00e0 lanciando una raccolta fondi per affrontare l\u2019emergenza Covid 19.\n\nIn accordo con la direzione dell\u2019Ulss 8 sono state individuate alcune priorit\u00e0, in particolare:\n\n-apparecchiature per la ventilazione assistita\n-un\u2019ambulanza e\\o automedica da dedicare ai pazienti colpiti dal virus\n \nLe donazioni per il progetto AiutiAMO Vicenza verranno utilizzate per l\u2019acquisto di strumentazioni che aiutino ad opporci in maniera ancora pi\u00f9 decisa all\u2019epidemia, che non sta risparmiando alcun territorio."", ""Destinatari"": ""FONDAZIONE SAN BORTOLO ONLUS"", ""Link"": ""https://www.fondazionesanbortolo.it/index.php/sostienici-anche-tu/fai-una-donazione-online"", ""Natura"": ""solidale"", ""Posizione"": ""45.556477 11.545901 0 0"", ""Provincia"": ""Vicenza"", ""Regione"": ""Veneto"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Campagna di raccolta fondi per l\u2019emergenza Coronavirus""}","<pre><yamldata>
+Comune: Vicenza
 Da_chi_offerta: Fondazione San Bortolo Onlus
-Descrizione: ""Aiutiamo gli ospedali dell’Ulss 8, i medici, gli infermieri, i volontari\
-  \ ad essere più forti del virus.\nLa Fondazione San Bortolo, il Comune di Vicenza,\
-  \ il Giornale di Vicenza e Tva si rivolgono ai cittadini, alla loro sensibilità\
-  \ e al senso di solidarietà lanciando una raccolta fondi per affrontare l’emergenza\
-  \ Covid 19.\n\nIn accordo con la direzione dell’Ulss 8 sono state individuate alcune\
-  \ priorità, in particolare:\n\n-apparecchiature per la ventilazione assistita\n\
-  -un’ambulanza e\\o automedica da dedicare ai pazienti colpiti dal virus\n \nLe donazioni\
-  \ per il progetto AiutiAMO Vicenza verranno utilizzate per l’acquisto di strumentazioni\
-  \ che aiutino ad opporci in maniera ancora più decisa all’epidemia, che non sta\
-  \ risparmiando alcun territorio.""
+Descrizione: ""Aiutiamo gli ospedali dell\u2019Ulss 8, i medici, gli infermieri, i\
+  \ volontari ad essere pi\xF9 forti del virus.\nLa Fondazione San Bortolo, il Comune\
+  \ di Vicenza, il Giornale di Vicenza e Tva si rivolgono ai cittadini, alla loro\
+  \ sensibilit\xE0 e al senso di solidariet\xE0 lanciando una raccolta fondi per affrontare\
+  \ l\u2019emergenza Covid 19.\n\nIn accordo con la direzione dell\u2019Ulss 8 sono\
+  \ state individuate alcune priorit\xE0, in particolare:\n\n-apparecchiature per\
+  \ la ventilazione assistita\n-un\u2019ambulanza e\\o automedica da dedicare ai pazienti\
+  \ colpiti dal virus\n \nLe donazioni per il progetto AiutiAMO Vicenza verranno utilizzate\
+  \ per l\u2019acquisto di strumentazioni che aiutino ad opporci in maniera ancora\
+  \ pi\xF9 decisa all\u2019epidemia, che non sta risparmiando alcun territorio.""
 Destinatari: FONDAZIONE SAN BORTOLO ONLUS
 Link: https://www.fondazionesanbortolo.it/index.php/sostienici-anche-tu/fai-una-donazione-online
 Natura: solidale
 Posizione: 45.556477 11.545901 0 0
+Provincia: Vicenza
+Regione: Veneto
 Tipo_di_soggetto: pubblico
-Titolo: Campagna di raccolta fondi per l’emergenza Coronavirus
+Titolo: ""Campagna di raccolta fondi per l\u2019emergenza Coronavirus""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/686,582944293,2020-03-17 11:40:18,2020-03-17 11:27:28,Aiutiamoli ad aiutare: Raccolta fondi per Ospedale #Camerino,43.134076,13.066031,"[""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Chiara, Eleonora e Manuel"", ""Descrizione"": ""Ciao,\nin questo momento purtroppo tutta l'Italia \u00e8 ferma per il Coronavirus ma tra le tante vicende che stanno accadendo, c'\u00e8 una storia particolare che magari \u00e8 sfuggita ai pi\u00f9.\n\nDalla scorsa domenica, in mezza giornata, l'intero ospedale di Camerino (Macerata) \u00e8 stato completamente smantellato e riconvertito per accogliere pazienti contagiati Covid19. Una situazione come tante altre, se non fosse che l\u2019ospedale di Camerino \u00e8 (era) l\u2019unico presidio di Livello 1 dell\u2019intero territorio terremotato, che sorge nel cuore dei paesi pi\u00f9 distrutti dell\u2019entroterra marchigiano. Per chi non lo sapesse, nelle Marche c\u2019\u00e8 il 62% dei danni causati dal sisma del Centro Italia e Macerata \u00e8 la provincia pi\u00f9 colpita.\n\nSiamo fieri che il nostro piccolo ospedale oggi sia fondamentale per salvare delle vite, seppure abbiamo ancora le ossa rotte dal terremoto, con la ricostruzione ferma e le tante ingiustizie che stiamo vivendo dopo essere stati considerati di \u201cserie B\u201d, rispetto ad altre emergenze per cui lo Stato ha avuto un trattamento pi\u00f9 giusto. Ma oggi non possiamo lasciare da solo il nostro ospedale con il rischio di non vederlo ripristinato com\u2019era prima perch\u00e9 in montagna siamo pochi e contiamo poco.\n\nOggi possiamo fare la nostra parte, per aiutare i pazienti Covid19 e i tanti operatori sanitari che, dalla sera alla mattina con tutte le difficolt\u00e0 del caso, sono impiegati a combattere questa malattia. Per questo abbiamo attivato una Raccolta fondi per l'acquisto di presidi medici o di quanto ci diranno che potr\u00e0 servire.\n\nVi chiediamo con il cuore in mano di aiutarci a dare visibilit\u00e0 a questa Raccolta fondi attraverso i canali e le modalit\u00e0 che voi riteniate pi\u00f9 opportune. In tanti possiamo fare tanto, aiutateci ad aiutarli!\n\nQuesto \u00e8 il link alla raccolta fondi sulla piattaforma gofundme: https://www.gofundme.com/f/emergenza-covid19-camerino\n\nSe invece volete usare PayPal: https://paypal.me/ospedalecamerino\n\nOppure direttamente all'IBAN: IT12O0306968830100000001246\n\nAiutiamoli ad aiutare.\n\nGrazie mille,\nChiara, Eleonora e Manuel"", ""Destinatari"": ""Ospedale di Camerino"", ""Link"": ""https://www.gofundme.com/f/emergenza-covid19-camerino"", ""Natura"": ""solidale"", ""Posizione"": ""43.134076 13.066031 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiutiamoli ad aiutare -  Emergenza covid-19 Camerino""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/686,582944293,2020-03-17 18:34:12,2020-03-17 11:27:28,Aiutiamoli ad aiutare: Raccolta fondi per Ospedale #Camerino,43.134076,13.066031,"[""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Camerino"", ""Da_chi_offerta"": ""Chiara, Eleonora e Manuel"", ""Descrizione"": ""Ciao,\nin questo momento purtroppo tutta l'Italia \u00e8 ferma per il Coronavirus ma tra le tante vicende che stanno accadendo, c'\u00e8 una storia particolare che magari \u00e8 sfuggita ai pi\u00f9.\n\nDalla scorsa domenica, in mezza giornata, l'intero ospedale di Camerino (Macerata) \u00e8 stato completamente smantellato e riconvertito per accogliere pazienti contagiati Covid19. Una situazione come tante altre, se non fosse che l\u2019ospedale di Camerino \u00e8 (era) l\u2019unico presidio di Livello 1 dell\u2019intero territorio terremotato, che sorge nel cuore dei paesi pi\u00f9 distrutti dell\u2019entroterra marchigiano. Per chi non lo sapesse, nelle Marche c\u2019\u00e8 il 62% dei danni causati dal sisma del Centro Italia e Macerata \u00e8 la provincia pi\u00f9 colpita.\n\nSiamo fieri che il nostro piccolo ospedale oggi sia fondamentale per salvare delle vite, seppure abbiamo ancora le ossa rotte dal terremoto, con la ricostruzione ferma e le tante ingiustizie che stiamo vivendo dopo essere stati considerati di \u201cserie B\u201d, rispetto ad altre emergenze per cui lo Stato ha avuto un trattamento pi\u00f9 giusto. Ma oggi non possiamo lasciare da solo il nostro ospedale con il rischio di non vederlo ripristinato com\u2019era prima perch\u00e9 in montagna siamo pochi e contiamo poco.\n\nOggi possiamo fare la nostra parte, per aiutare i pazienti Covid19 e i tanti operatori sanitari che, dalla sera alla mattina con tutte le difficolt\u00e0 del caso, sono impiegati a combattere questa malattia. Per questo abbiamo attivato una Raccolta fondi per l'acquisto di presidi medici o di quanto ci diranno che potr\u00e0 servire.\n\nVi chiediamo con il cuore in mano di aiutarci a dare visibilit\u00e0 a questa Raccolta fondi attraverso i canali e le modalit\u00e0 che voi riteniate pi\u00f9 opportune. In tanti possiamo fare tanto, aiutateci ad aiutarli!\n\nQuesto \u00e8 il link alla raccolta fondi sulla piattaforma gofundme: https://www.gofundme.com/f/emergenza-covid19-camerino\n\nSe invece volete usare PayPal: https://paypal.me/ospedalecamerino\n\nOppure direttamente all'IBAN: IT12O0306968830100000001246\n\nAiutiamoli ad aiutare.\n\nGrazie mille,\nChiara, Eleonora e Manuel"", ""Destinatari"": ""Ospedale di Camerino"", ""Link"": ""https://www.gofundme.com/f/emergenza-covid19-camerino"", ""Natura"": ""solidale"", ""Posizione"": ""43.134076 13.066031 0 0"", ""Provincia"": ""Macerata"", ""Regione"": ""Marche"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiutiamoli ad aiutare -  Emergenza covid-19 Camerino""}","<pre><yamldata>
+Comune: Camerino
 Da_chi_offerta: Chiara, Eleonora e Manuel
-Descrizione: 'Ciao,
-
-  in questo momento purtroppo tutta l''Italia è ferma per il Coronavirus ma tra le
-  tante vicende che stanno accadendo, c''è una storia particolare che magari è sfuggita
-  ai più.
-
-
-  Dalla scorsa domenica, in mezza giornata, l''intero ospedale di Camerino (Macerata)
-  è stato completamente smantellato e riconvertito per accogliere pazienti contagiati
-  Covid19. Una situazione come tante altre, se non fosse che l’ospedale di Camerino
-  è (era) l’unico presidio di Livello 1 dell’intero territorio terremotato, che sorge
-  nel cuore dei paesi più distrutti dell’entroterra marchigiano. Per chi non lo sapesse,
-  nelle Marche c’è il 62% dei danni causati dal sisma del Centro Italia e Macerata
-  è la provincia più colpita.
-
-
-  Siamo fieri che il nostro piccolo ospedale oggi sia fondamentale per salvare delle
-  vite, seppure abbiamo ancora le ossa rotte dal terremoto, con la ricostruzione ferma
-  e le tante ingiustizie che stiamo vivendo dopo essere stati considerati di “serie
-  B”, rispetto ad altre emergenze per cui lo Stato ha avuto un trattamento più giusto.
-  Ma oggi non possiamo lasciare da solo il nostro ospedale con il rischio di non vederlo
-  ripristinato com’era prima perché in montagna siamo pochi e contiamo poco.
-
-
-  Oggi possiamo fare la nostra parte, per aiutare i pazienti Covid19 e i tanti operatori
-  sanitari che, dalla sera alla mattina con tutte le difficoltà del caso, sono impiegati
-  a combattere questa malattia. Per questo abbiamo attivato una Raccolta fondi per
-  l''acquisto di presidi medici o di quanto ci diranno che potrà servire.
-
-
-  Vi chiediamo con il cuore in mano di aiutarci a dare visibilità a questa Raccolta
-  fondi attraverso i canali e le modalità che voi riteniate più opportune. In tanti
-  possiamo fare tanto, aiutateci ad aiutarli!
-
-
-  Questo è il link alla raccolta fondi sulla piattaforma gofundme: https://www.gofundme.com/f/emergenza-covid19-camerino
-
-
-  Se invece volete usare PayPal: https://paypal.me/ospedalecamerino
-
-
-  Oppure direttamente all''IBAN: IT12O0306968830100000001246
-
-
-  Aiutiamoli ad aiutare.
-
-
-  Grazie mille,
-
-  Chiara, Eleonora e Manuel'
+Descrizione: ""Ciao,\nin questo momento purtroppo tutta l'Italia \xE8 ferma per il\
+  \ Coronavirus ma tra le tante vicende che stanno accadendo, c'\xE8 una storia particolare\
+  \ che magari \xE8 sfuggita ai pi\xF9.\n\nDalla scorsa domenica, in mezza giornata,\
+  \ l'intero ospedale di Camerino (Macerata) \xE8 stato completamente smantellato\
+  \ e riconvertito per accogliere pazienti contagiati Covid19. Una situazione come\
+  \ tante altre, se non fosse che l\u2019ospedale di Camerino \xE8 (era) l\u2019unico\
+  \ presidio di Livello 1 dell\u2019intero territorio terremotato, che sorge nel cuore\
+  \ dei paesi pi\xF9 distrutti dell\u2019entroterra marchigiano. Per chi non lo sapesse,\
+  \ nelle Marche c\u2019\xE8 il 62% dei danni causati dal sisma del Centro Italia\
+  \ e Macerata \xE8 la provincia pi\xF9 colpita.\n\nSiamo fieri che il nostro piccolo\
+  \ ospedale oggi sia fondamentale per salvare delle vite, seppure abbiamo ancora\
+  \ le ossa rotte dal terremoto, con la ricostruzione ferma e le tante ingiustizie\
+  \ che stiamo vivendo dopo essere stati considerati di \u201Cserie B\u201D, rispetto\
+  \ ad altre emergenze per cui lo Stato ha avuto un trattamento pi\xF9 giusto. Ma\
+  \ oggi non possiamo lasciare da solo il nostro ospedale con il rischio di non vederlo\
+  \ ripristinato com\u2019era prima perch\xE9 in montagna siamo pochi e contiamo poco.\n\
+  \nOggi possiamo fare la nostra parte, per aiutare i pazienti Covid19 e i tanti operatori\
+  \ sanitari che, dalla sera alla mattina con tutte le difficolt\xE0 del caso, sono\
+  \ impiegati a combattere questa malattia. Per questo abbiamo attivato una Raccolta\
+  \ fondi per l'acquisto di presidi medici o di quanto ci diranno che potr\xE0 servire.\n\
+  \nVi chiediamo con il cuore in mano di aiutarci a dare visibilit\xE0 a questa Raccolta\
+  \ fondi attraverso i canali e le modalit\xE0 che voi riteniate pi\xF9 opportune.\
+  \ In tanti possiamo fare tanto, aiutateci ad aiutarli!\n\nQuesto \xE8 il link alla\
+  \ raccolta fondi sulla piattaforma gofundme: https://www.gofundme.com/f/emergenza-covid19-camerino\n\
+  \nSe invece volete usare PayPal: https://paypal.me/ospedalecamerino\n\nOppure direttamente\
+  \ all'IBAN: IT12O0306968830100000001246\n\nAiutiamoli ad aiutare.\n\nGrazie mille,\n\
+  Chiara, Eleonora e Manuel""
 Destinatari: Ospedale di Camerino
 Link: https://www.gofundme.com/f/emergenza-covid19-camerino
 Natura: solidale
 Posizione: 43.134076 13.066031 0 0
+Provincia: Macerata
+Regione: Marche
 Tipo_di_soggetto: privato
 Titolo: Aiutiamoli ad aiutare -  Emergenza covid-19 Camerino
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/685,582940110,2020-03-17 11:49:26,2020-03-17 11:20:06,Ministero dell'Interno: nuovo modello per le autodichiarazioni spostamenti,41.89332,12.48293,"[""Bollettino"", ""Dati utili"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Nuovo modello per le autodichiarazioni"", ""Descrizione"": ""\u00c8 on line il nuovo modello di autodichiarazioni in caso di spostamenti che contiene una nuova voce con la quale l'interessato deve autodichiarare di non trovarsi nelle condizioni previste dall'art. 1, comma 1, lett. c) del D.P.C.M. 8 marzo 2020 che reca un divieto assoluto di mobilit\u00e0 dalla propria abitazione o dimora per i soggetti sottoposti alla misura della quarantena ovvero risultati positivi al virus \""COVID-19\"".\n\nIl nuovo modello prevede anche che l'operatore di polizia controfirmi l'autodichiarazione, attestando che essa viene resa in sua presenza e previa identificazione del dichiarante. In tal modo il cittadino viene esonerato dall'onere di allegare all'autodichiarazione una fotocopia del proprio documento di identit\u00e0."", ""Fonte"": ""Ministero dell'Interno"", ""Link"": ""https://www.interno.gov.it/it/notizie/nuovo-modello-autodichiarazioni"", ""Posizione"": ""41.89332 12.48293 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/685,582940110,2020-03-17 18:34:14,2020-03-17 11:20:06,Ministero dell'Interno: nuovo modello per le autodichiarazioni spostamenti,41.89332,12.48293,"[""Bollettino"", ""Dati utili"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Cosa"": ""Nuovo modello per le autodichiarazioni"", ""Descrizione"": ""\u00c8 on line il nuovo modello di autodichiarazioni in caso di spostamenti che contiene una nuova voce con la quale l'interessato deve autodichiarare di non trovarsi nelle condizioni previste dall'art. 1, comma 1, lett. c) del D.P.C.M. 8 marzo 2020 che reca un divieto assoluto di mobilit\u00e0 dalla propria abitazione o dimora per i soggetti sottoposti alla misura della quarantena ovvero risultati positivi al virus \""COVID-19\"".\n\nIl nuovo modello prevede anche che l'operatore di polizia controfirmi l'autodichiarazione, attestando che essa viene resa in sua presenza e previa identificazione del dichiarante. In tal modo il cittadino viene esonerato dall'onere di allegare all'autodichiarazione una fotocopia del proprio documento di identit\u00e0."", ""Fonte"": ""Ministero dell'Interno"", ""Link"": ""https://www.interno.gov.it/it/notizie/nuovo-modello-autodichiarazioni"", ""Posizione"": ""41.89332 12.48293 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio""}","<pre><yamldata>
+Comune: Roma
 Cosa: Nuovo modello per le autodichiarazioni
-Descrizione: 'È on line il nuovo modello di autodichiarazioni in caso di spostamenti
-  che contiene una nuova voce con la quale l''interessato deve autodichiarare di non
-  trovarsi nelle condizioni previste dall''art. 1, comma 1, lett. c) del D.P.C.M.
-  8 marzo 2020 che reca un divieto assoluto di mobilità dalla propria abitazione o
-  dimora per i soggetti sottoposti alla misura della quarantena ovvero risultati positivi
-  al virus ""COVID-19"".
-
-
-  Il nuovo modello prevede anche che l''operatore di polizia controfirmi l''autodichiarazione,
-  attestando che essa viene resa in sua presenza e previa identificazione del dichiarante.
-  In tal modo il cittadino viene esonerato dall''onere di allegare all''autodichiarazione
-  una fotocopia del proprio documento di identità.'
+Descrizione: ""\xC8 on line il nuovo modello di autodichiarazioni in caso di spostamenti\
+  \ che contiene una nuova voce con la quale l'interessato deve autodichiarare di\
+  \ non trovarsi nelle condizioni previste dall'art. 1, comma 1, lett. c) del D.P.C.M.\
+  \ 8 marzo 2020 che reca un divieto assoluto di mobilit\xE0 dalla propria abitazione\
+  \ o dimora per i soggetti sottoposti alla misura della quarantena ovvero risultati\
+  \ positivi al virus \""COVID-19\"".\n\nIl nuovo modello prevede anche che l'operatore\
+  \ di polizia controfirmi l'autodichiarazione, attestando che essa viene resa in\
+  \ sua presenza e previa identificazione del dichiarante. In tal modo il cittadino\
+  \ viene esonerato dall'onere di allegare all'autodichiarazione una fotocopia del\
+  \ proprio documento di identit\xE0.""
 Fonte: Ministero dell'Interno
 Link: https://www.interno.gov.it/it/notizie/nuovo-modello-autodichiarazioni
 Posizione: 41.89332 12.48293 0 0
+Provincia: Roma
+Regione: Lazio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/684,582935268,2020-03-17 11:17:48,2020-03-17 11:11:27,UN AIUTO PER IL PERSONALE SANITARIO DEL NOSTRO OSPEDALE DI SANTORSO #Vicenza,45.726832,11.414709,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""L\u2019iniziativa \u00e8 promossa dai 32 Comuni del Distretto 2 Alto VIcentino"", ""Descrizione"": ""AIUTIAMO IL PERSONALE SANITARIO DEL NOSTRO OSPEDALE DI SANTORSO\n\nSappiamo tutti bene che in queste ore molti operatori sanitari (medici, infermieri, OSS, ecc.) sono impegnati strenuamente nella difficile battaglia per curare le persone ammalate da Coronavirus, adoperandosi con turni massacranti e in situazioni che li espongono maggiormente al rischio di contagio.\nProbabilmente non tutti sanno per\u00f2 che alcuni di loro, per tutelare le rispettive famiglie, evitano di rientrare a casa, e dormono tra un turno e l\u2019altro adottando soluzioni di emergenza: qualcuno, pi\u00f9 fortunato, in abitazioni individuate alla bisogna; ma altri in camper o addirittura in macchina.\n\nIn queste giornate difficili \u2013 in cui molti si sono chiesti sul modo poter essere utili, pensando anche alla possibilit\u00e0 di poter fare delle donazioni, ma con la preoccupazione di poterlo fare con interlocutori affidabili e destinazioni certe - abbiamo ritenuto di combinare il bisogno di pochi con la disponibilit\u00e0 di tanti (si chiama SOLIDARIETA\u2019, ed \u00e8 un valore importante, soprattutto questi giorni!) mettendo a disposizione alcuni spazi adeguati, dove le persone possano riposarsi.\n\nLa prima soluzione individuata \u00e8 la foresteria dell\u2019universit\u00e0 nei pressi di Villa Miari, a Santorso: qui ci sono 6 camere da un posto letto, ciascuna con un proprio bagno.\nNe cercheremo altre, nelle prossime ore, con la collaborazione di altre amministrazioni comunali, che gi\u00e0 si stanno generosamente attivando per individuare ulteriori spazi.\nCi sono certamente altre necessit\u00e0 straordinarie, che stiamo raccogliendo: le risorse raccolte potranno confluire alla copertura dei costi sostenuti legati all\u2019emergenza da Coronavirus.\nChi intende contribuire pu\u00f2 farlo con un bonifico\nsul C/C intestato al Comune di Santorso il numero di IBAN \u00e8 : IT 19 C 02008 88380 000003467752\nindicando la causale : COVID 19.\n\nL\u2019amministrazione Comunale di Santorso, attraverso si impegna a destinare a questa esclusiva finalit\u00e0 le somme raccolte. E a darne puntuale e trasparente visibilit\u00e0 finale.\n\nIl Presidente del Comitato dei Sindaci Ulss 7 Pedemontana\nFranco Balzi\nL\u2019iniziativa \u00e8 promossa dai 32 Comuni del Distretto 2 Alto VIcentino"", ""Destinatari"": ""Comune di Santorso"", ""Link"": ""http://www.comune.santorso.vi.it/web/santorso/"", ""Natura"": ""solidale"", ""Posizione"": ""45.726832 11.414709 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""MISURE URGENTI PER LA GESTIONE E IL CONTENIMENTO DELL'EMERGENZA COVID-19""}","<pre><yamldata>
-Da_chi_offerta: L’iniziativa è promossa dai 32 Comuni del Distretto 2 Alto VIcentino
-Descrizione: 'AIUTIAMO IL PERSONALE SANITARIO DEL NOSTRO OSPEDALE DI SANTORSO
-
-
-  Sappiamo tutti bene che in queste ore molti operatori sanitari (medici, infermieri,
-  OSS, ecc.) sono impegnati strenuamente nella difficile battaglia per curare le persone
-  ammalate da Coronavirus, adoperandosi con turni massacranti e in situazioni che
-  li espongono maggiormente al rischio di contagio.
-
-  Probabilmente non tutti sanno però che alcuni di loro, per tutelare le rispettive
-  famiglie, evitano di rientrare a casa, e dormono tra un turno e l’altro adottando
-  soluzioni di emergenza: qualcuno, più fortunato, in abitazioni individuate alla
-  bisogna; ma altri in camper o addirittura in macchina.
-
-
-  In queste giornate difficili – in cui molti si sono chiesti sul modo poter essere
-  utili, pensando anche alla possibilità di poter fare delle donazioni, ma con la
-  preoccupazione di poterlo fare con interlocutori affidabili e destinazioni certe
-  - abbiamo ritenuto di combinare il bisogno di pochi con la disponibilità di tanti
-  (si chiama SOLIDARIETA’, ed è un valore importante, soprattutto questi giorni!)
-  mettendo a disposizione alcuni spazi adeguati, dove le persone possano riposarsi.
-
-
-  La prima soluzione individuata è la foresteria dell’università nei pressi di Villa
-  Miari, a Santorso: qui ci sono 6 camere da un posto letto, ciascuna con un proprio
-  bagno.
-
-  Ne cercheremo altre, nelle prossime ore, con la collaborazione di altre amministrazioni
-  comunali, che già si stanno generosamente attivando per individuare ulteriori spazi.
-
-  Ci sono certamente altre necessità straordinarie, che stiamo raccogliendo: le risorse
-  raccolte potranno confluire alla copertura dei costi sostenuti legati all’emergenza
-  da Coronavirus.
-
-  Chi intende contribuire può farlo con un bonifico
-
-  sul C/C intestato al Comune di Santorso il numero di IBAN è : IT 19 C 02008 88380
-  000003467752
-
-  indicando la causale : COVID 19.
-
-
-  L’amministrazione Comunale di Santorso, attraverso si impegna a destinare a questa
-  esclusiva finalità le somme raccolte. E a darne puntuale e trasparente visibilità
-  finale.
-
-
-  Il Presidente del Comitato dei Sindaci Ulss 7 Pedemontana
-
-  Franco Balzi
-
-  L’iniziativa è promossa dai 32 Comuni del Distretto 2 Alto VIcentino'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/684,582935268,2020-03-17 18:34:15,2020-03-17 11:11:27,UN AIUTO PER IL PERSONALE SANITARIO DEL NOSTRO OSPEDALE DI SANTORSO #Vicenza,45.726832,11.414709,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Santorso"", ""Da_chi_offerta"": ""L\u2019iniziativa \u00e8 promossa dai 32 Comuni del Distretto 2 Alto VIcentino"", ""Descrizione"": ""AIUTIAMO IL PERSONALE SANITARIO DEL NOSTRO OSPEDALE DI SANTORSO\n\nSappiamo tutti bene che in queste ore molti operatori sanitari (medici, infermieri, OSS, ecc.) sono impegnati strenuamente nella difficile battaglia per curare le persone ammalate da Coronavirus, adoperandosi con turni massacranti e in situazioni che li espongono maggiormente al rischio di contagio.\nProbabilmente non tutti sanno per\u00f2 che alcuni di loro, per tutelare le rispettive famiglie, evitano di rientrare a casa, e dormono tra un turno e l\u2019altro adottando soluzioni di emergenza: qualcuno, pi\u00f9 fortunato, in abitazioni individuate alla bisogna; ma altri in camper o addirittura in macchina.\n\nIn queste giornate difficili \u2013 in cui molti si sono chiesti sul modo poter essere utili, pensando anche alla possibilit\u00e0 di poter fare delle donazioni, ma con la preoccupazione di poterlo fare con interlocutori affidabili e destinazioni certe - abbiamo ritenuto di combinare il bisogno di pochi con la disponibilit\u00e0 di tanti (si chiama SOLIDARIETA\u2019, ed \u00e8 un valore importante, soprattutto questi giorni!) mettendo a disposizione alcuni spazi adeguati, dove le persone possano riposarsi.\n\nLa prima soluzione individuata \u00e8 la foresteria dell\u2019universit\u00e0 nei pressi di Villa Miari, a Santorso: qui ci sono 6 camere da un posto letto, ciascuna con un proprio bagno.\nNe cercheremo altre, nelle prossime ore, con la collaborazione di altre amministrazioni comunali, che gi\u00e0 si stanno generosamente attivando per individuare ulteriori spazi.\nCi sono certamente altre necessit\u00e0 straordinarie, che stiamo raccogliendo: le risorse raccolte potranno confluire alla copertura dei costi sostenuti legati all\u2019emergenza da Coronavirus.\nChi intende contribuire pu\u00f2 farlo con un bonifico\nsul C/C intestato al Comune di Santorso il numero di IBAN \u00e8 : IT 19 C 02008 88380 000003467752\nindicando la causale : COVID 19.\n\nL\u2019amministrazione Comunale di Santorso, attraverso si impegna a destinare a questa esclusiva finalit\u00e0 le somme raccolte. E a darne puntuale e trasparente visibilit\u00e0 finale.\n\nIl Presidente del Comitato dei Sindaci Ulss 7 Pedemontana\nFranco Balzi\nL\u2019iniziativa \u00e8 promossa dai 32 Comuni del Distretto 2 Alto VIcentino"", ""Destinatari"": ""Comune di Santorso"", ""Link"": ""http://www.comune.santorso.vi.it/web/santorso/"", ""Natura"": ""solidale"", ""Posizione"": ""45.726832 11.414709 0 0"", ""Provincia"": ""Vicenza"", ""Regione"": ""Veneto"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""MISURE URGENTI PER LA GESTIONE E IL CONTENIMENTO DELL'EMERGENZA COVID-19""}","<pre><yamldata>
+Comune: Santorso
+Da_chi_offerta: ""L\u2019iniziativa \xE8 promossa dai 32 Comuni del Distretto 2 Alto\
+  \ VIcentino""
+Descrizione: ""AIUTIAMO IL PERSONALE SANITARIO DEL NOSTRO OSPEDALE DI SANTORSO\n\n\
+  Sappiamo tutti bene che in queste ore molti operatori sanitari (medici, infermieri,\
+  \ OSS, ecc.) sono impegnati strenuamente nella difficile battaglia per curare le\
+  \ persone ammalate da Coronavirus, adoperandosi con turni massacranti e in situazioni\
+  \ che li espongono maggiormente al rischio di contagio.\nProbabilmente non tutti\
+  \ sanno per\xF2 che alcuni di loro, per tutelare le rispettive famiglie, evitano\
+  \ di rientrare a casa, e dormono tra un turno e l\u2019altro adottando soluzioni\
+  \ di emergenza: qualcuno, pi\xF9 fortunato, in abitazioni individuate alla bisogna;\
+  \ ma altri in camper o addirittura in macchina.\n\nIn queste giornate difficili\
+  \ \u2013 in cui molti si sono chiesti sul modo poter essere utili, pensando anche\
+  \ alla possibilit\xE0 di poter fare delle donazioni, ma con la preoccupazione di\
+  \ poterlo fare con interlocutori affidabili e destinazioni certe - abbiamo ritenuto\
+  \ di combinare il bisogno di pochi con la disponibilit\xE0 di tanti (si chiama SOLIDARIETA\u2019\
+  , ed \xE8 un valore importante, soprattutto questi giorni!) mettendo a disposizione\
+  \ alcuni spazi adeguati, dove le persone possano riposarsi.\n\nLa prima soluzione\
+  \ individuata \xE8 la foresteria dell\u2019universit\xE0 nei pressi di Villa Miari,\
+  \ a Santorso: qui ci sono 6 camere da un posto letto, ciascuna con un proprio bagno.\n\
+  Ne cercheremo altre, nelle prossime ore, con la collaborazione di altre amministrazioni\
+  \ comunali, che gi\xE0 si stanno generosamente attivando per individuare ulteriori\
+  \ spazi.\nCi sono certamente altre necessit\xE0 straordinarie, che stiamo raccogliendo:\
+  \ le risorse raccolte potranno confluire alla copertura dei costi sostenuti legati\
+  \ all\u2019emergenza da Coronavirus.\nChi intende contribuire pu\xF2 farlo con un\
+  \ bonifico\nsul C/C intestato al Comune di Santorso il numero di IBAN \xE8 : IT\
+  \ 19 C 02008 88380 000003467752\nindicando la causale : COVID 19.\n\nL\u2019amministrazione\
+  \ Comunale di Santorso, attraverso si impegna a destinare a questa esclusiva finalit\xE0\
+  \ le somme raccolte. E a darne puntuale e trasparente visibilit\xE0 finale.\n\n\
+  Il Presidente del Comitato dei Sindaci Ulss 7 Pedemontana\nFranco Balzi\nL\u2019\
+  iniziativa \xE8 promossa dai 32 Comuni del Distretto 2 Alto VIcentino""
 Destinatari: Comune di Santorso
 Link: http://www.comune.santorso.vi.it/web/santorso/
 Natura: solidale
 Posizione: 45.726832 11.414709 0 0
+Provincia: Vicenza
+Regione: Veneto
 Tipo_di_soggetto: pubblico
 Titolo: MISURE URGENTI PER LA GESTIONE E IL CONTENIMENTO DELL'EMERGENZA COVID-19
 </yamldata></pre>",open
@@ -464,13 +468,16 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: VIDEO MULTILINGUE PER LA PREVENZIONE DEL COVID 19
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/682,582929228,2020-03-17 11:55:10,2020-03-17 11:00:10,Richiesta aiuto trasporto per lavorare in ospedale #Bergamo,45.69449,9.66987,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""trasporto per lavorare in ospedale"", ""Descrizione"": ""ho necessit\u00e0 di arrivare al lavoro e tornare alla mia residenza al termine del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO"", ""Destinatari"": ""volontari"", ""Email"": ""piccolabambolina0@gmail.com"", ""Posizione"": ""45.69449 9.66987 0 0"", ""Telefono"": ""3477034164""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/682,582929228,2020-03-17 18:34:17,2020-03-17 11:00:10,Richiesta aiuto trasporto per lavorare in ospedale #Bergamo,45.69449,9.66987,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Cosa"": ""trasporto per lavorare in ospedale"", ""Descrizione"": ""ho necessit\u00e0 di arrivare al lavoro e tornare alla mia residenza al termine del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO"", ""Destinatari"": ""volontari"", ""Email"": ""piccolabambolina0@gmail.com"", ""Posizione"": ""45.69449 9.66987 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""Telefono"": ""3477034164""}","<pre><yamldata>
+Comune: Bergamo
 Cosa: trasporto per lavorare in ospedale
-Descrizione: ho necessità di arrivare al lavoro e tornare alla mia residenza al termine
-  del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO
+Descrizione: ""ho necessit\xE0 di arrivare al lavoro e tornare alla mia residenza al\
+  \ termine del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO""
 Destinatari: volontari
-Posizione: 45.69449 9.66987 0 0
 Email: piccolabambolina0@gmail.com
+Posizione: 45.69449 9.66987 0 0
+Provincia: Bergamo
+Regione: Lombardia
 Telefono: '3477034164'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/680,582920975,2020-03-17 11:33:05,2020-03-17 10:46:08,Raccolta fondi per Pubblica Assistenza di #Ravenna (servizio ambulanza),,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Pubblica Assistenza di Ravenna"", ""Descrizione"": ""La Pubblica Assistenza di Ravenna sta esaurendo tutte le scorte di DPI, Dispositivi di Protezione Individuale, e per questo motivo si chiede a cittadini, studi professionali e aziende di mettere a disposizione, se possibile, questo materiale. Per contatti: Pubblica Assistenza Citt\u00e0 di Ravenna ODV, Via Meucci n. 25 Ravenna, Tel. 0544.400777. Preghiamo tutti di condividere questo appello sui social e su ogni piattaforma di comunicazione, pubblica e privata."", ""Destinatari"": ""Pubblica Assistenza di Ravenna"", ""Indirizzo"": ""44.36406,12.05901"", ""Link"": ""https://www.gofundme.com/f/nocovid19?viewupdates=1&rcid=r01-158437896216-eb4c0f5014854742&utm_medium=email&utm_source=customer&utm_campaign=p_email%2B1137-update-supporters-v5b"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Raccolta fondi per Pubblica Assistenza di Ravenna (servizio ambulanza)""}","<pre><yamldata>
@@ -488,16 +495,19 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Raccolta fondi per Pubblica Assistenza di Ravenna (servizio ambulanza)
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/679,582916666,2020-03-17 11:15:49,2020-03-17 10:39:30,Dona il tuo aperitivo: raccolta fondi a favore dell'ospedale Belcolle di #Viterbo,42.32683,12.236344,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Eco Sound Fest"", ""Descrizione"": ""A Caprarola (VT) gli organizzatori del festival musicale Eco Sound Fest promuovono una campagna di raccolta fondi per il reparto della terapia intensiva dell'ospedale Belcolle di Viterbo. Alla campagna aderiscono il circolo ARCI \""Le citt\u00e0 invisibili\"" e altre associazioni."", ""Destinatari"": ""Terapia intensiva ospedale Belcolle"", ""Link"": ""https://www.gofundme.com/f/ud58d-il-tuo-aperitivo-contro-il-coronavirus?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet"", ""Natura"": ""solidale"", ""Posizione"": ""42.32683 12.236344 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Dona il tuo aperitivo""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/679,582916666,2020-03-17 18:34:21,2020-03-17 10:39:30,Dona il tuo aperitivo: raccolta fondi a favore dell'ospedale Belcolle di #Viterbo,42.32683,12.236344,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Caprarola"", ""Da_chi_offerta"": ""Eco Sound Fest"", ""Descrizione"": ""A Caprarola (VT) gli organizzatori del festival musicale Eco Sound Fest promuovono una campagna di raccolta fondi per il reparto della terapia intensiva dell'ospedale Belcolle di Viterbo. Alla campagna aderiscono il circolo ARCI \""Le citt\u00e0 invisibili\"" e altre associazioni."", ""Destinatari"": ""Terapia intensiva ospedale Belcolle"", ""Link"": ""https://www.gofundme.com/f/ud58d-il-tuo-aperitivo-contro-il-coronavirus?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet"", ""Natura"": ""solidale"", ""Posizione"": ""42.32683 12.236344 0 0"", ""Provincia"": ""Viterbo"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Dona il tuo aperitivo""}","<pre><yamldata>
+Comune: Caprarola
 Da_chi_offerta: Eco Sound Fest
-Descrizione: A Caprarola (VT) gli organizzatori del festival musicale Eco Sound Fest
-  promuovono una campagna di raccolta fondi per il reparto della terapia intensiva
-  dell'ospedale Belcolle di Viterbo. Alla campagna aderiscono il circolo ARCI ""Le
-  città invisibili"" e altre associazioni.
+Descrizione: ""A Caprarola (VT) gli organizzatori del festival musicale Eco Sound Fest\
+  \ promuovono una campagna di raccolta fondi per il reparto della terapia intensiva\
+  \ dell'ospedale Belcolle di Viterbo. Alla campagna aderiscono il circolo ARCI \""\
+  Le citt\xE0 invisibili\"" e altre associazioni.""
 Destinatari: Terapia intensiva ospedale Belcolle
 Link: https://www.gofundme.com/f/ud58d-il-tuo-aperitivo-contro-il-coronavirus?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet
 Natura: solidale
 Posizione: 42.32683 12.236344 0 0
+Provincia: Viterbo
+Regione: Lazio
 Tipo_di_soggetto: privato
 Titolo: Dona il tuo aperitivo
 </yamldata></pre>",open
@@ -510,13 +520,16 @@ Link: https://agente0011.it/restiamo-a-casa-ma-impariamo-divertendoci/?fbclid=Iw
 Natura: culturale-ricr
 Titolo: Restiamo a casa ma impariamo divertendoci!
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/675,582885455,2020-03-17 09:48:20,2020-03-17 09:47:15,100.000 euro per acquisto ventialtori polmonari #ReggioCalabria,38.101908,15.65799,"[""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""100.000 euro per acquisto ventialtori polmonari #ReggioCalabria"", ""Descrizione"": ""Centomila euro stanziati per macchinari destinati ai tre ospedali che insistono sul territorio della Citt\u00e0 Metropolitana: il Grande Ospedale di Reggio Calabria, l'ospedale di Polistena e l'ospedale di Locri."", ""Link"": ""http://ildispaccio.it/reggio-calabria/239270-coronavirus-l-annuncio-di-falcomata-da-citta-metropolitana-100mila-euro-per-acquisto-di-ventilatori-polmonari-per-i-nostri-ospedali?fbclid=IwAR3bK6cXzKB-rOabmSFxB3SYccE8jtsI5AVKirQdINfY9biGAknWtA8qz8k"", ""Posizione"": ""38.101908 15.65799 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/675,582885455,2020-03-17 18:34:26,2020-03-17 09:47:15,100.000 euro per acquisto ventialtori polmonari #ReggioCalabria,38.101908,15.65799,"[""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Comune"": ""Reggio di Calabria"", ""Cosa"": ""100.000 euro per acquisto ventialtori polmonari #ReggioCalabria"", ""Descrizione"": ""Centomila euro stanziati per macchinari destinati ai tre ospedali che insistono sul territorio della Citt\u00e0 Metropolitana: il Grande Ospedale di Reggio Calabria, l'ospedale di Polistena e l'ospedale di Locri."", ""Link"": ""http://ildispaccio.it/reggio-calabria/239270-coronavirus-l-annuncio-di-falcomata-da-citta-metropolitana-100mila-euro-per-acquisto-di-ventilatori-polmonari-per-i-nostri-ospedali?fbclid=IwAR3bK6cXzKB-rOabmSFxB3SYccE8jtsI5AVKirQdINfY9biGAknWtA8qz8k"", ""Posizione"": ""38.101908 15.65799 0 0"", ""Provincia"": ""Reggio di Calabria"", ""Regione"": ""Calabria""}","<pre><yamldata>
+Comune: Reggio di Calabria
 Cosa: '100.000 euro per acquisto ventialtori polmonari #ReggioCalabria'
-Descrizione: 'Centomila euro stanziati per macchinari destinati ai tre ospedali che
-  insistono sul territorio della Città Metropolitana: il Grande Ospedale di Reggio
-  Calabria, l''ospedale di Polistena e l''ospedale di Locri.'
+Descrizione: ""Centomila euro stanziati per macchinari destinati ai tre ospedali che\
+  \ insistono sul territorio della Citt\xE0 Metropolitana: il Grande Ospedale di Reggio\
+  \ Calabria, l'ospedale di Polistena e l'ospedale di Locri.""
 Link: http://ildispaccio.it/reggio-calabria/239270-coronavirus-l-annuncio-di-falcomata-da-citta-metropolitana-100mila-euro-per-acquisto-di-ventilatori-polmonari-per-i-nostri-ospedali?fbclid=IwAR3bK6cXzKB-rOabmSFxB3SYccE8jtsI5AVKirQdINfY9biGAknWtA8qz8k
 Posizione: 38.101908 15.65799 0 0
+Provincia: Reggio di Calabria
+Regione: Calabria
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/674,582874434,2020-03-17 11:57:56,2020-03-17 09:27:53,Società Italiana di Dermatologia: proroga dei piani terapeutici,,,"[""Bollettino"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL\u2019EMERGENZA EPIDEMIOLOGICA DA COVID-19"", ""Descrizione"": ""Tutti i pazienti dermatologici affetti da malattie infiammatorie croniche cutanee, quali psoriasi, dermatite atopica, orticaria cronica idiopatica in trattamento con farmaci biologici, possono continuare le somministrazioni dei farmaci suddetti, prestando le attenzioni richieste in questo momento particolare. \u00c8 tuttavia necessario segnalare ogni sintomo di infezione al medico di medicina generale il quale decider\u00e0 quale percorso deve essere intrapreso e allo specialista dermatologo di riferimento."", ""Link"": ""https://www.sidemast.org/blog/proroga-dei-piani-terapeutici/?fbclid=IwAR0FMd0s38faLFs5aisaVnp1VNdFhk91Rbr9rzT0idvmiXMyffvC7BhL-10""}","<pre><yamldata>
 Cosa: PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL’EMERGENZA
@@ -529,17 +542,20 @@ Descrizione: Tutti i pazienti dermatologici affetti da malattie infiammatorie cr
   quale percorso deve essere intrapreso e allo specialista dermatologo di riferimento.
 Link: https://www.sidemast.org/blog/proroga-dei-piani-terapeutici/?fbclid=IwAR0FMd0s38faLFs5aisaVnp1VNdFhk91Rbr9rzT0idvmiXMyffvC7BhL-10
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/673,582872654,2020-03-17 09:31:54,2020-03-17 09:25:20,"Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo",44.886289,7.334644,"[""Consegne e commissioni"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Eco del Chisone"", ""Descrizione"": ""Mappa aggiornata dei negozi che svolgono il servizio di consegna a domicilio a Pinerolo e dintorni. Nella news ci sono anche i numeri delle organizzazioni che sul territorio aiutano persone anziane o in difficolt\u00e0 per la spesa e i farmaci e il numero verde 800909224 che il giornale ha istituito direttamente per informazioni su queste iniziative."", ""Destinatari"": ""Cittadini e cittadine del pinerolese"", ""Link"": ""https://www.ecodelchisone.it/news/2020-03-16/coronavirus-spesa-farmaci-domicilio-mappa-dei-negozi-nel-pinerolese-aggiornata-163-37720?fbclid=IwAR1QVH0HIJ4LFkJGPwBGfSmpWbk5nBI-qA0GbAKp0ZlE1ob4U2AQPK9p5Ok"", ""Natura"": ""solidale"", ""Posizione"": ""44.886289 7.334644 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/673,582872654,2020-03-17 18:34:27,2020-03-17 09:25:20,"Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo",44.886289,7.334644,"[""Consegne e commissioni"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Pinerolo"", ""Da_chi_offerta"": ""Eco del Chisone"", ""Descrizione"": ""Mappa aggiornata dei negozi che svolgono il servizio di consegna a domicilio a Pinerolo e dintorni. Nella news ci sono anche i numeri delle organizzazioni che sul territorio aiutano persone anziane o in difficolt\u00e0 per la spesa e i farmaci e il numero verde 800909224 che il giornale ha istituito direttamente per informazioni su queste iniziative."", ""Destinatari"": ""Cittadini e cittadine del pinerolese"", ""Link"": ""https://www.ecodelchisone.it/news/2020-03-16/coronavirus-spesa-farmaci-domicilio-mappa-dei-negozi-nel-pinerolese-aggiornata-163-37720?fbclid=IwAR1QVH0HIJ4LFkJGPwBGfSmpWbk5nBI-qA0GbAKp0ZlE1ob4U2AQPK9p5Ok"", ""Natura"": ""solidale"", ""Posizione"": ""44.886289 7.334644 0 0"", ""Provincia"": ""Torino"", ""Regione"": ""Piemonte"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo""}","<pre><yamldata>
+Comune: Pinerolo
 Da_chi_offerta: Eco del Chisone
-Descrizione: Mappa aggiornata dei negozi che svolgono il servizio di consegna a domicilio
-  a Pinerolo e dintorni. Nella news ci sono anche i numeri delle organizzazioni che
-  sul territorio aiutano persone anziane o in difficoltà per la spesa e i farmaci
-  e il numero verde 800909224 che il giornale ha istituito direttamente per informazioni
-  su queste iniziative.
+Descrizione: ""Mappa aggiornata dei negozi che svolgono il servizio di consegna a domicilio\
+  \ a Pinerolo e dintorni. Nella news ci sono anche i numeri delle organizzazioni\
+  \ che sul territorio aiutano persone anziane o in difficolt\xE0 per la spesa e i\
+  \ farmaci e il numero verde 800909224 che il giornale ha istituito direttamente\
+  \ per informazioni su queste iniziative.""
 Destinatari: Cittadini e cittadine del pinerolese
 Link: https://www.ecodelchisone.it/news/2020-03-16/coronavirus-spesa-farmaci-domicilio-mappa-dei-negozi-nel-pinerolese-aggiornata-163-37720?fbclid=IwAR1QVH0HIJ4LFkJGPwBGfSmpWbk5nBI-qA0GbAKp0ZlE1ob4U2AQPK9p5Ok
 Natura: solidale
 Posizione: 44.886289 7.334644 0 0
+Provincia: Torino
+Regione: Piemonte
 Tipo_di_soggetto: privato
 Titolo: 'Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo'
 </yamldata></pre>",open
@@ -585,18 +601,20 @@ Link: https://www.gofundme.com/f/coronavirusapisasosteniamoilnostroospedale
 Natura: solidale
 Titolo: Raccolta fondi a sostegno dell'ospedale Cisanello di Pisa
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/662,582798630,2020-03-17 11:26:54,2020-03-17 07:01:40,Taxi gratis per anziani #Milano,45.464353,9.188011,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Taxiblu e Autoradiotassi 8585"", ""Descrizione"": ""Quaranta auto taxi sono a disposizione degli anziani per gli spostamenti improrogabili. Il servizio si chiama \u201cUna corsa per i nostri anziani\u201d proposto dalle cooperative Taxiblu (http://www.taxiblu.com/) e Autoradiotassi 8585 (https://028585.taxi/).\nL'idea \u00e8 di Legacoop Lombardia con il supporto del Comune di Milano Assessorato Politiche sociali e abitative."", ""Destinatari"": ""Anziani"", ""Link"": ""https://www.legacooplombardia.it/una-corsa-per-i-nostri-anziani-le-cooperative-di-tassisti-di-milano-per-fermare-il-coronavirus"", ""Natura"": ""solidale"", ""Posizione"": ""45.464353 9.188011 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Taxi a Milano gratis per anziani""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/662,582798630,2020-03-17 18:34:31,2020-03-17 07:01:40,Taxi gratis per anziani #Milano,45.464353,9.188011,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Taxiblu e Autoradiotassi 8585"", ""Descrizione"": ""Quaranta auto taxi sono a disposizione degli anziani per gli spostamenti improrogabili. Il servizio si chiama \u201cUna corsa per i nostri anziani\u201d proposto dalle cooperative Taxiblu (http://www.taxiblu.com/) e Autoradiotassi 8585 (https://028585.taxi/).\nL'idea \u00e8 di Legacoop Lombardia con il supporto del Comune di Milano Assessorato Politiche sociali e abitative."", ""Destinatari"": ""Anziani"", ""Link"": ""https://www.legacooplombardia.it/una-corsa-per-i-nostri-anziani-le-cooperative-di-tassisti-di-milano-per-fermare-il-coronavirus"", ""Natura"": ""solidale"", ""Posizione"": ""45.464353 9.188011 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Taxi a Milano gratis per anziani""}","<pre><yamldata>
+Comune: Milano
 Da_chi_offerta: Taxiblu e Autoradiotassi 8585
-Descrizione: 'Quaranta auto taxi sono a disposizione degli anziani per gli spostamenti
-  improrogabili. Il servizio si chiama “Una corsa per i nostri anziani” proposto dalle
-  cooperative Taxiblu (http://www.taxiblu.com/) e Autoradiotassi 8585 (https://028585.taxi/).
-
-  L''idea è di Legacoop Lombardia con il supporto del Comune di Milano Assessorato
-  Politiche sociali e abitative.'
+Descrizione: ""Quaranta auto taxi sono a disposizione degli anziani per gli spostamenti\
+  \ improrogabili. Il servizio si chiama \u201CUna corsa per i nostri anziani\u201D\
+  \ proposto dalle cooperative Taxiblu (http://www.taxiblu.com/) e Autoradiotassi\
+  \ 8585 (https://028585.taxi/).\nL'idea \xE8 di Legacoop Lombardia con il supporto\
+  \ del Comune di Milano Assessorato Politiche sociali e abitative.""
 Destinatari: Anziani
 Link: https://www.legacooplombardia.it/una-corsa-per-i-nostri-anziani-le-cooperative-di-tassisti-di-milano-per-fermare-il-coronavirus
 Natura: solidale
 Posizione: 45.464353 9.188011 0 0
+Provincia: Milano
+Regione: Lombardia
 Tipo_di_soggetto: privato
 Titolo: Taxi a Milano gratis per anziani
 </yamldata></pre>",open
@@ -792,28 +810,32 @@ Regione: Friuli Venezia Giulia
 Tipo_di_soggetto: privato
 Titolo: Negozi alimentari per spesa  a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/649,582521809,2020-03-17 10:51:30,2020-03-16 18:38:42,Ordinanza servizio per la raccolta rifiuti dei cittadini in quarantena #Toscana,43.45865,11.13892,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Regione Toscana, un'ordinanza dispone servizio per la raccolta rifiuti dei cittadini in quarantena"", ""Descrizione"": ""Regione Toscana attiva servizio dedicato per i  rifiuti che provengono da abitazioni in cui dimorino soggetti che, risultati positivi alla Covid-19, stanno effettuando la quarantena obbligatoria. Per assicurare la massima cautela nel trattamento dei materiali, a tutela della salute pubblica e degli operatori stessi, il presidente Rossi ha firmato un\u2019ordinanza della durata di tre mesi che dispone che i gestori approntino un servizio dedicato organizzato in questo modo: sar\u00e0 consegnato un  KIT per il ritiro rifiuti (sacchi, nastro adesivo e contenitore) al domicilio della persona positiva in assistenza domiciliare. \nIl gestore eseguir\u00e0 la raccolta dei rifiuti ogni 3/5 giorni. All\u2019arrivo al domicilio l\u2019operatore contatter\u00e0 telefonicamente l\u2019assistito invitandolo a esporre fuori dalla porta il contenitore con i rifiuti. Arrivato alla porta del destinatario, prelevando il contenitore pieno, l\u2019operatore depositer\u00e0 quello nuovo vuoto. (suoner\u00e0 il campanello e si allontanano prima dell\u2019apertura della porta).\nI rifiuti saranno conferiti e raccolti in maniera indifferenziata, senza adempiere agli obblighi di raccolta differenziata. \nI cittadini dovranno posizionare il contenitore con i rifiuti  in un luogo in cui gli operatori possano accedere agevolmente. I gestori manderanno questi rifiuti direttamente a incenerimento senza alcun trattamento preliminare."", ""Link"": ""https://www.toscana-notizie.it/-/covid-19-un-ordinanza-dispone-servizio-dedicato-per-la-raccolta-rifiuti"", ""Posizione"": ""43.45865 11.13892""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/649,582521809,2020-03-17 18:34:43,2020-03-16 18:38:42,Ordinanza servizio per la raccolta rifiuti dei cittadini in quarantena #Toscana,43.45865,11.13892,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Comune"": ""Poggibonsi"", ""Cosa"": ""Regione Toscana, un'ordinanza dispone servizio per la raccolta rifiuti dei cittadini in quarantena"", ""Descrizione"": ""Regione Toscana attiva servizio dedicato per i  rifiuti che provengono da abitazioni in cui dimorino soggetti che, risultati positivi alla Covid-19, stanno effettuando la quarantena obbligatoria. Per assicurare la massima cautela nel trattamento dei materiali, a tutela della salute pubblica e degli operatori stessi, il presidente Rossi ha firmato un\u2019ordinanza della durata di tre mesi che dispone che i gestori approntino un servizio dedicato organizzato in questo modo: sar\u00e0 consegnato un  KIT per il ritiro rifiuti (sacchi, nastro adesivo e contenitore) al domicilio della persona positiva in assistenza domiciliare. \nIl gestore eseguir\u00e0 la raccolta dei rifiuti ogni 3/5 giorni. All\u2019arrivo al domicilio l\u2019operatore contatter\u00e0 telefonicamente l\u2019assistito invitandolo a esporre fuori dalla porta il contenitore con i rifiuti. Arrivato alla porta del destinatario, prelevando il contenitore pieno, l\u2019operatore depositer\u00e0 quello nuovo vuoto. (suoner\u00e0 il campanello e si allontanano prima dell\u2019apertura della porta).\nI rifiuti saranno conferiti e raccolti in maniera indifferenziata, senza adempiere agli obblighi di raccolta differenziata. \nI cittadini dovranno posizionare il contenitore con i rifiuti  in un luogo in cui gli operatori possano accedere agevolmente. I gestori manderanno questi rifiuti direttamente a incenerimento senza alcun trattamento preliminare."", ""Link"": ""https://www.toscana-notizie.it/-/covid-19-un-ordinanza-dispone-servizio-dedicato-per-la-raccolta-rifiuti"", ""Posizione"": ""43.45865 11.13892"", ""Provincia"": ""Siena"", ""Regione"": ""Toscana""}","<pre><yamldata>
+Comune: Poggibonsi
 Cosa: Regione Toscana, un'ordinanza dispone servizio per la raccolta rifiuti dei cittadini
   in quarantena
 Descrizione: ""Regione Toscana attiva servizio dedicato per i  rifiuti che provengono\
   \ da abitazioni in cui dimorino soggetti che, risultati positivi alla Covid-19,\
   \ stanno effettuando la quarantena obbligatoria. Per assicurare la massima cautela\
   \ nel trattamento dei materiali, a tutela della salute pubblica e degli operatori\
-  \ stessi, il presidente Rossi ha firmato un’ordinanza della durata di tre mesi che\
-  \ dispone che i gestori approntino un servizio dedicato organizzato in questo modo:\
-  \ sarà consegnato un  KIT per il ritiro rifiuti (sacchi, nastro adesivo e contenitore)\
-  \ al domicilio della persona positiva in assistenza domiciliare. \nIl gestore eseguirà\
-  \ la raccolta dei rifiuti ogni 3/5 giorni. All’arrivo al domicilio l’operatore contatterà\
-  \ telefonicamente l’assistito invitandolo a esporre fuori dalla porta il contenitore\
-  \ con i rifiuti. Arrivato alla porta del destinatario, prelevando il contenitore\
-  \ pieno, l’operatore depositerà quello nuovo vuoto. (suonerà il campanello e si\
-  \ allontanano prima dell’apertura della porta).\nI rifiuti saranno conferiti e raccolti\
-  \ in maniera indifferenziata, senza adempiere agli obblighi di raccolta differenziata.\
-  \ \nI cittadini dovranno posizionare il contenitore con i rifiuti  in un luogo in\
-  \ cui gli operatori possano accedere agevolmente. I gestori manderanno questi rifiuti\
-  \ direttamente a incenerimento senza alcun trattamento preliminare.""
+  \ stessi, il presidente Rossi ha firmato un\u2019ordinanza della durata di tre mesi\
+  \ che dispone che i gestori approntino un servizio dedicato organizzato in questo\
+  \ modo: sar\xE0 consegnato un  KIT per il ritiro rifiuti (sacchi, nastro adesivo\
+  \ e contenitore) al domicilio della persona positiva in assistenza domiciliare.\
+  \ \nIl gestore eseguir\xE0 la raccolta dei rifiuti ogni 3/5 giorni. All\u2019arrivo\
+  \ al domicilio l\u2019operatore contatter\xE0 telefonicamente l\u2019assistito invitandolo\
+  \ a esporre fuori dalla porta il contenitore con i rifiuti. Arrivato alla porta\
+  \ del destinatario, prelevando il contenitore pieno, l\u2019operatore depositer\xE0\
+  \ quello nuovo vuoto. (suoner\xE0 il campanello e si allontanano prima dell\u2019\
+  apertura della porta).\nI rifiuti saranno conferiti e raccolti in maniera indifferenziata,\
+  \ senza adempiere agli obblighi di raccolta differenziata. \nI cittadini dovranno\
+  \ posizionare il contenitore con i rifiuti  in un luogo in cui gli operatori possano\
+  \ accedere agevolmente. I gestori manderanno questi rifiuti direttamente a incenerimento\
+  \ senza alcun trattamento preliminare.""
 Link: https://www.toscana-notizie.it/-/covid-19-un-ordinanza-dispone-servizio-dedicato-per-la-raccolta-rifiuti
 Posizione: 43.45865 11.13892
+Provincia: Siena
+Regione: Toscana
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/648,582519290,2020-03-17 00:25:53,2020-03-16 18:34:17,Regione #Toscana volontariato e grande distribuzione per spesa a domicilio per persone fragili,43.75795,11.31858,"[""Notizie"", ""accettato"", ""form""]",,,"{""Comune"": ""Bagno a Ripoli"", ""Cosa"": ""Accordo Regione Toscana, volontariato e grande distribuzione per spesa a domicilio per anziani e persone fragili"", ""Descrizione"": ""Spesa a domicilio per anziani, per le categorie a rischio, per le persone che non possono uscire dalla propria abitazione e che non possono contare sull\u2019aiuto di familiari o conoscenti per la consegna a domicilio di beni alimentari e di prima necessit\u00e0.\nE\u2019 stato approvato oggi lo schema di protocollo tra Regione, Anci e soggetti della grande distribuzione (Coop l\u2019ha gi\u00e0 sottoscritto, in procinto di sottoscriverlo anche Conad e Esselunga, e comunque il protocollo \u00e8 aperto a tutti i soggetti della GD) che permetter\u00e0 il servizio tramite il terzo settore e il volontariato. Ulteriori info al link."", ""Link"": ""https://www.toscana-notizie.it/-/coronavirus-spesa-a-domicilio-per-anziani-e-persone-fragili"", ""Posizione"": ""43.75795 11.31858"", ""Provincia"": ""Firenze"", ""Regione"": ""Toscana""}","<pre><yamldata>
 Comune: Bagno a Ripoli
