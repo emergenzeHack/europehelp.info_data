@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/719,583160796,2020-03-17 17:07:41,2020-03-17 17:00:20,Raccolta fondi per Ospedali #Policoro (MT) #Potenza #Matera #Basilicata,40.652031,15.805326,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima persona per supportare la mia terra e aiutare gli ospedali affinch\u00e9 si dotino di tutte le attrezzature necessarie per combattere l\u2019emergenza che ha colpito la nostra Nazione. Ho avviato una raccolta fondi per la Regione Basilicata da destinare agli Ospedali di Policoro, Potenza e Matera ed incrementare le postazioni di terapia intensiva. Grazie di cuore a chiunque mi dar\u00e0 un aiuto. \nSimone Zaza"", ""Link"": ""https://www.gofundme.com/f/1xaucxa3eo?utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=ccce81e5889b4c6684edf8223a1f9d2d"", ""Nome"": ""Simone Zaza"", ""Posizione"": ""40.652031 15.805326 0 0""}","<pre><yamldata>
+Descrizione: ""Emergenza CoronaVirus - Basilicata\n\nHo deciso di impegnarmi in prima\
+  \ persona per supportare la mia terra e aiutare gli ospedali affinché si dotino\
+  \ di tutte le attrezzature necessarie per combattere l’emergenza che ha colpito\
+  \ la nostra Nazione. Ho avviato una raccolta fondi per la Regione Basilicata da\
+  \ destinare agli Ospedali di Policoro, Potenza e Matera ed incrementare le postazioni\
+  \ di terapia intensiva. Grazie di cuore a chiunque mi darà un aiuto. \nSimone Zaza""
+Link: https://www.gofundme.com/f/1xaucxa3eo?utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=ccce81e5889b4c6684edf8223a1f9d2d
+Nome: Simone Zaza
+Posizione: 40.652031 15.805326 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/710,583084894,2020-03-17 15:35:03,2020-03-17 15:11:47,Trasporto dializzati e spesa a domicilio #Cesena,44.210231,12.059096,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Solidariet\u00e0 Cesenate ODV"", ""Descrizione"": ""I Volontari di Arci Solidariet\u00e0 Cesenate assicurano il servizio di trasporto a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana. Inoltre per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo il servizio di spese a domicilio"", ""Destinatari"": ""Utenti Dialisi e Anziani residenti nella periferia di Cesena"", ""Link"": ""www.arcicesena.it"", ""Natura"": ""solidale"", ""Posizione"": ""44.210231 12.059096 0 65"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Trasporto Dializzati e spese a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Arci Solidarietà Cesenate ODV
 Descrizione: I Volontari di Arci Solidarietà Cesenate assicurano il servizio di trasporto
