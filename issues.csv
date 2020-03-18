@@ -7443,13 +7443,13 @@ regione: Emilia Romagna
 tag: Raccolta fondi
 posizione: 44.4928075 11.3619239 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/75,578924911,2020-03-13 16:48:11,2020-03-10 23:49:55,Raccolta fondi Save the Planet per acquisto presidi ospedalieri,,,,,"[""Raccolte fondi"", ""accettato""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/75,578924911,2020-03-18 13:55:59,2020-03-10 23:49:55,Raccolta fondi Save the Planet per acquisto presidi ospedalieri,,,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Save The Planet Onlus"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""#iorestoacasa: acquisto di altri presidi ospedalieri utili a supportare il lavoro di tutte le strutture sanitarie in Italia."", ""destinatari"": ""Protezione Civile"", ""fonte"": ""https://iorestoacasa.com/index.html"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
 chi: Save The Planet Onlus
 comune: Italia
 contatti: ''
-descrizione: '#iorestoacasa: acquisto di altri presidi ospedalieri utili a supportare il lavoro di tutte le strutture sanitarie in Italia.’
+descrizione: '#iorestoacasa: acquisto di altri presidi ospedalieri utili a supportare il lavoro di tutte le strutture sanitarie in Italia.'
 destinatari: Protezione Civile
-fonte: https://iorestoacasa.com/index.html?fbclid=IwAR3Ig4Q3J_y-FM8YggN5RwhkxFfpwEqwDf8kkUOP8_6gJiv23kWF-fYv3GE
+fonte: https://iorestoacasa.com/index.html
 provincia: Italia
 regione: Italia
 tag: Raccolta fondi
