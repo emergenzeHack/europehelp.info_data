@@ -5978,10 +5978,10 @@ Tipo_di_soggetto: privato
 Titolo: Spesa a Domicilio
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/241,579865775,2020-03-13 22:38:21,2020-03-12 11:14:29,"Malati cronici, proroga automatica dei piani terapeutici per 90 giorni ",,,,,"[""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/241,579865775,2020-03-18 13:36:19,2020-03-12 11:14:29,"Malati cronici, proroga automatica dei piani terapeutici per 90 giorni ",44.087585,15.470509,,,"[""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Malati cronici"", ""Descrizione"": ""Per tutti i malati cronici proroga dei piani terapeutici in scadenza per altri tre mesi. Si comunica che la validit\u00e0 dei piani terapeutici (PT) web-based o cartacei gi\u00e0 sottoscritti dai medici specialisti e che risultano in scadenza nei mesi di marzo e aprile sar\u00e0 estesa di 90 giorni a partire dal momento della scadenza. Al termine del suddetto periodo di proroga, in assenza di nuove comunicazioni, il rinnovo dei PT dovr\u00e0 avvenire secondo le consuete modalit\u00e0. Nel caso il paziente presenti un peggioramento della patologia di base o un\u2019intolleranza al trattamento, l\u2019estensione di validit\u00e0 non potr\u00e0 essere automatica, ma dovr\u00e0 essere contattato lo specialista di riferimento con modalit\u00e0 che saranno definite dalle singole Regioni."", ""Link"": ""https://www.aifa.gov.it/web/guest/-/misure-transitorie-relative-alla-proroga-dei-piani-terapeutici-aifa-in-tema-di-contenimento-e-gestione-dell-emergenza-epidemiologica-da-covid-19"", ""Posizione"": ""44.087585 15.470509 0 0""}","<pre><yamldata>
 Cosa: Malati cronici
-Descrizione: Per tutti i malati cronici proroga dei piani terapeutici in scadenza per altri tre mesi. Si comunica che la validità dei piani terapeutici (PT) web-based o cartacei già sottoscritti dai medici specialisti e che risultano in scadenza nei mesi di marzo e aprile sarà estesa di 90 giorni a partire dal momento della scadenza. Al termine del suddetto periodo di proroga, in assenza di nuove comunicazioni, il rinnovo dei PT dovrà avvenire secondo le consuete modalità.
-Nel caso il paziente presenti un peggioramento della patologia di base o un’intolleranza al trattamento, l’estensione di validità non potrà essere automatica, ma dovrà essere contattato lo specialista di riferimento con modalità che saranno definite dalle singole Regioni. 
+Descrizione: 'Per tutti i malati cronici proroga dei piani terapeutici in scadenza per altri tre mesi. Si comunica che la validità dei piani terapeutici (PT) web-based o cartacei già sottoscritti dai medici specialisti e che risultano in scadenza nei mesi di marzo e aprile sarà estesa di 90 giorni a partire dal momento della scadenza. Al termine del suddetto periodo di proroga, in assenza di nuove comunicazioni, il rinnovo dei PT dovrà avvenire secondo le consuete modalità.
+Nel caso il paziente presenti un peggioramento della patologia di base o un’intolleranza al trattamento, l’estensione di validità non potrà essere automatica, ma dovrà essere contattato lo specialista di riferimento con modalità che saranno definite dalle singole Regioni.'
 Link: https://www.aifa.gov.it/web/guest/-/misure-transitorie-relative-alla-proroga-dei-piani-terapeutici-aifa-in-tema-di-contenimento-e-gestione-dell-emergenza-epidemiologica-da-covid-19
 Posizione: 44.087585 15.470509 0 0
 
@@ -6345,7 +6345,7 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: A La Spezia i volontari Arci consegnano la spesa a casa
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/185,579490392,2020-03-17 22:47:22,2020-03-11 19:20:26,Non è vero che c’è un disinfettante contro il Sars-Coronavirus dal 2009,,,,,"[""Fake News"", ""accettato"", ""da sistemare"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/185,579490392,2020-03-18 13:37:01,2020-03-11 19:20:26,Non è vero che c’è un disinfettante contro il Sars-Coronavirus dal 2009,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Non \u00e8 vero che c\u2019era un disinfettante contro il Sars-CoV2 dal 2009"", ""Descrizione"": ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 2009 con su scritto \u2018attivo contro il Coronavirus\u2019.\n\n\u00c8 normale: i coronavirus sono una famiglia generica di virus.\nQuesto non significa che qualcuno avesse gi\u00e0 previsto (o addirittura messo in commercio un prodotto contro) questo nuovo coronavirus."", ""Link"": ""https://pagellapolitica.it/""}","<pre><yamldata>
 Cosa: ""Non \xE8 vero che c\u2019era un disinfettante contro il Sars-CoV2 dal 2009""
 Descrizione: ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 2009\
   \ con su scritto \u2018attivo contro il Coronavirus\u2019.\n\n\xC8 normale: i coronavirus\
@@ -6353,7 +6353,7 @@ Descrizione: ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 
   \ gi\xE0 previsto (o addirittura messo in commercio un prodotto contro) questo nuovo\
   \ coronavirus.""
 Link: https://pagellapolitica.it/
-```",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/183,579473425,2020-03-12 22:16:01,2020-03-11 18:47:46,Elenco negozi a #Firenze che fanno consegne gratuite,,,,,"[""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""L'assessore Federico Gianassi su Twitter comunica elenco dei negozi che fanno consegne gratuite a domicilio: alimentari, gastronomia, macellerie ma anche ferramenta, negozi computer, ottiche."", ""Destinatari"": ""Tutti"", ""Link"": ""https://twitter.com/GianassiFede/status/1237800398779531266?s=19"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco negozi a Firenze che fanno consegne gratuite a domicilio""}","<pre><yamldata>
 Descrizione: ""L'assessore Federico Gianassi su Twitter comunica elenco dei negozi che fanno consegne gratuite a domicilio: alimentari, gastronomia, macellerie ma anche ferramenta, negozi computer, ottiche.""
 Destinatari: Tutti
