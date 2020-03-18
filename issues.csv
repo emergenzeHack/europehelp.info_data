@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/793,583902558,2020-03-18 18:21:39,2020-03-18 17:49:53,Associazione ASSOMENSANA offre una seduta gratuita di supporto psicologico #Monza,45.58344,9.27353,Lombardia,Monza e della Brianza,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione ASSOMENSANA"", ""Descrizione"": ""Assomensana mette a disposizione pi\u00f9 di 250 specialisti psicologi e psicoterapeuti per fornire una seduta gratuita di supporto psicologico a tutti coloro che ne faranno richiesta.\nIl supporto pu\u00f2 essere erogato anche a distanza tramite Skype, videochiamata, telefono, email e WhatsApp.\nPer contattare lo specialista pi\u00f9 vicino, visitare la pagina di Assomensana riportata di seguito."", ""Destinatari"": ""Tutti i cittadini"", ""Link"": ""https://www.assomensana.it/Servizio-di-Supporto-Psicologico-Assomensana/"", ""Natura"": ""solidale"", ""Posizione"": ""45.58344 9.27353"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto Psicologico gratuito""}","<pre><yamldata>
+Da_chi_offerta: Associazione ASSOMENSANA
+Descrizione: 'Assomensana mette a disposizione più di 250 specialisti psicologi e
+  psicoterapeuti per fornire una seduta gratuita di supporto psicologico a tutti coloro
+  che ne faranno richiesta.
+
+  Il supporto può essere erogato anche a distanza tramite Skype, videochiamata, telefono,
+  email e WhatsApp.
+
+  Per contattare lo specialista più vicino, visitare la pagina di Assomensana riportata
+  di seguito.'
+Destinatari: Tutti i cittadini
+Link: https://www.assomensana.it/Servizio-di-Supporto-Psicologico-Assomensana/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Supporto Psicologico gratuito
+Posizione: 45.58344 9.27353
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/792,583885018,2020-03-18 17:21:31,2020-03-18 17:21:05,#Feltrinelli mette online i suoi fumetti contro il Coronavirus,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Feltrinelli Comics"", ""Descrizione"": ""Feltrinelli Comics ha annunciato che da oggi pubblicher\u00e0 online gratuitamente sul proprio sito ufficiale alcuni fumetti del proprio catalogo, due a settimana. L\u2019obiettivo \u00e8 aiutare le persone che sono costrette a casa a causa dell\u2019emergenza legata alla diffusione del Coronavirus a passare il tempo con la lettura.\n\nI titoli potranno essere scaricati gratuitamente a partire dal 17 marzo, ogni marted\u00ec, sul sito di Feltrinelli e sullo store di Kobo."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.fumettologica.it/2020/03/feltrinelli-comics-coronavirus-fumetti/?fbclid=IwAR12O6uBK6ZFhLCjlSrjEYnGaGXUQBnBoyo6sN98R0P2boA_Oav_lzUxBNw"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Feltrinelli mette online i suoi fumetti contro il Coronavirus""}","<pre><yamldata>
 Da_chi_offerta: Feltrinelli Comics
 Descrizione: 'Feltrinelli Comics ha annunciato che da oggi pubblicherà online gratuitamente
@@ -1938,7 +1956,7 @@ Regione: Friuli Venezia Giulia
 Tipo_di_soggetto: pubblico
 Titolo: Emergenza coronavirus
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/639,582432514,2020-03-18 13:34:34,2020-03-16 16:25:39,NON è vero che esiste questa raccolta fondi a favore del San Raffaele di #Milano,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""NON \u00e8 vero che esiste questa raccolta fondi a favore del San Raffaele di #Milano"", ""Descrizione"": ""Si tratta di una TRUFFA gi\u00e0 denunciata dal IRCCS Ospedale San Raffaele alla polizia postale, non cascateci."", ""Indirizzo"": ""45.46679408 9.1903474"", ""Link"": ""https://www.facebook.com/robertoburioniMD/photos/a.2045888082303031/3271946743030486/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/639,582432514,2020-03-18 17:48:37,2020-03-16 16:25:39,NON è vero che esiste questa raccolta fondi a favore del San Raffaele di #Milano,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""NON \u00e8 vero che esiste questa raccolta fondi a favore del San Raffaele di #Milano"", ""Descrizione"": ""Si tratta di una TRUFFA gi\u00e0 denunciata dal IRCCS Ospedale San Raffaele alla polizia postale, non cascateci."", ""Indirizzo"": ""45.46679408 9.1903474"", ""Link"": ""https://www.facebook.com/robertoburioniMD/photos/a.2045888082303031/3271946743030486/""}","<pre><yamldata>
 Cosa: 'NON è vero che esiste questa raccolta fondi a favore del San Raffaele di #Milano'
 Descrizione: Si tratta di una TRUFFA già denunciata dal IRCCS Ospedale San Raffaele
   alla polizia postale, non cascateci.
