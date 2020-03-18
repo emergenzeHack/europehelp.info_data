@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/749,583609552,2020-03-18 10:46:40,2020-03-18 10:00:39,Raccolta Fondi per Azienda Ospedaliera #Perugia,43.095248,12.327368,Umbria,Perugia,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""UNCRITM1J07"", ""CC_Postale"": ""13399068"", ""Causale"": ""Emergenza COVID-19"", ""Descrizione"": ""Donazioni somme di denaro per emergenza COVID-19 a favore dell'Azienda Ospedaliera di Perugia.\n\nIl donatore pu\u00f2 essere un singolo cittadino o il legale rappresentante di un ente (ditta, associazione...).\n\nLe proposte di donazioni saranno coordinate dall'Azienda che individuer\u00e0 gli interventi prioritari sui quali indirizzare le risorse donate assicurando la massima trasparenza nelle procedure di assegnazione."", ""Email"": ""segreteria.unificata@ospedale.perugia.it"", ""IBAN"": ""IT66A0200803039000029439599"", ""Intestazione"": ""Azienda Ospedaliera di Perugia"", ""Link"": ""https://www.ospedale.perugia.it/pagine/donazioni-emergenza-covid-19"", ""Nome"": ""Azienda Ospedaliera di Perugia"", ""Posizione"": ""43.095248 12.327368 0 0""}","<pre><yamldata>
+BIC_SWIFT: UNCRITM1J07
+CC_Postale: '13399068'
+Causale: Emergenza COVID-19
+Descrizione: 'Donazioni somme di denaro per emergenza COVID-19 a favore dell''Azienda
+  Ospedaliera di Perugia.
+
+
+  Il donatore può essere un singolo cittadino o il legale rappresentante di un ente
+  (ditta, associazione...).
+
+
+  Le proposte di donazioni saranno coordinate dall''Azienda che individuerà gli interventi
+  prioritari sui quali indirizzare le risorse donate assicurando la massima trasparenza
+  nelle procedure di assegnazione.'
+Email: segreteria.unificata@ospedale.perugia.it
+IBAN: IT66A0200803039000029439599
+Intestazione: Azienda Ospedaliera di Perugia
+Link: https://www.ospedale.perugia.it/pagine/donazioni-emergenza-covid-19
+Nome: Azienda Ospedaliera di Perugia
+Posizione: 43.095248 12.327368 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/748,583598178,2020-03-18 10:43:02,2020-03-18 09:42:30,Comune di #Cividade del Friuli - Distribuzione di generi di prima necessità,46.092875,13.431116,Friuli Venezia Giulia,Udine,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Cividale del Friuli"", ""Descrizione"": ""Soggetti deboli in situazione di solitudine e agli anziani oltre i 70 anni privi di rete familiare e sociale.\n\nIl Comune di Cividale del Friuli comunica che \u00e8 stato attivato il numero telefonico 0432 710241, funzionante dalle ore 9.00 alle ore 12.00 dal luned\u00ec al venerd\u00ec, per raccogliere le richieste di distribuzione di generi di prima necessit\u00e0 a Cividale del Friuli.\n\nLe consegne saranno effettuate dai Volontari della Protezione Civile."", ""Destinatari"": ""soggetti deboli, anziani oltre 70"", ""Link"": ""http://www.comune.cividale-del-friuli.ud.it/index.php?id=512&tx_news_pi1%5Bnews%5D=1764&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=8f6ae4994e24f67bc2b4529daa4c297a"", ""Natura"": ""solidale"", ""Posizione"": ""46.092875 13.431116 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Distribuzione di generi di prima necessit\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Comune di Cividale del Friuli
 Descrizione: 'Soggetti deboli in situazione di solitudine e agli anziani oltre i 70
