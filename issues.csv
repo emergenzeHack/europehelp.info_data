@@ -3163,6 +3163,18 @@ Regione: Calabria
 Tipo_di_soggetto: pubblico
 Titolo: 'Consegne e commissioni gratuite Comune di Corigliano-Rossano #Cosenza'
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/538,581628474,2020-03-18 15:26:46,2020-03-15 11:12:12,Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza,39.592726,16.633907,Calabria,Cosenza,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Corigliano-Rossano"", ""Da_chi_offerta"": ""Comune di Corigliano-Rossano (CS)"", ""Descrizione"": ""Da luned\u00ec 16 via a sportello supporto psicologico telefonico. Dal luned\u00ec al venerd\u00ec dalle ore 10 alle ore 18. Numero amico: 0983356482"", ""Destinatari"": ""Cittadine e cittadini del Comune di Corigliano-Rossano"", ""Natura"": ""solidale"", ""Posizione"": ""39.592726 16.633907 0 0"", ""Provincia"": ""Cosenza"", ""Regione"": ""Calabria"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza""}","<pre><yamldata>
+Comune: Corigliano-Rossano
+Da_chi_offerta: Comune di Corigliano-Rossano (CS)
+Descrizione: ""Da lunedì 16 via a sportello supporto psicologico telefonico. Dal lunedì al venerdì dalle ore 10 alle ore 18. Numero amico: 0983356482""
+Destinatari: Cittadine e cittadini del Comune di Corigliano-Rossano
+Natura: solidale
+Posizione: 39.592726 16.633907 0 0
+Provincia: Cosenza
+Regione: Calabria
+Tipo_di_soggetto: pubblico
+Titolo: 'Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/537,581619749,2020-03-16 23:09:35,2020-03-15 10:45:56,Raccolta fondi Azienda Ospedaliera dei Colli - Ospedale Cotugno #Napoli,40.869862,14.214013,Campania,Napoli,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Napoli"", ""Descrizione"": ""Diamo una mano al Cotugno di Napoli - Covid19"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-per-il-cotugno-di-napolicovid19?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Federica De Masi"", ""Posizione"": ""40.869862 14.214013 0 0"", ""Provincia"": ""Napoli"", ""Regione"": ""Campania""}","<pre><yamldata>
 Comune: Napoli
 Descrizione: Diamo una mano al Cotugno di Napoli - Covid19
