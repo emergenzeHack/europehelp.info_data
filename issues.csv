@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/795,583939738,2020-03-18 20:58:20,2020-03-18 18:59:38,"Centri di accoglienza per senza dimora aperti h24, Municipio I #Roma",41.891483,12.498914,Lazio,Roma,"[""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio I Roma"", ""Descrizione"": ""I centri di accoglienza per senza dimora del Primo Municipio di via Guicciardini (S. Anna) e Via Sabotino sono aperti h24 garantendo cos\u00ec agli ospiti la possibilit\u00e0 di non dover uscire.\n\n#nessunoescluso"", ""Destinatari"": ""Senza dimora"", ""Link"": ""https://m.facebook.com/story.php?story_fbid=10221525094890320&id=1040236835"", ""Natura"": ""solidale"", ""Posizione"": ""41.891483 12.498914 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Centri di accoglienza per senza dimora aperti anche di giorno #Roma""}","<pre><yamldata>
+Da_chi_offerta: Municipio I Roma
+Descrizione: 'I centri di accoglienza per senza dimora del Primo Municipio di via
+  Guicciardini (S. Anna) e Via Sabotino sono aperti h24 garantendo così agli ospiti
+  la possibilità di non dover uscire.
+
+
+  #nessunoescluso'
+Destinatari: Senza dimora
+Link: https://m.facebook.com/story.php?story_fbid=10221525094890320&id=1040236835
+Natura: solidale
+Posizione: 41.891483 12.498914 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Centri di accoglienza per senza dimora aperti anche di giorno #Roma'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/793,583902558,2020-03-18 18:21:39,2020-03-18 17:49:53,Associazione ASSOMENSANA offre una seduta gratuita di supporto psicologico #Monza,45.58344,9.27353,Lombardia,Monza e della Brianza,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione ASSOMENSANA"", ""Descrizione"": ""Assomensana mette a disposizione pi\u00f9 di 250 specialisti psicologi e psicoterapeuti per fornire una seduta gratuita di supporto psicologico a tutti coloro che ne faranno richiesta.\nIl supporto pu\u00f2 essere erogato anche a distanza tramite Skype, videochiamata, telefono, email e WhatsApp.\nPer contattare lo specialista pi\u00f9 vicino, visitare la pagina di Assomensana riportata di seguito."", ""Destinatari"": ""Tutti i cittadini"", ""Link"": ""https://www.assomensana.it/Servizio-di-Supporto-Psicologico-Assomensana/"", ""Natura"": ""solidale"", ""Posizione"": ""45.58344 9.27353"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto Psicologico gratuito""}","<pre><yamldata>
 Da_chi_offerta: Associazione ASSOMENSANA
 Descrizione: 'Assomensana mette a disposizione più di 250 specialisti psicologi e
@@ -159,7 +174,7 @@ Link: https://www.arcacoop.com/stopcovid19-campagna-multilingue/
 Telefono: '3403310558'
 Posizione: 44.55215 11.44363
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/778,583781177,2020-03-18 16:57:28,2020-03-18 14:46:13,Raccolta fondi #GSE per l'INMI Lazzaro #Spallanzani #Roma,41.89332,12.48293,Lazio,Roma,"[""Notizie"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gestore Servizi Energetici"", ""Descrizione"": ""In questo momento, per essere ancora pi\u00f9 vicini e utili al nostro Paese e alle persone, soprattutto quelle in prima linea, noi del"", ""Destinatari"": ""INMI Lazzaro Spallanzani"", ""Link"": ""https://www.gse.it/iodonounora"", ""Natura"": ""solidale"", ""Posizione"": ""41.89332 12.48293"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""IO DONO! Un aiuto concreto all'INMI Lazzaro Spallanzani""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/778,583781177,2020-03-18 20:58:02,2020-03-18 14:46:13,Gestore Servizi Energetici dona ore lavoro all'INMI Lazzaro #Spallanzani #Roma,41.89332,12.48293,Lazio,Roma,"[""Notizie"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gestore Servizi Energetici"", ""Descrizione"": ""In questo momento, per essere ancora pi\u00f9 vicini e utili al nostro Paese e alle persone, soprattutto quelle in prima linea, noi del"", ""Destinatari"": ""INMI Lazzaro Spallanzani"", ""Link"": ""https://www.gse.it/iodonounora"", ""Natura"": ""solidale"", ""Posizione"": ""41.89332 12.48293"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""IO DONO! Un aiuto concreto all'INMI Lazzaro Spallanzani""}","<pre><yamldata>
 Da_chi_offerta: Gestore Servizi Energetici
 Descrizione: In questo momento, per essere ancora più vicini e utili al nostro Paese e alle persone, soprattutto quelle in prima linea, noi del #GSE abbiamo deciso di donare un'ora del nostro tempo all'ospedale Spallanzani. Se puoi, fallo anche tu.
 Destinatari: INMI Lazzaro Spallanzani
