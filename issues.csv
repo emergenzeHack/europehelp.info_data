@@ -23,6 +23,26 @@ Posizione: 48.458352 -349.453125 0 0
 Tipo_di_soggetto: privato
 Titolo: INSIEME ANDRA' TUTTO BENE
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/738,583374976,2020-03-18 10:02:39,2020-03-18 00:09:46,Ordinanza #Regione Toscana: fino al 3 aprile chiusi centri diurni per anziani e disabili,,,,,"[""Fonti istituzionali"", ""Informazioni utili"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ordinanza Regione Toscana: fino al 3 aprile chiusi centri diurni per anziani e disabili"", ""Descrizione"": ""Nuova ordinanza della Regione Toscana (numero 12) con ulteriori misure per prevenire e contenere la diffusione dell\u2019epidemia da Covid-19. Due le azioni disposte con il provvedimento: la chiusura temporanea, fino al 3 aprile 2020, delle strutture semiresidenziali per anziani e disabili, i cosiddetti centri diurni, e l\u2019istituzione di una commissione di esperti per definire le linee guida di indirizzo per i percorsi di cura destinati ai pazienti affetti da Covid-19."", ""Fonte"": ""Regione Toscana"", ""Link"": ""https://www.toscana-notizie.it/web/toscana-notizie/-/coronavirus-il-presidente-rossi-firma-l-ordinanza-n.12-su-centri-diurni-e-linee-guida-sui-percorsi-diagnostici""}","<pre><yamldata>
+Cosa: 'Ordinanza Regione Toscana: fino al 3 aprile chiusi centri diurni per anziani
+  e disabili'
+Descrizione: 'Nuova ordinanza della Regione Toscana (numero 12) con ulteriori misure
+  per prevenire e contenere la diffusione dell’epidemia da Covid-19. Due le azioni
+  disposte con il provvedimento: la chiusura temporanea, fino al 3 aprile 2020, delle
+  strutture semiresidenziali per anziani e disabili, i cosiddetti centri diurni, e
+  l’istituzione di una commissione di esperti per definire le linee guida di indirizzo
+  per i percorsi di cura destinati ai pazienti affetti da Covid-19.'
+Fonte: Regione Toscana
+Link: https://www.toscana-notizie.it/web/toscana-notizie/-/coronavirus-il-presidente-rossi-firma-l-ordinanza-n.12-su-centri-diurni-e-linee-guida-sui-percorsi-diagnostici
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/737,583373232,2020-03-18 09:53:52,2020-03-18 00:04:39,"Amazon, fino al 5 aprile solo forniture essenziali #Italia",,,,,"[""Informazioni utili"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""Amazon, fino al 5 aprile nei magazzini solo forniture essenziali"", ""Descrizione"": ""Il colosso dell'ecommerce continuer\u00e0 a vendere tutto, ma fino al 5 aprile dar\u00e0 la precedenza nel rifornire i propri magazzini ad alcuni prodotti di particolare utilit\u00e0 in questo momento, articoli sanitari o per la pulizia. Garantiti anche i libri."", ""Link"": ""https://www.repubblica.it/economia/2020/03/17/news/amazon_fino_al_5_aprile_nei_magazzini_solo_beni_essenziali-251565135/?ref=tgpr""}","<pre><yamldata>
+Cosa: Amazon, fino al 5 aprile nei magazzini solo forniture essenziali
+Descrizione: Il colosso dell'ecommerce continuerà a vendere tutto, ma fino al 5 aprile
+  darà la precedenza nel rifornire i propri magazzini ad alcuni prodotti di particolare
+  utilità in questo momento, articoli sanitari o per la pulizia. Garantiti anche i
+  libri.
+Link: https://www.repubblica.it/economia/2020/03/17/news/amazon_fino_al_5_aprile_nei_magazzini_solo_beni_essenziali-251565135/?ref=tgpr
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/735,583360039,2020-03-18 01:25:13,2020-03-17 23:26:54,ITIS #Trieste ha bisogno di mascherine e guanti monouso,,,,,"[""Posizione mancante"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mascherine e guanti monouso"", ""Descrizione"": ""\""Stiamo finendo il materiale sanitario\"", l'Itis chiede un aiuto ai triestini \""Stiamo finendo mascherine, guanti e camici\"", Itis chiede un aiuto ai triestini\u201c"", ""Destinatari"": ""ITIS Trieste"", ""Link"": ""http://www.triesteprima.it/cronaca/coronavirus-itis-chiede-ai-cittadini.html""}","<pre><yamldata>
 Cosa: Mascherine e guanti monouso
 Descrizione: '""Stiamo finendo il materiale sanitario"", l''Itis chiede un aiuto ai
@@ -440,15 +460,15 @@ Regione: Veneto
 Tipo_di_soggetto: pubblico
 Titolo: Assistenza psicologica telefonica emergenza Coronavirus
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/700,583020650,2020-03-17 17:34:40,2020-03-17 13:40:02,Raaccolta fondi Ospedale Uboldo #Cernuscosulnaviglio (MI),,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/700,583020650,2020-03-18 10:02:17,2020-03-17 13:40:02,Raaccolta fondi Ospedale Uboldo #Cernuscosulnaviglio (MI),45.52456,9.33093,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""ICRAITRRCLO"", ""CC_Postale"": ""IT 19 E 07601 01600 000038998209"", ""Causale"": ""TERAPIA INTENSIVA CERNUSCO"", ""Descrizione"": ""La raccolta \u00e8 promossa da tutto il team della terapia intensiva dell'ospedale Uboldo di Cernusco sul Naviglio, rappresentato dal direttore dell'unit\u00e0 operativa dott. Massimo Zambon e dal coordinatore infermieristico Franco Cipriani.\nI fondi raccolti saranno utilizzati per l'acquisto urgente di attrezzature e dispositivi utili a migliorare le cure dei pazienti ricoverati in terapia intensiva, quali ventilatori, monitor,  un ecografo dedicato, macchine per CPAP, letti articolati, etc.\nIl Centro Gianni Mori Onlus, da sempre presente sul territorio ed attivo per donazioni all'ospedale di Cernusco, ci sta aiutando a gestire la raccolta fondi e si incarica della finalizzazione degli acquisti e delle pratiche per la donazione."", ""Email"": ""centrodrgm@gmail.com"", ""IBAN"": ""IT 78 W 08453 33590 000000002458"", ""Intestazione"": ""Centro Studi e Ricerche Mediche Dr. Gianni Mori - onlus"", ""Link"": ""http://cgm.sitonline.it/1/emergenza_coronavirus_4513867.html"", ""Nome"": ""Reparto di terapia intensiva Ospedale Uboldo - Cernusco s/Nav. (MI)"", ""Posizione"": ""45.52456 9.33093 0 0""}","<pre><yamldata>
 BIC_SWIFT: ICRAITRRCLO
 CC_Postale: IT 19 E 07601 01600 000038998209
 Causale: TERAPIA INTENSIVA CERNUSCO
-Descrizione: La raccolta è promossa da tutto il team della terapia intensiva dell'ospedale Uboldo di Cernusco sul Naviglio, rappresentato dal direttore dell'unità operativa dott. Massimo Zambon e dal coordinatore infermieristico Franco Cipriani.
+Descrizione: ""La raccolta è promossa da tutto il team della terapia intensiva dell'ospedale Uboldo di Cernusco sul Naviglio, rappresentato dal direttore dell'unità operativa dott. Massimo Zambon e dal coordinatore infermieristico Franco Cipriani.
 
 I fondi raccolti saranno utilizzati per l'acquisto urgente di attrezzature e dispositivi utili a migliorare le cure dei pazienti ricoverati in terapia intensiva, quali ventilatori, monitor,  un ecografo dedicato, macchine per CPAP, letti articolati, etc.
 
-Il Centro Gianni Mori Onlus, da sempre presente sul territorio ed attivo per donazioni all'ospedale di Cernusco, ci sta aiutando a gestire la raccolta fondi e si incarica della finalizzazione degli acquisti e delle pratiche per la donazione.
+Il Centro Gianni Mori Onlus, da sempre presente sul territorio ed attivo per donazioni all'ospedale di Cernusco, ci sta aiutando a gestire la raccolta fondi e si incarica della finalizzazione degli acquisti e delle pratiche per la donazione.""
 Email: centrodrgm@gmail.com
 IBAN: IT 78 W 08453 33590 000000002458
 Intestazione: Centro Studi e Ricerche Mediche Dr. Gianni Mori - onlus
