@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/788,583866885,2020-03-18 16:51:17,2020-03-18 16:50:44,#Treviso il dormitorio pubblico di via Pasubio resta aperto tutto il giorno,45.665861,12.243839,Veneto,Treviso,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Treviso il dormitorio pubblico di via Pasubio resta aperto anche tutto il giorno"", ""Descrizione"": ""La campagna #restateacasa, a Treviso, non dimentica nessuno. Da sabato infatti il dormitorio pubblico di via Pasubio resta aperto anche tutto il giorno per accogliere fino a 40 senzatetto evitando restino in strada, all\u2019aperto, e possano viver cos\u00ec pi\u00f9 al sicuro da possibili contagi."", ""Link"": ""https://tribunatreviso.gelocal.it/treviso/cronaca/2020/03/16/news/ora-il-dormitorio-di-treviso-e-aperto-tutto-il-giorno-cosi-anche-i-senzatetto-restano-a-casa-1.38600139?fbclid=IwAR15XyeY5NWWO8hC1uQTQwCuNRJtbiML9vrSatoD_NIdD0ip6P6ThU1RtzQ"", ""Posizione"": ""45.665861 12.243839 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/788,583866885,2020-03-18 16:55:04,2020-03-18 16:50:44,#Treviso il dormitorio pubblico di via Pasubio resta aperto tutto il giorno,45.665861,12.243839,Veneto,Treviso,"[""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Treviso il dormitorio pubblico di via Pasubio resta aperto anche tutto il giorno"", ""Descrizione"": ""La campagna #restateacasa, a Treviso, non dimentica nessuno. Da sabato infatti il dormitorio pubblico di via Pasubio resta aperto anche tutto il giorno per accogliere fino a 40 senzatetto evitando restino in strada, all\u2019aperto, e possano viver cos\u00ec pi\u00f9 al sicuro da possibili contagi."", ""Link"": ""https://tribunatreviso.gelocal.it/treviso/cronaca/2020/03/16/news/ora-il-dormitorio-di-treviso-e-aperto-tutto-il-giorno-cosi-anche-i-senzatetto-restano-a-casa-1.38600139?fbclid=IwAR15XyeY5NWWO8hC1uQTQwCuNRJtbiML9vrSatoD_NIdD0ip6P6ThU1RtzQ"", ""Posizione"": ""45.665861 12.243839 0 0""}","<pre><yamldata>
 Cosa: '#Treviso il dormitorio pubblico di via Pasubio resta aperto anche tutto il
   giorno'
 Descrizione: 'La campagna #restateacasa, a Treviso, non dimentica nessuno. Da sabato
@@ -57,6 +57,32 @@ Descrizione: 'L’azienda Ospedaliera di Alta Specializzazione Civico Benfratell
 Destinatari: Biologi e biologhe
 Indirizzo: 38.1109 13.352814 0 0
 Link: https://www.onb.it/2020/03/18/la-o-civico-benfratelli-di-palermo-seleziona-con-urgenza-un-biologo/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/779,583789361,2020-03-18 16:56:44,2020-03-18 14:57:33, #Stopcovid19: campagna video di prevenzione in 12 lingue,44.55215,11.44363,Emilia-Romagna,Bologna,"[""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Campagna video di prevenzione in 12 lingue"", ""Descrizione"": ""La campagna #Stopcovid19 vuole, attraverso videoselfie, rendere pi\u00f9 accessibili le regole di comportamento diffuse dall\u2019Istituto Superiore della Sanit\u00e0, il Ministero della Salute, le Regioni, gli Ordini professionali e le Societ\u00e0 scientifiche. Arca di No\u00e8 ha realizzato i video coinvolgendo i suoi lavoratori mediatori linguistici e culturali. La cooperativa dal 2008 offre servizi professionali di accoglienza richiedenti asilo e rifugiati per favorire l\u2019autonomia e l\u2019inserimento socio-lavorativo delle persone migranti accolte."", ""Destinatari"": ""I migranti accolti e le comunit\u00e0 straniere che vivono in Italia/Europa."", ""Email"": ""comunicazione@arcacoop.com"", ""Immagine"": ""Anteprima-campagna-stopcovid19-768x512-15_57_25.jpg"", ""Link"": ""https://www.arcacoop.com/stopcovid19-campagna-multilingue/"", ""Posizione"": ""44.55215 11.44363"", ""Telefono"": ""3403310558""}","<pre><yamldata>
+Cosa: Campagna video di prevenzione in 12 lingue
+Descrizione: 'La campagna #Stopcovid19 vuole, attraverso videoselfie, rendere più
+  accessibili le regole di comportamento diffuse dall’Istituto Superiore della Sanità,
+  il Ministero della Salute, le Regioni, gli Ordini professionali e le Società scientifiche.
+  Arca di Noè ha realizzato i video coinvolgendo i suoi lavoratori mediatori linguistici
+  e culturali. La cooperativa dal 2008 offre servizi professionali di accoglienza
+  richiedenti asilo e rifugiati per favorire l’autonomia e l’inserimento socio-lavorativo
+  delle persone migranti accolte.'
+Destinatari: I migranti accolti e le comunità straniere che vivono in Italia/Europa.
+Email: comunicazione@arcacoop.com
+Immagine: Anteprima-campagna-stopcovid19-768x512-15_57_25.jpg
+Link: https://www.arcacoop.com/stopcovid19-campagna-multilingue/
+Telefono: '3403310558'
+Posizione: 44.55215 11.44363
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/778,583781177,2020-03-18 16:57:28,2020-03-18 14:46:13,Raccolta fondi #GSE per l'INMI Lazzaro #Spallanzani #Roma,41.89332,12.48293,Lazio,Roma,"[""Notizie"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gestore Servizi Energetici"", ""Descrizione"": ""In questo momento, per essere ancora pi\u00f9 vicini e utili al nostro Paese e alle persone, soprattutto quelle in prima linea, noi del"", ""Destinatari"": ""INMI Lazzaro Spallanzani"", ""Link"": ""https://www.gse.it/iodonounora"", ""Natura"": ""solidale"", ""Posizione"": ""41.89332 12.48293"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""IO DONO! Un aiuto concreto all'INMI Lazzaro Spallanzani""}","<pre><yamldata>
+Da_chi_offerta: Gestore Servizi Energetici
+Descrizione: In questo momento, per essere ancora più vicini e utili al nostro Paese e alle persone, soprattutto quelle in prima linea, noi del #GSE abbiamo deciso di donare un'ora del nostro tempo all'ospedale Spallanzani. Se puoi, fallo anche tu.
+Destinatari: INMI Lazzaro Spallanzani
+Link: https://www.gse.it/iodonounora
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: IO DONO! Un aiuto concreto all'INMI Lazzaro Spallanzani
+Posizione: 41.89332 12.48293
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/777,583775442,2020-03-18 16:44:04,2020-03-18 14:38:03,"Radio Barrio, una radio condivisa - #iorestoacasa",39.0749166,17.1148806,Calabria,Crotone,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Il Barrio"", ""Descrizione"": ""Tutti i programmi di Radio Barrio saranno registrati o in diretta, con regista e conduttori in collegamento da casa.\n\nInoltre \u00e8 attiva una fascia giornaliera nel palinsesto dedicato a tutti quelli che rimangono a casa o che sono in quarantena.\nCondivisione e partecipazione alle nostre attivit\u00e0. Come? Semplicemente inviandoci dei vocali attraverso il numero di telefono 3273721595 (quindi su whatsapp o telegram) in cui chiunque vuole pu\u00f2 leggere un brano di un libro, una poesia, cantare una canzone o raccontarci una storia o anche una barzelletta."", ""Destinatari"": ""tutti"", ""Link"": ""https://www.radiobarrio.it/news/iorestoacasa/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""39.0749166 17.1148806 0 0"", ""Titolo"": ""Radio Barrio, una radio condivisa - #iorestoacasa""}","<pre><yamldata>
 Da_chi_offerta: Associazione Il Barrio
