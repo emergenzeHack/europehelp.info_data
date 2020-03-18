@@ -6578,7 +6578,8 @@ Regione: Sicilia
 Tipo_di_soggetto: privato
 Titolo: Sostegno psicologico telefonico
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-16 23:40:58,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,,,"[""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""da sistemare""]",,,{},"chi: 'Comune di Adelfia'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-18 13:52:15,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,,,"[""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Adelfia"", ""comune"": ""Adelfia"", ""contatti"": ""3448609617"", ""descrizione"": ""Il Comune di Adelfia ha rafforzato il servizio di Taxi sociale per anziani per over 65 in situazioni di fragilit\u00e0 senza reti familiari per approvvigionamento beni prima necessit\u00e0"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.adelfia.gov.it/2020/03/10/avviso-servizio-taxi-per-lanziano/"", ""provincia"": ""Bari"", ""regione"": ""Puglia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>
+chi: 'Comune di Adelfia'
 comune: Adelfia
 contatti: '3448609617'
 descrizione: ""Il Comune di Adelfia ha rafforzato il servizio di Taxi sociale per anziani per over 65 in situazioni di fragilità senza reti familiari per approvvigionamento beni prima necessità""
@@ -6586,7 +6587,8 @@ destinatari: Over 65
 fonte: 'https://www.comune.adelfia.gov.it/2020/03/10/avviso-servizio-taxi-per-lanziano/'
 provincia: Bari
 regione: Puglia
-tag: Servizi e iniziative solidali pubbliche",open
+tag: Servizi e iniziative solidali pubbliche
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/149,579179471,2020-03-12 07:53:16,2020-03-11 11:01:28,Spesa a domicilio #SanLeo (RN),,,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Spesa a domicilio generi di prima necessit\u00e0"", ""Email"": ""coopfermentileontine@gmail.com"", ""Link"": ""http://www.guidasanleo.it/spesaadomicilio/?fbclid=IwAR3RVDFOB7ECFHTuSmSbyK1aBxM1vaPvaUkWi0-IN9KISwVVONuETaJwEUY"", ""Telefono"": ""333 6918097""}","<pre><yamldata>
 Cosa: ""Spesa a domicilio generi di prima necessit\xE0""
 Email: coopfermentileontine@gmail.com
