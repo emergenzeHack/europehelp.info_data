@@ -7,8 +7,8 @@
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala/
-- name: INIZIATIVE SOLIDALI
-  logo-alt: Elenco delle iniziative solidali.
+- name: TUTTE LE SEGNALAZIONI
+  logo-alt: Elenco delle segnalazioni ricevute
   logo: /img/icone/tci-solidali.png
   map: false
   link: issues/
