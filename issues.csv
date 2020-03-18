@@ -6611,12 +6611,12 @@ Posizione: 43.7148603 13.217754 0 0
 Provincia: Ancona
 Regione: Marche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-15 23:26:02,2020-03-11 09:16:45,Accesso gratuito catalogo film in streaming di Cineteca di #Milano,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-18 13:54:00,2020-03-11 09:16:45,Accesso gratuito catalogo film in streaming di Cineteca di #Milano,,,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Cosa"": ""Catalogo di film in streaming gratuiti"", ""Descrizione"": ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming dei film. \u00c8 sufficiente registrarsi."", ""Link"": ""https://www.cinetecamilano.it/biblioteca""}","<pre><yamldata>
 Cosa: Catalogo di film in streaming gratuiti
 Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming\
   \ dei film. \xC8 sufficiente registrarsi.""
 Link: https://www.cinetecamilano.it/biblioteca
-```",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-16 23:12:43,2020-03-10 23:53:54,Raccolta fondi per aiutare ospedali a #Bologna,44.4936714,11.3430347,Emilia-Romagna,Bologna,"[""Raccolte fondi"", ""accettato""]",,,"{""Comune"": ""Bologna"", ""Posizione"": ""44.4936714 11.3430347 0 0"", ""Provincia"": ""Bologna"", ""Regione"": ""Emilia-Romagna"", ""chi"": ""Fondazione Policlinico Santa Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali di Bologna."", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
 Comune: Bologna
 Posizione: 44.4936714 11.3430347 0 0
@@ -7094,11 +7094,11 @@ provincia: Milano
 regione: 'Lombardia '
 tag: Sostegno al lavoro
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/99,578925841,2020-03-15 23:23:59,2020-03-10 23:53:03,Streaming di comunità,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare""]",,,{},"<pre><yamldata>chi: Smk Videofactory
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/99,578925841,2020-03-18 13:54:49,2020-03-10 23:53:03,Streaming di comunità,,,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Smk Videofactory"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Streaming di comunit\u00e0: Una lunga programmazione di video, film e documentari per ribadire il valore della cultura dal basso e della sua diffusione. Senza dover pagare per forza."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.openddb.it/streaming-di-comunita/"", ""provincia"": """", ""regione"": """", ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: Smk Videofactory
 comune: ''
 contatti: ''
 descrizione: ""Streaming di comunità: Una lunga programmazione di video, film e documentari per ribadire il valore della cultura dal basso e della sua diffusione. Senza dover pagare per forza.""
-destinatari: 'tutti’
+destinatari: 'tutti'
 fonte: https://www.openddb.it/streaming-di-comunita/
 provincia: ''
 regione: ''
@@ -7153,10 +7153,10 @@ provincia: Bologna
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-15 23:25:57,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-18 13:55:22,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",38.1186079,13.3558637,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Posizione"": ""38.1186079 13.3558637 0 0"", ""chi"": ""Teatro Massimo di Palermo"", ""comune"": ""Palermo"", ""contatti"": null, ""descrizione"": ""Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro."", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html? fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg"", ""provincia"": ""Pa"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Teatro Massimo di Palermo
 comune: Palermo
 contatti:
-descrizione: Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro.
+descrizione: 'Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro.'
 destinatari: Tutti
 fonte: 'http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html? fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg'
 provincia: Pa
