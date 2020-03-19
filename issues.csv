@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/841,584365945,2020-03-19 12:32:28,2020-03-19 12:07:55,Raccolta fondi per l'ASST di #Monza,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""EMERGENZA CORONAVIRUS  seguito da nome, cognome e codice fiscale del benefattore e da un contatto mail o telefonico"", ""Descrizione"": ""\\\""la ASST Monza avvia una raccolta fondi destinata alle necessit\u00e0 dell\u2019emergenza.\\n\\ \\n \\n\\nChiunque potr\u00e0 donare quello che pu\u00f2 sul conto corrente della ASST\\n\\nbeneficiario\\ \\ ASST Monza\\n\\nIBAN IT49L0306920407100000046081\\n\\nBIC_SWIFT BCITITMM\\n\\nIntesa\\ \\ San Paolo S.p.A.\\n\\nPiazza Trento Trieste 10, Monza (MB)\\n\\n \\n\\nSpecificando\\ \\ nella causale EMERGENZA CORONAVIRUS\\n\\nseguito da nome, cognome e codice fiscale\\ \\ del benefattore e da un contatto mail o telefonico.\\n\\n \\n\\nPoich\u00e9 pervengono\\ \\ numerose segnalazioni che sui social stanno proliferando raccolte fondi per ASST\\ \\ Monza per fronteggiare l\u2019emergenza sanitaria, desideriamo informare i cittadini\\ \\ che il canale istituzionale \u00e8 solo quello sopraindicato.\""\\"", ""IBAN"": ""IT49L0306920407100000046081"", ""Indirizzo"": ""45.6494354 13.7681366 0 0"", ""Intestazione"": ""ASST Monza"", ""Link"": ""https://www.asst-monza.it/web/guest/donazioni-coronavirus"", ""Nome"": ""ASST MONZA""}","<pre><yamldata>
+Causale: EMERGENZA CORONAVIRUS  seguito da nome, cognome e codice fiscale del benefattore
+  e da un contatto mail o telefonico
+Descrizione: \""la ASST Monza avvia una raccolta fondi destinata alle necessità dell’emergenza.\n\
+  \n \n\nChiunque potrà donare quello che può sul conto corrente della ASST\n\nbeneficiario\
+  \ ASST Monza\n\nIBAN IT49L0306920407100000046081\n\nBIC_SWIFT BCITITMM\n\nIntesa\
+  \ San Paolo S.p.A.\n\nPiazza Trento Trieste 10, Monza (MB)\n\n \n\nSpecificando\
+  \ nella causale EMERGENZA CORONAVIRUS\n\nseguito da nome, cognome e codice fiscale\
+  \ del benefattore e da un contatto mail o telefonico.\n\n \n\nPoiché pervengono\
+  \ numerose segnalazioni che sui social stanno proliferando raccolte fondi per ASST\
+  \ Monza per fronteggiare l’emergenza sanitaria, desideriamo informare i cittadini\
+  \ che il canale istituzionale è solo quello sopraindicato.""\
+IBAN: IT49L0306920407100000046081
+Indirizzo: 45.6494354 13.7681366 0 0
+Intestazione: ASST Monza
+Link: https://www.asst-monza.it/web/guest/donazioni-coronavirus
+Nome: ASST MONZA
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/840,584360315,2020-03-19 12:27:37,2020-03-19 11:57:23,Raccolta Donazioni Azienda Tutela Salute #Sardegna,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Donazioni per emergenza COVID- 19: conto corrente ATS Sardegna\n\u00e8 attivo un conto corrente bancario intestato alla Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI, con IBAN IT 88 B 01015 17203 000070727420, sul quale \u00e8 possibile destinare i versamenti.\n\nIl conto corrente di ATS sar\u00e0 appunto utilizzato per raccogliere le donazioni spontanee a favore delle strutture sanitarie dell' Isola pi\u00f9 impegnate nell' emergenza Covid-19. I privati cittadini, le Aziende o le Associazioni possono specificare nella causale del versamento la struttura sanitaria di ATS Sardegna alla quale vogliono che le somme siano destinate.\n\nAltre forme di raccolta fondi, individuali, collettive o da parte di Associazioni o Istituzioni, pur apprezzabili, sono tuttavia iniziative autonome ed indipendenti, non gestite da ATS Sardegna.\n\nSiamo sicuri che, con l' impegno, il sacrificio ed il contributo di ognuno di noi, riusciremo a superare questo difficilissimo momento."", ""IBAN"": ""IT 88 B 01015 17203 000070727420"", ""Indirizzo"": ""40.72667657 8.55966713 0 0"", ""Intestazione"": ""Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI"", ""Link"": ""https://www.atssardegna.it/index.php?xsl=115&s=69048&v=2&c=4798&na=1"", ""Nome"": ""ATS Sardegna""}","<pre><yamldata>
 Descrizione: 'Donazioni per emergenza COVID- 19: conto corrente ATS Sardegna
 
@@ -26,26 +44,6 @@ Indirizzo: 40.72667657 8.55966713 0 0
 Intestazione: Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI
 Link: https://www.atssardegna.it/index.php?xsl=115&s=69048&v=2&c=4798&na=1
 Nome: ATS Sardegna
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/839,584359381,2020-03-19 12:30:16,2020-03-19 11:55:36,Raccolta fondi per l'Azienda Ospedaliera Universitaria Careggi di #Firenze,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
-Causale: donazione emergenza coronarovirus
-Descrizione: \""Ogni donazione, piccola o grande, è per noi un importante gesto di solidarietà\
-  \ che può contribuire a salvare la vita di molti pazienti.\nDi seguito le nostre\
-  \ coordinate, per destinare quanto raccolto all'emergenza coronavirus:\npresso ufficio\
-  \ bancario, o da casa tramite homebanking, mediante bonifico bancario sul conto\
-  \ corrente intestato ad AOU Careggi, IBAN IT06V0306902887100000046016\nPresso gli\
-  \ apparecchi per la riscossione automatica presenti nei vari padiglioni dell'Azienda,\
-  \ in contanti o con carta Bancomat\npresso tutti gli uffici postali sul c.c. postale\
-  \ n. 22755508 intestato a \""Azienda Ospedaliero - Universitaria Careggi – Firenze\""\
-  \nSpecificando, la causale “donazione emergenza coronarovirus” e inviare ad AOUC\
-  \ la Comunicazione di avvenuta donazione\nemail: donazionicoronavirus@aou-careggi.toscana.it\
-  \ \n \nÈ possibile donare anche attraverso la Fondazione Careggi Onlus""\
-Email: donazionicoronavirus@aou-careggi.toscana.it
-IBAN: IT06V0306902887100000046016
-Indirizzo: 43.76923077 11.25588885 0 0
-Intestazione: AOU Careggi
-Link: https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=5713&catid=92&Itemid=909&lang=it
-Nome: Azienda Ospedaliera Universitaria Careggi di Firenze
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/837,584357062,2020-03-19 12:22:32,2020-03-19 11:51:12,Raccolta fondi AUSL IRCCS #ReggioEmilia,44.608664,10.594796841892734,Emilia-Romagna,Reggio nell'Emilia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""emergenza COVID 19"", ""Descrizione"": ""AUSL IRCCS Reggio Emilia: donazioni COVID 19"", ""Email"": ""protobilancio@ausl.re.it"", ""IBAN"": ""IT34Y0306902477100000046052"", ""Link"": ""https://www.ausl.re.it/comunicazione/comunicati-stampa/ausl-irccs-reggio-emilia-donazioni-covid-19"", ""Nome"": ""AUSL IRCCS Reggio Emilia"", ""Posizione"": ""44.608664 10.594796841892734 0 0""}","<pre><yamldata>
 Causale: emergenza COVID 19
@@ -182,6 +180,22 @@ IBAN: IT 81T01030 14217 000001128461
 Link: https://www.uslsudest.toscana.it/comunicati-stampa/concorso-di-solidarieta-covid-19
 Nome: Azienda USL Toscana sud est - Arezzo Grosseto Siena
 Posizione: 43.27396 11.35698
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/828,584339284,2020-03-19 12:30:28,2020-03-19 11:18:24,Raccolta fondi Associazione Amici Ospedale di #Biella,45.56695,8.08691,Piemonte,Biella,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""puoi sostenere anche tu la raccolta fondi a sostegno dei reparti dell\u2019Ospedale di Biella che stanno\n\nfronteggiando l\u2019#emergenza  #coronavirus: Rianimazione, Semintensiva, Pronto Soccorso\u2026\n\n\u2764\ufe0f COME DONARE: Associazione Amici Ospedale Di Biella https://www.donosalute.it/\n\nCausale \u201cDonazione Covid-19\u201d seguito da cognome, nome e codice fiscale del donante"", ""Link"": ""https://aslbi.piemonte.it/sostieni-i-nostri-progetti/"", ""Nome"": ""Associazione Amici Ospedale Di Biella"", ""Posizione"": ""45.56695 8.08691""}","<pre><yamldata>
+Descrizione: 'puoi sostenere anche tu la raccolta fondi a sostegno dei reparti dell’Ospedale
+  di Biella che stanno
+
+
+  fronteggiando l’#emergenza  #coronavirus: Rianimazione, Semintensiva, Pronto Soccorso…
+
+
+  ❤️ COME DONARE: Associazione Amici Ospedale Di Biella https://www.donosalute.it/
+
+
+  Causale “Donazione Covid-19” seguito da cognome, nome e codice fiscale del donante'
+Link: https://aslbi.piemonte.it/sostieni-i-nostri-progetti/
+Nome: Associazione Amici Ospedale Di Biella
+Posizione: 45.56695 8.08691
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/827,584338507,2020-03-19 12:08:47,2020-03-19 11:17:06,Associazione Per Mio Figlio Onlus:  donazioni per ULSS 2 #Veneto,,,,,"[""Contatti utili"", ""Informazioni utili"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""emergenza Coronavirus"", ""Descrizione"": ""Da ieri sul conto corrente dell\u2019Associazione Per Mio Figlio Onlus stanno transitando tantissime donazioni di semplici cittadini, ognuno fa la propria parte e diverse raccolte di crowdfunding online stanno convogliando nell\u2019iniziativa istituzionale dell\u2019Ulss 2. \nSi ricorda che per i versamenti, effettuabili anche in modalit\u00e0 home banking, va utilizzato il conto corrente IT47V0306909606100000160572, intestato ad Associazione \u201cPer Mio Figlio\u201d Onlus, causale: emergenza Coronavirus.\n\nI fondi raccolti saranno tutti destinati all\u2019acquisto di apparecchiature e materiali utili a far fronte all\u2019attuale emergenza."", ""IBAN"": ""IT47V0306909606100000160572"", ""Intestazione"": ""Associazione \u201cPer Mio Figlio\u201d Onlus"", ""Link"": ""https://www.aulss2.veneto.it/-/gara-di-solidarieta-a-supporto-degli-ospedali-dell-ulss-2"", ""Nome"": ""ULSS 2 - Marca Trevigiana""}","<pre><yamldata>
 Causale: emergenza Coronavirus
