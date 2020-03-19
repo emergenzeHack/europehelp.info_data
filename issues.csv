@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/800,584010022,2020-03-19 08:10:17,2020-03-18 21:20:01,Avviso per i cittadini italiani nel #RegnoUnito,51.517517,-0.113983,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""COVID-19 - Avviso per i cittadini italiani nel Regno Unito"", ""Descrizione"": ""Da alcuni giorni l\u2019Ambasciata d\u2019Italia a Londra e i Consolati Generali a Londra e ad Edimburgo hanno attivato un gruppo di lavoro dedicato alla gestione dell\u2019emergenza COVID-19. Condividiamo di seguito alcune utili informazioni per i cittadini italiani nel Regno Unito."", ""Link"": ""https://amblondra.esteri.it/ambasciata_londra/it/ambasciata/ufficio-stampa/news/covid-19-avviso-per-i-cittadini.html"", ""Posizione"": ""51.517517 -0.113983 0 0""}","<pre><yamldata>
+Cosa: COVID-19 - Avviso per i cittadini italiani nel Regno Unito
+Descrizione: Da alcuni giorni l’Ambasciata d’Italia a Londra e i Consolati Generali
+  a Londra e ad Edimburgo hanno attivato un gruppo di lavoro dedicato alla gestione
+  dell’emergenza COVID-19. Condividiamo di seguito alcune utili informazioni per i
+  cittadini italiani nel Regno Unito.
+Link: https://amblondra.esteri.it/ambasciata_londra/it/ambasciata/ufficio-stampa/news/covid-19-avviso-per-i-cittadini.html
+Posizione: 51.517517 -0.113983 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/798,583943140,2020-03-18 21:04:17,2020-03-18 19:06:32,ARCI e UNHCR: servizi per rifugiati e stranieri - emergenza Coronavirus,,,,,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ARCI e UNHCR"", ""Descrizione"": ""ARCI con UNHCR, con la partecipazione di MdM e UNICEF ha realizzato un sito plurilingue, collegato a Juma e numeroverderifugiati rivolto ai rifugiati, agli opertaori e, pi\u00f9 in generale, agli stranieri, con documenti tradotti e indicazioni ufficiali. Oltre ai testi anche podcast e pillole video plurilingue."", ""Destinatari"": ""rifugiati e stranieri"", ""Link"": ""https://coronavirus.jumamap.com/it_it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per rifugiati e stranieri - Emergenza Coronavirus""}","<pre><yamldata>
 Da_chi_offerta: ARCI e UNHCR
 Descrizione: ARCI con UNHCR, con la partecipazione di MdM e UNICEF ha realizzato un
