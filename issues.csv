@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/835,584351542,2020-03-19 11:44:58,2020-03-19 11:40:39,Raccolta fondi Croce Rossa #Desio #MonzaBrianza,45.618321,9.208077,Lombardia,Monza e della Brianza,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Croce Rossa di Desio tende due mani. Una per aiutare chi ha bisogno in questo difficile momento, l'altra per avere il tuo aiuto per acquistare le protezioni necessarie per i nostri soccorritori durante gli interventi. Insieme possiamo fare molto contro questa emergenza. Aiutiamoci\nCe la faremo. Grazie.\n\nSono Giuseppe Franco Nava, presidente della CROCE ROSSA ITALIANA COMITATO DI DESIO (CF 08466300962) \nI FONDI RACCOLTI saranno destinata all'acquisto di dispositivi di protezione individuali (DPI) per i dipendenti e i volontari del Comitato che sono in servizi attivo e utilizzeranno sui servizi dichiarati o a rischio COVID19\nI FONDI RACCOLTI ci permetteranno di dare presidi anche ai volontari impegnati nell'aiuto della popolazione in quarantena con consegna di alimenti e farmaci.\nI FONDI RACCOLTI saranno utilissimi e ci AIUTERANNO ad AIUTARE chi ha bisogno."", ""Link"": ""https://www.gofundme.com/f/insieme-a-cridesio-contro-il-covid19?utm_source=facebook&fbclid=IwAR1U25kJGt7UpUnnYANrAhHEExMvT_gZA0hbADhnWElewLrN5wka1qwOSdY"", ""Nome"": ""CRI - Desio"", ""Posizione"": ""45.618321 9.208077 0 0""}","<pre><yamldata>
+Descrizione: ""La Croce Rossa di Desio tende due mani. Una per aiutare chi ha bisogno\
+  \ in questo difficile momento, l'altra per avere il tuo aiuto per acquistare le\
+  \ protezioni necessarie per i nostri soccorritori durante gli interventi. Insieme\
+  \ possiamo fare molto contro questa emergenza. Aiutiamoci\nCe la faremo. Grazie.\n\
+  \nSono Giuseppe Franco Nava, presidente della CROCE ROSSA ITALIANA COMITATO DI DESIO\
+  \ (CF 08466300962) \nI FONDI RACCOLTI saranno destinata all'acquisto di dispositivi\
+  \ di protezione individuali (DPI) per i dipendenti e i volontari del Comitato che\
+  \ sono in servizi attivo e utilizzeranno sui servizi dichiarati o a rischio COVID19\n\
+  I FONDI RACCOLTI ci permetteranno di dare presidi anche ai volontari impegnati nell'aiuto\
+  \ della popolazione in quarantena con consegna di alimenti e farmaci.\nI FONDI RACCOLTI\
+  \ saranno utilissimi e ci AIUTERANNO ad AIUTARE chi ha bisogno.""
+Link: https://www.gofundme.com/f/insieme-a-cridesio-contro-il-covid19?utm_source=facebook&fbclid=IwAR1U25kJGt7UpUnnYANrAhHEExMvT_gZA0hbADhnWElewLrN5wka1qwOSdY
+Nome: CRI - Desio
+Posizione: 45.618321 9.208077 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/830,584341259,2020-03-19 11:38:08,2020-03-19 11:21:51,Terzocentro offre supporto psicologico al personale sanitario,,,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Terzocentro"", ""Descrizione"": ""IN CONSIDERAZIONE DELL\u2019EMERGENZA COVID-19, TUTTI GLI PSICOTERAPEUTI DEL TERZOCENTRO METTONO GRATUITAMENTE A DISPOSIZIONE LA LORO PROFESSIONALITA\u2019, TRAMITE VIDEOCHIAMATE, PER IL SUPPORTO PSICOLOGICO DI TUTTI I MEDICI, INFERMIERI E OPERATORI SANITARI VARI CHE CON SACRIFICIO E DEDIZIONE, TRA MILLE DIFFICOLTA\u2019, STANNO SPENDENDOSI SENZA SOSTA PER FRONTEGGIARE LA SITUAZIONE. COLORO CHE VOLESSERO USUFRUIRNE POSSONO EFFETTUARE LA RICHIESTA TRAMITE I RECAPITI DELLA SEGRETARIA (TELEFONO, EMAIL, ECC.) E SARANNO CONTATTATI QUANTO PRIMA DA UNO DEGLI PSICOTERAPEUTI DEL CENTRO. RICORDIAMO CHE L\u2019ORDINE DEGLI PSICOLOGI FORNISCE SUL SUO SITO UN ELENCO DI PSICOTERAPEUTI DISPONIBILI IN QUESTO MOMENTO PER TUTTA LA POPOLAZIONE."", ""Destinatari"": ""Personale sanitario"", ""Link"": ""https://www.terzocentro.it/news/covid-19-supporto-al-personale-sanitario/?fbclid=IwAR2L6JLbuA7S1GNBJSSka0wuZBnonBzCFvYpwRYA4B0vhtaeNtlavku6-ZI"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Terzocentro offre supporto psicologico al personale sanitario""}","<pre><yamldata>
 Da_chi_offerta: Terzocentro
 Descrizione: 'IN CONSIDERAZIONE DELL’EMERGENZA COVID-19, TUTTI GLI PSICOTERAPEUTI DEL TERZOCENTRO METTONO GRATUITAMENTE A DISPOSIZIONE LA LORO PROFESSIONALITA’, TRAMITE VIDEOCHIAMATE, PER IL SUPPORTO PSICOLOGICO DI TUTTI I MEDICI, INFERMIERI E OPERATORI SANITARI VARI CHE CON SACRIFICIO E DEDIZIONE, TRA MILLE DIFFICOLTA’, STANNO SPENDENDOSI SENZA SOSTA PER FRONTEGGIARE LA SITUAZIONE.
@@ -9,6 +25,27 @@ Link: https://www.terzocentro.it/news/covid-19-supporto-al-personale-sanitario/?
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Terzocentro offre supporto psicologico al personale sanitario
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/829,584340206,2020-03-19 11:43:35,2020-03-19 11:19:59,Raccolta fondi Azienda Usl #Toscana sud est #Arezzo #Grosseto #Siena,43.27396,11.35698,Toscana,Siena,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione Emergenza Corona Virus\u201d oppure \u201cCOVID-19\u201d"", ""Descrizione"": ""Arriva da pi\u00f9 parti la richiesta di mostrare il sostegno all\u2019impegno dell\u2019Azienda Sanitaria nel fronteggiare la sfida del Coronavirus. Tante le iniziative messe in campo. Si conferma cos\u00ec l\u2019apprezzamento dei cittadini per la sanit\u00e0 del territorio ma anche la voglia di fare comunit\u00e0 e di stare insieme in ogni momento.\n\nL\u2019Azienda Usl Toscana sud est, quindi, ha istituito un conto corrente dedicato per le donazioni: IBAN IT 81T01030 14217 000001128461 nella causale va inserito \u201cDonazione Emergenza Corona Virus\u201d oppure \u201cCOVID-19\u201d\n\nLa solidariet\u00e0 e il sostegno sono d\u2019altra parte cosa nota nel nostro territorio, l\u2019AUSL Toscana sud est ringrazia tutta la comunit\u00e0 per la vicinanza agli operatori tutti della sanit\u00e0."", ""IBAN"": ""IT 81T01030 14217 000001128461"", ""Link"": ""https://www.uslsudest.toscana.it/comunicati-stampa/concorso-di-solidarieta-covid-19"", ""Nome"": ""Azienda USL Toscana sud est - Arezzo Grosseto Siena"", ""Posizione"": ""43.27396 11.35698""}","<pre><yamldata>
+Causale: Donazione Emergenza Corona Virus” oppure “COVID-19”
+Descrizione: 'Arriva da più parti la richiesta di mostrare il sostegno all’impegno
+  dell’Azienda Sanitaria nel fronteggiare la sfida del Coronavirus. Tante le iniziative
+  messe in campo. Si conferma così l’apprezzamento dei cittadini per la sanità del
+  territorio ma anche la voglia di fare comunità e di stare insieme in ogni momento.
+
+
+  L’Azienda Usl Toscana sud est, quindi, ha istituito un conto corrente dedicato per
+  le donazioni: IBAN IT 81T01030 14217 000001128461 nella causale va inserito “Donazione
+  Emergenza Corona Virus” oppure “COVID-19”
+
+
+  La solidarietà e il sostegno sono d’altra parte cosa nota nel nostro territorio,
+  l’AUSL Toscana sud est ringrazia tutta la comunità per la vicinanza agli operatori
+  tutti della sanità.'
+IBAN: IT 81T01030 14217 000001128461
+Link: https://www.uslsudest.toscana.it/comunicati-stampa/concorso-di-solidarieta-covid-19
+Nome: Azienda USL Toscana sud est - Arezzo Grosseto Siena
+Posizione: 43.27396 11.35698
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/823,584332273,2020-03-19 11:08:03,2020-03-19 11:06:03,Raccolta fondi Azienda Ospedaliera #Cosenza,39.298604,16.252245,Calabria,Cosenza,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Comunichiamo che l'intero ricavato verr\u00e0 devoluto all\u2019Azienda Ospedaliera di Cosenza e sar\u00e0 vincolato all\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019emergenza COVID-19,\nquali attrezzature per l\u2019UTI (unit\u00e0 di terapia intensiva), cpap, dispositivi di protezione (tute, mascherine e occhiali protettivi) e quant\u2019altro verr\u00e0 ritenuto dall\u2019Azienda Ospedaliera stessa secondo le proprie esigenze, da valutare anche alla luce della cifra finale che verr\u00e0 raggiunta.\n\nNegli aggiornamenti potrete leggere le PEC da noi inviata alla direzione generale dell\u2019Azienda Ospedaliera per ufficializzare la campagna.\n\nL\u2019erogazione avverr\u00e0 direttamente dalla presente piattaforma sul conto corrente dell\u2019Azienda Ospedaliera. Al termine della raccolta verr\u00e0 data dimostrazione dell'avvenuta erogazione."", ""Link"": ""https://www.gofundme.com/f/cosenza-anticovid?fbclid=IwAR1ZrEXAR3eQF9RV5aUZZaRv4o2wOoeokRmOdxO3fyUQBTWEnX4x2Vs-w68"", ""Nome"": ""Alfredo Taranto"", ""Posizione"": ""39.298604 16.252245 0 0""}","<pre><yamldata>
 Descrizione: 'Comunichiamo che l''intero ricavato verrà devoluto all’Azienda Ospedaliera
@@ -42,7 +79,7 @@ Link: www.prendiamolaconfilosofia.it/
 Natura: culturale-ricr
 Titolo: Prendiamola con filosofia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/814,584314698,2020-03-19 11:39:17,2020-03-19 10:36:18,Dogsitting: devo fermarmi? Richiesta di chiarimenti,,,,,"[""Richiesta aiuto"", ""accettato"", ""da sistemare"", ""form""]",,,"{""Cosa"": ""Dogsitting: devo fermarmi?"", ""Descrizione"": ""Salve. Faccio il dogsitter per una persona 3 volte a settimana. Nulla di registrato, un accordo privato. Nello svolgere la mia attivit\u00e0 non entro in contatto con nessuna persona ed il rischio contagio \u00e8 pressoch\u00e9 inesistente. Temo un po' se la polizia mi dovesse fermare. Cosa consigliereste?"", ""Destinatari"": ""Chiunque possa rispondermi"", ""Email"": ""memorymoggi@mail.com"", ""Telefono"": ""3270695973""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/814,584314698,2020-03-19 11:41:37,2020-03-19 10:36:18,Dogsitting: devo fermarmi? Richiesta di chiarimenti,,,,,"[""Richiesta aiuto"", ""accettato"", ""da sistemare"", ""form""]",,,"{""Cosa"": ""Dogsitting: devo fermarmi?"", ""Descrizione"": ""Salve. Faccio il dogsitter per una persona 3 volte a settimana. Nulla di registrato, un accordo privato. Nello svolgere la mia attivit\u00e0 non entro in contatto con nessuna persona ed il rischio contagio \u00e8 pressoch\u00e9 inesistente. Temo un po' se la polizia mi dovesse fermare. Cosa consigliereste?"", ""Destinatari"": ""Chiunque possa rispondermi"", ""Email"": ""memorymoggi@mail.com"", ""Telefono"": ""3270695973""}","<pre><yamldata>
 Cosa: 'Dogsitting: devo fermarmi?'
 Descrizione: Salve. Faccio il dogsitter per una persona 3 volte a settimana. Nulla
   di registrato, un accordo privato. Nello svolgere la mia attività non entro in contatto
