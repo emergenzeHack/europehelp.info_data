@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/840,584360315,2020-03-19 12:27:37,2020-03-19 11:57:23,Raccolta Donazioni Azienda Tutela Salute #Sardegna,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Donazioni per emergenza COVID- 19: conto corrente ATS Sardegna\n\u00e8 attivo un conto corrente bancario intestato alla Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI, con IBAN IT 88 B 01015 17203 000070727420, sul quale \u00e8 possibile destinare i versamenti.\n\nIl conto corrente di ATS sar\u00e0 appunto utilizzato per raccogliere le donazioni spontanee a favore delle strutture sanitarie dell' Isola pi\u00f9 impegnate nell' emergenza Covid-19. I privati cittadini, le Aziende o le Associazioni possono specificare nella causale del versamento la struttura sanitaria di ATS Sardegna alla quale vogliono che le somme siano destinate.\n\nAltre forme di raccolta fondi, individuali, collettive o da parte di Associazioni o Istituzioni, pur apprezzabili, sono tuttavia iniziative autonome ed indipendenti, non gestite da ATS Sardegna.\n\nSiamo sicuri che, con l' impegno, il sacrificio ed il contributo di ognuno di noi, riusciremo a superare questo difficilissimo momento."", ""IBAN"": ""IT 88 B 01015 17203 000070727420"", ""Indirizzo"": ""40.72667657 8.55966713 0 0"", ""Intestazione"": ""Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI"", ""Link"": ""https://www.atssardegna.it/index.php?xsl=115&s=69048&v=2&c=4798&na=1"", ""Nome"": ""ATS Sardegna""}","<pre><yamldata>
+Descrizione: 'Donazioni per emergenza COVID- 19: conto corrente ATS Sardegna
+
+  è attivo un conto corrente bancario intestato alla Azienda Tutela Salute Sardegna
+  via E. Costa 57 07100 SASSARI, con IBAN IT 88 B 01015 17203 000070727420, sul quale
+  è possibile destinare i versamenti.
+
+
+  Il conto corrente di ATS sarà appunto utilizzato per raccogliere le donazioni spontanee
+  a favore delle strutture sanitarie dell'' Isola più impegnate nell'' emergenza Covid-19.
+  I privati cittadini, le Aziende o le Associazioni possono specificare nella causale
+  del versamento la struttura sanitaria di ATS Sardegna alla quale vogliono che le
+  somme siano destinate.
+
+
+  Altre forme di raccolta fondi, individuali, collettive o da parte di Associazioni
+  o Istituzioni, pur apprezzabili, sono tuttavia iniziative autonome ed indipendenti,
+  non gestite da ATS Sardegna.
+
+
+  Siamo sicuri che, con l'' impegno, il sacrificio ed il contributo di ognuno di noi,
+  riusciremo a superare questo difficilissimo momento.'
+IBAN: IT 88 B 01015 17203 000070727420
+Indirizzo: 40.72667657 8.55966713 0 0
+Intestazione: Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI
+Link: https://www.atssardegna.it/index.php?xsl=115&s=69048&v=2&c=4798&na=1
+Nome: ATS Sardegna
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/838,584358112,2020-03-19 12:28:58,2020-03-19 11:53:13,Raccolta fondi ASST #Cremona,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+Descrizione: ""L'ASST di Cremona promuove alcune raccolte fondi\nBONIFICO BANCARIO\
+  \ A FAVORE DELL'ASST DI CREMONA\nBanco Popolare, sede di Cremona, Via Giuseppina,\
+  \ 12 – Agenzia 4\nABI: 05034 CAB: 11440 C/C 000000001862\nIBAN: IT 25 K 05034 11440\
+  \ 000000001862\nCausale: EMERGENZA CORONAVIRUS\n\nBONIFICO BANCARIO A FAVORE DELL'ASSOCIAZIONE\
+  \ \""UNITI PER LA PROVINCIA DI CREMONA\""\nIBAN: IT 13 Z 08454 11404 000000231085\ 
+  \BONIFICO BANCARIO A FAVORE DI CONFARTIGIANATO CREMONA\Banco BPM, sede di Cremona,\
+  \ Via Cesare Battisti 14\nIBAN: IT 67 A 05034 11401 000000189255 \Causale: #FORZACREMONA\n\
+  \DONAZIONI TRAMITE LA PIATTAFORMA WWW.GOFUNDME.COM\Raccolta fondi per l'Ospedale\
+  \ di Cremona, organizzata da Elisa Stagnati\Raccolta fondi per la Terapia Intensiva\
+  \ dell'Ospedale Oglio Po, organizzata da Mirco Mongilli e Gabriele Busi\nRaccolta\
+  \ fondi \""Fantacalcio\"" per Covid-19/ASST-Cremona\n\nTutte le iniziative aggregate\
+  \ di raccolta fondi (social, piattaforme dedicate, ecc) a favore dell’ASST di Cremona\
+  \ vanno condivise preventivamente con la stessa ASST.\n\nPer informazioni\nUO Affari\
+  \ Generali e Legali\nTel. 0372 405533 – 206\naffarigenerali@asst-cremona.it""
+Email: affarigenerali@asst-cremona.it
+Indirizzo: 45.13336675 10.02420865 0 0
+Link: https://www.asst-cremona.it/contenuto-web/-/asset_publisher/i5i0fBlTOmNr/content/emergenza-coronavirus-come-donare-all-asst-di-cremona
+Nome: ASST Cremona
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/837,584357062,2020-03-19 12:22:32,2020-03-19 11:51:12,Raccolta fondi AUSL IRCCS #ReggioEmilia,44.608664,10.594796841892734,Emilia-Romagna,Reggio nell'Emilia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""emergenza COVID 19"", ""Descrizione"": ""AUSL IRCCS Reggio Emilia: donazioni COVID 19"", ""Email"": ""protobilancio@ausl.re.it"", ""IBAN"": ""IT34Y0306902477100000046052"", ""Link"": ""https://www.ausl.re.it/comunicazione/comunicati-stampa/ausl-irccs-reggio-emilia-donazioni-covid-19"", ""Nome"": ""AUSL IRCCS Reggio Emilia"", ""Posizione"": ""44.608664 10.594796841892734 0 0""}","<pre><yamldata>
 Causale: emergenza COVID 19
 Descrizione: 'AUSL IRCCS Reggio Emilia: donazioni COVID 19'
@@ -62,6 +110,30 @@ Email: insieme@policlinicogemelli.it
 Link: https://www.policlinicogemelli.it/news-eventi/gemelli-raccolta-fondi-per-columbus-covid-2-hospital/
 Nome: Fondazione Policlinico Universitario Agostino Gemelli IRCCS
 Posizione: 41.89332 12.48293
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/832,584341387,2020-03-19 12:27:59,2020-03-19 11:22:06,Raccolta fondi Fondazione Poliambulanza #Brescia,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Fondazione Poliambulanza \u00e8 scesa in campo fin da subito mettendo a disposizione un numero via via crescente di posti letto in Terapia Intensiva, cruciali per salvare vite umane, e riconvertendo interi reparti per ospitare pazienti affetti da COVID-19 o con sintomatologia sospetta. Tale riconversione ha reso necessario una riorganizzazione degli spazi e delle attivit\u00e0, \u00e8 stata infatti sospesa tutta l\u2019attivit\u00e0 ambulatoriale e chirurgica differibile, sia in regime SSN che privato, garantendo le sole attivit\u00e0 urgenti non rimandabili.\n\n \n\n\u00c8 un momento drammatico per medici, infermieri e tutti coloro che stanno contribuendo alla cura dei malati, ma il vero dramma \u00e8 la limitatezza delle risorse. In testa alla lista delle attuali urgenze, ci sono le apparecchiature per la ventilazione assistita, strumenti indispensabili per coloro che sono gravemente colpiti dal virus, ma anche pompe volumetriche, pompe siringa e materiali vari di consumo, come le mascherine. \n\n \n\nCosa puoi fare per Poliambulanza? Una donazione liberale, fiscalmente deducibile a:\n\n\nFondazione Poliambulanza \nIBAN - IT 25 F 05696 11200 000012256X31\nCausale - EMERGENZA CORONAVIRUS\n\n \n\nFondazione della Comunit\u00e0 Bresciana Onlus, \nche provveder\u00e0 a redistribuire le somme ricevute agli Ospedali bresciani, tra cui Poliambulanza \nIBAN - IT76Z0311111238000000001390\nCausale - AIUTIAMOBRESCIA\n\n \n\nPer maggiori informazioni scrivere a fundraising@poliambulanza.it"", ""Email"": ""fundraising@poliambulanza.it"", ""Indirizzo"": ""45.53993052 10.21910323"", ""Link"": ""https://www.poliambulanza.it/fundraising/emergenza-coronavirus-come-aiutare-poliambulanza"", ""Nome"": ""Fondazione Poliambulanza Brescia""}","<pre><yamldata>
+Descrizione: ""Fondazione Poliambulanza è scesa in campo fin da subito mettendo a disposizione\
+  \ un numero via via crescente di posti letto in Terapia Intensiva, cruciali per\
+  \ salvare vite umane, e riconvertendo interi reparti per ospitare pazienti affetti\
+  \ da COVID-19 o con sintomatologia sospetta. Tale riconversione ha reso necessario\
+  \ una riorganizzazione degli spazi e delle attività, è stata infatti sospesa tutta\
+  \ l’attività ambulatoriale e chirurgica differibile, sia in regime SSN che privato,\
+  \ garantendo le sole attività urgenti non rimandabili.\n\n \n\nÈ un momento drammatico\
+  \ per medici, infermieri e tutti coloro che stanno contribuendo alla cura dei malati,\
+  \ ma il vero dramma è la limitatezza delle risorse. In testa alla lista delle attuali\
+  \ urgenze, ci sono le apparecchiature per la ventilazione assistita, strumenti indispensabili\
+  \ per coloro che sono gravemente colpiti dal virus, ma anche pompe volumetriche,\
+  \ pompe siringa e materiali vari di consumo, come le mascherine. \n\n \n\nCosa puoi\
+  \ fare per Poliambulanza? Una donazione liberale, fiscalmente deducibile a:\n\n\n\
+  Fondazione Poliambulanza \nIBAN - IT 25 F 05696 11200 000012256X31\nCausale - EMERGENZA\
+  \ CORONAVIRUS\n\n \n\nFondazione della Comunità Bresciana Onlus, \nche provvederà\
+  \ a redistribuire le somme ricevute agli Ospedali bresciani, tra cui Poliambulanza\
+  \ \nIBAN - IT76Z0311111238000000001390\nCausale - AIUTIAMOBRESCIA\n\n \n\nPer maggiori\
+  \ informazioni scrivere a fundraising@poliambulanza.it""
+Email: fundraising@poliambulanza.it
+Indirizzo: 45.53993052 10.21910323
+Link: https://www.poliambulanza.it/fundraising/emergenza-coronavirus-come-aiutare-poliambulanza
+Nome: Fondazione Poliambulanza Brescia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/831,584341328,2020-03-19 12:00:34,2020-03-19 11:22:00,"Comune di #Pisa, Spesa a casa tua: elenco esercizi che consegnano a domicilio",43.722932,10.400491,Toscana,Pisa,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Pisa"", ""Descrizione"": ""Il Comune di Pisa, in collaborazione con le associazioni di categoria Confcommercio Pisa, Confesercenti Toscana Nord e Cna di Pisa, pubblica l'elenco degli esercizi commerciali che svolgono l\u2019attivit\u00e0 di consegna a domicilio. L\u2019elenco, fornito dalle associazioni di categoria, \u00e8 in continuo aggiornamento: tutte le attivit\u00e0 che svolgono questo tipo di servizio e vogliono essere inserite possono comunicarlo allo Sportello Unico per le attivit\u00e0 Produttive (Suap) del Comune di Pisa (telefono 050.910469 s.bertini@comune.pisa.it)."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.comune.pisa.it/it/default/28514/eventi-home/Spesa-a-casa-tua.html"", ""Natura"": ""solidale"", ""Posizione"": ""43.722932 10.400491 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di #Pisa, Spesa a casa tua: elenco esercizi che consegnano a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Comune di Pisa
@@ -203,6 +275,29 @@ Destinatari: Italia
 Link: www.prendiamolaconfilosofia.it/
 Natura: culturale-ricr
 Titolo: Prendiamola con filosofia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/821,584328569,2020-03-19 12:26:46,2020-03-19 10:59:16,Raccolta fondi Ospedali del gruppo Humanitas #Lombardia,45.53233,9.49163,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019emergenza COVID-19 va fronteggiata insieme: contribuisci a rafforzare le Terapie Intensive e i Pronto Soccorso dei nostri ospedali.\nCon una piccola donazione contribuirai all\u2019acquisto dei materiali e delle attrezzature necessarie:\n\n- tute, mascherine, camici e dispositivi di protezione individuali;\n- ventilatori polmonari;\n- sistemi di monitoraggio;\n- telemetrie.\n\nGarantire le cure a chi ne ha bisogno e salvare quante pi\u00f9 vite possibili: con l\u2019aiuto di tutti possiamo farcela"", ""Link"": ""https://donazioni.humanitas.it/?utm_source=news&utm_medium=banner&utm_campaign=HIT-news"", ""Nome"": ""Ospedali del gruppo Humanitas Lombardia"", ""Posizione"": ""45.53233 9.49163""}","<pre><yamldata>
+Descrizione: 'L’emergenza COVID-19 va fronteggiata insieme: contribuisci a rafforzare
+  le Terapie Intensive e i Pronto Soccorso dei nostri ospedali.
+
+  Con una piccola donazione contribuirai all’acquisto dei materiali e delle attrezzature
+  necessarie:
+
+
+  - tute, mascherine, camici e dispositivi di protezione individuali;
+
+  - ventilatori polmonari;
+
+  - sistemi di monitoraggio;
+
+  - telemetrie.
+
+
+  Garantire le cure a chi ne ha bisogno e salvare quante più vite possibili: con l’aiuto
+  di tutti possiamo farcela'
+Link: https://donazioni.humanitas.it/?utm_source=news&utm_medium=banner&utm_campaign=HIT-news
+Nome: Ospedali del gruppo Humanitas Lombardia
+Posizione: 45.53233 9.49163
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/820,584327434,2020-03-19 12:22:38,2020-03-19 10:57:16,Raccolta fondi per ASST Sette Laghi #Varese,46.24706,9.96478,Lombardia,Sondrio,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BCITITMMXXX"", ""Causale"": ""Donazione Covid-19"", ""Descrizione"": ""La nostra ASST \u00e8 impegnata a combattere contro questa nuova infezione. Lo \u00e8 fin dall'inizio, quando ha accolto i pazienti covid-positivi provenienti dalle zone pi\u00f9 colpite della Lombardia che ci sono stati affidati. \nAl contempo, la nostra ASST si sta prendendo cura di tutti i pazienti che hanno altre esigenze di salute urgenti o comunque non differibili. E anche in questo caso, non si tratta solo dei pazienti del nostro territorio: siamo stati riconosciuti, infatti, come Hub, cio\u00e8 come centro di riferimento regionale, per la neurochirurgia, per la cardiologia interventistica e per la gestione dei traumi maggiori.\nNon un sfida, quindi, ma tante. Un compito arduo,  che, proprio per questo, ci \u00e8 stato affidato. Perch\u00e9 noi ce la possiamo fare. E ce la stiamo facendo, grazie innanzitutto ai nostri medici, infermieri, OSS, tecnici, e grazie anche a tutti coloro che, dietro le quinte, fanno funzionare questa gigantesca, straordinaria macchina.\nSono novecento anni che offriamo cura e assistenza a chi ne ha bisogno e non ci fermeremo certo ora. Perch\u00e9, come sempre in questi novecento anni, sappiamo di non essere soli. Grazie per avercelo ricordato in questi giorni difficili: ci avete rivolto parole e gesti di apprezzamento che - dobbiamo ammetterlo - ci hanno commosso. In tanti, poi, ci avete chiesto come sostenerci. Ecco qui sotto come fare. \nRestate con noi: tutto questo ci ha dato la carica e ora siamo ancora pi\u00f9 determinati a continuare a dare il massimo.\n\nNoi ci siamo. E ce la faremo. \nPerch\u00e9 sappiamo che voi siete con noi!\n\nATTENZIONE: nel codice IBAN, dopo IT75 c'\u00e8 una O di Otranto, seguita da uno zero."", ""IBAN"": ""IT75 O030 6910 8101 0000 0046 111"", ""Intestazione"": ""ASST Sette Laghi"", ""Link"": ""https://www.asst-settelaghi.it/contenuto-web/-/asset_publisher/shmOK1pliUE0/content/in-molti-chiedono-come-aiutarci-"", ""Nome"": ""ASST Sette Laghi"", ""Posizione"": ""46.24706 9.96478""}","<pre><yamldata>
 BIC_SWIFT: BCITITMMXXX
@@ -5734,21 +5829,6 @@ Nome: MINISTERO DELLA SALUTE
 Scopo: FAQ (Frequently Ask Questions) su COVID-19
 Telefono: 0039 06 59941
 
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/363,580724240,2020-03-16 23:11:07,2020-03-13 16:50:37,Consegna e consigli libri di lettura #Milano,45.499509,9.230185,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Il Covo della Ladra di Libri"", ""Descrizione"": ""Consegna di libri a domicilio gratuite su Milano - a 2\u20ac su territori nazionale;\nChat 24h per consigli di lettura: WhatsApp al 3487459627"", ""Destinatari"": ""adulti e bambini e bambine"", ""Informativa"": ""OK"", ""Link"": ""http://www.ladradilibri.com/"", ""Natura"": ""solidale"", ""Posizione"": ""45.499509 9.230185 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna e consigli libri di lettura #Milano""}","<pre><yamldata>
-Comune: Milano
-Da_chi_offerta: Il Covo della Ladra di Libri
-Descrizione: ""Consegna di libri a domicilio gratuite su Milano - a 2\u20AC su territori\
-  \ nazionale;\nChat 24h per consigli di lettura: WhatsApp al 3487459627""
-Destinatari: adulti e bambini e bambine
-Informativa: OK
-Link: http://www.ladradilibri.com/
-Natura: solidale
-Posizione: 45.499509 9.230185 0 0
-Provincia: Milano
-Regione: Lombardia
-Tipo_di_soggetto: privato
-Titolo: 'Consegna e consigli libri di lettura #Milano'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/362,580710798,2020-03-16 23:11:09,2020-03-13 16:26:33,Raccolta beni prima necessità migranti #Roma,41.914139,12.532687,Lazio,Roma,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Baobab Experience"", ""Descrizione"": ""In questo periodo di emergenza proveremo ad offrire ai migranti i pasti sotto forma di sacchetti contenente frutta e cibo in scatola, panini oppure quando possibile pasti monodose.\nPer questo motivo vi invitiamo a lanciare raccolte volte a recuperare :\nTonno\nCrackers\nPane in cassetta\nCornetti in busta\nPlum-cake\nCarne in scatola\nFrutta\nSucchi di frutta monodose\nBottiglie d\u2019acqua\n\nOltre a queste cose abbiamo bisogno anche di coperte, mascherine e prodotti disinfettanti.\nPunto di raccolta Baobab"", ""Destinatari"": ""Migranti"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/story.php?story_fbid=2950196055077062&id=1295938570502827&scmts=scwspsdd&extid=KB0d1KiKWVvFBYw6"", ""Natura"": ""solidale"", ""Posizione"": ""41.914139 12.532687 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta beni prima necessit\u00e0""}","<pre><yamldata>
 Comune: Roma
