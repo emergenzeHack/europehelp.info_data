@@ -97,6 +97,29 @@ Tipo_di_soggetto: privato
 Titolo: 'Ordine nazionale psicologi, online database psicologi disponibili ad consulenze
   online'
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/849,584450150,2020-03-19 19:14:33,2020-03-19 14:24:30,App AllertaLOM: tutte le informazioni sul Coronavirus #Lombardia,45.46451,9.188862,Lombardia,Milano,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sull\u2019app AllertaLOM tutte le informazioni sul Coronavirus in Lombardia"", ""Descrizione"": ""Regione Lombardia mette a disposizione un nuovo strumento per essere aggiornati sul tema Coronavirus: si tratta dell\u2019app AllertaLOM, disponibile su Apple Store e su Google Play Store. La app, gi\u00e0 utilizzata per le allerte di Protezione Civile, adesso offre informazioni anche sul Coronavirus. Basta scaricarla e attivare le notifiche per ricevere direttamente sul proprio smartphone informazioni e comunicazioni importanti. Coloro che possiedono gi\u00e0 la app AllertaLOM, sono invitati a scaricare l\u2019aggiornamento per poter usufruire delle nuove funzionalit\u00e0."", ""Link"": ""https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/coronavirus/app-coronavirus"", ""Posizione"": ""45.46451 9.188862 0 0""}","<pre><yamldata>
+Cosa: Sull’app AllertaLOM tutte le informazioni sul Coronavirus in Lombardia
+Descrizione: 'Regione Lombardia mette a disposizione un nuovo strumento per essere
+  aggiornati sul tema Coronavirus: si tratta dell’app AllertaLOM, disponibile su Apple
+  Store e su Google Play Store. La app, già utilizzata per le allerte di Protezione
+  Civile, adesso offre informazioni anche sul Coronavirus. Basta scaricarla e attivare
+  le notifiche per ricevere direttamente sul proprio smartphone informazioni e comunicazioni
+  importanti. Coloro che possiedono già la app AllertaLOM, sono invitati a scaricare
+  l’aggiornamento per poter usufruire delle nuove funzionalità.'
+Link: 'https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/coronavirus/app-coronavirus'
+Posizione: 45.46451 9.188862 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/847,584386904,2020-03-19 19:15:36,2020-03-19 12:46:41,Servizi domiciliari per persone in difficoltà #Forlì,44.22785,12.073442,Emilia-Romagna,Forli'-Cesena,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Forl\u00ec - assessorato al Welfare"", ""Descrizione"": ""Consegna pasti caldi e assistenza domiciliare gratuita ad anziani soli, disabili e minori in difficolt\u00e0."", ""Destinatari"": ""anziani, disabili, minori in difficolt\u00e0"", ""Link"": ""http://www.forlitoday.it/cronaca/coronavirus-la-rete-dei-servizi-sociali-non-si-ferma-pasti-caldi-a-domicilio-e-assistenza-ad-anziani-e-disabili.html"", ""Natura"": ""solidale"", ""Posizione"": ""44.22785 12.073442 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizi domiciliari""}","<pre><yamldata>
+Da_chi_offerta: Comune di Forlì - assessorato al Welfare
+Descrizione: 'Consegna pasti caldi e assistenza domiciliare gratuita ad anziani soli,
+  disabili e minori in difficoltà.'
+Destinatari: anziani, disabili, minori in difficoltà
+Link: http://www.forlitoday.it/cronaca/coronavirus-la-rete-dei-servizi-sociali-non-si-ferma-pasti-caldi-a-domicilio-e-assistenza-ad-anziani-e-disabili.html
+Natura: solidale
+Posizione: 44.22785 12.073442 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Servizi domiciliari
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/846,584371823,2020-03-19 12:39:07,2020-03-19 12:18:57,Raccolta fondi a favore dell'Ospedale Niguarda di #Milano,45.509870750000005,9.186030699233626,Lombardia,Milano,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale"", ""Nome"": ""Ospedale Niguarda"", ""Posizione"": ""45.509870750000005 9.186030699233626 0 0""}","<pre><yamldata>
 Link: https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale
 Nome: Ospedale Niguarda
