@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/837,584357062,2020-03-19 12:22:32,2020-03-19 11:51:12,Raccolta fondi AUSL IRCCS #ReggioEmilia,44.608664,10.594796841892734,Emilia-Romagna,Reggio nell'Emilia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""emergenza COVID 19"", ""Descrizione"": ""AUSL IRCCS Reggio Emilia: donazioni COVID 19"", ""Email"": ""protobilancio@ausl.re.it"", ""IBAN"": ""IT34Y0306902477100000046052"", ""Link"": ""https://www.ausl.re.it/comunicazione/comunicati-stampa/ausl-irccs-reggio-emilia-donazioni-covid-19"", ""Nome"": ""AUSL IRCCS Reggio Emilia"", ""Posizione"": ""44.608664 10.594796841892734 0 0""}","<pre><yamldata>
+Causale: emergenza COVID 19
+Descrizione: 'AUSL IRCCS Reggio Emilia: donazioni COVID 19'
+Email: protobilancio@ausl.re.it
+IBAN: IT34Y0306902477100000046052
+Link: https://www.ausl.re.it/comunicazione/comunicati-stampa/ausl-irccs-reggio-emilia-donazioni-covid-19
+Nome: AUSL IRCCS Reggio Emilia
+Posizione: 44.608664 10.594796841892734 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/836,584355697,2020-03-19 12:20:37,2020-03-19 11:48:37,L'ASP Ragusa organizza una raccolta fondi per sostenere lo sforzo per fronteggiare l'emergenza da Co,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'ASP Ragusa organizza una raccolta fondi per sostenere lo sforzo per fronteggiare l'emergenza da Coronavirus."", ""IBAN"": ""IT23T0100517000000000218700"", ""Indirizzo"": ""36.92509197 14.7306992"", ""Intestazione"": ""ASP Ragusa"", ""Link"": ""https://www.asp.rg.it/news/869-donazioni-liberali-asp-ragusa.html"", ""Nome"": ""ASP Ragusa""}","<pre><yamldata>
+Descrizione: L'ASP Ragusa organizza una raccolta fondi per sostenere lo sforzo per
+  fronteggiare l'emergenza da Coronavirus.
+IBAN: IT23T0100517000000000218700
+Indirizzo: 36.92509197 14.7306992
+Intestazione: ASP Ragusa
+Link: https://www.asp.rg.it/news/869-donazioni-liberali-asp-ragusa.html
+Nome: ASP Ragusa
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/835,584351542,2020-03-19 11:44:58,2020-03-19 11:40:39,Raccolta fondi Croce Rossa #Desio #MonzaBrianza,45.618321,9.208077,Lombardia,Monza e della Brianza,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Croce Rossa di Desio tende due mani. Una per aiutare chi ha bisogno in questo difficile momento, l'altra per avere il tuo aiuto per acquistare le protezioni necessarie per i nostri soccorritori durante gli interventi. Insieme possiamo fare molto contro questa emergenza. Aiutiamoci\nCe la faremo. Grazie.\n\nSono Giuseppe Franco Nava, presidente della CROCE ROSSA ITALIANA COMITATO DI DESIO (CF 08466300962) \nI FONDI RACCOLTI saranno destinata all'acquisto di dispositivi di protezione individuali (DPI) per i dipendenti e i volontari del Comitato che sono in servizi attivo e utilizzeranno sui servizi dichiarati o a rischio COVID19\nI FONDI RACCOLTI ci permetteranno di dare presidi anche ai volontari impegnati nell'aiuto della popolazione in quarantena con consegna di alimenti e farmaci.\nI FONDI RACCOLTI saranno utilissimi e ci AIUTERANNO ad AIUTARE chi ha bisogno."", ""Link"": ""https://www.gofundme.com/f/insieme-a-cridesio-contro-il-covid19?utm_source=facebook&fbclid=IwAR1U25kJGt7UpUnnYANrAhHEExMvT_gZA0hbADhnWElewLrN5wka1qwOSdY"", ""Nome"": ""CRI - Desio"", ""Posizione"": ""45.618321 9.208077 0 0""}","<pre><yamldata>
 Descrizione: ""La Croce Rossa di Desio tende due mani. Una per aiutare chi ha bisogno\
   \ in questo difficile momento, l'altra per avere il tuo aiuto per acquistare le\
@@ -172,6 +190,36 @@ Destinatari: Italia
 Link: www.prendiamolaconfilosofia.it/
 Natura: culturale-ricr
 Titolo: Prendiamola con filosofia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/820,584327434,2020-03-19 12:22:33,2020-03-19 10:57:16,Raccolta fondi per ASST Sette Laghi #Varese,46.24706,9.96478,Lombardia,Sondrio,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BCITITMMXXX"", ""Causale"": ""Donazione Covid-19"", ""Descrizione"": ""La nostra ASST \u00e8 impegnata a combattere contro questa nuova infezione. Lo \u00e8 fin dall'inizio, quando ha accolto i pazienti covid-positivi provenienti dalle zone pi\u00f9 colpite della Lombardia che ci sono stati affidati. \nAl contempo, la nostra ASST si sta prendendo cura di tutti i pazienti che hanno altre esigenze di salute urgenti o comunque non differibili. E anche in questo caso, non si tratta solo dei pazienti del nostro territorio: siamo stati riconosciuti, infatti, come Hub, cio\u00e8 come centro di riferimento regionale, per la neurochirurgia, per la cardiologia interventistica e per la gestione dei traumi maggiori.\nNon un sfida, quindi, ma tante. Un compito arduo,  che, proprio per questo, ci \u00e8 stato affidato. Perch\u00e9 noi ce la possiamo fare. E ce la stiamo facendo, grazie innanzitutto ai nostri medici, infermieri, OSS, tecnici, e grazie anche a tutti coloro che, dietro le quinte, fanno funzionare questa gigantesca, straordinaria macchina.\nSono novecento anni che offriamo cura e assistenza a chi ne ha bisogno e non ci fermeremo certo ora. Perch\u00e9, come sempre in questi novecento anni, sappiamo di non essere soli. Grazie per avercelo ricordato in questi giorni difficili: ci avete rivolto parole e gesti di apprezzamento che - dobbiamo ammetterlo - ci hanno commosso. In tanti, poi, ci avete chiesto come sostenerci. Ecco qui sotto come fare. \nRestate con noi: tutto questo ci ha dato la carica e ora siamo ancora pi\u00f9 determinati a continuare a dare il massimo.\n\nNoi ci siamo. E ce la faremo. \nPerch\u00e9 sappiamo che voi siete con noi!\n\nATTENZIONE: nel codice IBAN, dopo IT75 c'\u00e8 una O di Otranto, seguita da uno zero."", ""IBAN"": ""IT75 O030 6910 8101 0000 0046 111"", ""Intestazione"": ""ASST Sette Laghi"", ""Link"": ""https://www.asst-settelaghi.it/contenuto-web/-/asset_publisher/shmOK1pliUE0/content/in-molti-chiedono-come-aiutarci-"", ""Nome"": ""ASST Sette Laghi"", ""Posizione"": ""46.24706 9.96478""}","<pre><yamldata>
+BIC_SWIFT: BCITITMMXXX
+Causale: Donazione Covid-19
+Descrizione: ""La nostra ASST è impegnata a combattere contro questa nuova infezione.\
+  \ Lo è fin dall'inizio, quando ha accolto i pazienti covid-positivi provenienti\
+  \ dalle zone più colpite della Lombardia che ci sono stati affidati. \nAl contempo,\
+  \ la nostra ASST si sta prendendo cura di tutti i pazienti che hanno altre esigenze\
+  \ di salute urgenti o comunque non differibili. E anche in questo caso, non si tratta\
+  \ solo dei pazienti del nostro territorio: siamo stati riconosciuti, infatti, come\
+  \ Hub, cioè come centro di riferimento regionale, per la neurochirurgia, per la\
+  \ cardiologia interventistica e per la gestione dei traumi maggiori.\nNon un sfida,\
+  \ quindi, ma tante. Un compito arduo,  che, proprio per questo, ci è stato affidato.\
+  \ Perché noi ce la possiamo fare. E ce la stiamo facendo, grazie innanzitutto ai\
+  \ nostri medici, infermieri, OSS, tecnici, e grazie anche a tutti coloro che, dietro\
+  \ le quinte, fanno funzionare questa gigantesca, straordinaria macchina.\nSono novecento\
+  \ anni che offriamo cura e assistenza a chi ne ha bisogno e non ci fermeremo certo\
+  \ ora. Perché, come sempre in questi novecento anni, sappiamo di non essere soli.\
+  \ Grazie per avercelo ricordato in questi giorni difficili: ci avete rivolto parole\
+  \ e gesti di apprezzamento che - dobbiamo ammetterlo - ci hanno commosso. In tanti,\
+  \ poi, ci avete chiesto come sostenerci. Ecco qui sotto come fare. \nRestate con\
+  \ noi: tutto questo ci ha dato la carica e ora siamo ancora più determinati a continuare\
+  \ a dare il massimo.\n\nNoi ci siamo. E ce la faremo. \nPerché sappiamo che voi\
+  \ siete con noi!\n\nATTENZIONE: nel codice IBAN, dopo IT75 c'è una O di Otranto,\
+  \ seguita da uno zero.""
+IBAN: IT75 O030 6910 8101 0000 0046 111
+Intestazione: ASST Sette Laghi
+Link: https://www.asst-settelaghi.it/contenuto-web/-/asset_publisher/shmOK1pliUE0/content/in-molti-chiedono-come-aiutarci-
+Nome: ASST Sette Laghi
+Posizione: 46.24706 9.96478
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/819,584325761,2020-03-19 11:57:39,2020-03-19 10:54:18,Raccolta fondi per ASST #Lodi,45.16007,9.70437,Lombardia,Lodi,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""contributo liberale per Emergenza Covid19"", ""Descrizione"": ""Se vuoi sostenere gli ospedali di Lodi, Codogno, Casalpusterlengo e Sant'Angelo Lodigiano con un contributo economico puoi farlo utilizzando il Bonifico Bancario\n\nintestato a: ASST di Lodi sul conto bancario Banco BPM Spa,  Sede di Lodi  Via Cavour n. 40/42\n\nIBAN:   IT94W0503420301000000005410\n\nCausale:contributo liberale per Emergenza Covid19\n\nPer donazioni dall'estero indicare anche il codice  SWIFT:  BAPPIT21M01 \n\n \n\nGrazie.\n\n \n\nPer informazioni relative alle donazioni \u00e8 possibile contattare il n. 0371 372547 dalle 9.00 alle 16.00."", ""IBAN"": ""IT94W0503420301000000005410"", ""Intestazione"": ""ASST di Lodi"", ""Link"": ""https://www.asst-lodi.it/donazioni-coronavirus"", ""Nome"": ""ASST Lodi"", ""Posizione"": ""45.16007 9.70437""}","<pre><yamldata>
 Causale: contributo liberale per Emergenza Covid19
