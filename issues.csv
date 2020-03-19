@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/809,584287893,2020-03-19 09:50:24,2020-03-19 09:49:52,#ItaliaNonProfit - Le risposte della Filantropia al COVID-19,,,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Italia non profit"", ""Descrizione"": ""Quali aziende, fondazioni e privati stanno supportando l'emergenza del coronavirus e come stanno destinando i finanziamenti."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://italianonprofit.it/aiuti-coronavirus/?fbclid=IwAR1XlQ6yfD5z2WJT4AjNTYQZzecZw5ZkFeS1qW8ZTc_zT3aru82zMTWzT0o"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#ItaliaNonProfit - Le risposte della Filantropia al COVID-19""}","<pre><yamldata>
+Da_chi_offerta: Italia non profit
+Descrizione: Quali aziende, fondazioni e privati stanno supportando l'emergenza del
+  coronavirus e come stanno destinando i finanziamenti.
+Destinatari: Tutte e tutti
+Link: https://italianonprofit.it/aiuti-coronavirus/?fbclid=IwAR1XlQ6yfD5z2WJT4AjNTYQZzecZw5ZkFeS1qW8ZTc_zT3aru82zMTWzT0o
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: '#ItaliaNonProfit - Le risposte della Filantropia al COVID-19'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/808,584274414,2020-03-19 09:39:47,2020-03-19 09:25:37,Linea di supporto psicologico provincia #LAquila,42.3464,13.414427,Abruzzo,L'Aquila,"[""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune dell'Aquila, Dipartimento Salute Mentale"", ""Descrizione"": ""VOGLIAMO ESSERTI VICINO, ANCHE SOLO AL TELEFONO.\nLinea di supporto psicologico, anche whatsapp e sms, dal luned\u00ec al venerd\u00ec dalle ore 10.00 alle ore 16.00.\nTelefono: 3315371806\n\nIl servizio \u00e8 una collaborazione tra Comune dell'Aquila e Dipartimento Salute Mentale della Asl1 Avezzano, Sulmona, L'Aquila"", ""Destinatari"": ""Abitanti provincia L'Aquila"", ""Link"": ""https://www.facebook.com/coronaviruslaquila/photos/a.113483056934625/116152636667667/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""42.3464 13.414427 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea di supporto psicologico #LAquila""}","<pre><yamldata>
 Da_chi_offerta: Comune dell'Aquila, Dipartimento Salute Mentale
 Descrizione: 'VOGLIAMO ESSERTI VICINO, ANCHE SOLO AL TELEFONO.
@@ -6532,17 +6542,6 @@ Nome: Barbara Abruzzo
 Posizione: 39.359686 16.03995 0 0
 Provincia: Cosenza
 Regione: Calabria
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/254,579894323,2020-03-12 21:33:22,2020-03-12 12:09:04,Streaming di comunità,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Distribuzioni dal Basso"", ""Descrizione"": ""Mette a disposizione in uno streaming di comunit\u00e0: una lunga programmazione di video, film e documentari per ribadire il valore che diamo alla cultura dal basso e alla sua diffusione"", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.openddb.it/streaming-di-comunita/"", ""Titolo"": ""Streaming di comunit\u00e0"", ""natura"": ""culturale-ricr""}","<pre><yamldata>
-Da_chi_offerta: Open Distribuzioni dal Basso
-Descrizione: ""Mette a disposizione in uno streaming di comunit\xE0: una lunga programmazione\
-  \ di video, film e documentari per ribadire il valore che diamo alla cultura dal\
-  \ basso e alla sua diffusione""
-Destinatari: Tutte e tutti
-Link: https://www.openddb.it/streaming-di-comunita/
-Titolo: ""Streaming di comunit\xE0""
-natura: culturale-ricr
-
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/254,579894323,2020-03-12 21:33:22,2020-03-12 12:09:04,Streaming di comunità,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Distribuzioni dal Basso"", ""Descrizione"": ""Mette a disposizione in uno streaming di comunit\u00e0: una lunga programmazione di video, film e documentari per ribadire il valore che diamo alla cultura dal basso e alla sua diffusione"", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.openddb.it/streaming-di-comunita/"", ""Titolo"": ""Streaming di comunit\u00e0"", ""natura"": ""culturale-ricr""}","<pre><yamldata>
 Da_chi_offerta: Open Distribuzioni dal Basso
