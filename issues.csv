@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/813,584311883,2020-03-19 10:33:13,2020-03-19 10:31:30,ActionAid -Questionario online per affrontare insieme la didattica in modo alternativo!,,,,,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ActionAid"", ""Descrizione"": ""Insegni? Lavori a scuola? ActionAid ha bisogno di 15 minuti del tuo tempo! abbiamo elaborato un breve questionario per mappare le strategie e soluzioni che le scuole ma anche singol* docenti stanno mettendo in campo per rispondere all'emergenza e mappare i loro bisogni nel breve e medio periodo, eccolo: \nhttps://agente0011.it/il-questionario-online-per-affrontare-insieme-la-didattica-in-modo-alternativo/"", ""Destinatari"": ""Insegnanti"", ""Link"": ""https://agente0011.it/il-questionario-online-per-affrontare-insieme-la-didattica-in-modo-alternativo/?fbclid=IwAR1n28nTNLMG8rM7ZEVvJpE_wi5mANSGvUgXSlvfTXP10lR5qqCW4h66mxY"", ""Natura"": ""didattica"", ""Titolo"": ""Il questionario online per affrontare insieme la didattica in modo alternativo!""}","<pre><yamldata>
+Da_chi_offerta: ActionAid
+Descrizione: ""Insegni? Lavori a scuola? ActionAid ha bisogno di 15 minuti del tuo\
+  \ tempo! abbiamo elaborato un breve questionario per mappare le strategie e soluzioni\
+  \ che le scuole ma anche singol* docenti stanno mettendo in campo per rispondere\
+  \ all'emergenza e mappare i loro bisogni nel breve e medio periodo, eccolo: \nhttps://agente0011.it/il-questionario-online-per-affrontare-insieme-la-didattica-in-modo-alternativo/""
+Destinatari: Insegnanti
+Link: https://agente0011.it/il-questionario-online-per-affrontare-insieme-la-didattica-in-modo-alternativo/?fbclid=IwAR1n28nTNLMG8rM7ZEVvJpE_wi5mANSGvUgXSlvfTXP10lR5qqCW4h66mxY
+Natura: didattica
+Titolo: Il questionario online per affrontare insieme la didattica in modo alternativo!
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/809,584287893,2020-03-19 09:50:24,2020-03-19 09:49:52,#ItaliaNonProfit - Le risposte della Filantropia al COVID-19,,,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Italia non profit"", ""Descrizione"": ""Quali aziende, fondazioni e privati stanno supportando l'emergenza del coronavirus e come stanno destinando i finanziamenti."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://italianonprofit.it/aiuti-coronavirus/?fbclid=IwAR1XlQ6yfD5z2WJT4AjNTYQZzecZw5ZkFeS1qW8ZTc_zT3aru82zMTWzT0o"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#ItaliaNonProfit - Le risposte della Filantropia al COVID-19""}","<pre><yamldata>
 Da_chi_offerta: Italia non profit
 Descrizione: Quali aziende, fondazioni e privati stanno supportando l'emergenza del
