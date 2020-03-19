@@ -7923,12 +7923,11 @@ provincia: Lodi
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-18 22:02:49,2020-03-10 23:49:56,Raccolta fondi per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""da sistemare""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-19 01:16:40,2020-03-10 23:49:56,Raccolta fondi per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""da sistemare""]",,,"{""Descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.gofundme.com/f/calabria-anticovid"", ""Nome"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>Nome: Alfredo Taranto
 comune: Cosenza
-contatti: ''
-descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario""
-destinatari: tutti
-fonte: https://www.gofundme.com/f/calabria-anticovid
+Descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario""
+Destinatari: tutti
+Link: https://www.gofundme.com/f/calabria-anticovid
 provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
