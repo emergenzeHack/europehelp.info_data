@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/869,584656623,2020-03-19 21:05:03,2020-03-19 19:46:44,Comune di #Calenzano #Firenze attiva servizio di consegna a domicilio di spesa e farmaci,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Email"": ""sindaco@comune.calenzano.fi.it"", ""Indirizzo"": ""43.86512 11.167195 0 0"", ""Link"": ""http://web.comune.calenzano.fi.it/portale/schede/Affari-generali-e-istituzionali/ufficio-stampa/comunicati-stampa/notizie-newsletter/il-sindaco-201cattenetevi-alle-disposizioni-del-governo-in-questa-fase-e-fondamentale-rallentare-la-diffusione-del-virus201d"", ""Nome"": ""Servizio Farmaci e Spesa a domicilio - Comune di Calenzano"", ""Scopo"": ""Il servizio \u00e8 dedicato agli anziani ed alle persone immunodepresse sole per la consegna domiciliare di spesa e medicinali. Per attivare il servizio di spesa a domicilio basta chiamare il numero 055 8833270, attivo dalle 9 alle 12 e dalle 15 alle 18 dal luned\u00ec al venerd\u00ec. Per comunicare la propria disponibilit\u00e0 come volontario basta scrivere un\u2019email a sindaco@comune.calenzano.fi.it."", ""Telefono"": ""055 8833270""}","<pre><yamldata>
+Email: sindaco@comune.calenzano.fi.it
+Indirizzo: 43.86512 11.167195 0 0
+Link: http://web.comune.calenzano.fi.it/portale/schede/Affari-generali-e-istituzionali/ufficio-stampa/comunicati-stampa/notizie-newsletter/il-sindaco-201cattenetevi-alle-disposizioni-del-governo-in-questa-fase-e-fondamentale-rallentare-la-diffusione-del-virus201d
+Nome: Servizio Farmaci e Spesa a domicilio - Comune di Calenzano
+Scopo: Il servizio è dedicato agli anziani ed alle persone immunodepresse sole per
+  la consegna domiciliare di spesa e medicinali. Per attivare il servizio di spesa
+  a domicilio basta chiamare il numero 055 8833270, attivo dalle 9 alle 12 e dalle
+  15 alle 18 dal lunedì al venerdì. Per comunicare la propria disponibilità come volontario
+  basta scrivere un’email a sindaco@comune.calenzano.fi.it.
+Telefono: 055 8833270
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/864,584575694,2020-03-19 18:51:21,2020-03-19 17:24:18,Elenco esercizi che consegnano a domicilio nei comuni della Puglia,41.125255,16.86199,Puglia,Bari,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Elenco degli esercizi commerciali che consegnano a domicilio nei comuni di Bari, Brindisi, Taranto, Lecce, Foggia, Trani."", ""Destinatari"": ""Tutti"", ""Link"": ""https://docs.google.com/document/d/1Y3i276T3zKAOdF8J6vwCGJGqpRqq2Mivm9gdffMHees"", ""Natura"": ""solidale"", ""Posizione"": ""41.125255 16.86199 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco degli esercizi che consegnano a domicilio nei comuni della Puglia""}","<pre><yamldata>
 Descrizione: Elenco degli esercizi commerciali che consegnano a domicilio nei comuni di Bari, Brindisi, Taranto, Lecce, Foggia, Trani.
 Destinatari: Tutti
