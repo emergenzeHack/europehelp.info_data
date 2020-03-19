@@ -2350,12 +2350,6 @@ Posizione: 45.442216 8.619968 0 0
 Provincia: Novara
 Regione: Piemonte
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/692,582966797,2020-03-17 14:53:15,2020-03-17 12:09:44,Dati AUSL (da aprire) #Bologna,,,,,"[""Bollettino"", ""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dati AUSL Bologna (da aprire)"", ""Fonte"": ""Ausl Bologna"", ""Indirizzo"": ""44.4943668 11.3417208"", ""Link"": ""http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza""}","<pre><yamldata>
-Cosa: Dati AUSL Bologna (da aprire)
-Fonte: Ausl Bologna
-Indirizzo: 44.4943668 11.3417208
-Link: http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/691,582959619,2020-03-17 18:34:09,2020-03-17 11:56:19,Servizi a domicilio #Carpiano (MI),45.341003,9.273378,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Carpiano"", ""Da_chi_offerta"": ""Comune di Carpiano"", ""Descrizione"": ""Le limitazioni introdotte per prevenire la diffusione del Coronavirus hanno un forte impatto sulle persone anziane o non autosufficienti: molte di loro vivono sole e in questi giorni, anche quando autosufficienti, non si fidano ad uscire di casa, hanno timore a chiedere assistenza per il rischio di contagio o vedono una riduzione dei servizi loro dedicati (es. chiusura del Centro Anziani).\nSoprattutto le persone anziane si sentono pi\u00f9 fragili e pi\u00f9 esposte.\n \nPer contrastare questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio attivi sul territorio e ha attivato, a partire da gioved\u00ec 5 marzo, una nuova \u201cLINEA VICINA\u201d"", ""Destinatari"": ""Anziani, non autosufficienti"", ""Link"": ""http://www.comune.carpiano.mi.it/c015050/po/mostra_news.php?id=926&area=H"", ""Natura"": ""solidale"", ""Posizione"": ""45.341003 9.273378 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea Vicina Carpiano""}","<pre><yamldata>
 Comune: Carpiano
 Da_chi_offerta: Comune di Carpiano
@@ -2545,10 +2539,10 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: VIDEO MULTILINGUE PER LA PREVENZIONE DEL COVID 19
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/682,582929228,2020-03-17 18:34:17,2020-03-17 11:00:10,Richiesta aiuto trasporto per lavorare in ospedale #Bergamo,45.69449,9.66987,Lombardia,Bergamo,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Cosa"": ""trasporto per lavorare in ospedale"", ""Descrizione"": ""ho necessit\u00e0 di arrivare al lavoro e tornare alla mia residenza al termine del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO"", ""Destinatari"": ""volontari"", ""Email"": ""piccolabambolina0@gmail.com"", ""Posizione"": ""45.69449 9.66987 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""Telefono"": ""3477034164""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/682,582929228,2020-03-19 22:10:20,2020-03-17 11:00:10,Richiesta aiuto trasporto per lavorare in ospedale #Bergamo,45.69449,9.66987,Lombardia,Bergamo,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Cosa"": ""trasporto per lavorare in ospedale"", ""Descrizione"": ""Ho necessit\u00e0 di arrivare al lavoro e tornare alla mia residenza al termine del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO"", ""Destinatari"": ""volontari"", ""Email"": ""piccolabambolina0@gmail.com"", ""Posizione"": ""45.69449 9.66987 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""Telefono"": ""3477034164""}","<pre><yamldata>
 Comune: Bergamo
 Cosa: trasporto per lavorare in ospedale
-Descrizione: ""ho necessit\xE0 di arrivare al lavoro e tornare alla mia residenza al\
+Descrizione: ""Ho necessit\xE0 di arrivare al lavoro e tornare alla mia residenza al\
   \ termine del mio turno di lavoro presso ospedale papa giovanni XIII BERGAMO""
 Destinatari: volontari
 Email: piccolabambolina0@gmail.com
@@ -4294,6 +4288,27 @@ Nome: Fondazione Solidal e Fondazione Cassa di Risparmio
 Posizione: 44.908712 8.617744 0 0
 Provincia: Alessandria
 Regione: Piemonte
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/554,581679142,2020-03-15 14:30:35,2020-03-15 13:40:38,AIPEC fornisce supporto web alle imprese,,,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""AIPEC - Associazione Italiana Imprenditori per un Economia di Comunione"", ""Descrizione"": ""-Formare il personale della vostra impresa per potenziare la possibilit\u00e0 di collegarvi online con\nclienti, fornitori, dipendenti e collaboratori.\n-Fornire direttamente assistenza alla vostra organizzazione per spostare online i vostri corsi e le\nvostre formazioni, cos\u00ec da non doverli sospendere totalmente\n-Studiare insieme nuovi format da poter mettere online per le prossime settimane e mesi,\nsecondo la vocazione della vostra organizzazione e i vostri contenuti."", ""Destinatari"": ""imprenditori"", ""Link"": ""www.aipec.it"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Supporto web alle imprese""}","<pre><yamldata>
+Da_chi_offerta: AIPEC - Associazione Italiana Imprenditori per un Economia di Comunione
+Descrizione: '-Formare il personale della vostra impresa per potenziare la possibilità
+  di collegarvi online con
+
+  clienti, fornitori, dipendenti e collaboratori.
+
+  -Fornire direttamente assistenza alla vostra organizzazione per spostare online
+  i vostri corsi e le
+
+  vostre formazioni, così da non doverli sospendere totalmente
+
+  -Studiare insieme nuovi format da poter mettere online per le prossime settimane
+  e mesi,
+
+  secondo la vocazione della vostra organizzazione e i vostri contenuti.'
+Destinatari: imprenditori
+Link: www.aipec.it
+Natura: sostegno-lavor
+Titolo: Supporto web alle imprese
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/551,581657185,2020-03-16 23:09:27,2020-03-15 12:38:34,Accesso per tutti agli scaffali digitali delle Biblioteche civiche #Torino,45.069505,7.683713,Piemonte,Torino,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Torino"", ""Da_chi_offerta"": ""Biblioteche civiche Comune di Torino"", ""Descrizione"": ""La Biblioteca digitale mette romanzi, saggi e altri testi a disposizione dei propri lettori mediante la piattaforma MediaLibraryOnLine.\n\nAnche chi non \u00e8 ancora iscritto al servizio di prestito delle Biblioteche pu\u00f2 fruirne semplicemente compilando un modulo, disponibile all\u2019indirizza web https://bct.comperio.it/registrazione-online/, per la pre-iscrizione online.\n\nIn questo modo i lettori residenti o domiciliati a Torino possono avere accesso immediato alla Biblioteca digitale per un periodo di 40 giorni, dopodich\u00e9, se vorranno continuare ad utilizzare il servizio, dovranno recarsi in biblioteca per rendere l\u2019iscrizione definitiva ritirando la propria tessera e scoprendo la ricca offerta di opportunit\u00e0 delle nostre biblioteche.\n\nInoltre, sempre per questo periodo, il numero di libri elettronici che \u00e8 possibile prendere in prestito passa da due a tre al mese. La biblioteca digitale delle Biblioteche civiche torinesi offre un catalogo di oltre 18.000 libri elettronici da scaricare sul proprio e-reader (o tablet o smartphone) compatibile con il formato epub, pi\u00f9 di 1000 audiolibri da ascoltare in streaming, circa 7000 fra giornali e riviste, italiani e stranieri (compresi i principali quotidiani nazionali) e oltre 120.000 dischi da ascoltare in streaming. Inoltre comprende quasi 1,5 milioni di risorse liberamente accessibili e gratuite, che possono essere utilizzate senza necessit\u00e0 di credenziali: fra queste si segnalano in particolare i materiali didattici online per la scuola primaria e per la scuola secondaria di primo grado e di e di secondo grado, oltre a ebook, video, audiolibri e archivi di immagini.\n\nDa ricordare, tra gli altri servizi on line delle Biblioteche civiche, le\n\u201cLetture ad alta voce per i pi\u00f9 piccoli\u201d online sulle pagine social delle Biblioteche civiche torinesi Facebook e Instagram e le mostre virtuali, i video, le collezioni storiche e digitali che possono essere fruite visitando il sito www.comune.torino.it/cultura/biblioteche.\n\nInoltre, un servizio di informazioni online \u00e8 a disposizione di tutti per chiedere aggiornamenti scrivendo all\u2019indirizzo biblioteche.civiche@comune.torino.it. Si potranno richiedere informazioni bibliografiche scrivendo a: chiediallebiblioteche@comune.torino.it."", ""Destinatari"": ""Cittedine e cittadini torinesi"", ""Link"": ""http://www.torinoclick.it/?p=87671&fbclid=IwAR0_p830F2LKHGnh5JJboMJR9gTTBYSVxkCVCuLGjgixwDVJ1GsjavG_E3s"", ""Natura"": ""solidale"", ""Posizione"": ""45.069505 7.683713 0 0"", ""Provincia"": ""Torino"", ""Regione"": ""Piemonte"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Accesso per tutti agli scaffali digitali delle Biblioteche civiche #Torino""}","<pre><yamldata>
 Comune: Torino
