@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/842,584368200,2020-03-19 12:34:41,2020-03-19 12:12:25,Raccolta fondi #Pavia a favore del Policlinico San Matteo,45.187481,9.15513,Lombardia,Pavia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\\'La Fondazione IRCCS Policlinico San Matteo, da settimane, \u00e8 in prima linea nella gestione dell''emergenza da Coronavirus, sia per l''analisi dei tamponi sia per la cura e l''assistenza a tutti i pazienti.\nAlcuni cittadini hanno gi\u00e0 contribuito per sostenere la ricerca e l''arrivit\u00e0 sanitaria. Se anche tu desideri sostenerci in questo momento, puoi farlo con una delle seguenti modalit\u00e0:'\\"", ""Link"": ""http://www.sanmatteo.org/site/home/area-comunicazione/in-primo-piano/articolo4700.html"", ""Nome"": ""IRCCS Policlinico San Matteo Pavia"", ""Posizione"": ""45.187481 9.15513 0 0""}","<pre><yamldata>
+Descrizione: \'La Fondazione IRCCS Policlinico San Matteo, da settimane, è in prima
+  linea nella gestione dell''emergenza da Coronavirus, sia per l''analisi dei tamponi
+  sia per la cura e l''assistenza a tutti i pazienti.
+
+ Alcuni cittadini hanno già contribuito per sostenere la ricerca e l''arrività sanitaria.
+  Se anche tu desideri sostenerci in questo momento, puoi farlo con una delle seguenti
+  modalità:'\
+Link: http://www.sanmatteo.org/site/home/area-comunicazione/in-primo-piano/articolo4700.html
+Nome: IRCCS Policlinico San Matteo Pavia
+Posizione: 45.187481 9.15513 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/841,584365945,2020-03-19 12:32:28,2020-03-19 12:07:55,Raccolta fondi per l'ASST di #Monza,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""EMERGENZA CORONAVIRUS  seguito da nome, cognome e codice fiscale del benefattore e da un contatto mail o telefonico"", ""Descrizione"": ""\\\""la ASST Monza avvia una raccolta fondi destinata alle necessit\u00e0 dell\u2019emergenza.\\n\\ \\n \\n\\nChiunque potr\u00e0 donare quello che pu\u00f2 sul conto corrente della ASST\\n\\nbeneficiario\\ \\ ASST Monza\\n\\nIBAN IT49L0306920407100000046081\\n\\nBIC_SWIFT BCITITMM\\n\\nIntesa\\ \\ San Paolo S.p.A.\\n\\nPiazza Trento Trieste 10, Monza (MB)\\n\\n \\n\\nSpecificando\\ \\ nella causale EMERGENZA CORONAVIRUS\\n\\nseguito da nome, cognome e codice fiscale\\ \\ del benefattore e da un contatto mail o telefonico.\\n\\n \\n\\nPoich\u00e9 pervengono\\ \\ numerose segnalazioni che sui social stanno proliferando raccolte fondi per ASST\\ \\ Monza per fronteggiare l\u2019emergenza sanitaria, desideriamo informare i cittadini\\ \\ che il canale istituzionale \u00e8 solo quello sopraindicato.\""\\"", ""IBAN"": ""IT49L0306920407100000046081"", ""Indirizzo"": ""45.6494354 13.7681366 0 0"", ""Intestazione"": ""ASST Monza"", ""Link"": ""https://www.asst-monza.it/web/guest/donazioni-coronavirus"", ""Nome"": ""ASST MONZA""}","<pre><yamldata>
 Causale: EMERGENZA CORONAVIRUS  seguito da nome, cognome e codice fiscale del benefattore
   e da un contatto mail o telefonico
@@ -7751,6 +7763,11 @@ Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contat
 Posizione: 41.0965024 16.9564435 0 0
 Provincia: Bari
 Regione: Puglia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954,2020-03-18 13:40:44,2020-03-11 15:04:10,ilmanifesto.it gratis per tutte e tutti,,,,,"[""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Gi\u00f9 il muro: ilmanifesto.it gratis per tutti"", ""Descrizione"": ""\u2018Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)\u2019"", ""Link"": ""https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/""}","<pre><yamldata>
+Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
+Descrizione: ‘Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)’
+Link: https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954,2020-03-18 13:40:44,2020-03-11 15:04:10,ilmanifesto.it gratis per tutte e tutti,,,,,"[""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Gi\u00f9 il muro: ilmanifesto.it gratis per tutti"", ""Descrizione"": ""\u2018Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)\u2019"", ""Link"": ""https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/""}","<pre><yamldata>
 Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
