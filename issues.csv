@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/802,584051636,2020-03-19 08:13:07,2020-03-18 22:57:46,Consegne a domicilio: l'elenco aggiornato #Rieti,42.402856,12.857283,Lazio,Rieti,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Cresce la platea di operatori commerciali reatini che hanno aderito all\u2019iniziativa, lanciata dall\u2019Assessorato alle attivit\u00e0 produttiva e coordinata dall\u2019Unit\u00e0 di Crisi con il supporto del COC, per favorire le consegne a domicilio, nel tentativo da un lato di dare sostegno alle attivit\u00e0 economiche e dall\u2019altro di contribuire a ridurre la mobilit\u00e0 delle persone. Ad oggi sono saliti a circa 50 gli operatori economici, di varie categorie merceologiche, ad aver aderito all\u2019iniziativa.\n\nNel prospetto allegato puoi trovare nominativi, contatti telefonici e altri info utili."", ""Destinatari"": ""Consumatori"", ""Link"": ""http://www.comune.rieti.it/article/20/03/consegne-domicilio-cresce-la-platea-degli-operatori-commerciali-consulta-lelenco"", ""Natura"": ""solidale"", ""Posizione"": ""42.402856 12.857283 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne a domicilio: cresce la platea degli operatori commerciali. Consulta l'elenco aggiornato.""}","<pre><yamldata>
+Descrizione: 'Cresce la platea di operatori commerciali reatini che hanno aderito
+  all’iniziativa, lanciata dall’Assessorato alle attività produttiva e coordinata
+  dall’Unità di Crisi con il supporto del COC, per favorire le consegne a domicilio,
+  nel tentativo da un lato di dare sostegno alle attività economiche e dall’altro
+  di contribuire a ridurre la mobilità delle persone. Ad oggi sono saliti a circa
+  50 gli operatori economici, di varie categorie merceologiche, ad aver aderito all’iniziativa.
+
+
+  Nel prospetto allegato puoi trovare nominativi, contatti telefonici e altri info
+  utili.'
+Destinatari: Consumatori
+Link: http://www.comune.rieti.it/article/20/03/consegne-domicilio-cresce-la-platea-degli-operatori-commerciali-consulta-lelenco
+Natura: solidale
+Posizione: 42.402856 12.857283 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Consegne a domicilio: cresce la platea degli operatori commerciali. Consulta
+  l''elenco aggiornato.'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/800,584010022,2020-03-19 08:10:17,2020-03-18 21:20:01,Avviso per i cittadini italiani nel #RegnoUnito,51.517517,-0.113983,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""COVID-19 - Avviso per i cittadini italiani nel Regno Unito"", ""Descrizione"": ""Da alcuni giorni l\u2019Ambasciata d\u2019Italia a Londra e i Consolati Generali a Londra e ad Edimburgo hanno attivato un gruppo di lavoro dedicato alla gestione dell\u2019emergenza COVID-19. Condividiamo di seguito alcune utili informazioni per i cittadini italiani nel Regno Unito."", ""Link"": ""https://amblondra.esteri.it/ambasciata_londra/it/ambasciata/ufficio-stampa/news/covid-19-avviso-per-i-cittadini.html"", ""Posizione"": ""51.517517 -0.113983 0 0""}","<pre><yamldata>
 Cosa: COVID-19 - Avviso per i cittadini italiani nel Regno Unito
 Descrizione: Da alcuni giorni l’Ambasciata d’Italia a Londra e i Consolati Generali
