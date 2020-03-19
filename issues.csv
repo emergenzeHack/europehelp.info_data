@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/864,584575694,2020-03-19 18:33:31,2020-03-19 17:24:18,Elenco esercizi che consegnano a domicilio nei comuni della Puglia,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Elenco degli esercizi commerciali che consegnano a domicilio nei comuni di Bari, Brindisi, Taranto, Lecce, Foggia, Trani."", ""Destinatari"": ""Tutti"", ""Link"": ""https://docs.google.com/document/d/1Y3i276T3zKAOdF8J6vwCGJGqpRqq2Mivm9gdffMHees"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco degli esercizi che consegnano a domicilio nei comuni della Puglia""}","<pre><yamldata>
+Descrizione: Elenco degli esercizi commerciali che consegnano a domicilio nei comuni di Bari, Brindisi, Taranto, Lecce, Foggia, Trani.
+Destinatari: Tutti
+Link: https://docs.google.com/document/d/1Y3i276T3zKAOdF8J6vwCGJGqpRqq2Mivm9gdffMHees
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Elenco degli esercizi che consegnano a domicilio nei comuni della Puglia
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/846,584371823,2020-03-19 12:39:07,2020-03-19 12:18:57,Raccolta fondi a favore dell'Ospedale Niguarda di #Milano,45.509870750000005,9.186030699233626,Lombardia,Milano,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale"", ""Nome"": ""Ospedale Niguarda"", ""Posizione"": ""45.509870750000005 9.186030699233626 0 0""}","<pre><yamldata>
 Link: https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale
 Nome: Ospedale Niguarda
@@ -1053,28 +1061,6 @@ Link: https://www.facebook.com/erisedizioni/photos/a.629950143726596/27680443365
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Adotta una libreria
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/780,583816590,2020-03-18 16:00:31,2020-03-18 15:36:25,L’A.O. Civico Benfratelli #Palermo seleziona con urgenza un #Biologo,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""L\u2019A.O. \u201cCivico Benfratelli\u201d di Palermo seleziona con urgenza un Biologo"", ""Descrizione"": ""L\u2019azienda Ospedaliera di Alta Specializzazione Civico Benfratelli di Palermo seleziona con urgenza un Biologo con Specializzazione in Microbiologia e Virologia per il conferimento di contratto a tempo determinato. Il concorso \u00e8 bandito in urgenza ai sensi dell\u2019Art. 2 Decreto Legislativo n.14/2020 per il contesto di emergenza e conseguente contenimento della pandemia da Covid-19.\nSi rammenta che trattandosi di un concorso emanato in regime di Urgenza, la scadenza per la presentazione della domanda di partecipazione \u00e8 conseguentemente molto breve, essa \u00e8 fissata per il 19 Marzo 2020.\nIl concorso \u00e8 il primo in Sicilia, ed \u00e8 prova dell\u2019impegno della Delegazione Regionale Sicilia, nel sostenere ufficialmente l\u2019urgenza di procedure concorsuale per i Biologi agendo con un interlocuzione istituzionale continua.\nSi invitano i colleghi interessati a prendere visione del bando al seguente all\u2019indirizzo Arnascivico.it"", ""Destinatari"": ""Biologi e biologhe"", ""Indirizzo"": ""38.1109 13.352814 0 0"", ""Link"": ""https://www.onb.it/2020/03/18/la-o-civico-benfratelli-di-palermo-seleziona-con-urgenza-un-biologo/""}","<pre><yamldata>
-Cosa: L’A.O. “Civico Benfratelli” di Palermo seleziona con urgenza un Biologo
-Descrizione: 'L’azienda Ospedaliera di Alta Specializzazione Civico Benfratelli di
-  Palermo seleziona con urgenza un Biologo con Specializzazione in Microbiologia e
-  Virologia per il conferimento di contratto a tempo determinato. Il concorso è bandito
-  in urgenza ai sensi dell’Art. 2 Decreto Legislativo n.14/2020 per il contesto di
-  emergenza e conseguente contenimento della pandemia da Covid-19.
-
-  Si rammenta che trattandosi di un concorso emanato in regime di Urgenza, la scadenza
-  per la presentazione della domanda di partecipazione è conseguentemente molto breve,
-  essa è fissata per il 19 Marzo 2020.
-
-  Il concorso è il primo in Sicilia, ed è prova dell’impegno della Delegazione Regionale
-  Sicilia, nel sostenere ufficialmente l’urgenza di procedure concorsuale per i Biologi
-  agendo con un interlocuzione istituzionale continua.
-
-  Si invitano i colleghi interessati a prendere visione del bando al seguente all’indirizzo
-  Arnascivico.it'
-Destinatari: Biologi e biologhe
-Indirizzo: 38.1109 13.352814 0 0
-Link: https://www.onb.it/2020/03/18/la-o-civico-benfratelli-di-palermo-seleziona-con-urgenza-un-biologo/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/779,583789361,2020-03-18 16:56:44,2020-03-18 14:57:33, #Stopcovid19: campagna video di prevenzione in 12 lingue,44.55215,11.44363,Emilia-Romagna,Bologna,"[""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Campagna video di prevenzione in 12 lingue"", ""Descrizione"": ""La campagna #Stopcovid19 vuole, attraverso videoselfie, rendere pi\u00f9 accessibili le regole di comportamento diffuse dall\u2019Istituto Superiore della Sanit\u00e0, il Ministero della Salute, le Regioni, gli Ordini professionali e le Societ\u00e0 scientifiche. Arca di No\u00e8 ha realizzato i video coinvolgendo i suoi lavoratori mediatori linguistici e culturali. La cooperativa dal 2008 offre servizi professionali di accoglienza richiedenti asilo e rifugiati per favorire l\u2019autonomia e l\u2019inserimento socio-lavorativo delle persone migranti accolte."", ""Destinatari"": ""I migranti accolti e le comunit\u00e0 straniere che vivono in Italia/Europa."", ""Email"": ""comunicazione@arcacoop.com"", ""Immagine"": ""Anteprima-campagna-stopcovid19-768x512-15_57_25.jpg"", ""Link"": ""https://www.arcacoop.com/stopcovid19-campagna-multilingue/"", ""Posizione"": ""44.55215 11.44363"", ""Telefono"": ""3403310558""}","<pre><yamldata>
 Cosa: Campagna video di prevenzione in 12 lingue
@@ -5383,31 +5369,6 @@ Regione: Calabria
 Tipo_di_soggetto: privato
 Titolo: 'Spesa e medicinali a domicilio #Rosarno'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/409,581205830,2020-03-16 23:10:34,2020-03-14 13:16:44,"La Confraternità dell'uvo, Consegna libri a domicilio #Bologna",44.494185,11.342635,Emilia-Romagna,Bologna,"[""Bollettino"", ""Consegne e commissioni"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Da_chi_offerta"": ""La Confraternita dell'Uva - Libreria, Caf\u00e9, Wine Bar"", ""Descrizione"": ""Se cessassimo del tutto le nostre attivit\u00e0 in questo momento, non potremmo pi\u00f9 riprenderle quando tutto sar\u00e0 tornato alla normalit\u00e0, e speriamo, naturalmente, che ci\u00f2 accada presto.\n\nPer questo vi ricordiamo che se volete sostenerci anche a distanza, SPEDIAMO LIBRI IN TUTTA ITALIA con pieghi di libri (#spedizionegratuita a partire dai 30\u20ac).\n\nVI RICORDIAMO CHE: potete ordinare qualsiasi libro desideriate direttamente da casa, utilizzando il portale GoodBook.it (www.goodbook.it), ritirandolo e pagando direttamente nella nostra libreria senza alcuna spesa di spedizione alla #riapertura.\nAl momento purtroppo non si sa quando i magazzini e i distributori riprenderanno a consegnare.\n\nSe possibile (stiamo ancora cercando di capire se si pu\u00f2 ancora) riprenderemo nella citt\u00e0 di #Bologna CONSEGNA A DOMICILIO GRATUITO in #biciletta di #libri e contr\u00f3ra vini!\n\nScriveteci all'indirizzo barlibrerialaconfraternita@gmail.com per maggiori #info e #ordini."", ""Destinatari"": ""abitanti di Bologna"", ""Link"": ""https://www.facebook.com/La-confraternita-delluva-Libreria-Caf%C3%A8-Wine-Bar-224098721349631/?__tn__=kC-R&eid=ARBJMTEcAlCwyV4Q0No0oKy9Yvnn-zOOdsitKejYbRFeuyc5Om0cEiahwPOBiSQVD1J4L9mFcZRpv8rt&hc_ref=ARSHkCYCyrDjPWCU5KaRV3uf3wTwl2Pu39csvWtcX2PvLvT4ys_wQpnJrd35vXZqJSc&fref=nf"", ""Natura"": ""solidale"", ""Posizione"": ""44.494185 11.342635 0 0"", ""Provincia"": ""Bologna"", ""Regione"": ""Emilia-Romagna"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna libri a domicilio gratuito #Bologna""}","<pre><yamldata>
-Comune: Bologna
-Da_chi_offerta: ""La Confraternita dell'Uva - Libreria, Caf\xE9, Wine Bar""
-Descrizione: ""Se cessassimo del tutto le nostre attivit\xE0 in questo momento, non\
-  \ potremmo pi\xF9 riprenderle quando tutto sar\xE0 tornato alla normalit\xE0, e\
-  \ speriamo, naturalmente, che ci\xF2 accada presto.\n\nPer questo vi ricordiamo\
-  \ che se volete sostenerci anche a distanza, SPEDIAMO LIBRI IN TUTTA ITALIA con\
-  \ pieghi di libri (#spedizionegratuita a partire dai 30\u20AC).\n\nVI RICORDIAMO\
-  \ CHE: potete ordinare qualsiasi libro desideriate direttamente da casa, utilizzando\
-  \ il portale GoodBook.it (www.goodbook.it), ritirandolo e pagando direttamente nella\
-  \ nostra libreria senza alcuna spesa di spedizione alla #riapertura.\nAl momento\
-  \ purtroppo non si sa quando i magazzini e i distributori riprenderanno a consegnare.\n\
-  \nSe possibile (stiamo ancora cercando di capire se si pu\xF2 ancora) riprenderemo\
-  \ nella citt\xE0 di #Bologna CONSEGNA A DOMICILIO GRATUITO in #biciletta di #libri\
-  \ e contr\xF3ra vini!\n\nScriveteci all'indirizzo barlibrerialaconfraternita@gmail.com\
-  \ per maggiori #info e #ordini.""
-Destinatari: abitanti di Bologna
-Link: https://www.facebook.com/La-confraternita-delluva-Libreria-Caf%C3%A8-Wine-Bar-224098721349631/?__tn__=kC-R&eid=ARBJMTEcAlCwyV4Q0No0oKy9Yvnn-zOOdsitKejYbRFeuyc5Om0cEiahwPOBiSQVD1J4L9mFcZRpv8rt&hc_ref=ARSHkCYCyrDjPWCU5KaRV3uf3wTwl2Pu39csvWtcX2PvLvT4ys_wQpnJrd35vXZqJSc&fref=nf
-Natura: solidale
-Posizione: 44.494185 11.342635 0 0
-Provincia: Bologna
-Regione: Emilia-Romagna
-Tipo_di_soggetto: privato
-Titolo: 'Consegna libri a domicilio gratuito #Bologna'
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-16 23:02:27,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,Lombardia,Varese,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Varese"", ""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Provincia"": ""Varese"", ""Regione"": ""Lombardia"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
 Comune: Varese
 Da_chi_offerta: TEDx Varese
@@ -5493,15 +5454,6 @@ Nome: Comune di Milano
 Posizione: 45.463803 9.190744 0 0
 Provincia: Milano
 Regione: Lombardia
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/398,581160614,2020-03-14 22:15:52,2020-03-14 11:14:27,Avviso pubblico manifestazione di interesse Medici Regione #Lombardia,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia"", ""Descrizione"": ""Nell\u2019ambito dell\u2019emergenza sanitaria Coronavirus Regione Lombardia approva un avviso pubblico volto a raccogliere manifestazioni di interesse per prestare attivit\u00e0 assistenziale nelle Aziende/Enti Sanitari e Sociosanitari della Lombardia"", ""Destinatari"": ""Medici specialisti, medici specializzandi e medici laureati"", ""Indirizzo"": ""45.46442 9.188859 0 0"", ""Link"": ""https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioBando/servizi-e-informazioni/enti-e-operatori/sistema-welfare/avviso-medici-specializzandi/avviso-medici-specializzandi""}","<pre><yamldata>
-Cosa: 'Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia'
-Descrizione: Nell’ambito dell’emergenza sanitaria Coronavirus Regione Lombardia approva
-  un avviso pubblico volto a raccogliere manifestazioni di interesse per prestare
-  attività assistenziale nelle Aziende/Enti Sanitari e Sociosanitari della Lombardia
-Destinatari: Medici specialisti, medici specializzandi e medici laureati
-Indirizzo: 45.46442 9.188859 0 0
-Link: https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioBando/servizi-e-informazioni/enti-e-operatori/sistema-welfare/avviso-medici-specializzandi/avviso-medici-specializzandi
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/397,581160296,2020-03-16 23:02:30,2020-03-14 11:13:32,Consegna spesa e farmaci a domicilio Comune di #Jesi,43.523047,13.24439,Marche,Ancona,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Jesi"", ""Da_chi_offerta"": ""Comune di Jesi"", ""Descrizione"": ""SERVIZIO FARMACI A DOMICILIO   \nSi attiva chiamando il NUMERO VERDE 800-065510 ATTIVO TUTTI I GIORNI 24 ORE SU 24: il personale della CROCE ROSSA (CRI) riconoscibile dall'uniforme ritira la ricetta o il promemoria presso il medico e si reca presso la farmacia pi\u00f9 vicina al domicilio dell'utente.\n\nSi pu\u00f2 chiedere di essere inseriti in questo elenco compilando il modulo a questo indirizzo http://bit.ly/3aP723q"", ""Destinatari"": ""persone con oltre 65 anni o non autosufficienti, soggetti con tosse, febbre, soggetti a quarantena o positivi al COVID -19"", ""Link"": ""https://www.comune.jesi.an.it/articoli/Spesa-e-farmaci-a-domicilio/"", ""Natura"": ""solidale"", ""Posizione"": ""43.523047 13.24439 0 0"", ""Provincia"": ""Ancona"", ""Regione"": ""Marche"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa e farmaci a domicilio""}","<pre><yamldata>
 Comune: Jesi
