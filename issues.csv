@@ -1,20 +1,9 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/830,584341259,2020-03-19 11:22:29,2020-03-19 11:21:51,Terzocentro offre supporto psicologico al personale sanitario,,,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Terzocentro"", ""Descrizione"": ""IN CONSIDERAZIONE DELL\u2019EMERGENZA COVID-19, TUTTI GLI PSICOTERAPEUTI DEL TERZOCENTRO METTONO GRATUITAMENTE A DISPOSIZIONE LA LORO PROFESSIONALITA\u2019, TRAMITE VIDEOCHIAMATE, PER IL SUPPORTO PSICOLOGICO DI TUTTI I MEDICI, INFERMIERI E OPERATORI SANITARI VARI CHE CON SACRIFICIO E DEDIZIONE, TRA MILLE DIFFICOLTA\u2019, STANNO SPENDENDOSI SENZA SOSTA PER FRONTEGGIARE LA SITUAZIONE.\n\nCOLORO CHE VOLESSERO USUFRUIRNE POSSONO EFFETTUARE LA RICHIESTA TRAMITE I RECAPITI DELLA SEGRETARIA (TELEFONO, EMAIL, ECC.) E SARANNO CONTATTATI QUANTO PRIMA DA UNO DEGLI PSICOTERAPEUTI DEL CENTRO.\n\nRICORDIAMO CHE L\u2019ORDINE DEGLI PSICOLOGI FORNISCE SUL SUO SITO UN ELENCO DI PSICOTERAPEUTI DISPONIBILI IN QUESTO MOMENTO PER TUTTA LA POPOLAZIONE."", ""Destinatari"": ""Personale sanitario"", ""Link"": ""https://www.terzocentro.it/news/covid-19-supporto-al-personale-sanitario/?fbclid=IwAR2L6JLbuA7S1GNBJSSka0wuZBnonBzCFvYpwRYA4B0vhtaeNtlavku6-ZI"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Terzocentro offre supporto psicologico al personale sanitario""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/830,584341259,2020-03-19 11:38:08,2020-03-19 11:21:51,Terzocentro offre supporto psicologico al personale sanitario,,,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Terzocentro"", ""Descrizione"": ""IN CONSIDERAZIONE DELL\u2019EMERGENZA COVID-19, TUTTI GLI PSICOTERAPEUTI DEL TERZOCENTRO METTONO GRATUITAMENTE A DISPOSIZIONE LA LORO PROFESSIONALITA\u2019, TRAMITE VIDEOCHIAMATE, PER IL SUPPORTO PSICOLOGICO DI TUTTI I MEDICI, INFERMIERI E OPERATORI SANITARI VARI CHE CON SACRIFICIO E DEDIZIONE, TRA MILLE DIFFICOLTA\u2019, STANNO SPENDENDOSI SENZA SOSTA PER FRONTEGGIARE LA SITUAZIONE. COLORO CHE VOLESSERO USUFRUIRNE POSSONO EFFETTUARE LA RICHIESTA TRAMITE I RECAPITI DELLA SEGRETARIA (TELEFONO, EMAIL, ECC.) E SARANNO CONTATTATI QUANTO PRIMA DA UNO DEGLI PSICOTERAPEUTI DEL CENTRO. RICORDIAMO CHE L\u2019ORDINE DEGLI PSICOLOGI FORNISCE SUL SUO SITO UN ELENCO DI PSICOTERAPEUTI DISPONIBILI IN QUESTO MOMENTO PER TUTTA LA POPOLAZIONE."", ""Destinatari"": ""Personale sanitario"", ""Link"": ""https://www.terzocentro.it/news/covid-19-supporto-al-personale-sanitario/?fbclid=IwAR2L6JLbuA7S1GNBJSSka0wuZBnonBzCFvYpwRYA4B0vhtaeNtlavku6-ZI"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Terzocentro offre supporto psicologico al personale sanitario""}","<pre><yamldata>
 Da_chi_offerta: Terzocentro
-Descrizione: 'IN CONSIDERAZIONE DELL’EMERGENZA COVID-19, TUTTI GLI PSICOTERAPEUTI
-  DEL TERZOCENTRO METTONO GRATUITAMENTE A DISPOSIZIONE LA LORO PROFESSIONALITA’, TRAMITE
-  VIDEOCHIAMATE, PER IL SUPPORTO PSICOLOGICO DI TUTTI I MEDICI, INFERMIERI E OPERATORI
-  SANITARI VARI CHE CON SACRIFICIO E DEDIZIONE, TRA MILLE DIFFICOLTA’, STANNO SPENDENDOSI
-  SENZA SOSTA PER FRONTEGGIARE LA SITUAZIONE.
-
-
-  COLORO CHE VOLESSERO USUFRUIRNE POSSONO EFFETTUARE LA RICHIESTA TRAMITE I RECAPITI
-  DELLA SEGRETARIA (TELEFONO, EMAIL, ECC.) E SARANNO CONTATTATI QUANTO PRIMA DA UNO
-  DEGLI PSICOTERAPEUTI DEL CENTRO.
-
-
-  RICORDIAMO CHE L’ORDINE DEGLI PSICOLOGI FORNISCE SUL SUO SITO UN ELENCO DI PSICOTERAPEUTI
-  DISPONIBILI IN QUESTO MOMENTO PER TUTTA LA POPOLAZIONE.'
+Descrizione: 'IN CONSIDERAZIONE DELL’EMERGENZA COVID-19, TUTTI GLI PSICOTERAPEUTI DEL TERZOCENTRO METTONO GRATUITAMENTE A DISPOSIZIONE LA LORO PROFESSIONALITA’, TRAMITE VIDEOCHIAMATE, PER IL SUPPORTO PSICOLOGICO DI TUTTI I MEDICI, INFERMIERI E OPERATORI SANITARI VARI CHE CON SACRIFICIO E DEDIZIONE, TRA MILLE DIFFICOLTA’, STANNO SPENDENDOSI SENZA SOSTA PER FRONTEGGIARE LA SITUAZIONE.
+COLORO CHE VOLESSERO USUFRUIRNE POSSONO EFFETTUARE LA RICHIESTA TRAMITE I RECAPITI DELLA SEGRETARIA (TELEFONO, EMAIL, ECC.) E SARANNO CONTATTATI QUANTO PRIMA DA UNO DEGLI PSICOTERAPEUTI DEL CENTRO.
+RICORDIAMO CHE L’ORDINE DEGLI PSICOLOGI FORNISCE SUL SUO SITO UN ELENCO DI PSICOTERAPEUTI DISPONIBILI IN QUESTO MOMENTO PER TUTTA LA POPOLAZIONE.'
 Destinatari: Personale sanitario
 Link: https://www.terzocentro.it/news/covid-19-supporto-al-personale-sanitario/?fbclid=IwAR2L6JLbuA7S1GNBJSSka0wuZBnonBzCFvYpwRYA4B0vhtaeNtlavku6-ZI
 Natura: solidale
@@ -53,7 +42,7 @@ Link: www.prendiamolaconfilosofia.it/
 Natura: culturale-ricr
 Titolo: Prendiamola con filosofia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/814,584314698,2020-03-19 11:37:39,2020-03-19 10:36:18,Dogsitting: devo fermarmi?,,,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dogsitting: devo fermarmi?"", ""Descrizione"": ""Salve. Faccio il dogsitter per una persona 3 volte a settimana. Nulla di registrato, un accordo privato. Nello svolgere la mia attivit\u00e0 non entro in contatto con nessuna persona ed il rischio contagio \u00e8 pressoch\u00e9 inesistente. Temo un po' se la polizia mi dovesse fermare. Cosa consigliereste?"", ""Destinatari"": ""Chiunque possa rispondermi"", ""Email"": ""memorymoggi@mail.com"", ""Telefono"": ""3270695973""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/814,584314698,2020-03-19 11:39:17,2020-03-19 10:36:18,Dogsitting: devo fermarmi? Richiesta di chiarimenti,,,,,"[""Richiesta aiuto"", ""accettato"", ""da sistemare"", ""form""]",,,"{""Cosa"": ""Dogsitting: devo fermarmi?"", ""Descrizione"": ""Salve. Faccio il dogsitter per una persona 3 volte a settimana. Nulla di registrato, un accordo privato. Nello svolgere la mia attivit\u00e0 non entro in contatto con nessuna persona ed il rischio contagio \u00e8 pressoch\u00e9 inesistente. Temo un po' se la polizia mi dovesse fermare. Cosa consigliereste?"", ""Destinatari"": ""Chiunque possa rispondermi"", ""Email"": ""memorymoggi@mail.com"", ""Telefono"": ""3270695973""}","<pre><yamldata>
 Cosa: 'Dogsitting: devo fermarmi?'
 Descrizione: Salve. Faccio il dogsitter per una persona 3 volte a settimana. Nulla
   di registrato, un accordo privato. Nello svolgere la mia attività non entro in contatto
