@@ -1,45 +1,277 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/907,585082264,2020-03-20 13:50:28,2020-03-20 13:49:19,"Servizio assistenza ad anziani, malati e persone con disabilità Municipio 10 #Roma",41.73299,12.281331,Lazio,Roma,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio Roma 10"", ""Descrizione"": ""Si \u00e8 attivato il \""Servizio di Assistenza ad Anziani, malati e persone con disabilit\u00e0\""\n\nIl Municipio X, attraverso la rete formale ed informale, mette a disposizione un servizio di informazione, orientamento ed assistenza per i cittadini che non riescono a provvedere autonomamente, poich\u00e9 impossibilitati a muoversi ed abbiano esigenze quali:\n\n- approvvigionamento farmaci*;\n\n- approvvigionamento generi alimentari*;\n\n- sostegno telefonico;\n\n- pasti a domicilio.\n\n*Il costo della spesa e dei farmaci \u00e8 a carico del richiedente\n\nI contatti\n\nSegretariato sociale/PUA marted\u00ec e gioved\u00ec dalle ore 9.00 alle ore12.00 via telefono al numero 06/69613519\n\npec: protocollo.municipioroma10@pec.comune.roma.it"", ""Destinatari"": ""Cittadine e cittadini Municipio Roma 10"", ""Natura"": ""solidale"", ""Posizione"": ""41.73299 12.281331 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio di Assistenza ad anziani, malati e persone con disabilit\u00e0 Municipio 10 #Roma""}","<pre><yamldata>
-Da_chi_offerta: Municipio Roma 10
-Descrizione: 'Si è attivato il ""Servizio di Assistenza ad Anziani, malati e persone
-  con disabilità""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/923,585211352,2020-03-20 17:21:02,2020-03-20 17:10:24,Non è vera la notizia sul biocontenimento BSL-4,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Biocontenimento BSL-4, Protezione civile"", ""Descrizione"": ""Il dipartimento della protezione civile, \nin collaborazione col governo ha deliberato \nche il 15 aprile se l\u2019epidemia non \u00e8 \nstata contenuta verr\u00e1 dichiarato \nil biocontenimento BSL-4. \nIl pi\u00f9 alto che prevede protocolli \ndi contenimento estremamente stringenti.\nSe l\u2019oms dichiara la pandemia significa \nche il MONDO SI FERMER\u00c0 \nCOMPLETAMENTE PER 21 GIORNI. \nBorsa, parlamenti, scuole, aeroporti, \ntreni, uffici, attivit\u00e0 commerciali, tutto. \nSolo un membro per ogni nucleo famigliare sar\u00e0 dotato del kit necessario per recarsi \nai checkpoint militari approntati \nper i rifornimenti necessari. \nNessun\u2019altra potr\u00e0 lasciare la quarantena domiciliare, malato o sano, grave o no. \nDopo 21 giorni sapremo se il virus \u00e8 sconfitto ma faremo la conta di un isolamento cos\u00ec rigido.\n\nPER FAVORE\n #stateacasa \nCopiate e incollate ce la possiamo fare vi prego siamo forti cos\u00ec ad aprile tutto questo finir\u00e0!!!"", ""Link"": ""https://www.open.online/2020/03/10/la-bufala-whatsapp-sulla-protezione-civile-e-il-biocontenimento-bsl-4/""}","<pre><yamldata>
+Cosa: Biocontenimento BSL-4, Protezione civile
+Descrizione: ""Il dipartimento della protezione civile, \nin collaborazione col governo\
+  \ ha deliberato \nche il 15 aprile se l’epidemia non è \nstata contenuta verrá dichiarato\
+  \ \nil biocontenimento BSL-4. \nIl più alto che prevede protocolli \ndi contenimento\
+  \ estremamente stringenti.\nSe l’oms dichiara la pandemia significa \nche il MONDO\
+  \ SI FERMERÀ \nCOMPLETAMENTE PER 21 GIORNI. \nBorsa, parlamenti, scuole, aeroporti,\
+  \ \ntreni, uffici, attività commerciali, tutto. \nSolo un membro per ogni nucleo\
+  \ famigliare sarà dotato del kit necessario per recarsi \nai checkpoint militari\
+  \ approntati \nper i rifornimenti necessari. \nNessun’altra potrà lasciare la quarantena\
+  \ domiciliare, malato o sano, grave o no. \nDopo 21 giorni sapremo se il virus è\
+  \ sconfitto ma faremo la conta di un isolamento così rigido.\n\nPER FAVORE\n #stateacasa\
+  \ \nCopiate e incollate ce la possiamo fare vi prego siamo forti così ad aprile\
+  \ tutto questo finirà!!!""
+Link: https://www.open.online/2020/03/10/la-bufala-whatsapp-sulla-protezione-civile-e-il-biocontenimento-bsl-4/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/922,585198339,2020-03-20 16:55:53,2020-03-20 16:47:39,"Regione #Toscana: alloggi per medici, infermieri e sanitari in prima linea contro Covid-19",43.771853,11.248991,Toscana,Firenze,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""Intesa tra Regione e Federazioni toscane degli ordini dei medici e degli odontoiatri e degli ordini delle professioni infermieristiche, finalizzata alla messa a disposizione di alloggi per il personale medico e infermieristico, in prima linea negli ospedali toscani per la cura dei pazienti affetti da Covid-19. \nSulla base delle indicazioni contenute nell\u2019Ordinanza n. 15 del 18 marzo scorso, le strutture ricettive  - si legge nell\u2019Intesa - saranno disponibili per medici, infermieri e altri operatori sanitari che: positivi al coronavirus in forma asintomatica, necessitano di isolamento rispetto ai propri familiari conviventi; gi\u00e0 in servizio nella sanit\u00e0 toscana, pur negativi al coronavirus, vogliono continuare a lavorare nel proprio reparto, trovando una sistemazione diversa dal proprio domicilio, per tutelare i familiari conviventi; sono in fase di assunzione (a partire dal 9 marzo scorso per far fronte all\u2019emergenza) e con la necessit\u00e0 di trovare un alloggio, anche temporaneo, per potersi trasferire e iniziare a lavorare negli ospedali toscani, non essendo residenti nella provincia dove \u00e8 situata la sede di assegnazione.\nL'individuazione delle strutture sar\u00e0 compito delle Asl, a carico delle quali, per 3 mesi, sono anche imputati i costi degli alberghi e dei servizi essenziali, che dovranno essere garantiti. L\u2019alloggio sar\u00e0 a uso esclusivo della persona in isolamento, indicata dall\u2019Asl, con divieto assoluto di ricevere visite. Nella struttura, quindi, potranno entrare solo il personale alle dipendenze della struttura, gli ospiti designati dalla Asl, oltre che i fornitori autorizzati e il personale sanitario."", ""Destinatari"": ""medici, infermieri e sanitari"", ""Link"": ""https://www.toscana-notizie.it/web/toscana-notizie/-/covid-19-alloggi-per-medici-infermieri-e-personale-sanitario-in-prima-linea-contro-il-virus"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.771853 11.248991 0 0"", ""Titolo"": ""Regione Toscana, alloggi per medici, infermieri e sanitari in prima linea contro coronavirus""}","<pre><yamldata>
+Da_chi_offerta: Regione Toscana
+Descrizione: ""Intesa tra Regione e Federazioni toscane degli ordini dei medici e degli\
+  \ odontoiatri e degli ordini delle professioni infermieristiche, finalizzata alla\
+  \ messa a disposizione di alloggi per il personale medico e infermieristico, in\
+  \ prima linea negli ospedali toscani per la cura dei pazienti affetti da Covid-19.\
+  \ \nSulla base delle indicazioni contenute nell’Ordinanza n. 15 del 18 marzo scorso,\
+  \ le strutture ricettive  - si legge nell’Intesa - saranno disponibili per medici,\
+  \ infermieri e altri operatori sanitari che: positivi al coronavirus in forma asintomatica,\
+  \ necessitano di isolamento rispetto ai propri familiari conviventi; già in servizio\
+  \ nella sanità toscana, pur negativi al coronavirus, vogliono continuare a lavorare\
+  \ nel proprio reparto, trovando una sistemazione diversa dal proprio domicilio,\
+  \ per tutelare i familiari conviventi; sono in fase di assunzione (a partire dal\
+  \ 9 marzo scorso per far fronte all’emergenza) e con la necessità di trovare un\
+  \ alloggio, anche temporaneo, per potersi trasferire e iniziare a lavorare negli\
+  \ ospedali toscani, non essendo residenti nella provincia dove è situata la sede\
+  \ di assegnazione.\nL'individuazione delle strutture sarà compito delle Asl, a carico\
+  \ delle quali, per 3 mesi, sono anche imputati i costi degli alberghi e dei servizi\
+  \ essenziali, che dovranno essere garantiti. L’alloggio sarà a uso esclusivo della\
+  \ persona in isolamento, indicata dall’Asl, con divieto assoluto di ricevere visite.\
+  \ Nella struttura, quindi, potranno entrare solo il personale alle dipendenze della\
+  \ struttura, gli ospiti designati dalla Asl, oltre che i fornitori autorizzati e\
+  \ il personale sanitario.""
+Destinatari: medici, infermieri e sanitari
+Link: https://www.toscana-notizie.it/web/toscana-notizie/-/covid-19-alloggi-per-medici-infermieri-e-personale-sanitario-in-prima-linea-contro-il-virus
+Natura: culturale-ricr
+Posizione: 43.771853 11.248991 0 0
+Titolo: Regione Toscana, alloggi per medici, infermieri e sanitari in prima linea
+  contro coronavirus
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/921,585197092,2020-03-20 17:44:22,2020-03-20 16:45:35,Corso gratuito per imparare le corrette procedure di pulizia e disinfezione,45.079343,7.636132,Piemonte,Torino,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Mekit Societ\u00e0 Cooperativa \u2013 www.mekit.it"", ""Descrizione"": ""Breve corso, completamente gratuito, che sintetizza la corretta procedura di pulizia e disinfezione degli ambienti di vita e di lavoro, con riferimento alle indicazioni raccomandate in materia di igiene dal Ministero della Salute e dall\u2019OMS.\n\nAl termine del percorso formativo viene rilasciato un attestato che certifica le competenze acquisite."", ""Destinatari"": ""Cittadini e imprese"", ""Link"": ""https://ele.mekit.it/it"", ""Natura"": ""didattica"", ""Posizione"": ""45.079343 7.636132 0 0"", ""Titolo"": ""Ele Easy Learning \u2013 Corso per imparare le corrette procedure di disinfezione virucida.""}","<pre><yamldata>
+Da_chi_offerta: Mekit Società Cooperativa – www.mekit.it
+Descrizione: 'Breve corso, completamente gratuito, che sintetizza la corretta procedura
+  di pulizia e disinfezione degli ambienti di vita e di lavoro, con riferimento alle
+  indicazioni raccomandate in materia di igiene dal Ministero della Salute e dall’OMS.
 
 
-  Il Municipio X, attraverso la rete formale ed informale, mette a disposizione un
-  servizio di informazione, orientamento ed assistenza per i cittadini che non riescono
-  a provvedere autonomamente, poiché impossibilitati a muoversi ed abbiano esigenze
-  quali:
+  Al termine del percorso formativo viene rilasciato un attestato che certifica le
+  competenze acquisite.'
+Destinatari: Cittadini e imprese
+Link: https://ele.mekit.it/it
+Natura: didattica
+Posizione: 45.079343 7.636132 0 0
+Titolo: Ele Easy Learning – Corso per imparare le corrette procedure di disinfezione
+  virucida.
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/920,585169020,2020-03-20 16:32:33,2020-03-20 16:00:44,Poste italiane: informazioni sulle pensioni di aprile,,,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Le pensioni di aprile in pagamento dal 26 marzo"", ""Descrizione"": ""Accreditate il 26 marzo con ritiro possibile da oltre 7000 Postamat. Per coloro che invece devono necessariamente recarsi negli Uffici Postali per il ritiro in contante sar\u00e0 effettuata una turnazione in ordine alfabetico:\nI cognomi dalla A alla B gioved\u00ec 26 marzo \ndalla C alla D venerd\u00ec 27 marzo\ndalla E alla K la mattina di sabato 28 marzo \ndalla L alla O luned\u00ec 30 marzo\ndalla P alla R marted\u00ec 31 marzo\ndalla S alla Z mercoled\u00ec 1 aprile."", ""Fonte"": ""Poste Italiane"", ""Link"": ""https://www.posteitaliane.it/it/comunicati/posteitalianelep-1476515140224.html?wt.ac=1453895545051""}","<pre><yamldata>
+Cosa: Le pensioni di aprile in pagamento dal 26 marzo
+Descrizione: ""Accreditate il 26 marzo con ritiro possibile da oltre 7000 Postamat.\
+  \ Per coloro che invece devono necessariamente recarsi negli Uffici Postali per\
+  \ il ritiro in contante sarà effettuata una turnazione in ordine alfabetico:\nI\
+  \ cognomi dalla A alla B giovedì 26 marzo \ndalla C alla D venerdì 27 marzo\ndalla\
+  \ E alla K la mattina di sabato 28 marzo \ndalla L alla O lunedì 30 marzo\ndalla\
+  \ P alla R martedì 31 marzo\ndalla S alla Z mercoledì 1 aprile.""
+Fonte: Poste Italiane
+Link: https://www.posteitaliane.it/it/comunicati/posteitalianelep-1476515140224.html?wt.ac=1453895545051
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/919,585165882,2020-03-20 16:34:40,2020-03-20 15:56:23,Ministero delle Infrastrutture e dei Trasporti: proroga dei termini di validità delle abilitazioni alla guida,,,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""Proroga dei termini di validit\u00e0 delle abilitazioni alla guida ai sensi dell'art. 103 del decreto legge 17 marzo 2020, n. 18"", ""Descrizione"": ""Circolare del Ministero delle Infrastrutture e dei Trasporti che riepiloga i termini di proroga di validit\u00e0 dei documenti abilitativi alla guida."", ""Fonte"": ""Ministero delle Infrastrutture e dei Trasporti"", ""Link"": ""https://www.asaps.it/downloads/files/Circolare%20MIT%20art%20103%20DL%2018%202020.pdf""}","<pre><yamldata>
+Cosa: Proroga dei termini di validità delle abilitazioni alla guida ai sensi dell'art.
+  103 del decreto legge 17 marzo 2020, n. 18
+Descrizione: Circolare del Ministero delle Infrastrutture e dei Trasporti che riepiloga
+  i termini di proroga di validità dei documenti abilitativi alla guida.
+Fonte: Ministero delle Infrastrutture e dei Trasporti
+Link: https://www.asaps.it/downloads/files/Circolare%20MIT%20art%20103%20DL%2018%202020.pdf
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/918,585145006,2020-03-20 16:23:42,2020-03-20 15:27:08,"Raccolta fondi per gli ospedali di #Bergamo promossa da L'eco di Bergamo, Caritas e Confindustria",,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Gli ospedali di Bergamo stanno affrontando un\u2019emergenza senza precedenti. E migliaia di famiglie  stanno vivendo una situazione gravissima, che le sta provando profondamente. \n\nI malati in convalescenza dal Covid-19, infatti, non sempre possono essere riaccolti in casa: le norme prevedono condizioni che non tutti sono in grado di garantire. Per esempio, serve una camera con bagno riservata al convalescente. Senza questi requisiti minimi, la Regione non consente le dimissioni.\n\nEcco perch\u00e9 \u00e8 importantissimo individuare e sostenere strutture e luoghi che accolgano i pazienti bisognosi necessitano di assistenza para-ospedaliera. Per aiutare le loro famiglie e per consentire di liberare posti negli ospedali che possono cos\u00ec dedicarsi alla cura dei pazienti pi\u00f9 gravi.\n\nQuesta \u00e8 la raccolta fondi promossa dall'Eco di Bergamo insieme alla Caritas diocesana di Bergamo e a Confindustria Bergamo."", ""IBAN"": ""IT53I0311111104000000002721"", ""Indirizzo"": ""45.69441368 9.66842453 0 0"", ""Intestazione"": ""Diakonia onlus"", ""Link"": ""https://www.kendoo.it/abitare-la-cura/"", ""Nome"": ""Eco di Bergamo, Caritas diocesana di Bergamo, Confindustria Bergamo""}","<pre><yamldata>
+Descrizione: ""Gli ospedali di Bergamo stanno affrontando un’emergenza senza precedenti.\
+  \ E migliaia di famiglie  stanno vivendo una situazione gravissima, che le sta provando\
+  \ profondamente. \n\nI malati in convalescenza dal Covid-19, infatti, non sempre\
+  \ possono essere riaccolti in casa: le norme prevedono condizioni che non tutti\
+  \ sono in grado di garantire. Per esempio, serve una camera con bagno riservata\
+  \ al convalescente. Senza questi requisiti minimi, la Regione non consente le dimissioni.\n\
+  \nEcco perché è importantissimo individuare e sostenere strutture e luoghi che accolgano\
+  \ i pazienti bisognosi necessitano di assistenza para-ospedaliera. Per aiutare le\
+  \ loro famiglie e per consentire di liberare posti negli ospedali che possono così\
+  \ dedicarsi alla cura dei pazienti più gravi.\n\nQuesta è la raccolta fondi promossa\
+  \ dall'Eco di Bergamo insieme alla Caritas diocesana di Bergamo e a Confindustria\
+  \ Bergamo.""
+IBAN: IT53I0311111104000000002721
+Indirizzo: 45.69441368 9.66842453 0 0
+Intestazione: Diakonia onlus
+Link: https://www.kendoo.it/abitare-la-cura/
+Nome: Eco di Bergamo, Caritas diocesana di Bergamo, Confindustria Bergamo
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/917,585143464,2020-03-20 16:40:05,2020-03-20 15:24:47,Fondazione Comunitaria del VCO avvia campagna raccolta fondi #sìAMOilVCO,,,,,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BCITITMM"", ""CC_Postale"": ""1007819913"", ""Causale"": ""FONDO EMERGENZA"", ""Descrizione"": ""In questo momento difficile, Fondazione Comunitaria del VCO \u00e8 in prima linea per far fronte alle prime emergenze.\n\nSiamo in contatto con le istituzioni locali e pronti a intervenire per far fronte alle necessit\u00e0 che ci verranno man mano segnalate come prioritarie.  \u00c9 stato creato un Fondo Emergenza, al quale \u00e8 possibile destinare la propria donazione.\n\nAbbiamo avviato la campagna di raccolta fondi #s\u00ecAMOilVCO finalizzata a:\n\n\u2013 fornire una prima risposta all\u2019emergenza sanitaria dotando di strumentazione necessaria i presidi ospedalieri del VCO secondo le indicazioni fornite da ASL VCO e attraverso l\u2019attivazione di iniziative a sostegno del personale medico e infermieristico ed eventuale potenziamento dell\u2019organico impegnato in prima linea.\nPer queste azioni ci sar\u00e0 la preziosa collaborazione della Fondazione Buon Lavoro che, coerentemente con la finalit\u00e0 di sostenere il lavoro delle persone, soprattutto in momenti difficili, ha scelto di aderire all\u2019iniziativa raddoppiando le donazioni pervenute con ulteriori fondi fino a 25.000 euro.\n\n\u2013 sostenere gli enti non profit del VCO nella loro fondamentale azione per fare fronte ai bisogni della comunit\u00e0 in questa fase straordinaria. In tale direzione \u00e8 stato predisposto un modulo da compilare per segnalare le necessit\u00e0 di ciascun ente."", ""Email"": ""progetti@fondazionevco.it"", ""IBAN"": ""IT81O0306909606100000000570"", ""Intestazione"": ""Fondazione Comunitaria del VCO"", ""Link"": ""https://www.fondazionevco.org/news/insiemevco/"", ""Nome"": ""Giulia Mascadri""}","<pre><yamldata>
+BIC_SWIFT: BCITITMM
+CC_Postale: '1007819913'
+Causale: FONDO EMERGENZA
+Descrizione: 'In questo momento difficile, Fondazione Comunitaria del VCO è in prima
+  linea per far fronte alle prime emergenze.
 
 
-  - approvvigionamento farmaci*;
+  Siamo in contatto con le istituzioni locali e pronti a intervenire per far fronte
+  alle necessità che ci verranno man mano segnalate come prioritarie.  É stato creato
+  un Fondo Emergenza, al quale è possibile destinare la propria donazione.
 
 
-  - approvvigionamento generi alimentari*;
+  Abbiamo avviato la campagna di raccolta fondi #sìAMOilVCO finalizzata a:
 
 
-  - sostegno telefonico;
+  – fornire una prima risposta all’emergenza sanitaria dotando di strumentazione necessaria
+  i presidi ospedalieri del VCO secondo le indicazioni fornite da ASL VCO e attraverso
+  l’attivazione di iniziative a sostegno del personale medico e infermieristico ed
+  eventuale potenziamento dell’organico impegnato in prima linea.
+
+  Per queste azioni ci sarà la preziosa collaborazione della Fondazione Buon Lavoro
+  che, coerentemente con la finalità di sostenere il lavoro delle persone, soprattutto
+  in momenti difficili, ha scelto di aderire all’iniziativa raddoppiando le donazioni
+  pervenute con ulteriori fondi fino a 25.000 euro.
 
 
-  - pasti a domicilio.
+  – sostenere gli enti non profit del VCO nella loro fondamentale azione per fare
+  fronte ai bisogni della comunità in questa fase straordinaria. In tale direzione
+  è stato predisposto un modulo da compilare per segnalare le necessità di ciascun
+  ente.'
+Email: progetti@fondazionevco.it
+IBAN: IT81O0306909606100000000570
+Intestazione: Fondazione Comunitaria del VCO
+Link: https://www.fondazionevco.org/news/insiemevco/
+Nome: Giulia Mascadri
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/916,585142965,2020-03-20 16:21:19,2020-03-20 15:24:02,"Raccolta fondi per RSA, RSD e CCS della provincia ovest #Milano - emergenza Covid",45.609715,8.898582,Lombardia,Varese,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Emergenza Covid-19"", ""Descrizione"": ""Obiettivo della raccolta \u00e8 contrastare gli effetti collaterali prodotti dall\u2019emergenza Covid-19 sulle categorie pi\u00f9 fragili: anziani e disabili.\nPerci\u00f2 le donazioni saranno destinate ai bisogni delle RSA [Residenza sanitarie assistenziali], delle RSD [Residenze sanitarie per le persone con disabilit\u00e0] e delle CSS [Comunit\u00e0 alloggio sociosanitarie per persone con disabilit\u00e0] rette da Enti non profit presenti sul territorio di competenza della Fondazione, ossia la provincia ovest di Milano (legnanese, castanese, magentino, abbiatense)."", ""Email"": ""info@fondazioneticinoolona.it"", ""IBAN"": ""IT64X0503420211000000008000"", ""Intestazione"": ""Fondazione Comunitaria del Ticino Olona Onlus"", ""Link"": ""https://www.fondazioneticinoolona.it/fondo-emergenza-covid19/"", ""Nome"": ""Fondazione Comunitaria del Ticino Olona Onlus"", ""Posizione"": ""45.609715 8.898582 0 0""}","<pre><yamldata>
+Causale: Emergenza Covid-19
+Descrizione: 'Obiettivo della raccolta è contrastare gli effetti collaterali prodotti
+  dall’emergenza Covid-19 sulle categorie più fragili: anziani e disabili.
 
-
-  *Il costo della spesa e dei farmaci è a carico del richiedente
-
-
-  I contatti
-
-
-  Segretariato sociale/PUA martedì e giovedì dalle ore 9.00 alle ore12.00 via telefono
-  al numero 06/69613519
-
-
-  pec: protocollo.municipioroma10@pec.comune.roma.it'
-Destinatari: Cittadine e cittadini Municipio Roma 10
+  Perciò le donazioni saranno destinate ai bisogni delle RSA [Residenza sanitarie
+  assistenziali], delle RSD [Residenze sanitarie per le persone con disabilità] e
+  delle CSS [Comunità alloggio sociosanitarie per persone con disabilità] rette da
+  Enti non profit presenti sul territorio di competenza della Fondazione, ossia la
+  provincia ovest di Milano (legnanese, castanese, magentino, abbiatense).'
+Email: info@fondazioneticinoolona.it
+IBAN: IT64X0503420211000000008000
+Intestazione: Fondazione Comunitaria del Ticino Olona Onlus
+Link: https://www.fondazioneticinoolona.it/fondo-emergenza-covid19/
+Nome: Fondazione Comunitaria del Ticino Olona Onlus
+Posizione: 45.609715 8.898582 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/915,585141777,2020-03-20 16:29:35,2020-03-20 15:22:15,Petizione per coordinamento della risposta sanitaria di tutti i Paesi EU,,,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""COVID19: Europe Can Fight It"", ""Descrizione"": ""Petition to the EU 27 Health Ministers to exercise together their emergency sovereign powers, so as to closely coordinate their sanitary response, adopt common positions on testing, containments, quarantine, social distancing and medical research."", ""Destinatari"": ""Cittadini europei"", ""Link"": ""https://thegoodlobby.eu/campaigns/covid19-europe-can-fight-it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""The Good Lobby EU""}","<pre><yamldata>
+Da_chi_offerta: 'COVID19: Europe Can Fight It'
+Descrizione: Petition to the EU 27 Health Ministers to exercise together their emergency
+  sovereign powers, so as to closely coordinate their sanitary response, adopt common
+  positions on testing, containments, quarantine, social distancing and medical research.
+Destinatari: Cittadini europei
+Link: https://thegoodlobby.eu/campaigns/covid19-europe-can-fight-it/
 Natura: solidale
-Posizione: 41.73299 12.281331 0 0
+Tipo_di_soggetto: privato
+Titolo: The Good Lobby EU
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/914,585141374,2020-03-20 17:08:27,2020-03-20 15:21:36,Comune di #Taggia #Imperia attiva servizio dedicato agli anziani per assistenza e approvvigionamenti,43.8696068,7.8364582,Liguria,Imperia,"[""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Taggia"", ""Descrizione"": ""Il Comune di Taggia a seguito dell\u2019emergenza COVID\u201319 ha attivato un numero di telefono e una mail a sostegno degli anziani soli residenti per garantire\n- interventi di assistenza\n- approvvigionamento di farmaci\n- approvvigionamento di generi di prima necessit\u00e0\n\nMail: covid19@comune.taggia.im.it\nNumero di telefono: 366.9391998.\n\nIl servizio \u00e8 operativo dal luned\u00ec al venerd\u00ec dalle ore 8.30 alle ore 14.00"", ""Destinatari"": ""Cittadine e cittadini anziani del Comune di Taggia"", ""Link"": ""https://www.taggia.it/news/1420-coronavirus-il-comune-di-taggia-attiva-un-servizio-dedicato-agli-anziani.html"", ""Natura"": ""solidale"", ""Posizione"": ""43.8696068 7.8364582 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""CORONAVIRUS, il Comune di #Taggia attiva un servizio dedicato agli anziani""}","<pre><yamldata>
+Da_chi_offerta: Comune di Taggia
+Descrizione: 'Il Comune di Taggia a seguito dell’emergenza COVID–19 ha attivato un
+  numero di telefono e una mail a sostegno degli anziani soli residenti per garantire
+
+  - interventi di assistenza
+
+  - approvvigionamento di farmaci
+
+  - approvvigionamento di generi di prima necessità
+
+
+  Mail: covid19@comune.taggia.im.it
+
+  Numero di telefono: 366.9391998.
+
+
+  Il servizio è operativo dal lunedì al venerdì dalle ore 8.30 alle ore 14.00'
+Destinatari: Cittadine e cittadini anziani del Comune di Taggia
+Link: https://www.taggia.it/news/1420-coronavirus-il-comune-di-taggia-attiva-un-servizio-dedicato-agli-anziani.html
+Natura: solidale
 Tipo_di_soggetto: pubblico
-Titolo: 'Servizio di Assistenza ad anziani, malati e persone con disabilità Municipio
-  10 #Roma'
+Posizione: 43.8696068 7.8364582 0 0
+Titolo: 'CORONAVIRUS, il Comune di #Taggia attiva un servizio dedicato agli anziani'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/913,585140456,2020-03-20 16:50:31,2020-03-20 15:20:07,Bacheca online con offerte di alloggio per infermieri #Firenze Pistoia #Toscana,43.768909,11.256094,Toscana,Firenze,"[""Donazioni beni e offerte servizi"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine Infermieri di Firenze e Pistoia"", ""Descrizione"": ""Nella Bacheca disponibile sul sito dell\u2019Ordine delle Professioni infermieristiche Interprovinciale Firenze Pistoia sono molte le offerte di alloggio per infermieri impegnati nell'emergenza Coronavirus, molte gratuite."", ""Destinatari"": ""Infermieri impegnati nell\u2019emergenza coronavirus bisognosi di alloggio"", ""Link"": ""http://www.opifipt.it/index.php/28-collegio/412-la-bacheca-inserzioni-dell-ordine"", ""Natura"": ""solidale"", ""Posizione"": ""43.768909 11.256094 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Bacheca online con offerte di alloggio per infermieri #Firenze Pistoia #Toscana""}","<pre><yamldata>
+Da_chi_offerta: Ordine Infermieri di Firenze e Pistoia
+Descrizione: Nella Bacheca disponibile sul sito dell’Ordine delle Professioni infermieristiche
+  Interprovinciale Firenze Pistoia sono molte le offerte di alloggio per infermieri impegnati nell'emergenza Coronavirus,
+  molte gratuite.
+Destinatari: Infermieri impegnati nell’emergenza coronavirus bisognosi di alloggio
+Link: http://www.opifipt.it/index.php/28-collegio/412-la-bacheca-inserzioni-dell-ordine
+Natura: solidale
+Posizione: 43.768909 11.256094 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Bacheca online con offerte di alloggio per infermieri #Firenze Pistoia #Toscana'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/912,585129968,2020-03-20 17:00:06,2020-03-20 15:04:13,Spesa a casa a #Bergamo e in 46 comuni della provincia,,,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi di vicinato e Ascom Bergamo"", ""Descrizione"": ""\u00abCompra vicino. La spesa arriva gratis a casa tua\u00bb, iniziativa lanciata\\ \\ da Ascom Confcommercio Bergamo per far fronte all\\'emergenza coronavirus e portare\\ \\ a casa la spesa alle persone che ne hanno bisogno, in collaborazione con i diversi\\ \\ distretti del commercio. L\\'elenco ha superato i 500 negozi, con una copertura\\ \\ arrivata a toccare 46 comuni pi\u00f9 il capoluogo. \\n\\nAlbino - Alm\u00e8 - Alzano Lombardo\\ \\ - Arcene - Barzana - Bergamo - Bolgare - Bottanuco - Brusaporto - Calcio - Canonica\\ \\ d\\'Adda - Caravaggio - Castione della Presolana - Cazzano S. Andrea - Cene - Cerete\\ \\ - Cisano Bergamasco - Ciserano - Cividate al Piano - Cortenuova - Credaro - Curno\\ \\ - Fornovo San Giovanni - Gandino - Gazzaniga - Gorno - Grassobbio - Gromo - Lallio\\ \\ - Leffe - Mozzo - Negrone di Scanzo - Nembro - Olmo al Brembo - Oltre il Colle\\ \\ - Onore - Paladina - Parre - Piario - Ponte Nossa - Ponteranica - Pradalunga -\\ \\ Premolo - Ranica - Rosciate di Scanzo - Rovetta - Sarnico - Scanzo - Schilpario\\ \\ - Selvino - Seriate - Solto Collina - Sorisole - Tavernola - Torre Boldone - Treviolo\\ \\ - Tribulina e Gavarno di Scanzo - Valbrembo - Vertova - Villa d\\'Alm\u00e8 - Villa d\\'Ogna\\ \\ - Vilminore di Scalve - Zogno"", ""Destinatari"": ""Cittadine e cittadini di Bergamo e di 46 comuni della provincia"", ""Indirizzo"": ""45.69441368 9.66842453 0 0"", ""Link"": ""https://public.flourish.studio/visualisation/1584883"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa a casa a #Bergamo e in 46 comuni della provincia""}","<pre><yamldata>
+Da_chi_offerta: Negozi di vicinato e Ascom Bergamo
+Descrizione: «Compra vicino. La spesa arriva gratis a casa tua», iniziativa lanciata\
+  \ da Ascom Confcommercio Bergamo per far fronte all\'emergenza coronavirus e portare\
+  \ a casa la spesa alle persone che ne hanno bisogno, in collaborazione con i diversi\
+  \ distretti del commercio. L\'elenco ha superato i 500 negozi, con una copertura\
+  \ arrivata a toccare 46 comuni più il capoluogo. \n\nAlbino - Almè - Alzano Lombardo\
+  \ - Arcene - Barzana - Bergamo - Bolgare - Bottanuco - Brusaporto - Calcio - Canonica\
+  \ d\'Adda - Caravaggio - Castione della Presolana - Cazzano S. Andrea - Cene - Cerete\
+  \ - Cisano Bergamasco - Ciserano - Cividate al Piano - Cortenuova - Credaro - Curno\
+  \ - Fornovo San Giovanni - Gandino - Gazzaniga - Gorno - Grassobbio - Gromo - Lallio\
+  \ - Leffe - Mozzo - Negrone di Scanzo - Nembro - Olmo al Brembo - Oltre il Colle\
+  \ - Onore - Paladina - Parre - Piario - Ponte Nossa - Ponteranica - Pradalunga -\
+  \ Premolo - Ranica - Rosciate di Scanzo - Rovetta - Sarnico - Scanzo - Schilpario\
+  \ - Selvino - Seriate - Solto Collina - Sorisole - Tavernola - Torre Boldone - Treviolo\
+  \ - Tribulina e Gavarno di Scanzo - Valbrembo - Vertova - Villa d\'Almè - Villa d\'Ogna\
+  \ - Vilminore di Scalve - Zogno
+Destinatari: Cittadine e cittadini di Bergamo e di 46 comuni della provincia
+Indirizzo: 45.69441368 9.66842453 0 0
+Link: https://public.flourish.studio/visualisation/1584883
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Spesa a casa a #Bergamo e in 46 comuni della provincia'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/911,585128270,2020-03-20 15:51:25,2020-03-20 15:01:41,#Sondrio Raccolta fondi Fondazione Pro Valtellina Onlus,46.1701616,9.8769776,Lombardia,Sondrio,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""POPSOIT22XXX"", ""Causale"": ""#PERINOSTRIOSPEDALI"", ""Descrizione"": ""Aiutare chi ci aiuta. E sostenere il territorio attraverso una raccolta fondi a favore dei nostri ospedali, quelli che stanno gestendo, non senza difficolt\u00e0, l\u2019emergenza delle emergenze: la lotta contro il Covid-19."", ""Email"": ""info@provaltellina.org"", ""IBAN"": ""IT89L0569611000000033000X20"", ""Intestazione"": ""FONDAZIONE PRO VALTELLINA ONLUS"", ""Link"": ""https://www.provaltellina.org/news/perinostriospedali-lotta-contro-il-covid-19/"", ""Nome"": ""FONDAZIONE PRO VALTELLINA Onlus"", ""Posizione"": ""46.1701616 9.8769776 0 0""}","<pre><yamldata>
+BIC_SWIFT: POPSOIT22XXX
+Causale: '#PERINOSTRIOSPEDALI'
+Descrizione: 'Aiutare chi ci aiuta. E sostenere il territorio attraverso una raccolta
+  fondi a favore dei nostri ospedali, quelli che stanno gestendo, non senza difficoltà,
+  l’emergenza delle emergenze: la lotta contro il Covid-19.'
+Email: info@provaltellina.org
+IBAN: IT89L0569611000000033000X20
+Intestazione: FONDAZIONE PRO VALTELLINA ONLUS
+Link: https://www.provaltellina.org/news/perinostriospedali-lotta-contro-il-covid-19/
+Nome: FONDAZIONE PRO VALTELLINA Onlus
+Posizione: 46.1701616 9.8769776 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/910,585127880,2020-03-20 15:48:35,2020-03-20 15:01:03,Raccolta fondi della Fondazione Comunitaria della Provincia di #Pavia,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Emergenza coronavirus"", ""Descrizione"": ""La Fondazione Comunitaria della Provincia di Pavia, d\u2019intesa con Fondazione Cariplo, ha avviato una raccolta fondi straordinaria per far fronte all\u2019emergenza sociale generata dalla diffusione del Coronavirus. Grazie a Fondazione Cariplo che ha stanziato 50.000Euro, ha aperto il fondo \""emergenza coronavirus\"". La Fondazione Comunitaria, a sua volta, ha stanziato altri 50.000Euro. Adesso abbiamo bisogno del tuo aiuto! La tua donazione nel campo dell\u2019assistenza sanitaria sar\u00e0 utilizzata in funzione delle necessit\u00e0 della nostra comunit\u00e0. Restiamo a casa ma ricordiamoci che anche da l\u00ec, con un gesto di solidariet\u00e0, possiamo salvare una vita perch\u00e9 uniti siamo pi\u00f9 forti. La Fondazione, operando sempre con i massimi criteri di trasparenza, provveder\u00e0 a tenere costantemente aggiornata l\u2019intera comunit\u00e0 su tutti i dettagli della raccolta in corso."", ""Email"": ""segreteria@fondazionepv.it"", ""IBAN"": ""IT 60 M 03069 09606 100000172009"", ""Indirizzo"": ""45.18509264 9.16015719 0 0"", ""Intestazione"": ""Fondazione Comunitaria della provincia di Pavia"", ""Link"": ""http://www.fondazionepv.it/?p=2916"", ""Nome"": ""Fondazione Comunitaria della provincia di Pavia Onlus""}","<pre><yamldata>
+Causale: Emergenza coronavirus
+Descrizione: 'La Fondazione Comunitaria della Provincia di Pavia, d’intesa con Fondazione
+  Cariplo, ha avviato una raccolta fondi straordinaria per far fronte all’emergenza
+  sociale generata dalla diffusione del Coronavirus. Grazie a Fondazione Cariplo che ha stanziato 50.000Euro, ha aperto il fondo ""emergenza coronavirus"". La Fondazione Comunitaria, a sua volta, ha stanziato altri 50.000Euro. Adesso abbiamo bisogno del tuo aiuto!
+ La tua donazione nel campo dell’assistenza sanitaria sarà utilizzata in funzione
+  delle necessità della nostra comunità. Restiamo a casa ma ricordiamoci che anche da lì, con un gesto di solidarietà, possiamo salvare una vita perché uniti siamo più forti.
+ La Fondazione, operando sempre con i massimi criteri di trasparenza, provvederà
+  a tenere costantemente aggiornata l’intera comunità su tutti i dettagli della raccolta
+  in corso.'
+Email: segreteria@fondazionepv.it
+IBAN: IT 60 M 03069 09606 100000172009
+Indirizzo: 45.18509264 9.16015719 0 0
+Intestazione: Fondazione Comunitaria della provincia di Pavia
+Link: http://www.fondazionepv.it/?p=2916
+Nome: Fondazione Comunitaria della provincia di Pavia Onlus
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/909,585125535,2020-03-20 15:45:00,2020-03-20 14:57:43,Raccolta Fondi a cura della Fondazione Comunitaria della Provincia di #Lodi,45.3133722,9.5012202,Lombardia,Lodi,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""39797667"", ""Causale"": ""Emeregnza coronavirus nel Lodigiano"", ""Descrizione"": ""Vogliamo supportare le realt\u00e0 del Volontariato e del Terzo Settore, impegnate ad affrontare i bisogni straordinari della popolazione e in particolare delle persone fragili.\nI volontari e gli operatori sono in prima linea per fornire assistenza a coloro che devono rimanere presso il proprio domicilio o presso i centri di cura, soccorrere persone colpite dal coronavirus, predisporre misure di sicurezza speciali per contenerlo garantendo al contempo i servizi essenziali per le persone in difficolt\u00e0."", ""Email"": ""comunicazione@fondazionelodi.org"", ""IBAN"": ""IT24C0503420302000000003822"", ""Intestazione"": ""Fondazione Comunitaria della provincia di Lodi onlus"", ""Link"": ""http://www.fondazionelodi.org/insieme-per-l-emergenza-coronavirus-nel-lodigiano/"", ""Nome"": ""Fondazione Comunitaria della provincia di Lodi"", ""Posizione"": ""45.3133722 9.5012202 0 0""}","<pre><yamldata>
+CC_Postale: '39797667'
+Causale: Emeregnza coronavirus nel Lodigiano
+Descrizione: 'Vogliamo supportare le realtà del Volontariato e del Terzo Settore,
+  impegnate ad affrontare i bisogni straordinari della popolazione e in particolare
+  delle persone fragili.
+
+  I volontari e gli operatori sono in prima linea per fornire assistenza a coloro
+  che devono rimanere presso il proprio domicilio o presso i centri di cura, soccorrere
+  persone colpite dal coronavirus, predisporre misure di sicurezza speciali per contenerlo
+  garantendo al contempo i servizi essenziali per le persone in difficoltà.'
+Email: comunicazione@fondazionelodi.org
+IBAN: IT24C0503420302000000003822
+Intestazione: Fondazione Comunitaria della provincia di Lodi onlus
+Link: http://www.fondazionelodi.org/insieme-per-l-emergenza-coronavirus-nel-lodigiano/
+Nome: Fondazione Comunitaria della provincia di Lodi
+Posizione: 45.3133722 9.5012202 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/906,585073752,2020-03-20 14:39:06,2020-03-20 13:34:38,Spesa a domicilio a #Pantelleria - la lista degli esercizi commerciali,36.768097,11.966721,Sicilia,Trapani,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Pantelleria"", ""Descrizione"": ""Per contenere il contagio e limitare e limitare il pi\u00f9 possibile gli spostamenti dei cittadini dalla propria abitazione, alcuni esercizi commerciali di Pantelleria, su invito del Comune di Pantelleria e della Protezione Civile locale, si sono organizzati per consegnare i prodotti a domicilio. \nL'elenco \u00e8 in continuo aggiornamento"", ""Destinatari"": ""Abitanti a Pantelleria"", ""Link"": ""https://www.ilgiornaledipantelleria.it/tutte-le-attivita-commerciali-di-pantelleria-che-faranno-consegna-a-domicilio/?fbclid=IwAR00plGghnYIE28hYXgDHH0ry_vd2zaLvqfYazRrdRfWeNE6hneeirtuR9Y"", ""Natura"": ""solidale"", ""Posizione"": ""36.768097 11.966721 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa a domicilio #Pantelleria""}","<pre><yamldata>
 Da_chi_offerta: Comune di Pantelleria
@@ -55,9 +287,9 @@ Posizione: 36.768097 11.966721 0 0
 Tipo_di_soggetto: pubblico
 Titolo: 'Spesa a domicilio #Pantelleria'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/905,585071471,2020-03-20 15:28:12,2020-03-20 13:30:47,Consegna spesa a domicilio Comune di #Rubiera #ReggioEmilia - elenco degli esercizi commerciali,44.6532007,10.781081,Emilia-Romagna,Reggio nell'Emilia,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi"", ""Descrizione"": ""\\'Elenco di attivit\u00e0 che effettuano la consegna a domicilio.\\'"", ""Link"": ""https://www.comune.rubiera.re.it/2020/03/12/servizi-a-domicilio-elenco-delle-attivita-rubierarestaacasa/"", ""Natura"": ""solidale"", ""Posizione"": ""44.6532007 10.781081 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio Comune di Rubiera (RE)""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/905,585071471,2020-03-20 17:10:48,2020-03-20 13:30:47,Consegna spesa a domicilio Comune di #Rubiera #ReggioEmilia - elenco degli esercizi commerciali,44.6532007,10.781081,Emilia-Romagna,Reggio nell'Emilia,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi"", ""Descrizione"": ""Elenco di attivit\u00e0 che effettuano la consegna a domicilio."", ""Link"": ""https://www.comune.rubiera.re.it/2020/03/12/servizi-a-domicilio-elenco-delle-attivita-rubierarestaacasa/"", ""Natura"": ""solidale"", ""Posizione"": ""44.6532007 10.781081 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio Comune di Rubiera (RE)""}","<pre><yamldata>
 Da_chi_offerta: Negozi
-Descrizione: \'Elenco di attività che effettuano la consegna a domicilio.\'
+Descrizione: Elenco di attività che effettuano la consegna a domicilio.
 Link: https://www.comune.rubiera.re.it/2020/03/12/servizi-a-domicilio-elenco-delle-attivita-rubierarestaacasa/
 Natura: solidale
 Tipo_di_soggetto: privato
@@ -122,6 +354,21 @@ Email: direttivo@mediatoreinterculturale.it
 Indirizzo: 45.311256 9.502178 0 0
 Link: https://www.mediatoreinterculturale.it/
 Telefono: 320 44 66 490
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/898,585028745,2020-03-20 17:01:19,2020-03-20 12:12:03,#Iorestoacasaecucino: preparazione dei patti della tradizione #Isnello (PA),37.943953,14.005761,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Isnello"", ""Descrizione"": ""Per rendere pi\u00f9 piacevole la permanenza domiciliare, dovuta alla emergenza COVID-19, cui siamo obbligati in questi giorni e che ci riguarder\u00e0 fino al 3 Aprile prossimo e al fine di sperimentare una nuova forma di \u201csocialit\u00e0\u201d, questa Amministrazione con l\u2019iniziativa \u201cIoRestoAcasaEcucino\u201d, ha l\u2019intento di promuovere tra gli isnellesi, fino al 3 Aprile prossimo, la preparazione \u201ccondivisa\u201d di pietanze dolci o salate legate alla cucina tradizionale. Al termine della quarantena il sindaco inviter\u00e0 tutti in Piazza per condividere le pietanze"", ""Destinatari"": ""Isnellesi, Amici degli Isnellesi, Isnellesi nel mondo"", ""Link"": ""https://www.facebook.com/Iorestoacasaecucino-108509274106624/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""37.943953 14.005761 0 0"", ""Titolo"": ""Io resto a casa e cucino""}","<pre><yamldata>
+Da_chi_offerta: Comune di Isnello
+Descrizione: ""Per rendere più piacevole la permanenza domiciliare, dovuta alla emergenza
+  COVID-19, cui siamo obbligati in questi giorni e che ci riguarderà fino al 3 Aprile
+  prossimo e al fine di sperimentare una nuova forma di “socialità”, questa Amministrazione
+  con l’iniziativa “IoRestoAcasaEcucino”, ha l’intento di promuovere tra gli isnellesi,
+  fino al 3 Aprile prossimo, la preparazione “condivisa” di pietanze dolci o salate
+  legate alla cucina tradizionale. 
+Al termine della quarantena il sindaco inviterà tutti in Piazza per condividere le pietanze""
+Destinatari: Isnellesi, Amici degli Isnellesi, Isnellesi nel mondo
+Link: https://www.facebook.com/Iorestoacasaecucino-108509274106624/
+Natura: culturale-ricr
+Titolo: Io resto a casa e cucino
+Posizione: 37.943953 14.005761 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/897,585028056,2020-03-20 15:06:45,2020-03-20 12:10:37,#Isnello Io resto a casa e leggo - il comune propone la lettura condivisa con modalità virtuali,37.943953,14.005761,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Isnello"", ""Descrizione"": ""Per rendere pi\u00f9 piacevole la permanenza domiciliare, dovuta alla emergenza COVID-19, cui siamo obbligati in questi giorni e che ci riguarder\u00e0 fino al 3 Aprile prossimo e al fine di sperimentare una nuova forma di \u201csocialit\u00e0\u201d, questa Amministrazione con l\u2019iniziativa \u201cIoRestoAcasaEleggo\u201d, ha l\u2019intento di promuovere tra gli isnellesi (e non solo), fino al 3 Aprile prossimo, la lettura condivisa di un libro con modalit\u00e0 virtuali \u201ca distanza\u201d."", ""Destinatari"": ""Cittadini di Isnello, Isnellesi nel mondo, amici degli Isnellesi"", ""Link"": ""https://www.facebook.com/Iorestoacasaeleggo-101592468142302/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""37.943953 14.005761 0 0"", ""Titolo"": ""Io resto a casa e leggo""}","<pre><yamldata>
 Da_chi_offerta: Comune di Isnello
@@ -193,7 +440,7 @@ Link: https://www.savethechildren.it/blog-notizie/piattaforme-digitali-incentiva
 Natura: culturale-ricr
 Titolo: bambini e ragazzi che leggono
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/892,584964341,2020-03-20 14:36:11,2020-03-20 10:10:01,"Sente -Mente project ""demenza e emergenza Covid -19"" #oltreledistanze #Italia",45.58329,10.546875,Lombardia,Brescia,"[""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Sente-mente project"", ""Descrizione"": ""Demenza e emergenza Covid-19: un sostegno arriva dal modello Sente-Mente\u00ae. 60 milioni di italiani sono alle prese con le misure restrittive anti Covid-19: tra queste molte famiglie di persone che convivono con la Demenza. \nImpossibilit\u00e0 di sostare accanto ai propri cari ricoverati, impossibilit\u00e0 di raggiungere le case protette se non per via telematica, centri diurni chiusi: queste sono solo alcune delle difficolt\u00e0 che i carepatners stanno attraversando. E le persone che convivono con la Demenza? Difficile per loro capire le ragioni profonde di questo periodo di isolamento, la motivazione per cui la loro routine sta cambiando e non \u00e8 possibile ricevere l'affetto diretto dei propri cari. Mai come ora, le persone che convivono con la Demenza e le loro famiglie necessitano di un supporto concreto per sostenere il carico emotivo e consigli preziosi per ristrutturare le loro giornate. Famiglie di persone fragili che si sentono sole nel confrontarsi con esigenze che, per queste limitazioni, diventano pi\u00f9 dure. Con l\u2019invito a mantenere le distanze, si inasprisce il senso di impotenza che provano. Molte domande, pochi a cui chiedere. Situazioni difficili che possono dar luogo a reattivit\u00e0 inaspettate. Certo, contro il virus si pu\u00f2 chiudere. Ma la demenza, quella, non chiude.\nIn questo momento di isolamento e immobilit\u00e0 della maggior parte dei servizi alla persona, il modello sociosanitario e organizzativo Sente-Mente \u00ae, continua a tutelare il benessere di milioni di famiglie e persone che convivono con la Demenza residenti in tutta Italia. \nGli esperti socio-sanitari del Sente-Mente\u00ae team, capitanati dalla fondatrice del modello Letizia Espanoli, hanno deciso di restare in prima linea nel supporto alle famiglie in difficolt\u00e0, e lo fanno lanciando il progetto #oltreledistanze: noi restiamo aperti. In questo momento, sono gi\u00e0 milioni i carepartners che stanno ricevendo quotidianamente brevi video con indicazioni per avere cura di s\u00e9, del proprio caro e vivere al meglio la quotidianit\u00e0. Pi\u00f9 di 10.000 famiglie sono collegate in questo momento attraverso gruppi di WhatsApp e attraverso il gruppo Facebook \u201cSente-mente \u00ae per le persone che vivono con demenza ed i loro carepartners\u201d. Il progetto si articola in alcune  principali direzioni: * attraverso la pubblicazione sulla pagina Facebook  di video quotidiani \""Sente-mente per le persone che vivono con la demenza ed i loro carepatners\"" (che conta oggi quasi 9000 persone) dedicati alle famiglie si vogliono attuare azioni di sostegno e di formazione su piccole strategie quotidiane per aumentare la resilienza e creare azioni quotidiane per aumentare il benessere della persona e del suo carepatners;  * sempre sulla stessa pagina condividiamo video per le famiglie che stanno vivendo la difficile situazione di avere una persona che amano in residenza per anziani e vivere questa separazione con ansia e preoccupazione; * sempre sulla stessa pagina stiamo facendo delle dirette Live con esperti sulla prevenzione del virus a domicilio, sulle strategie emozionali, sulle strategie assistenziali, con indicazioni anche di attivit\u00e0 rilassanti e capaci di prevenire i disturbi del comportamento quali il massaggio alla mano; * attraverso l'avvio di gruppi whatsapp dedicati alle famiglie delle Sente-mente comunit\u00e0 amiche stiamo sostenendo le famiglie con materiale ma soprattutto rispondendo  in modo puntuale, attraverso i diversi felicitatori nazionali, alle loro domande; * attraverso la pagina You Tube di Letizia Espanoli veicolare tutti i video fino ad oggi registrati; * accogliendo richieste di aiuto da direttori di case per anziani, famigliari, persone che vivono con demenza alla mail espanoli.letizia@gmail.com ed attivando colloqui personalizzati con line per rispondere alle domande ed alle preoccupazioni \nOgni giorno, fino a quando questo sfidante periodo non sar\u00e0 concluso, i Felicitatori del sente- mente \u00ae project (professionisti socio sanitari educativi) hanno scelto di essere accanto alle famiglie ed alle persone che vivono con demenza. \n\u201cIn questo momento delicato dedicato al covid-19, io e il Sente-Mente\u00ae team scegliamo anche noi di non fermarci e di restarvi accanto: non siete soli!\"" questo l'accorato appello lanciato da Letizia Espanoli a tutte le famiglie."", ""Destinatari"": ""Persone che vivono con la demenza: carepatners di persone che vivono con demenza; famigliari di residenti di persone accolte in Rsa, equipe di professionisti di Rsa"", ""Link"": ""http://letiziaespanoli.com/2020/03/13/la-demenza-non-chiude-oltreledistanzenoirestiamoaperti/"", ""Natura"": ""didattica"", ""Posizione"": ""45.58329 10.546875 0 0"", ""Titolo"": ""#oltreledistanze: noi restiamo aperti""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/892,584964341,2020-03-20 16:58:17,2020-03-20 10:10:01,"Sente-Mente project ""demenza e emergenza Covid -19"" #oltreledistanze #Italia",45.58329,10.546875,Lombardia,Brescia,"[""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Sente-mente project"", ""Descrizione"": ""Demenza e emergenza Covid-19: un sostegno arriva dal modello Sente-Mente\u00ae. 60 milioni di italiani sono alle prese con le misure restrittive anti Covid-19: tra queste molte famiglie di persone che convivono con la Demenza. \nImpossibilit\u00e0 di sostare accanto ai propri cari ricoverati, impossibilit\u00e0 di raggiungere le case protette se non per via telematica, centri diurni chiusi: queste sono solo alcune delle difficolt\u00e0 che i carepatners stanno attraversando. E le persone che convivono con la Demenza? Difficile per loro capire le ragioni profonde di questo periodo di isolamento, la motivazione per cui la loro routine sta cambiando e non \u00e8 possibile ricevere l'affetto diretto dei propri cari. Mai come ora, le persone che convivono con la Demenza e le loro famiglie necessitano di un supporto concreto per sostenere il carico emotivo e consigli preziosi per ristrutturare le loro giornate. Famiglie di persone fragili che si sentono sole nel confrontarsi con esigenze che, per queste limitazioni, diventano pi\u00f9 dure. Con l\u2019invito a mantenere le distanze, si inasprisce il senso di impotenza che provano. Molte domande, pochi a cui chiedere. Situazioni difficili che possono dar luogo a reattivit\u00e0 inaspettate. Certo, contro il virus si pu\u00f2 chiudere. Ma la demenza, quella, non chiude.\nIn questo momento di isolamento e immobilit\u00e0 della maggior parte dei servizi alla persona, il modello sociosanitario e organizzativo Sente-Mente \u00ae, continua a tutelare il benessere di milioni di famiglie e persone che convivono con la Demenza residenti in tutta Italia. \nGli esperti socio-sanitari del Sente-Mente\u00ae team, capitanati dalla fondatrice del modello Letizia Espanoli, hanno deciso di restare in prima linea nel supporto alle famiglie in difficolt\u00e0, e lo fanno lanciando il progetto #oltreledistanze: noi restiamo aperti. In questo momento, sono gi\u00e0 milioni i carepartners che stanno ricevendo quotidianamente brevi video con indicazioni per avere cura di s\u00e9, del proprio caro e vivere al meglio la quotidianit\u00e0. Pi\u00f9 di 10.000 famiglie sono collegate in questo momento attraverso gruppi di WhatsApp e attraverso il gruppo Facebook \u201cSente-mente \u00ae per le persone che vivono con demenza ed i loro carepartners\u201d. Il progetto si articola in alcune  principali direzioni: * attraverso la pubblicazione sulla pagina Facebook  di video quotidiani \""Sente-mente per le persone che vivono con la demenza ed i loro carepatners\"" (che conta oggi quasi 9000 persone) dedicati alle famiglie si vogliono attuare azioni di sostegno e di formazione su piccole strategie quotidiane per aumentare la resilienza e creare azioni quotidiane per aumentare il benessere della persona e del suo carepatners;  * sempre sulla stessa pagina condividiamo video per le famiglie che stanno vivendo la difficile situazione di avere una persona che amano in residenza per anziani e vivere questa separazione con ansia e preoccupazione; * sempre sulla stessa pagina stiamo facendo delle dirette Live con esperti sulla prevenzione del virus a domicilio, sulle strategie emozionali, sulle strategie assistenziali, con indicazioni anche di attivit\u00e0 rilassanti e capaci di prevenire i disturbi del comportamento quali il massaggio alla mano; * attraverso l'avvio di gruppi whatsapp dedicati alle famiglie delle Sente-mente comunit\u00e0 amiche stiamo sostenendo le famiglie con materiale ma soprattutto rispondendo  in modo puntuale, attraverso i diversi felicitatori nazionali, alle loro domande; * attraverso la pagina You Tube di Letizia Espanoli veicolare tutti i video fino ad oggi registrati; * accogliendo richieste di aiuto da direttori di case per anziani, famigliari, persone che vivono con demenza alla mail espanoli.letizia@gmail.com ed attivando colloqui personalizzati con line per rispondere alle domande ed alle preoccupazioni \nOgni giorno, fino a quando questo sfidante periodo non sar\u00e0 concluso, i Felicitatori del sente- mente \u00ae project (professionisti socio sanitari educativi) hanno scelto di essere accanto alle famiglie ed alle persone che vivono con demenza. \n\u201cIn questo momento delicato dedicato al covid-19, io e il Sente-Mente\u00ae team scegliamo anche noi di non fermarci e di restarvi accanto: non siete soli!\"" questo l'accorato appello lanciato da Letizia Espanoli a tutte le famiglie."", ""Destinatari"": ""Persone che vivono con la demenza: carepatners di persone che vivono con demenza; famigliari di residenti di persone accolte in Rsa, equipe di professionisti di Rsa"", ""Link"": ""http://letiziaespanoli.com/2020/03/13/la-demenza-non-chiude-oltreledistanzenoirestiamoaperti/"", ""Natura"": ""didattica"", ""Posizione"": ""45.58329 10.546875 0 0"", ""Titolo"": ""#oltreledistanze: noi restiamo aperti""}","<pre><yamldata>
 Da_chi_offerta: Sente-mente project
 Descrizione: ""Demenza e emergenza Covid-19: un sostegno arriva dal modello Sente-Mente®.\
   \ 60 milioni di italiani sono alle prese con le misure restrittive anti Covid-19:\
@@ -262,6 +509,23 @@ Descrizione: Aggiornamenti da Barcellona sull'evoluzione del CV con un pizzico d
   ironia. IN UN MINUTO
 Link: https://open.spotify.com/show/2OgRHVk3LhfmL2CroAy40J?si=8i2YLu24SWuo0MuACSoMKg
 Posizione: 41.37391 2.16566
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/890,584962513,2020-03-20 17:00:54,2020-03-20 10:06:22,ASPIC offre servizio di supporto psicologico,,,,,"[""Contatti utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ASPIC Emergenza"", ""Descrizione"": ""Telefonando al numero 320-2333-616, sar\u00e0 possibile fissare l'appuntamento per un colloquio gratuito, con un volontario di ASPIC Emergenza, a cui appartengono Counselor Professionisti, Psicologi e Psicoterapeuti, formati per rispondere ai bisogni delle persone in situazioni emergenziali collettive, come quella che stiamo affrontando con l\u2019emergenza COVID 2019.\nIl servizio gratuito \u00e8 rivolto a tutte le persone, cittadini, operatori sanitari, soccorritori, che vogliono essere sostenute e aiutate ad affrontare le difficolt\u00e0 legate al diffondersi del COVID-19."", ""Destinatari"": ""Tutte le persone, cittadini, operatori sanitari, soccorritori"", ""Link"": ""https://www.aspicpsicologia.org/news/io-resto-a-casa-sostegno-emotivo-per-affrontare-l-emergenza-covid-19.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Numero di Ascolto 320-2333-616 SOSTEGNO EMOTIVO""}","<pre><yamldata>
+Da_chi_offerta: ASPIC Emergenza
+Descrizione: 'Telefonando al numero 320-2333-616, sarà possibile fissare l''appuntamento
+  per un colloquio gratuito, con un volontario di ASPIC Emergenza, a cui appartengono
+  Counselor Professionisti, Psicologi e Psicoterapeuti, formati per rispondere ai
+  bisogni delle persone in situazioni emergenziali collettive, come quella che stiamo
+  affrontando con l’emergenza COVID 2019.
+
+  Il servizio gratuito è rivolto a tutte le persone, cittadini, operatori sanitari,
+  soccorritori, che vogliono essere sostenute e aiutate ad affrontare le difficoltà
+  legate al diffondersi del COVID-19.'
+Destinatari: Tutte le persone, cittadini, operatori sanitari, soccorritori
+Link: https://www.aspicpsicologia.org/news/io-resto-a-casa-sostegno-emotivo-per-affrontare-l-emergenza-covid-19.html
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Numero di Ascolto 320-2333-616 SOSTEGNO EMOTIVO
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/889,584951353,2020-03-20 14:56:42,2020-03-20 09:46:18,Raccolta Fondi - Ospedale Maggiore di #Novara,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Luned\u00ec 9/3/20, dopo un lungo incontro di Giulia Dalloni con la Direzione Generale dell'Ospedale Maggiore della Carit\u00e0 di Novara per valutare le esigenze dell'Ospedale per affrontare l'emergenza, \u00e8 stato creato, su iniziativa privata della Fondazione \""Franca Capurro per Novara\"", un conto corrente dedicato \""NOVARA EMERGENZA CORONAVIRUS\"" su cui verranno convogliate tutte le donazioni di privati, aziende e associazioni che volessero aiutarci ad acquistare il macchinario ECMO - Ossigenazione extracorporea a membrana, presente unicamente in alcuni Ospedali torinesi in tutto il Piemonte, del valore di circa 90.000\u20ac da donare al Reparto novarese di Terapia Intensiva.\nGrazie alla solidariet\u00e0 e generosit\u00e0 di tutti i Novaresi (e non solo), abbiamo abbattuto l'obiettivo iniziale di 70.000\u20ac ed ora continuiamo a raccogliere fondi, con la promessa di tenervi costantemente aggiornati su come verranno adoperati. \nOltre all'acquisto dell'ECMO (ACQUISTATO!), ecco i nostri nuovi progetti concordati con la Direzione Generale dell'Ospedale:\n- acquisto di n. 2 Fibrobroncoscopi Medical Imaging del valore complessivo di circa 18.000\u20ac (ACQUISTATI!)\n- acquisto di n. 2 Ventilatori polmonari non invasivi del valore complessivo di circa 22.000\u20ac (ACQUISTATI!)\n- acquisto di n. 1 Ventilatore polmonare invasivo del valore di circa 13.500\u20ac (ACQUISTATO!)\n- acquisto di Kit Base (guanti, mascherine, camici mono-uso ecc) in quantit\u00e0 ancora da definire da destinare al personale sanitario\n- acquisto di n.1 Tromboelastogramma del valore di circa 38.000\u20ac a completamento dell'ECMO\n- acquisto di n. 10 Monitor multiparametrici del valore complessivo di circa 20.000\u20ac\n\nOltre a tutto questo, il nostro desiderio \u00e8 non lasciare soli anche i Medici di Base ed i Pediatri di Famiglia, che rappresentano il primissimo filtro contro il coronavirus.\nVogliamo donare a tutti i Medici novaresi sopracitati una fornitura di kit base (guanti, mascherine, camici mono-uso ecc.) per affrontare l'emergenza, dato che, fino ad ora, hanno provveduto autonomamente al loro reperimento."", ""Indirizzo"": ""45.44588506 8.62191588 0 0"", ""Link"": ""https://www.gofundme.com/f/emergenza-coronavirus-novara"", ""Nome"": ""AOU Maggiore della Carit\u00e0 - Novara""}","<pre><yamldata>
 Descrizione: ""Lunedì 9/3/20, dopo un lungo incontro di Giulia Dalloni con la Direzione\
@@ -347,6 +611,16 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Produzione mascherine
 Posizione: 43.6886553 10.4915599 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/884,584895002,2020-03-20 17:06:04,2020-03-20 07:43:41,Associazione Nuove Frontiere del Diritto lancia raccolta fondi #Lazio,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""00139"", ""Causale"": ""Nfd contro il COVID-19"", ""Descrizione"": ""https://www.nuovefrontierediritto.it/appello-di-solidarieta/"", ""Email"": ""federica.federici@nuovefrontierediritto.it"", ""IBAN"": ""IT67X0311103254000000003878"", ""Intestazione"": ""Nuove Frontiere del Diritto"", ""Link"": ""https://www.nuovefrontierediritto.it/appello-di-solidarieta/"", ""Nome"": ""Associazione nuove Frontiere del Diritto""}","<pre><yamldata>
+CC_Postale: 00139
+Causale: Nfd contro il COVID-19
+Descrizione: https://www.nuovefrontierediritto.it/appello-di-solidarieta/
+Email: federica.federici@nuovefrontierediritto.it
+IBAN: IT67X0311103254000000003878
+Intestazione: Nuove Frontiere del Diritto
+Link: https://www.nuovefrontierediritto.it/appello-di-solidarieta/
+Nome: Associazione nuove Frontiere del Diritto
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/883,584773027,2020-03-20 14:25:54,2020-03-20 00:19:40, Reti di Avanguardie educative e Piccole Scuole a supporto dell’emergenza sanitaria #INDIRE,43.770602,11.264157,Toscana,Firenze,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""INDIRE - Istituto Nazionale di Documentazione, Innovazione e Ricerca Educativa -"", ""Descrizione"": ""Vi attendono i tutorial per chi si sta orientando, una ricca agenda di webinar e un archivio delle registrazioni. La mappa delle Scuole che stanno aderendo all'iniziativa e  gli aiuti che offrono per la didattica a distanza.\n\nAlcuni esempi: sportelli assistenza, contenuti, classi virtuali, storytelling,  tutorials, webinars,  creazione videolezioni, costruzione siti web, risorse per videoconferenze, block notes digitali, lavagne collaborative, lezioni peer to peer tra studenti - sincrone o asincrone - \n\n[work in progress]\n\nTante esperienze e tanta voglia di imparare ma non da soli!"", ""Destinatari"": ""Docenti e Dirigenti"", ""Link"": ""http://www.indire.it/la-scuola-per-la-scuola/"", ""Natura"": ""didattica"", ""Posizione"": ""43.770602 11.264157 0 0"", ""Titolo"": ""LA SCUOLA PER LA SCUOLA""}","<pre><yamldata>
 Da_chi_offerta: INDIRE - Istituto Nazionale di Documentazione, Innovazione e Ricerca
@@ -1013,6 +1287,26 @@ Indirizzo: 40.72667657 8.55966713 0 0
 Intestazione: Azienda Tutela Salute Sardegna via E. Costa 57 07100 SASSARI
 Link: https://www.atssardegna.it/index.php?xsl=115&s=69048&v=2&c=4798&na=1
 Nome: ATS Sardegna
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/839,584359381,2020-03-20 17:02:19,2020-03-19 11:55:36,Raccolta fondi per l'Azienda Ospedaliera Universitaria Careggi di #Firenze,,,,,"[""Raccolte fondi"", ""accettato"", ""da sistemare"", ""form""]",,,"{""Causale"": ""donazione emergenza coronarovirus"", ""Descrizione"": ""Ogni donazione, piccola o grande, \u00e8 per noi un importante gesto di solidariet\u00e0 che pu\u00f2 contribuire a salvare la vita di molti pazienti.\nDi seguito le nostre coordinate, per destinare quanto raccolto all'emergenza coronavirus:\npresso ufficio bancario, o da casa tramite homebanking, mediante bonifico bancario sul conto corrente intestato ad AOU Careggi, IBAN IT06V0306902887100000046016\nPresso gli apparecchi per la riscossione automatica presenti nei vari padiglioni dell'Azienda, in contanti o con carta Bancomat\npresso tutti gli uffici postali sul c.c. postale n. 22755508 intestato a \""Azienda Ospedaliero - Universitaria Careggi \u2013 Firenze\""\nSpecificando, la causale \u201cdonazione emergenza coronarovirus\u201d e inviare ad AOUC la Comunicazione di avvenuta donazione\nemail: donazionicoronavirus@aou-careggi.toscana.it \n \n\u00c8 possibile donare anche attraverso la Fondazione Careggi Onlus"", ""Email"": ""donazionicoronavirus@aou-careggi.toscana.it"", ""IBAN"": ""IT06V0306902887100000046016"", ""Indirizzo"": ""43.76923077 11.25588885 0 0"", ""Intestazione"": ""AOU Careggi"", ""Link"": ""https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=5713&catid=92&Itemid=909&lang=it"", ""Nome"": ""Azienda Ospedaliera Universitaria Careggi di Firenze""}","<pre><yamldata>
+Causale: donazione emergenza coronarovirus
+Descrizione: ""Ogni donazione, piccola o grande, è per noi un importante gesto di solidarietà\
+  \ che può contribuire a salvare la vita di molti pazienti.\nDi seguito le nostre\
+  \ coordinate, per destinare quanto raccolto all'emergenza coronavirus:\npresso ufficio\
+  \ bancario, o da casa tramite homebanking, mediante bonifico bancario sul conto\
+  \ corrente intestato ad AOU Careggi, IBAN IT06V0306902887100000046016\nPresso gli\
+  \ apparecchi per la riscossione automatica presenti nei vari padiglioni dell'Azienda,\
+  \ in contanti o con carta Bancomat\npresso tutti gli uffici postali sul c.c. postale\
+  \ n. 22755508 intestato a \""Azienda Ospedaliero - Universitaria Careggi – Firenze\""\
+  \nSpecificando, la causale “donazione emergenza coronarovirus” e inviare ad AOUC\
+  \ la Comunicazione di avvenuta donazione\nemail: donazionicoronavirus@aou-careggi.toscana.it\
+  \ \n \nÈ possibile donare anche attraverso la Fondazione Careggi Onlus""
+Email: donazionicoronavirus@aou-careggi.toscana.it
+IBAN: IT06V0306902887100000046016
+Indirizzo: 43.76923077 11.25588885 0 0
+Intestazione: AOU Careggi
+Link: https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=5713&catid=92&Itemid=909&lang=it
+Nome: Azienda Ospedaliera Universitaria Careggi di Firenze
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/837,584357062,2020-03-19 12:22:32,2020-03-19 11:51:12,Raccolta fondi AUSL IRCCS #ReggioEmilia,44.608664,10.594796841892734,Emilia-Romagna,Reggio nell'Emilia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""emergenza COVID 19"", ""Descrizione"": ""AUSL IRCCS Reggio Emilia: donazioni COVID 19"", ""Email"": ""protobilancio@ausl.re.it"", ""IBAN"": ""IT34Y0306902477100000046052"", ""Link"": ""https://www.ausl.re.it/comunicazione/comunicati-stampa/ausl-irccs-reggio-emilia-donazioni-covid-19"", ""Nome"": ""AUSL IRCCS Reggio Emilia"", ""Posizione"": ""44.608664 10.594796841892734 0 0""}","<pre><yamldata>
 Causale: emergenza COVID 19
