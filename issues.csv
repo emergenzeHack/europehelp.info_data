@@ -1,4 +1,35 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/927,585303289,2020-03-20 20:15:06,2020-03-20 20:13:11,Dal 20.03 si può chiedere la ricetta medica tramite mail o telefono #Italia,41.893844,12.482391,Lazio,Roma,"[""Bollettino"", ""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Da oggi 20.03 si pu\u00f2 chiedere la ricetta medica tramite mail o telefono"", ""Descrizione"": ""In sostanza, al momento in cui il medico emette la ricetta elettronica, \u00e8 autorizzato a trasmettere il numero della stessa per via telematica e non ci sar\u00e0 pi\u00f9 bisogno del promemoria cartaceo (il foglio che di solito viene consegnato al momento della richiesta della ricetta). \n\nL\u2019ordinanza dice che il paziente pu\u00f2 chiedere al medico il numero della ricetta elettronica in tre modi:\n\nTramite posta elettronica, indicando al medico il proprio indirizzo di posta certificata (PEC) o ordinaria;\nTramite SMS o app di messaggistica (per esempio WhatsApp);\nA voce, per telefono.\n\nIl medico che manda il numero della ricetta dovr\u00e0, secondo l\u2019ordinanza, seguire alcune regole: nel caso la mandi tramite mail, dovr\u00e0 allegare il promemoria della ricetta medica (quello che di solito viene stampato) su cui c\u2019\u00e8 scritto il numero e non copiandolo nel testo della mail. Nel caso in cui la mandi tramite SMS o app di messaggistica (WhatsApp) dovr\u00e0 scrivere nel testo del messaggio il numero della ricetta o inviare un\u2019immagine del codice a barre del numero."", ""Link"": ""https://www.ilpost.it/2020/03/20/ricetta-medica-virtuale-mail-telefono-whatsapp/"", ""Posizione"": ""41.893844 12.482391 0 0""}","<pre><yamldata>
+Cosa: Da oggi 20.03 si può chiedere la ricetta medica tramite mail o telefono
+Descrizione: ""In sostanza, al momento in cui il medico emette la ricetta elettronica,\
+  \ è autorizzato a trasmettere il numero della stessa per via telematica e non ci\
+  \ sarà più bisogno del promemoria cartaceo (il foglio che di solito viene consegnato\
+  \ al momento della richiesta della ricetta). \n\nL’ordinanza dice che il paziente\
+  \ può chiedere al medico il numero della ricetta elettronica in tre modi:\n\nTramite\
+  \ posta elettronica, indicando al medico il proprio indirizzo di posta certificata\
+  \ (PEC) o ordinaria;\nTramite SMS o app di messaggistica (per esempio WhatsApp);\n\
+  A voce, per telefono.\n\nIl medico che manda il numero della ricetta dovrà, secondo\
+  \ l’ordinanza, seguire alcune regole: nel caso la mandi tramite mail, dovrà allegare\
+  \ il promemoria della ricetta medica (quello che di solito viene stampato) su cui\
+  \ c’è scritto il numero e non copiandolo nel testo della mail. Nel caso in cui la\
+  \ mandi tramite SMS o app di messaggistica (WhatsApp) dovrà scrivere nel testo del\
+  \ messaggio il numero della ricetta o inviare un’immagine del codice a barre del\
+  \ numero.""
+Link: https://www.ilpost.it/2020/03/20/ricetta-medica-virtuale-mail-telefono-whatsapp/
+Posizione: 41.893844 12.482391 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/925,585262211,2020-03-20 20:06:42,2020-03-20 18:45:08,"Solidarietà e Mutualismo - Servizi supporto psicologico, consegna beni e farmaci gratuiti #Avellino",40.9965446,15.1405690365004,Campania,Avellino,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Soma - Solidariet\u00e0 e Mutualismo"", ""Descrizione"": ""Costruzione di una rete di associazioni - Soma, Arci, Avionica, Don Tonino Bello Onlus, Libera, Irpinia Altruista - per la consegna di spesa e farmaci a casa delle persone costrette in casa dall'emergenza coronavirus. Inoltre \u00e8 stato attivato uno sportello di ascolto psicologico gratuito."", ""Destinatari"": ""Cittadinanza"", ""Link"": ""https://www.facebook.com/SomaAvellino/"", ""Natura"": ""solidale"", ""Posizione"": ""40.9965446 15.1405690365004 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Diamoci una Mano""}","<pre><yamldata>
+Da_chi_offerta: Soma - Solidarietà e Mutualismo
+Descrizione: Costruzione di una rete di associazioni - Soma, Arci, Avionica, Don Tonino
+  Bello Onlus, Libera, Irpinia Altruista - per la consegna di spesa e farmaci a casa
+  delle persone costrette in casa dall'emergenza coronavirus. Inoltre è stato attivato uno sportello di ascolto psicologico gratuito.
+Destinatari: Cittadinanza
+Link: https://www.facebook.com/SomaAvellino/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Diamoci una Mano
+Posizione: 40.9965446 15.1405690365004 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/923,585211352,2020-03-20 19:38:26,2020-03-20 17:10:24,Non è vera la notizia sul biocontenimento BSL-4,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Biocontenimento BSL-4, Protezione civile"", ""Descrizione"": ""Il dipartimento della protezione civile, \nin collaborazione col governo ha deliberato \nche il 15 aprile se l\u2019epidemia non \u00e8 \nstata contenuta verr\u00e1 dichiarato \nil biocontenimento BSL-4. \nIl pi\u00f9 alto che prevede protocolli \ndi contenimento estremamente stringenti.\nSe l\u2019oms dichiara la pandemia significa \nche il MONDO SI FERMER\u00c0 \nCOMPLETAMENTE PER 21 GIORNI. \nBorsa, parlamenti, scuole, aeroporti, \ntreni, uffici, attivit\u00e0 commerciali, tutto. \nSolo un membro per ogni nucleo famigliare sar\u00e0 dotato del kit necessario per recarsi \nai checkpoint militari approntati \nper i rifornimenti necessari. \nNessun\u2019altra potr\u00e0 lasciare la quarantena domiciliare, malato o sano, grave o no. \nDopo 21 giorni sapremo se il virus \u00e8 sconfitto ma faremo la conta di un isolamento cos\u00ec rigido.\n\nPER FAVORE\n #stateacasa \nCopiate e incollate ce la possiamo fare vi prego siamo forti cos\u00ec ad aprile tutto questo finir\u00e0!!!"", ""Link"": ""https://www.open.online/2020/03/10/la-bufala-whatsapp-sulla-protezione-civile-e-il-biocontenimento-bsl-4/""}","<pre><yamldata>
 Cosa: Biocontenimento BSL-4, Protezione civile
 Descrizione: ""Il dipartimento della protezione civile, \nin collaborazione col governo\
