@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/907,585082264,2020-03-20 13:50:28,2020-03-20 13:49:19,"Servizio assistenza ad anziani, malati e persone con disabilità Municipio 10 #Roma",41.73299,12.281331,Lazio,Roma,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio Roma 10"", ""Descrizione"": ""Si \u00e8 attivato il \""Servizio di Assistenza ad Anziani, malati e persone con disabilit\u00e0\""\n\nIl Municipio X, attraverso la rete formale ed informale, mette a disposizione un servizio di informazione, orientamento ed assistenza per i cittadini che non riescono a provvedere autonomamente, poich\u00e9 impossibilitati a muoversi ed abbiano esigenze quali:\n\n- approvvigionamento farmaci*;\n\n- approvvigionamento generi alimentari*;\n\n- sostegno telefonico;\n\n- pasti a domicilio.\n\n*Il costo della spesa e dei farmaci \u00e8 a carico del richiedente\n\nI contatti\n\nSegretariato sociale/PUA marted\u00ec e gioved\u00ec dalle ore 9.00 alle ore12.00 via telefono al numero 06/69613519\n\npec: protocollo.municipioroma10@pec.comune.roma.it"", ""Destinatari"": ""Cittadine e cittadini Municipio Roma 10"", ""Natura"": ""solidale"", ""Posizione"": ""41.73299 12.281331 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio di Assistenza ad anziani, malati e persone con disabilit\u00e0 Municipio 10 #Roma""}","<pre><yamldata>
+Da_chi_offerta: Municipio Roma 10
+Descrizione: 'Si è attivato il ""Servizio di Assistenza ad Anziani, malati e persone
+  con disabilità""
+
+
+  Il Municipio X, attraverso la rete formale ed informale, mette a disposizione un
+  servizio di informazione, orientamento ed assistenza per i cittadini che non riescono
+  a provvedere autonomamente, poiché impossibilitati a muoversi ed abbiano esigenze
+  quali:
+
+
+  - approvvigionamento farmaci*;
+
+
+  - approvvigionamento generi alimentari*;
+
+
+  - sostegno telefonico;
+
+
+  - pasti a domicilio.
+
+
+  *Il costo della spesa e dei farmaci è a carico del richiedente
+
+
+  I contatti
+
+
+  Segretariato sociale/PUA martedì e giovedì dalle ore 9.00 alle ore12.00 via telefono
+  al numero 06/69613519
+
+
+  pec: protocollo.municipioroma10@pec.comune.roma.it'
+Destinatari: Cittadine e cittadini Municipio Roma 10
+Natura: solidale
+Posizione: 41.73299 12.281331 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Servizio di Assistenza ad anziani, malati e persone con disabilità Municipio
+  10 #Roma'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/902,585062130,2020-03-20 13:22:24,2020-03-20 13:15:40,Numeri utili per emergenze #Bari,41.124661,16.868013,Puglia,Bari,"[""Bollettino"", ""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""EMERGENZA CORONAVIRUS **NUMERI UTILI** Per ascolto, sostegno psico sociale, spesa e farmaci a domicilio. --> **Segretariato Sociale**: 0805772508 / 3773241276 \nDa luned\u00ec a venerd\u00ec dalle 9 alle 13\nmarted\u00ec e gioved\u00ec anche dalle 15 alle 17\n37732799288 \nDal luned\u00ec al venerd\u00ec dalle 9 alle 13 \nmarted\u00ec, mercoled\u00ec e gioved\u00ec anche dalle 15 alle 17\n\nIn rete anche con l'Unione Italiana dei Ciechi e degli ipovedenti onlus\n\n --> **IN RETE CON ENS** Ente Nazionale Sordi\n3408695211\nnumero di cellulare ENS al quale mandare video messaggio o video chiamata o scrivere messaggi dalle 9 alle 13 e dalle 16 alle 19\n\n --> **IN RETE CON ARCI**\n3938393197\nnumero cellulare Arci per videomessaggio o video chiamata o scrivere messaggi dalle 16 alle 19\nAnche in lingua francese e inglese\n\n--> URP \n0805772526\ndal luned\u00ec al gioved\u00ec dalle 9.30 alle 13.30, marted\u00ec e gioved\u00ec anche dalle 15 alle 17\n\n--> **SEGRETERIA ASSESSORATO WELFARE** \n0805772523\n0805772593\ndal luned\u00ec al venerd\u00ec dalle 9 alle 13, marted\u00ec e gioved\u00ec anche dalle 15 alle 17\nsegreteriawelfarebari@comune.bari.it\n\n**NUMERO RISERVATO ALLE FARMACIE**:\n0805772504"", ""Destinatari"": ""abitanti di Bari"", ""Link"": ""https://www.facebook.com/BottalicoFrancesca/photos/a.146532979117707/882971848807146/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.124661 16.868013 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Numeri utili per emergenze #Bari""}","<pre><yamldata>
 Da_chi_offerta: Comune di Bari
 Descrizione: ""EMERGENZA CORONAVIRUS 
@@ -177,7 +219,7 @@ Posizione: 43.115207 12.389531 0 0
 Titolo: 'L''emergenza sanitaria chiude le porte delle nostre case: la cultura le apre
   grazie alla realtà virtuale'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/876,584716442,2020-03-20 10:31:29,2020-03-19 21:40:58,Richiesta informazioni servizi di consegna a domicilio #Ostia #Roma,41.75365,12.28574,Lazio,Roma,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Ostia Consegna a domicilio frutta e verdura"", ""Descrizione"": ""Ho bisogno di sapere se ci sono negozi che consegnano frutta e verdura a Ostia, che posso pagare online. Mi serve rifornire i miei genitori (vivo a Milano). Grazie."", ""Destinatari"": ""Famiglia di anziani"", ""Posizione"": ""41.75365 12.28574""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/876,584716442,2020-03-20 13:51:03,2020-03-19 21:40:58,Richiesta informazioni servizi di consegna a domicilio #Ostia #Roma,41.75365,12.28574,Lazio,Roma,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Ostia Consegna a domicilio frutta e verdura"", ""Descrizione"": ""Ho bisogno di sapere se ci sono negozi che consegnano frutta e verdura a Ostia, che posso pagare online. Mi serve rifornire i miei genitori (vivo a Milano). Grazie."", ""Destinatari"": ""Famiglia di anziani"", ""Posizione"": ""41.75365 12.28574""}","<pre><yamldata>
 Cosa: '#Ostia Consegna a domicilio frutta e verdura'
 Descrizione: Ho bisogno di sapere se ci sono negozi che consegnano frutta e verdura
   a Ostia, che posso pagare online. Mi serve rifornire i miei genitori (vivo a Milano).
