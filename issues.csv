@@ -1,4 +1,43 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/937,585348090,2020-03-21 10:11:06,2020-03-20 21:58:58,"Comune di Carrara, elenco degli esercizi che offrono consegne a domicilio",44.078013,10.096951,Toscana,Massa Carrara,"[""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Carrara"", ""Descrizione"": ""L\u2019Amministrazione comunale ha messo a punto un primo elenco di attivit\u00e0 commerciali che effettuano il servizio di consegna a domicilio, per supportare i cittadini nell\u2019emergenza innescata dall\u2019epidemia di Covid-19 e ridurre al minimo gli spostamenti delle persone. Al link l\u2019elenco delle attivit\u00e0 che hanno gi\u00e0 dato la propria disponibilit\u00e0, quelle che intendono aderire possono scrivere a commercio@comune.carrara.ms.it"", ""Destinatari"": ""Tutti"", ""Link"": ""http://web.comune.carrara.ms.it/archivio10_notizie-e-comunicati_0_3625.html"", ""Natura"": ""solidale"", ""Posizione"": ""44.078013 10.096951 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Carrara, elenco degli esercizi che offrono consegne a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Comune di Carrara
+Descrizione: L’Amministrazione comunale ha messo a punto un primo elenco di attività
+  commerciali che effettuano il servizio di consegna a domicilio, per supportare i
+  cittadini nell’emergenza innescata dall’epidemia di Covid-19 e ridurre al minimo
+  gli spostamenti delle persone. Al link l’elenco delle attività che hanno già dato
+  la propria disponibilità, quelle che intendono aderire possono scrivere a commercio@comune.carrara.ms.it
+Destinatari: Tutti
+Link: http://web.comune.carrara.ms.it/archivio10_notizie-e-comunicati_0_3625.html
+Natura: solidale
+Posizione: 44.078013 10.096951 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Carrara, elenco degli esercizi che offrono consegne a domicilio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/936,585347039,2020-03-21 10:10:13,2020-03-20 21:56:19,"Comune #Carrara, attivo servizio di supporto e consegna farmaci e spesa a domicilio",44.078229,10.097079,Toscana,Massa Carrara,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Carrara"", ""Descrizione"": ""Gli anziani soli o in difficolt\u00e0 potranno rivolgersi al numero verde 800 - 055 - 692 per segnalare il loro stato di bisogno in riferimento all'emergenza epidemiologica da COVID-19. Il numero verde \u00e8 attivo dal luned\u00ec al venerd\u00ec, dalle 8:30 alle 17:00. Le telefonate sono gratuite. Con questo servizio il Settore Sociale del Comune di Carrara garantir\u00e0 il servizio di spesa e consegna a domicilio dei beni di prima necessit\u00e0 (alimenti, igiene personale e della casa) in sinergia con i soggetti del Terzo Settore e del volontariato. L\u2019intervento previsto riguarda esclusivamente il servizio di consegna dei generi alimentari e di prima necessit\u00e0 e non l\u2019importo della spesa effettuata, che dovr\u00e0 essere corrisposto dal soggetto anziano richiedente. Per il reperimento dei farmaci, \u00e8 disponibile un altro numero verde: 800 06 5510.\nLa Protezione civile, gi\u00e0 impegnata su pi\u00f9 versanti, \u00e8 gi\u00e0 attiva per le necessit\u00e0 dei soggetti in quarantena e positivi, ove avessero particolari bisogni legati all'approvvigionamento e nessun parente/conoscente possa farsene carico (0585/641778; 0585/641414)."", ""Destinatari"": ""Anziani soli"", ""Link"": ""http://web.comune.carrara.ms.it/archivio10_notizie-e-comunicati_0_3617.html"", ""Natura"": ""solidale"", ""Posizione"": ""44.078229 10.097079 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Carrara, attivo servizio di supporto e consegna farmaci e spesa a domicilio per anziani in difficolt\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Comune di Carrara
+Descrizione: 'Gli anziani soli o in difficoltà potranno rivolgersi al numero verde
+  800 - 055 - 692 per segnalare il loro stato di bisogno in riferimento all''emergenza
+  epidemiologica da COVID-19. Il numero verde è attivo dal lunedì al venerdì, dalle
+  8:30 alle 17:00. Le telefonate sono gratuite. Con questo servizio il Settore Sociale
+  del Comune di Carrara garantirà il servizio di spesa e consegna a domicilio dei
+  beni di prima necessità (alimenti, igiene personale e della casa) in sinergia con
+  i soggetti del Terzo Settore e del volontariato. L’intervento previsto riguarda
+  esclusivamente il servizio di consegna dei generi alimentari e di prima necessità
+  e non l’importo della spesa effettuata, che dovrà essere corrisposto dal soggetto
+  anziano richiedente. Per il reperimento dei farmaci, è disponibile un altro numero
+  verde: 800 06 5510.
+
+  La Protezione civile, già impegnata su più versanti, è già attiva per le necessità
+  dei soggetti in quarantena e positivi, ove avessero particolari bisogni legati all''approvvigionamento
+  e nessun parente/conoscente possa farsene carico (0585/641778; 0585/641414).'
+Destinatari: Anziani soli
+Link: http://web.comune.carrara.ms.it/archivio10_notizie-e-comunicati_0_3617.html
+Natura: solidale
+Posizione: 44.078229 10.097079 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Carrara, attivo servizio di supporto e consegna farmaci e spesa
+  a domicilio per anziani in difficoltà
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/935,585345300,2020-03-21 10:08:51,2020-03-20 21:51:39,Comune #Massa attiva servizio di spesa a domicilio per cittadini più fragili,,,,,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Massa"", ""Descrizione"": ""Per l'emergenza Covid-19 l\u2019Amministrazione Comunale, in collaborazione con le Associazioni del Territorio, ha istituito una rete solidale a supporto dei cittadini pi\u00f9 fragili impossibilitati a delegare un familiare o una persona di fiducia per fare la spesa: anziani, affetti da patologie croniche o con stati di immunodepressione, NON in domiciliazione fiduciaria obbligatoria. Numero da contattare: 348 3410738 dalle ore 08:30 alle ore 19:00, dal luned\u00ec al sabato."", ""Destinatari"": ""Cittadini fragili"", ""Indirizzo"": ""44.03593 10.13955"", ""Link"": ""http://www.comune.massa.ms.it/pagina/il-comune-organizza-un-servizio-di-spesa-domicilio-collaborazione-con-associazioni-del"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Massa attiva servizio di spesa a domicilio per cittadini pi\u00f9 fragili""}","<pre><yamldata>
 Da_chi_offerta: Comune di Massa
 Descrizione: 'Per l''emergenza Covid-19 l’Amministrazione Comunale, in collaborazione
