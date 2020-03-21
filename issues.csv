@@ -1,28 +1,4 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/962,585478510,2020-03-21 11:17:20,2020-03-21 11:13:15,Farmaci e spesa a domicilio #Gallarate #Varese,45.66334,8.788196,Lombardia,Varese,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana"", ""Descrizione"": ""\ud83d\udc8a Farmaci e \ud83d\uded2spesa a domicilio per anziani, immunodepressi, persone con fragilit\u00e0 e persone in isolamento per tampone positivo.\nSe sei in difficolt\u00e0 o conosci persone che lo sono non esitare a contattare il numero \ud83d\udcde 0331 774432!\n\n\ud83d\udd34 Il numero \u00e8 attivo dal luned\u00ec al sabato, dalle 09.00 alle 12.00.\n\nhttp://www.crigallarate.it/news/cri-te\n\n#CRIperTe #Crocerossa #CRI #CRIgallarate"", ""Destinatari"": ""anziani, immunodepressi, persone con fragilit\u00e0 e persone in isolamento per tampone positivo"", ""Link"": ""http://www.crigallarate.it/news/cri-te"", ""Natura"": ""solidale"", ""Posizione"": ""45.66334 8.788196 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Farmaci e spesa a domicilio #Gallarate #Milano""}","<pre><yamldata>
-Da_chi_offerta: Croce Rossa Italiana
-Descrizione: '💊 Farmaci e 🛒spesa a domicilio per anziani, immunodepressi, persone
-  con fragilità e persone in isolamento per tampone positivo.
-
-  Se sei in difficoltà o conosci persone che lo sono non esitare a contattare il numero
-  📞 0331 774432!
-
-
-  🔴 Il numero è attivo dal lunedì al sabato, dalle 09.00 alle 12.00.
-
-
-  http://www.crigallarate.it/news/cri-te
-
-
-  #CRIperTe #Crocerossa #CRI #CRIgallarate'
-Destinatari: anziani, immunodepressi, persone con fragilità e persone in isolamento
-  per tampone positivo
-Link: http://www.crigallarate.it/news/cri-te
-Natura: solidale
-Posizione: 45.66334 8.788196 0 0
-Tipo_di_soggetto: privato
-Titolo: 'Farmaci e spesa a domicilio #Gallarate #Milano'
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/959,585476866,2020-03-21 11:09:29,2020-03-21 11:02:44,Fondazione MilleSoli Onlus e Gruppo Tecnocasa avviano raccolta fondi per Policlinico Gemelli #Roma e Fondazione  Poliambulanza #Brescia,,,,,"[""Informazioni utili"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""MilleSoli, con il fondamentale supporto del Gruppo Tecnocasa, ha deciso di promuovere su Retedeldono.it la raccolta fondi online \u201cDiamoci una mano\u201d per sostenere la sanit\u00e0 pubblica in questo momento di emergenza straordinaria, contribuendo cos\u00ec ad ampliare le possibilit\u00e0 di cure per chi dovesse contrarre il virus influenzale. Gli enti beneficiari individuati sono la Fondazione Policlinico Universitario Agostino Gemelli IRCCS - Universit\u00e0 Cattolica del Sacro Cuore di Roma e la Fondazione Poliambulanza di Brescia con i quali \u00e8 stata avviata una partnership per la corretta destinazione dei fondi, a garanzia delle persone che decideranno di sostenere il nostro gesto. Tutte le info al link."", ""Indirizzo"": ""41.89277044 12.48366723"", ""Link"": ""https://www.retedeldono.it/it/progetti/millesoli/millesoli-per-il-gemelli-e-poliambulanza"", ""Nome"": ""MilleSoli e Tecnocasa, raccolta fondi per Fondazione Policlinico Gemelli e Fondazione Poliambulanza""}","<pre><yamldata>
 Descrizione: MilleSoli, con il fondamentale supporto del Gruppo Tecnocasa, ha deciso
   di promuovere su Retedeldono.it la raccolta fondi online “Diamoci una mano” per
