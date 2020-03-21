@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/933,585343635,2020-03-21 10:04:21,2020-03-20 21:47:03,Comune di #Massa istituisce mail dedicata per chi vuole dare una mano,44.035884,10.136819,Toscana,Massa Carrara,"[""Contatti utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Massa"", ""Descrizione"": ""Il Comune sta ricevendo richieste da parte di cittadini che, con spirito di solidariet\u00e0 in questo momento difficile, si offrono volontari a collaborare con l'Ente in varie forme. A questo proposito l'amministrazione ha istituito una mail dedicata, ringraziando fin da ora tutti coloro che vorranno comunicare la propria disponibilit\u00e0: email: sostienimassa@comune.massa.ms.it"", ""Destinatari"": ""Aspiranti volontari"", ""Link"": ""http://www.comune.massa.ms.it/pagina/sostienimassacomunemassamsit-mail-dedicata-comunicare-la-propria-disponibilit%C3%A0-collaborare"", ""Natura"": ""solidale"", ""Posizione"": ""44.035884 10.136819 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Massa istituisce mail dedicata per chi vuole dare una mano""}","<pre><yamldata>
+Da_chi_offerta: Comune di Massa
+Descrizione: 'Il Comune sta ricevendo richieste da parte di cittadini che, con spirito
+  di solidarietà in questo momento difficile, si offrono volontari a collaborare con
+  l''Ente in varie forme. A questo proposito l''amministrazione ha istituito una mail
+  dedicata, ringraziando fin da ora tutti coloro che vorranno comunicare la propria
+  disponibilità: email: sostienimassa@comune.massa.ms.it'
+Destinatari: Aspiranti volontari
+Link: http://www.comune.massa.ms.it/pagina/sostienimassacomunemassamsit-mail-dedicata-comunicare-la-propria-disponibilit%C3%A0-collaborare
+Natura: solidale
+Posizione: 44.035884 10.136819 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Massa istituisce mail dedicata per chi vuole dare una mano
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/932,585342304,2020-03-21 10:02:00,2020-03-20 21:43:30,Elenco esercizi commerciali che consegnano a domicilio provincia #MassaCarrara,44.070814,10.132141,Toscana,Massa Carrara,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Al link una lista di esercizi commerciali che consegnano a domicilio a Massa Carrara e provincia."", ""Destinatari"": ""Tutti"", ""Link"": ""http://www.voceapuana.com/in-evidenza/ecco-chi-consegna-a-domicilio-a-massa-carrara-26376.aspx"", ""Natura"": ""solidale"", ""Posizione"": ""44.070814 10.132141 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Massa Carrara, servizi di consegna a domicilio""}","<pre><yamldata>
 Descrizione: Al link una lista di esercizi commerciali che consegnano a domicilio
   a Massa Carrara e provincia.
@@ -3841,17 +3855,6 @@ Descrizione: ""FAQs on the Italian Government's #ImStayingHome Decree\n\nDecreto
 Fonte: Ministero degli Affari Esteri e della Cooperazione Internazionale
 Link: https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti
 Posizione: 41.936785 12.45841 0 0
-Provincia: Roma
-Regione: Lazio
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/657,582610677,2020-03-17 10:44:18,2020-03-16 21:30:54,Decreto #iorestoacasa: domande frequenti,41.901305,12.480061,Lazio,Roma,"[""Informazioni utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Cosa"": ""Decreto #iorestoacasa: domande frequenti"", ""Descrizione"": ""A molti degli interrogativi sollevati dal Decreto del Presidente del Consiglio dei Ministri 11 marzo 2020, troviamo qui una risposta precisa e chiara."", ""Fonte"": ""Presidenza del Consiglio dei Ministri"", ""Link"": ""http://www.governo.it/it/articolo/decreto-iorestoacasa-domande-frequenti-sulle-misure-adottate-dal-governo/14278"", ""Posizione"": ""41.901305 12.480061 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio""}","<pre><yamldata>
-Comune: Roma
-Cosa: 'Decreto #iorestoacasa: domande frequenti'
-Descrizione: A molti degli interrogativi sollevati dal Decreto del Presidente del
-  Consiglio dei Ministri 11 marzo 2020, troviamo qui una risposta precisa e chiara.
-Fonte: Presidenza del Consiglio dei Ministri
-Link: http://www.governo.it/it/articolo/decreto-iorestoacasa-domande-frequenti-sulle-misure-adottate-dal-governo/14278
-Posizione: 41.901305 12.480061 0 0
 Provincia: Roma
 Regione: Lazio
 </yamldata></pre>",open
