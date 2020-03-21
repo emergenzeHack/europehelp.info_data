@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/965,585483043,2020-03-21 11:43:37,2020-03-21 11:41:22,Gazzetta Ufficiale: utilizzo di strumenti alternativi al promemoria cartaceo della ricetta elettronica,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Utilizzo di strumenti alternativi al promemoria cartaceo della ricetta elettronica"", ""Descrizione"": ""Al momento della generazione della ricetta elettronica da  parte\ndel medico prescrittore,  l'assistito  puo'  chiedere  al  medico  il\nrilascio del promemoria dematerializzato  ovvero  l'acquisizione  del\nnumero di ricetta  elettronica: \na) trasmissione del promemoria in allegato a messaggio  di  posta\nelettronica;\nb) comunicazione del numero di ricetta elettronica con SMS o  con\napplicazione per telefonia mobile; \nc) comunicazione telefonica da parte del medico prescrittore  del\nnumero di ricetta elettronica; \n...."", ""Fonte"": ""Gazzetta Ufficiale n\u00ba74 del 21/3/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-21&atto.codiceRedazionale=20A01769&elenco30giorni=false""}","<pre><yamldata>
+Cosa: Utilizzo di strumenti alternativi al promemoria cartaceo della ricetta elettronica
+Descrizione: ""Al momento della generazione della ricetta elettronica da  parte\ndel\
+  \ medico prescrittore,  l'assistito  puo'  chiedere  al  medico  il\nrilascio del\
+  \ promemoria dematerializzato  ovvero  l'acquisizione  del\nnumero di ricetta  elettronica:\
+  \ \na) trasmissione del promemoria in allegato a messaggio  di  posta\nelettronica;\n\
+  b) comunicazione del numero di ricetta elettronica con SMS o  con\napplicazione\
+  \ per telefonia mobile; \nc) comunicazione telefonica da parte del medico prescrittore\
+  \  del\nnumero di ricetta elettronica; \n....""
+Fonte: Gazzetta Ufficiale nº74 del 21/3/2020
+Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-21&atto.codiceRedazionale=20A01769&elenco30giorni=false
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/964,585481688,2020-03-21 11:41:36,2020-03-21 11:32:06,"Safecast, an international volunteer driven non-profit organization, activates Covid-19 platform (English)",,,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Safecast COVID platform"", ""Descrizione"": ""Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo di Citizen Science Safecast"", ""Fonte"": ""blog"", ""Link"": ""https://safecast.org/covid19/""}","<pre><yamldata>
 Cosa: Safecast COVID platform
 Descrizione: Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo
@@ -425,6 +437,11 @@ Descrizione: ""In sostanza, al momento in cui il medico emette la ricetta elettr
   \ numero.""
 Link: https://www.ilpost.it/2020/03/20/ricetta-medica-virtuale-mail-telefono-whatsapp/
 Posizione: 41.893844 12.482391 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/926,585268462,2020-03-21 11:43:03,2020-03-20 18:57:40,Non è vero che ci sono teorie complottiste dietro la diffusione del COVID-19,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""\""Coronavirus, c'\u00e8 un'altra verit\u00e0\"". La tesi del Nobel Luc Montagnier"", ""Descrizione"": ""https://www.affaritaliani.it/cronache/coronavirus-c-e-un-altra-verita-la-tesi-del-nobel-luc-montagnier-video-655427.html"", ""Link"": ""https://www.affaritaliani.it/cronache/coronavirus-c-e-un-altra-verita-la-tesi-del-nobel-luc-montagnier-video-655427.html""}","<pre><yamldata>
+Cosa: '""Coronavirus, c''è un''altra verità"". La tesi del Nobel Luc Montagnier'
+Descrizione: https://www.affaritaliani.it/cronache/coronavirus-c-e-un-altra-verita-la-tesi-del-nobel-luc-montagnier-video-655427.html
+Link: https://www.affaritaliani.it/cronache/coronavirus-c-e-un-altra-verita-la-tesi-del-nobel-luc-montagnier-video-655427.html
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/925,585262211,2020-03-20 20:06:42,2020-03-20 18:45:08,"Solidarietà e Mutualismo - Servizi supporto psicologico, consegna beni e farmaci gratuiti #Avellino",40.9965446,15.1405690365004,Campania,Avellino,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Soma - Solidariet\u00e0 e Mutualismo"", ""Descrizione"": ""Costruzione di una rete di associazioni - Soma, Arci, Avionica, Don Tonino Bello Onlus, Libera, Irpinia Altruista - per la consegna di spesa e farmaci a casa delle persone costrette in casa dall'emergenza coronavirus. Inoltre \u00e8 stato attivato uno sportello di ascolto psicologico gratuito."", ""Destinatari"": ""Cittadinanza"", ""Link"": ""https://www.facebook.com/SomaAvellino/"", ""Natura"": ""solidale"", ""Posizione"": ""40.9965446 15.1405690365004 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Diamoci una Mano""}","<pre><yamldata>
 Da_chi_offerta: Soma - Solidarietà e Mutualismo
