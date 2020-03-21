@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/938,585350459,2020-03-21 10:14:08,2020-03-20 22:05:29, Protezione Civile: online bando per task force di 300 medici,,,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Online bando Protezione Civile per costituire task force di 300 medici"", ""Descrizione"": ""Online il bando per formare la taskforce di 300 medici volontari.\nCompila il form per dare la disponibilit\u00e0 a prestare la tua attivit\u00e0 presso le Regioni maggiormente colpite dall\u2019emergenza coronavirus. \nE\u2019 stata avviata la costituzione della task force di 300 medici che opereranno a supporto delle strutture sanitarie regionali per l\u2019attuazione delle misure necessarie al contenimento e contrasto dell\u2019emergenza COVID -19.\nLa partecipazione alla task force sar\u00e0 obbligatoria per il datore di lavoro fatta eccezione per le strutture convenzionate per le quali la possibilit\u00e0 di far parte della task force avviene su base consensuale con il proprio datore di lavoro. La partecipazione alla task force prevede, inoltre, il rimborso delle spese di viaggio ed una indennit\u00e0 forfettaria per ciascuna giornata prestata, nella misura indicata nella Ordinanza allegata. Infine si evidenzia che le Regioni provvederanno alla sistemazione alloggiativa."", ""Link"": ""https://medicipercovid.protezionecivile.it/""}","<pre><yamldata>
+Cosa: Online bando Protezione Civile per costituire task force di 300 medici
+Descrizione: ""Online il bando per formare la taskforce di 300 medici volontari.\n\
+  Compila il form per dare la disponibilità a prestare la tua attività presso le Regioni\
+  \ maggiormente colpite dall’emergenza coronavirus. \nE’ stata avviata la costituzione\
+  \ della task force di 300 medici che opereranno a supporto delle strutture sanitarie\
+  \ regionali per l’attuazione delle misure necessarie al contenimento e contrasto\
+  \ dell’emergenza COVID -19.\nLa partecipazione alla task force sarà obbligatoria\
+  \ per il datore di lavoro fatta eccezione per le strutture convenzionate per le\
+  \ quali la possibilità di far parte della task force avviene su base consensuale\
+  \ con il proprio datore di lavoro. La partecipazione alla task force prevede, inoltre,\
+  \ il rimborso delle spese di viaggio ed una indennità forfettaria per ciascuna giornata\
+  \ prestata, nella misura indicata nella Ordinanza allegata. Infine si evidenzia\
+  \ che le Regioni provvederanno alla sistemazione alloggiativa.""
+Link: https://medicipercovid.protezionecivile.it/
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/937,585348090,2020-03-21 10:11:39,2020-03-20 21:58:58,Comune #Carrara: elenco degli esercizi che offrono consegne a domicilio,44.078013,10.096951,Toscana,Massa Carrara,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Carrara"", ""Descrizione"": ""L\u2019Amministrazione comunale ha messo a punto un primo elenco di attivit\u00e0 commerciali che effettuano il servizio di consegna a domicilio, per supportare i cittadini nell\u2019emergenza innescata dall\u2019epidemia di Covid-19 e ridurre al minimo gli spostamenti delle persone. Al link l\u2019elenco delle attivit\u00e0 che hanno gi\u00e0 dato la propria disponibilit\u00e0, quelle che intendono aderire possono scrivere a commercio@comune.carrara.ms.it"", ""Destinatari"": ""Tutti"", ""Link"": ""http://web.comune.carrara.ms.it/archivio10_notizie-e-comunicati_0_3625.html"", ""Natura"": ""solidale"", ""Posizione"": ""44.078013 10.096951 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Carrara, elenco degli esercizi che offrono consegne a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Comune di Carrara
 Descrizione: L’Amministrazione comunale ha messo a punto un primo elenco di attività
