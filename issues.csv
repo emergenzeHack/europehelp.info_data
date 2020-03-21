@@ -77,6 +77,16 @@ Natura: solidale
 Posizione: 45.32014801 8.857899 0 0
 Tipo_di_soggetto: pubblico
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/951,585452405,2020-03-21 11:04:38,2020-03-21 08:04:02,Gazzetta Ufficiale: estensione temporanea del periodo di pagamento delle sanzioni Cds,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Estensione temporanea del periodo di pagamento delle sanzioni Cds"", ""Descrizione"": ""L'art. 108, comma 2, decreto-legge n.18 del 17/3/2020 (Cura Italia) indica che la somma di cui all'art. 202, comma 2 del CdS, dal 17 marzo al 31 maggio 2020, \u00e8 ridotta del 30% se il pagamento \u00e8 effettuato entro 30 giorni dalla contestazione o notificazione della violazione."", ""Fonte"": ""Gazzetta Ufficiale n\u00b070 del 17/3/2020"", ""Link"": ""https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg""}","<pre><yamldata>
+Cosa: Estensione temporanea del periodo di pagamento delle sanzioni Cds
+Descrizione: L'art. 108, comma 2, decreto-legge n.18 del 17/3/2020 (Cura Italia) indica
+  che la somma di cui all'art. 202, comma 2 del CdS, dal 17 marzo al 31 maggio 2020,
+  è ridotta del 30% se il pagamento è effettuato entro 30 giorni dalla contestazione
+  o notificazione della violazione.
+Fonte: Gazzetta Ufficiale n°70 del 17/3/2020
+
+Link: https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/950,585448656,2020-03-21 10:52:16,2020-03-21 07:33:43,Sul quotidiano Suddeutsche Zeitung numeri dei contagi per Paese (Deutsch),,,,,"[""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""osservatorio nr giorni raddoppio infetti per Paese"", ""Descrizione"": ""Il quotidiano tedesco pubblica in prima pagina da alcuni giorni uno specchietto in cui si evidenza in quanto tempo si raddoppia il numero di infetti per Paese e se la tendenza sia in fase di rallentamento / stabile / o accelerazione.  \n\nMi pare molto utile per avere un senso dell'efficacia delle misure prese.  \n\nQui il link alla sottopagina (pi\u00f9 elaborata della sintesi in prima): https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448  \n\nDa qui \u00e8 possibile anche accedere ai dati in forma grezza."", ""Fonte"": ""Sueddeutsche Zeitung / John Hopkins University"", ""Link"": ""https://www.sueddeutsche.de/""}","<pre><yamldata>
 Cosa: osservatorio nr giorni raddoppio infetti per Paese
 Descrizione: ""Il quotidiano tedesco pubblica in prima pagina da alcuni giorni uno\
