@@ -2,33 +2,40 @@
   logo: /img/icone/11-comunicolpiti.png
   map: true
   link: mappa/
+  name_en: MAP
 - name: SEGNALA
   logo-alt: Segnala iniziative, servizi, bufale, documenti o effettua una donazione.
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala/
+  name_en: REPORT
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Elenco delle segnalazioni ricevute
   logo: /img/icone/tci-solidali.png
   map: false
   link: issues/
+  name_en: ALL THE REPORTS
 - name: RACCOLTE FONDI
   logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
   map: false
   link: raccolte-fondi/
+  name_en: FUNDARAISER
 - name: FONTI ISTITUZIONALI
   logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
   logo: /img/icone/tci-legge.png
   map: false
   link: fonti-istituzionali/
+  name_en: INSTITUTIONAL SOURCES
 - name: RICHIESTE DI AIUTO
   logo-alt: richieste di aiuto
   logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
   map: false
   link: richiesta/
+  name_en: HELP REQUESTS
 - name: FAKE NEWS
   logo-alt: le fake news
   logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
   map: false
   link: fake-news/
+  name_en: FAKE NEWS
