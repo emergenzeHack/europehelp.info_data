@@ -1,5 +1,6 @@
 -
-  it: 
-  es: int/en/index.html
+  it: index.html
+  en: int/en/index.html
+  es: int/es/index.html
   de: int/de/index.html
   fr: int/fr/index.html
