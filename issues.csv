@@ -1,4 +1,32 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/978,585538553,2020-03-21 17:37:02,2020-03-21 17:05:19,Ordinanza Regione #Lazio: Garantita mobilità volontari,41.876617,12.389557,Lazio,Roma,"[""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ordinanza Regione #Lazio: Garantita mobilit\u00e0 volontari"", ""Descrizione"": ""20/03/2020 - Pubblicata l\u2019ordinanza della Regione Lazio \u201cUlteriori misure per la prevenzione e gestione dell\u2019emergenza epidemiologica da COVID-19. Indicazioni sulle attivit\u00e0 e mobilit\u00e0 dei volontari\u201d firmata dal vice presidente Daniele Leodori riguardante le modalit\u00e0 di spostamento dei volontari impegnati a fronteggiare l\u2019emergenza sanitaria e ad assicurare servizi necessari alle fasce pi\u00f9 deboli della popolazione.\n\n Il provvedimento prevede che sia garantita la mobilit\u00e0 degli operatori del terzo settore al fine di legittimare i loro spostamenti per le attivit\u00e0 ritenute necessarie, ai sensi dei recenti Dpcm, cos\u00ec come ad operare in modalit\u00e0 sicure e protette rispetto ai rischi di contagio attivo e passivo.\n\nL\u2019ordinanza, inoltre, assicura le seguenti attivit\u00e0 strumentali e funzionali al diritto alla salute e ai bisogni primari delle persone: consegna di farmaci e alimenti a domicilio a persone non autosufficienti o parzialmente autosufficienti; altre forme di assistenza domiciliare leggera di prossimit\u00e0 (come piccole manutenzioni, cura relazionale, igiene domestica e personale, assistenza nel disbrigo delle pratiche); assistenza alla persona e relazione di aiuto in strutture residenziali socioassistenziali e socioeducative, o assimilabili (ad esempio, strutture di ospitalit\u00e0 per minori  e famiglie migranti della salute, case rifugio per donne vittime di violenza.); assistenza alla persona e relazione di aiuto in strutture di accoglienza comunque denominate, legate alla emergenza COVID 19; servizi sociali di telesoccorso e teleassistenza; ritiro e consegna dei dispositivi di sicurezza per l\u2019attivit\u00e0 di volontariato; unit\u00e0 mobili/di strada rivolte a senza fissa dimora, o persone in stato di particolare fragilit\u00e0 (vittime di tratta, dipendenza)."", ""Fonte"": ""http://www.regione.lazio.it/rl/coronavirus/wp-content/uploads/sites/72/Copia-4243.pdf"", ""Link"": ""http://www.regione.lazio.it/rl/coronavirus/wp-content/uploads/sites/72/Copia-4243.pdf"", ""Posizione"": ""41.876617 12.389557 0 0""}","<pre><yamldata>
+Cosa: 'Ordinanza Regione #Lazio: Garantita mobilità volontari'
+Descrizione: ""20/03/2020 - Pubblicata l’ordinanza della Regione Lazio “Ulteriori misure\
+  \ per la prevenzione e gestione dell’emergenza epidemiologica da COVID-19. Indicazioni\
+  \ sulle attività e mobilità dei volontari” firmata dal vice presidente Daniele Leodori\
+  \ riguardante le modalità di spostamento dei volontari impegnati a fronteggiare\
+  \ l’emergenza sanitaria e ad assicurare servizi necessari alle fasce più deboli\
+  \ della popolazione.\n\n Il provvedimento prevede che sia garantita la mobilità\
+  \ degli operatori del terzo settore al fine di legittimare i loro spostamenti per\
+  \ le attività ritenute necessarie, ai sensi dei recenti Dpcm, così come ad operare\
+  \ in modalità sicure e protette rispetto ai rischi di contagio attivo e passivo.\n\
+  \nL’ordinanza, inoltre, assicura le seguenti attività strumentali e funzionali al\
+  \ diritto alla salute e ai bisogni primari delle persone: consegna di farmaci e\
+  \ alimenti a domicilio a persone non autosufficienti o parzialmente autosufficienti;\
+  \ altre forme di assistenza domiciliare leggera di prossimità (come piccole manutenzioni,\
+  \ cura relazionale, igiene domestica e personale, assistenza nel disbrigo delle\
+  \ pratiche); assistenza alla persona e relazione di aiuto in strutture residenziali\
+  \ socioassistenziali e socioeducative, o assimilabili (ad esempio, strutture di\
+  \ ospitalità per minori  e famiglie migranti della salute, case rifugio per donne\
+  \ vittime di violenza.); assistenza alla persona e relazione di aiuto in strutture\
+  \ di accoglienza comunque denominate, legate alla emergenza COVID 19; servizi sociali\
+  \ di telesoccorso e teleassistenza; ritiro e consegna dei dispositivi di sicurezza\
+  \ per l’attività di volontariato; unità mobili/di strada rivolte a senza fissa dimora,\
+  \ o persone in stato di particolare fragilità (vittime di tratta, dipendenza).""
+Fonte: http://www.regione.lazio.it/rl/coronavirus/wp-content/uploads/sites/72/Copia-4243.pdf
+Link: http://www.regione.lazio.it/rl/coronavirus/wp-content/uploads/sites/72/Copia-4243.pdf
+Posizione: 41.876617 12.389557 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/976,585526743,2020-03-21 17:23:36,2020-03-21 16:00:01,"Documento SNPA per pulizia ambienti esterni, emergenza Covid-19",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza Covid-19: documento SNPA su pulizia ambienti esterni e uso disinfettanti"", ""Descrizione"": ""Il Consiglio SNPA riunito il 18 marzo in videoconferenza ha approvato un documento con indicazioni tecniche relativamente agli aspetti ambientali della pulizia degli ambienti esterni e dell\u2019utilizzo di disinfettanti nel quadro dell\u2019emergenza Covid-19 e sue evoluzioni."", ""Indirizzo"": ""42.56071258 12.64668751"", ""Link"": ""https://www.snpambiente.it/2020/03/18/emergenza-covid-19-documento-snpa-su-pulizia-ambienti-esterni-e-uso-disinfettanti/?utm_source=rss&utm_medium=rss&utm_campaign=emergenza-covid-19-documento-snpa-su-pulizia-ambienti-esterni-e-uso-disinfettanti""}","<pre><yamldata>
 Cosa: 'Emergenza Covid-19: documento SNPA su pulizia ambienti esterni e uso disinfettanti'
 Descrizione: Il Consiglio SNPA riunito il 18 marzo in videoconferenza ha approvato
