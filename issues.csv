@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/934,585344351,2020-03-21 10:06:28,2020-03-20 21:48:56,"Comune di Massa, attivo servizio di consegna farmaci per over 65 e persone fragili",44.035421,10.137763,Toscana,Massa Carrara,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Massa"", ""Descrizione"": ""Grazie ad un accordo tra Assofarm e Croce Rossa Italiana \u00e8 attivo un servizio di consegna a domicilio dei farmaci per le persone fragili o non autosufficienti, gli over 65 anni, persone con sintomatologia da infezione respiratoria e febbre o comunque sottoposti a quarantena. Tali soggetti possono richiedere il servizio telefonando al numero verde: 800 065510, attivo tuti i giorni 24 ore su 24."", ""Destinatari"": ""Over 65 e persone fragili"", ""Link"": ""http://www.comune.massa.ms.it/pagina/consegna-farmaci-domicilio-servizio-favore-degli-over-65-e-di-persone-non-autosufficienti"", ""Natura"": ""solidale"", ""Posizione"": ""44.035421 10.137763 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Massa, attivo servizio di consegna farmaci per over 65 e persone fragili""}","<pre><yamldata>
+Da_chi_offerta: Comune di Massa
+Descrizione: 'Grazie ad un accordo tra Assofarm e Croce Rossa Italiana è attivo un
+  servizio di consegna a domicilio dei farmaci per le persone fragili o non autosufficienti,
+  gli over 65 anni, persone con sintomatologia da infezione respiratoria e febbre
+  o comunque sottoposti a quarantena. Tali soggetti possono richiedere il servizio
+  telefonando al numero verde: 800 065510, attivo tuti i giorni 24 ore su 24.'
+Destinatari: Over 65 e persone fragili
+Link: http://www.comune.massa.ms.it/pagina/consegna-farmaci-domicilio-servizio-favore-degli-over-65-e-di-persone-non-autosufficienti
+Natura: solidale
+Posizione: 44.035421 10.137763 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Massa, attivo servizio di consegna farmaci per over 65 e persone
+  fragili
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/933,585343635,2020-03-21 10:04:21,2020-03-20 21:47:03,Comune di #Massa istituisce mail dedicata per chi vuole dare una mano,44.035884,10.136819,Toscana,Massa Carrara,"[""Contatti utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Massa"", ""Descrizione"": ""Il Comune sta ricevendo richieste da parte di cittadini che, con spirito di solidariet\u00e0 in questo momento difficile, si offrono volontari a collaborare con l'Ente in varie forme. A questo proposito l'amministrazione ha istituito una mail dedicata, ringraziando fin da ora tutti coloro che vorranno comunicare la propria disponibilit\u00e0: email: sostienimassa@comune.massa.ms.it"", ""Destinatari"": ""Aspiranti volontari"", ""Link"": ""http://www.comune.massa.ms.it/pagina/sostienimassacomunemassamsit-mail-dedicata-comunicare-la-propria-disponibilit%C3%A0-collaborare"", ""Natura"": ""solidale"", ""Posizione"": ""44.035884 10.136819 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Massa istituisce mail dedicata per chi vuole dare una mano""}","<pre><yamldata>
 Da_chi_offerta: Comune di Massa
 Descrizione: 'Il Comune sta ricevendo richieste da parte di cittadini che, con spirito
