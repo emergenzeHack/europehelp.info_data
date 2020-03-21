@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/954,585465791,2020-03-21 10:22:01,2020-03-21 09:44:18,#PrendiamolaConFilosofia: staffetta in diretta streaming - 21 marzo dalle 10 alle 24,,,,,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TLON"", ""Descrizione"": ""Staffetta di filosofi: strumenti pratici per affrontare la quarantena"", ""Destinatari"": ""Tutti"", ""Link"": ""http://www.prendiamolaconfilosofia.it"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Prendiamola con filosofia""}","<pre><yamldata>
+Da_chi_offerta: TLON
+Descrizione: 'Staffetta di filosofi: strumenti pratici per affrontare la quarantena'
+Destinatari: Tutti
+Link: http://www.prendiamolaconfilosofia.it
+Natura: culturale-ricr
+Titolo: Prendiamola con filosofia
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/942,585360380,2020-03-21 10:19:11,2020-03-20 22:33:26,Coronavirus: dove reperire informazioni sull'emergenza in #Italia in lingue straniere,,,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, dove reperire informazioni sull'emergenza in Italia in lingue straniere"", ""Descrizione"": ""Fare in modo che le informazioni su quello che sta avvenendo nel nostro Paese siano accessibili a tutti \u00e8 un atto necessario oltre che doveroso. Su Giornale della Protezione Civile un\u2019utile raccolta di fonti di informazione disponibili in diverse lingue straniere."", ""Link"": ""https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-dove-reperire-informazioni-sullemergenza-in-italia-in-lingue-straniere""}","<pre><yamldata>
 Cosa: Coronavirus, dove reperire informazioni sull'emergenza in Italia in lingue straniere
 Descrizione: Fare in modo che le informazioni su quello che sta avvenendo nel nostro
