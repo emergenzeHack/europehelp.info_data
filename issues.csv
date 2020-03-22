@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1043,585763689,2020-03-22 17:55:10,2020-03-22 16:56:29,Servizio telefonico e supporto psicologico per donne in gravidanza e neo mamme Comune di #Palermo,38.110924,-346.647663,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Palermo"", ""Descrizione"": ""Coronavirus. Servizio telefonico di ascolto e supporto psicologico gratuito per donne in gravidanza e neo mamme sul sito Portale Scuola del Comune di Palermo.\n\nUn servizio di sostegno psicologico telefonico gratuito sul Coronavirus per neo-mamme e donne in gravidanza \u00e8 attivo da oggi sul sito Portale Scuola del Comune dedicato al sostegno genitoriale. L\u2019esperta Violetta Sieli, psicologa ed educatrice pre e post natale, si \u00e8 resa disponibile per consulenze gratuite, attraverso incontri telefonici con le interessate che possono essere chiesti, \n\norario attivo dalle ore 10 alle ore 17, \nchiamando il numero 339.7037940."", ""Destinatari"": ""donne in gravidanza e neo mamme"", ""Link"": ""https://protezionecivile.comune.palermo.it/protezione-civile-dettaglio.php?id=26929&s=2"", ""Natura"": ""solidale"", ""Posizione"": ""38.110924 -346.647663 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio telefonico di ascolto e supporto psicologico gratuito per donne in gravidanza e neo mamme""}","<pre><yamldata>
+Da_chi_offerta: Comune di Palermo
+Descrizione: ""Coronavirus. Servizio telefonico di ascolto e supporto psicologico gratuito\
+  \ per donne in gravidanza e neo mamme sul sito Portale Scuola del Comune di Palermo.\n\
+  \nUn servizio di sostegno psicologico telefonico gratuito sul Coronavirus per neo-mamme\
+  \ e donne in gravidanza è attivo da oggi sul sito Portale Scuola del Comune dedicato\
+  \ al sostegno genitoriale. L’esperta Violetta Sieli, psicologa ed educatrice pre\
+  \ e post natale, si è resa disponibile per consulenze gratuite, attraverso incontri\
+  \ telefonici con le interessate che possono essere chiesti, \n\norario attivo dalle\
+  \ ore 10 alle ore 17, \nchiamando il numero 339.7037940.""
+Destinatari: donne in gravidanza e neo mamme
+Link: https://protezionecivile.comune.palermo.it/protezione-civile-dettaglio.php?id=26929&s=2
+Natura: solidale
+Posizione: 38.110924 -346.647663 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Servizio telefonico di ascolto e supporto psicologico gratuito per donne in
+  gravidanza e neo mamme
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1040,585756639,2020-03-22 16:41:06,2020-03-22 16:25:49,Non è vero che il COVID-19 non esiste ,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Bufala non esiste coronavirus"", ""Descrizione"": ""https://www.ingannati.it/2020/03/06/ancora-su-border-nights-martedi-17-marzo-2020/"", ""Link"": ""https://www.ingannati.it/2020/03/06/ancora-su-border-nights-martedi-17-marzo-2020/""}","<pre><yamldata>
 Cosa: Bufala non esiste coronavirus
 Descrizione: https://www.ingannati.it/2020/03/06/ancora-su-border-nights-martedi-17-marzo-2020/
