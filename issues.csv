@@ -4,6 +4,23 @@ Cosa: Bufala non esiste coronavirus
 Descrizione: https://www.ingannati.it/2020/03/06/ancora-su-border-nights-martedi-17-marzo-2020/
 Link: https://www.ingannati.it/2020/03/06/ancora-su-border-nights-martedi-17-marzo-2020/
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1029,585741188,2020-03-22 17:24:47,2020-03-22 15:14:55,Misericordia di #Firenze attiva servizio telefonico di supporto psicologico,43.77018,11.254721,Toscana,Firenze,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Misericordia di Firenze"", ""Descrizione"": ""La Misericordia di Firenze ha attivato un servizio di ascolto e orientamento per tutti coloro che in questo periodo si trovano a vivere un disagio psicologico o un problema di altro genere. I fattori di stress a cui le persone possono essere sottoposte in questi giorni sono molti: lo stare sempre in casa, l'ansia per il futuro, la paura del contagio, le difficolt\u00e0 sul lavoro, le incertezze legate all'evoluzione della malattia. Per usufruire del sostegno e ricevere un aiuto da parte di un professionista psicologo del team volontario si deve telefonare allo 055-212222. Il servizio \u00e8 attivo dal luned\u00ec al sabato dalle 10 alle 20."", ""Destinatari"": ""Tutti"", ""Link"": ""https://ift.tt/2U7Ywad"", ""Natura"": ""solidale"", ""Posizione"": ""43.77018 11.254721 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Misericordia di Firenze attiva servizio telefonico di supporto psicologico""}","<pre><yamldata>
+Da_chi_offerta: Misericordia di Firenze
+Descrizione: 'La Misericordia di Firenze ha attivato un servizio di ascolto e orientamento
+  per tutti coloro che in questo periodo si trovano a vivere un disagio psicologico
+  o un problema di altro genere. I fattori di stress a cui le persone possono essere
+  sottoposte in questi giorni sono molti: lo stare sempre in casa, l''ansia per il
+  futuro, la paura del contagio, le difficoltà sul lavoro, le incertezze legate all''evoluzione
+  della malattia. Per usufruire del sostegno e ricevere un aiuto da parte di un professionista
+  psicologo del team volontario si deve telefonare allo 055-212222. Il servizio è
+  attivo dal lunedì al sabato dalle 10 alle 20.'
+Destinatari: Tutti
+Link: https://ift.tt/2U7Ywad
+Natura: solidale
+Posizione: 43.77018 11.254721 0 0
+Tipo_di_soggetto: privato
+Titolo: Misericordia di Firenze attiva servizio telefonico di supporto psicologico
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1028,585740406,2020-03-22 17:18:34,2020-03-22 15:10:57,Rai Play Radio: elenco gratuito di audio - romanzi classici,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Rai"", ""Descrizione"": ""Elenco gratuito di audio - romanzi classici."", ""Destinatari"": ""Tutti"", ""Indirizzo"": ""41.89277044 12.48366723"", ""Link"": ""https://www.raiplayradio.it/articoli/2018/01/Radio3--Ad-alta-voce--tutti-i-romanzi-f91c61a8-0021-40ca-a62f-514b841b558b.html?fbclid=IwAR3NV1A9rjXnn9hUh5ZYTbBY5timVfBYiGMTbxQZmoEHEWAo5fD-U-_6-uo"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Tutti i romanzi ad alta voce""}","<pre><yamldata>
 Da_chi_offerta: Rai
 Descrizione: Elenco gratuito di audio - romanzi classici.
@@ -5770,6 +5787,21 @@ Posizione: 46.49833 11.354767 0 0
 Provincia: Bolzano
 Regione: Trentino-Alto Adige
 Titolo: Didattica d'emergenza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/604,582148526,2020-03-16 23:00:32,2020-03-16 09:49:14,"Servizio psicologico, consulenze telefoniche #Bolzano #ProvinciaBolzano",46.498286,11.310199,Trentino-Alto Adige,Bolzano,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Azienda Sanitaria dell'Alto Adige"", ""Descrizione"": ""Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici per richieste di sostegno psicologico in generale o relative alla sofferenza psichica e insicurezza rispetto al COVID-19."", ""Destinatari"": ""popolazione"", ""Link"": ""http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335"", ""Natura"": ""solidale"", ""Posizione"": ""46.498286 11.310199 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio psicologico, consulenze telefoniche""}","<pre><yamldata>
+Comune: Bolzano
+Da_chi_offerta: Azienda Sanitaria dell'Alto Adige
+Descrizione: Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici
+  per richieste di sostegno psicologico in generale o relative alla sofferenza psichica
+  e insicurezza rispetto al COVID-19.
+Destinatari: popolazione
+Link: http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335
+Natura: solidale
+Posizione: 46.498286 11.310199 0 0
+Provincia: Bolzano
+Regione: Trentino-Alto Adige
+Tipo_di_soggetto: pubblico
+Titolo: Servizio psicologico, consulenze telefoniche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/604,582148526,2020-03-16 23:00:32,2020-03-16 09:49:14,"Servizio psicologico, consulenze telefoniche #Bolzano #ProvinciaBolzano",46.498286,11.310199,Trentino-Alto Adige,Bolzano,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Azienda Sanitaria dell'Alto Adige"", ""Descrizione"": ""Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici per richieste di sostegno psicologico in generale o relative alla sofferenza psichica e insicurezza rispetto al COVID-19."", ""Destinatari"": ""popolazione"", ""Link"": ""http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335"", ""Natura"": ""solidale"", ""Posizione"": ""46.498286 11.310199 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio psicologico, consulenze telefoniche""}","<pre><yamldata>
 Comune: Bolzano
