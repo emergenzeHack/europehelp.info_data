@@ -1,4 +1,32 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1065,585790567,2020-03-22 19:14:01,2020-03-22 19:13:14,#TorinoComeStai piattaforma per raccogliere informazioni sulla qualità della vita dei cittadini,45.071271,7.684932,Piemonte,Torino,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nesta Italia in collaborazione con SocialFare, Fondazione Links, Experientia, Cottino Social Impact Campus e il Dipartimento di Culture, Politica e Societ\u00e0 dell\u2019Universit\u00e0 di Torino."", ""Descrizione"": ""Torino come Stai? \u00e8 una piattaforma web che  ha l\u2019obiettivo di raccogliere informazioni e dati  sulla qualit\u00e0 della vita  dei cittadini torinesi in questo periodo di emergenza sanitaria caratterizzata dall\u2019epidemia di coronavirus covid-19.  L\u2019obiettivo di Torino Come Stai \u00e8 realizzare una fotografia dinamica del  sentire comune, delle nuove abitudini e delle necessit\u00e0 che stanno emergendo nel capoluogo piemontese ai tempi del coronavirus.\n\nL\u2019iniziativa \u00e8 aperta a tutti. Per partecipare basta visitare il sito www.torinocomestai.org e compilare il questionario in forma anonima senza inserire dati personali. ma fornendo solo le risposte alle domande previste\n\nTorino come stai? \u00e8 stata lanciata dalla fondazione Nesta Italia in collaborazione con SocialFare, Fondazione Links, Experientia, Cottino Social Impact Campus e il Dipartimento di Culture, Politica e Societ\u00e0 dell\u2019Universit\u00e0 di Torino."", ""Destinatari"": ""Cittadine e cittadini di Torino"", ""Link"": ""www.torinocomestai.org"", ""Natura"": ""solidale"", ""Posizione"": ""45.071271 7.684932 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#TorinoComeStai una piattaforma per raccogliere informazioni  sulla qualit\u00e0 della vita  dei cittadini di Torino ai tempi del coronavirus""}","<pre><yamldata>
+Da_chi_offerta: Nesta Italia in collaborazione con SocialFare, Fondazione Links, Experientia,
+  Cottino Social Impact Campus e il Dipartimento di Culture, Politica e Società dell’Università
+  di Torino.
+Descrizione: 'Torino come Stai? è una piattaforma web che  ha l’obiettivo di raccogliere
+  informazioni e dati  sulla qualità della vita  dei cittadini torinesi in questo
+  periodo di emergenza sanitaria caratterizzata dall’epidemia di coronavirus covid-19.  L’obiettivo
+  di Torino Come Stai è realizzare una fotografia dinamica del  sentire comune, delle
+  nuove abitudini e delle necessità che stanno emergendo nel capoluogo piemontese
+  ai tempi del coronavirus.
+
+
+  L’iniziativa è aperta a tutti. Per partecipare basta visitare il sito www.torinocomestai.org
+  e compilare il questionario in forma anonima senza inserire dati personali. ma fornendo
+  solo le risposte alle domande previste
+
+
+  Torino come stai? è stata lanciata dalla fondazione Nesta Italia in collaborazione
+  con SocialFare, Fondazione Links, Experientia, Cottino Social Impact Campus e il
+  Dipartimento di Culture, Politica e Società dell’Università di Torino.'
+Destinatari: Cittadine e cittadini di Torino
+Link: www.torinocomestai.org
+Natura: solidale
+Posizione: 45.071271 7.684932 0 0
+Tipo_di_soggetto: privato
+Titolo: '#TorinoComeStai una piattaforma per raccogliere informazioni  sulla qualità
+  della vita  dei cittadini di Torino ai tempi del coronavirus'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1064,585786869,2020-03-22 19:01:11,2020-03-22 18:54:47,#AIFA favipiravir per COVID-19 non autorizzato in EU e USA,,,,,"[""Bollettino"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""#AIFA uso favipiravir per COVID-19 non autorizzato in Europa e USA, scarse evidenze scientifiche sull\u2019efficacia"", ""Descrizione"": ""In merito alle recenti informazioni circolate in rete e a mezzo stampa relative all\u2019utilizzo della specialit\u00e0 medicinale a base di favipiravir nel trattamento di COVID-19, l\u2019Agenzia italiana del Farmaco precisa quanto segue.\n\nFavipiravir (nome commerciale Avigan) \u00e8 un antivirale autorizzato in Giappone dal Marzo 2014 per il trattamento di forme di influenza causate da virus influenzali nuovi o riemergenti e il suo utilizzo \u00e8 limitato ai casi in cui gli altri antivirali sono inefficaci. Il medicinale non \u00e8 autorizzato n\u00e9 in Europa, n\u00e9 negli USA.\n\nAd oggi, non esistono studi clinici pubblicati relativi all\u2019efficacia e alla sicurezza del farmaco nel trattamento della malattia da COVID-19."", ""Link"": ""https://www.aifa.gov.it/web/guest/-/aifa-precisa-uso-favipiravir-per-covid-19-non-autorizzato-in-europa-e-usa-scarse-evidenze-scientifiche-sull-efficacia?fbclid=IwAR0JFTIOINGEKeq_pcIwysSCpfr668eeXUG2R8hFLD0P1_rkXl5hcco6O2s""}","<pre><yamldata>
 Cosa: '#AIFA uso favipiravir per COVID-19 non autorizzato in Europa e USA, scarse
   evidenze scientifiche sull’efficacia'
@@ -2380,6 +2408,15 @@ Intestazione: Intesa Sanpaolo
 Link: https://www.gofundme.com/f/aiutiamoci-emergenza-coronavirus-lecco
 Nome: Fondazione comunitaria del Lecchese
 Posizione: 45.8529825, 9.3900705
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/865,584579376,2020-03-22 19:08:55,2020-03-19 17:30:30,gofundme Ospedale di Merate,45.698327,9.427428,Lombardia,Lecco,"[""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Massimiliano B."", ""Destinatari"": ""Ospedale Mandic Merate"", ""Link"": ""https://www.gofundme.com/f/ospedale-mandic-merate?viewupdates=1&rcid=r01-158400690223-79297d5d50234b14&utm_medium=email&utm_source=customer&utm_campaign=p_email%2B1137-update-supporters-v5b"", ""Natura"": ""solidale"", ""Posizione"": ""45.698327 9.427428 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""gofundme Ospedale di Merate""}","<pre><yamldata>
+Da_chi_offerta: Massimiliano B.
+Destinatari: Ospedale Mandic Merate
+Link: https://www.gofundme.com/f/ospedale-mandic-merate?viewupdates=1&rcid=r01-158400690223-79297d5d50234b14&utm_medium=email&utm_source=customer&utm_campaign=p_email%2B1137-update-supporters-v5b
+Natura: solidale
+Posizione: 45.698327 9.427428 0 0
+Tipo_di_soggetto: privato
+Titolo: gofundme Ospedale di Merate
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/864,584575694,2020-03-19 18:51:21,2020-03-19 17:24:18,Elenco esercizi che consegnano a domicilio nei comuni della Puglia,41.125255,16.86199,Puglia,Bari,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Elenco degli esercizi commerciali che consegnano a domicilio nei comuni di Bari, Brindisi, Taranto, Lecce, Foggia, Trani."", ""Destinatari"": ""Tutti"", ""Link"": ""https://docs.google.com/document/d/1Y3i276T3zKAOdF8J6vwCGJGqpRqq2Mivm9gdffMHees"", ""Natura"": ""solidale"", ""Posizione"": ""41.125255 16.86199 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco degli esercizi che consegnano a domicilio nei comuni della Puglia""}","<pre><yamldata>
 Descrizione: Elenco degli esercizi commerciali che consegnano a domicilio nei comuni di Bari, Brindisi, Taranto, Lecce, Foggia, Trani.
