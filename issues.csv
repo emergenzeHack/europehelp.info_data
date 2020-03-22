@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1011,585713566,2020-03-22 16:33:19,2020-03-22 13:03:48,Comune di #Inveruno #Milano linea telefonica di supporto e servizio consegne e commissioni,45.538489,8.855195,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Numero telefonico e servizio email dedicati a dubbi, domande o esigenze riguardanti l\u2019emergenza Coronavirus. Servizio di consegna a domicilio di beni alimentari di prima necessit\u00e0 per over 65. Consegna a domicilio dei medicinali."", ""Destinatari"": ""Over 65"", ""Link"": ""https://www.comune.inveruno.mi.it/coronavirus-servizi-per-i-cittadini/"", ""Natura"": ""solidale"", ""Posizione"": ""45.538489 8.855195 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Inveruno (Milano) linea telefonica di supporto e servizio di consegna alimenti e farmaci per over 65""}","<pre><yamldata>
+Descrizione: Numero telefonico e servizio email dedicati a dubbi, domande o esigenze
+  riguardanti l’emergenza Coronavirus. Servizio di consegna a domicilio di beni alimentari
+  di prima necessità per over 65. Consegna a domicilio dei medicinali.
+Destinatari: Over 65
+Link: https://www.comune.inveruno.mi.it/coronavirus-servizi-per-i-cittadini/
+Natura: solidale
+Posizione: 45.538489 8.855195 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Inveruno (Milano) linea telefonica di supporto e servizio di consegna
+  alimenti e farmaci per over 65
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1010,585713109,2020-03-22 13:06:54,2020-03-22 13:01:04,"“L’Unione fa la spesa”, servizio di consegna a domicilio Comune di #Bologna",44.514441,11.342525,Emilia-Romagna,Bologna,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bologna, Coop Alleanza 3.0, da Auser, Forum Terzo Settore e Centro Servizi di Volontariato Volabo (Csv)"", ""Descrizione"": ""A partire da luned\u00ec 23 marzo \u201cL\u2019Unione fa la spesa\u201d, servizio di consegna gratuito a domicilio della spesa alimentare e dei parafarmaci alle persone pi\u00f9 fragili, agli anziani, a chi ha bisogno di assistenza, ai disabili, a chi \u00e8 affetto da patologie croniche o \u00e8 immunodepresso. Undici punti vendita Coop predisporranno per quanto possibile percorsi e casse dedicate ai volontari del progetto per facilitare e velocizzare l\u2019acquisto."", ""Destinatari"": ""persone fragili, anziani, chi ha bisogno di assistenza, disabili, affetto da patologie croniche o immunodepresso"", ""Link"": ""http://comune.bologna.it/news/coronavirus-spesa-servizi-anziani"", ""Natura"": ""solidale"", ""Posizione"": ""44.514441 11.342525 0 0"", ""Tipo_di_soggetto"": ""pubblico""}","<pre><yamldata>
 Da_chi_offerta: Comune di Bologna, Coop Alleanza 3.0, da Auser, Forum Terzo Settore
   e Centro Servizi di Volontariato Volabo (Csv)
