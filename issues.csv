@@ -1,4 +1,30 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1004,585696073,2020-03-22 11:31:39,2020-03-22 11:21:25,Associazione Cittadini del Mondo: richiesta di aiuto per #PalazzoSelam,41.80249,12.82276,Lazio,Roma,"[""Bollettino"", ""Richiesta aiuto"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""Associazione Cittadini del Mondo:  richiesta di aiuto per Palazzo Selam"", ""Descrizione"": ""Palazzo Selam, dove vivono circa 800 persone provenienti dal Corno D'Africa (Somalia, Eritrea, Etiopia e Sudan), \u00e8 la pi\u00f9 grande occupazione abitativa romana di titolari di protezione internazionale.\n\nLe condizioni igieniche e di sicurezza sono estremamente precarie. Il palazzo \u00e8 dotato di allacci di fortuna per acqua ed elettricit\u00e0 e il numero sempre crescente di occupanti ha aggravato il degrado abitativo. Famiglie, spesso numerose, vivono in micro-appartamenti privi di bagni e finestre.\n\nLa mancanza di aerazione, il sovraffollamento, l\u2019assenza di mezzi di riscaldamento e raffreddamento, rendono gli ambienti insalubri trasformandoli in potenti alleati per la diffusione del Covid-19. \n\nPer prevenire la possibile trasmissione del virus, Cittadini del Mondo, due volte al giorno, si reca davanti al Palazzo ad informare gli abitanti su quali siano i comportamenti corretti da seguire per evitare il contagio, attraverso materiale informativo tradotto in inglese, somalo, tigrino, amarico e arabo.\n\nIn relazione a tale emergenza sanitaria, l\u2019Associazione Cittadini del Mondo ha bisogno di:\n\n- mascherine;\n- guanti;\n- alcool etilico denaturato;\n- candeggina;\n- panni per pulire;\n- coperte;\n- lenzuola;\n- asciugamani;\n- t-shirt bianche;\n- tute;\n- calzini;\n- scarpe;\n- biancheria intima.\n\nPer informazioni \u00e8 possibile chiamare o inviare un messaggio whatsapp al numero 3899112893, oppure inviare una email a info@associazionecittadinidelmondo.it."", ""Destinatari"": ""Palazzo Selam"", ""Email"": ""info@associazionecittadinidelmondo.it"", ""Link"": ""https://www.associazionecittadinidelmondo.it/abbiamo-bisogno-di-aiuto-per-palazzo-selam/"", ""Posizione"": ""41.80249 12.82276"", ""Telefono"": ""3899112893""}","<pre><yamldata>
+Cosa: 'Associazione Cittadini del Mondo:  richiesta di aiuto per Palazzo Selam'
+Descrizione: ""Palazzo Selam, dove vivono circa 800 persone provenienti dal Corno D'Africa\
+  \ (Somalia, Eritrea, Etiopia e Sudan), è la più grande occupazione abitativa romana\
+  \ di titolari di protezione internazionale.\n\nLe condizioni igieniche e di sicurezza\
+  \ sono estremamente precarie. Il palazzo è dotato di allacci di fortuna per acqua\
+  \ ed elettricità e il numero sempre crescente di occupanti ha aggravato il degrado\
+  \ abitativo. Famiglie, spesso numerose, vivono in micro-appartamenti privi di bagni\
+  \ e finestre.\n\nLa mancanza di aerazione, il sovraffollamento, l’assenza di mezzi\
+  \ di riscaldamento e raffreddamento, rendono gli ambienti insalubri trasformandoli\
+  \ in potenti alleati per la diffusione del Covid-19. \n\nPer prevenire la possibile\
+  \ trasmissione del virus, Cittadini del Mondo, due volte al giorno, si reca davanti\
+  \ al Palazzo ad informare gli abitanti su quali siano i comportamenti corretti da\
+  \ seguire per evitare il contagio, attraverso materiale informativo tradotto in\
+  \ inglese, somalo, tigrino, amarico e arabo.\n\nIn relazione a tale emergenza sanitaria,\
+  \ l’Associazione Cittadini del Mondo ha bisogno di:\n\n- mascherine;\n- guanti;\n\
+  - alcool etilico denaturato;\n- candeggina;\n- panni per pulire;\n- coperte;\n-\
+  \ lenzuola;\n- asciugamani;\n- t-shirt bianche;\n- tute;\n- calzini;\n- scarpe;\n\
+  - biancheria intima.\n\nPer informazioni è possibile chiamare o inviare un messaggio\
+  \ whatsapp al numero 3899112893, oppure inviare una email a info@associazionecittadinidelmondo.it.""
+Destinatari: Palazzo Selam
+Email: info@associazionecittadinidelmondo.it
+Link: https://www.associazionecittadinidelmondo.it/abbiamo-bisogno-di-aiuto-per-palazzo-selam/
+Telefono: '3899112893'
+Posizione: 41.80249 12.82276
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1001,585681504,2020-03-22 10:08:56,2020-03-22 09:58:39,Spesa e farmaci a domicilio in provincia di #Pavia - lista in aggiornamento,45.186771,9.160495,Lombardia,Pavia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Aziende private"", ""Descrizione"": ""Oltre 80 esercizi privati, tra cui anche gli agricoltori del mercato di Campagna amica di Voghera, Vigevano e Pavia, che consegnano nelle citt\u00e0 e nei dintorni dell'azienda. E poi qualche volontario, tanti piccoli produttori e farmacie."", ""Destinatari"": ""Cittadini di Pavia e dintorni"", ""Link"": ""https://laprovinciapavese.gelocal.it/pavia/cronaca/2020/03/12/news/consegnate-la-spesa-o-i-farmaci-a-domicilio-in-un-paese-della-provincia-di-pavia-segnalatelo-qui-faremo-una-lista-a-disposizione-di-tutti-1.38583826"", ""Natura"": ""solidale"", ""Posizione"": ""45.186771 9.160495 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e farmaci a domicilio in provincia di Pavia""}","<pre><yamldata>
 Da_chi_offerta: Aziende private
 Descrizione: Oltre 80 esercizi privati, tra cui anche gli agricoltori del mercato
