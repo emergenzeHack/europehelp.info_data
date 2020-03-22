@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1001,585681504,2020-03-22 10:08:56,2020-03-22 09:58:39,Spesa e farmaci a domicilio in provincia di #Pavia - lista in aggiornamento,45.186771,9.160495,Lombardia,Pavia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Aziende private"", ""Descrizione"": ""Oltre 80 esercizi privati, tra cui anche gli agricoltori del mercato di Campagna amica di Voghera, Vigevano e Pavia, che consegnano nelle citt\u00e0 e nei dintorni dell'azienda. E poi qualche volontario, tanti piccoli produttori e farmacie."", ""Destinatari"": ""Cittadini di Pavia e dintorni"", ""Link"": ""https://laprovinciapavese.gelocal.it/pavia/cronaca/2020/03/12/news/consegnate-la-spesa-o-i-farmaci-a-domicilio-in-un-paese-della-provincia-di-pavia-segnalatelo-qui-faremo-una-lista-a-disposizione-di-tutti-1.38583826"", ""Natura"": ""solidale"", ""Posizione"": ""45.186771 9.160495 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e farmaci a domicilio in provincia di Pavia""}","<pre><yamldata>
+Da_chi_offerta: Aziende private
+Descrizione: Oltre 80 esercizi privati, tra cui anche gli agricoltori del mercato
+  di Campagna amica di Voghera, Vigevano e Pavia, che consegnano nelle città e nei
+  dintorni dell'azienda. E poi qualche volontario, tanti piccoli produttori e farmacie.
+Destinatari: Cittadini di Pavia e dintorni
+Link: https://laprovinciapavese.gelocal.it/pavia/cronaca/2020/03/12/news/consegnate-la-spesa-o-i-farmaci-a-domicilio-in-un-paese-della-provincia-di-pavia-segnalatelo-qui-faremo-una-lista-a-disposizione-di-tutti-1.38583826
+Natura: solidale
+Posizione: 45.186771 9.160495 0 0
+Tipo_di_soggetto: privato
+Titolo: Spesa e farmaci a domicilio in provincia di Pavia
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1000,585679661,2020-03-22 09:51:39,2020-03-22 09:46:13,#Cori e #Giulianello in provincia di #Latina - Elenco delle attività commerciali che consegnano a domicilio,41.642853,12.915437,Lazio,Latina,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comitato Civico Cori"", ""Descrizione"": ""Elenco delle attivit\u00e0 commerciali che consegnano a domicilio a Cori e Giulianello"", ""Destinatari"": ""cittadin* di Cori e Giulianello"", ""Link"": ""https://www.facebook.com/337916166775131/posts/639012443332167/"", ""Natura"": ""solidale"", ""Posizione"": ""41.642853 12.915437 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco delle attivit\u00e0 commerciali che consegnano a domicilio a Cori e Giulianello""}","<pre><yamldata>
 Da_chi_offerta: Comitato Civico Cori
 Descrizione: Elenco delle attività commerciali che consegnano a domicilio a Cori e
