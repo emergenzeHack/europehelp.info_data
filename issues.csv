@@ -1,4 +1,44 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1071,585801434,2020-03-22 20:10:43,2020-03-22 20:09:27,Consegna a domicilio di farmaci #CRI #Perugia,,,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Afas e CRI"", ""Descrizione"": ""E' attivo il servizio di consegna a domicilio di farmaci e presidi sanitari per l'emergenza coronavirus attivato da Afas (farmacie comunali di Perugia) e Croce rossa italiana. E' dedicato ad anziani, oltre 65 anni, soggetti fragili o non autosufficienti, con febbre, con sintomatologia da infezione respiratoria, o comunque sottoposti a quarantena.\n    Il servizio pu\u00f2 essere attivato chiamando il numero di telefono dedicato 075 5272711.\n    Il volontario della Cri - spiegano i promotori del servizio -, in divisa e con tesserino di riconoscimento, verifica i requisiti del richiedente; acquisisce l'originale della ricetta medica in busta chiusa; si reca nella farmacia Afas indicata dal cittadino (o presso altra privata se espressamente indicata) per acquistare il farmaco o altro presidio sanitario; torna nel domicilio del cittadino per la consegna (in busta chiusa)."", ""Destinatari"": ""Anziani, oltre 65 anni, soggetti fragili o non autosufficienti, con febbre, con sintomatologia da infezione respiratoria, o comunque sottoposti a quarantena."", ""Indirizzo"": ""43.1067584 12.38824699"", ""Link"": ""http://www.ansa.it/umbria/notizie/2020/03/16/a-perugia-consegna-a-domicilio-farmaci_a0c3c8e9-c6ae-4549-b1fc-8bdb026a6319.html?fbclid=IwAR2nVSbLaTe0Mny25qy5bxQHBAeGup8fA0ZOPSOEyk0lQby0dNat6FIBLhA"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio di farmaci e presidi sanitari per l'emergenza coronavirus #Perugia""}","<pre><yamldata>
+Da_chi_offerta: Afas e CRI
+Descrizione: ""E' attivo il servizio di consegna a domicilio di farmaci e presidi sanitari\
+  \ per l'emergenza coronavirus attivato da Afas (farmacie comunali di Perugia) e\
+  \ Croce rossa italiana. E' dedicato ad anziani, oltre 65 anni, soggetti fragili\
+  \ o non autosufficienti, con febbre, con sintomatologia da infezione respiratoria,\
+  \ o comunque sottoposti a quarantena.\n    Il servizio può essere attivato chiamando\
+  \ il numero di telefono dedicato 075 5272711.\n    Il volontario della Cri - spiegano\
+  \ i promotori del servizio -, in divisa e con tesserino di riconoscimento, verifica\
+  \ i requisiti del richiedente; acquisisce l'originale della ricetta medica in busta\
+  \ chiusa; si reca nella farmacia Afas indicata dal cittadino (o presso altra privata\
+  \ se espressamente indicata) per acquistare il farmaco o altro presidio sanitario;\
+  \ torna nel domicilio del cittadino per la consegna (in busta chiusa).""
+Destinatari: Anziani, oltre 65 anni, soggetti fragili o non autosufficienti, con febbre,
+  con sintomatologia da infezione respiratoria, o comunque sottoposti a quarantena.
+Indirizzo: 43.1067584 12.38824699
+Link: http://www.ansa.it/umbria/notizie/2020/03/16/a-perugia-consegna-a-domicilio-farmaci_a0c3c8e9-c6ae-4549-b1fc-8bdb026a6319.html?fbclid=IwAR2nVSbLaTe0Mny25qy5bxQHBAeGup8fA0ZOPSOEyk0lQby0dNat6FIBLhA
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Consegna a domicilio di farmaci e presidi sanitari per l''emergenza coronavirus
+  #Perugia'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1070,585800602,2020-03-22 20:06:03,2020-03-22 20:05:06,"Cinema Postmodernissimo #Perugia mette a disposizione film, documentari e cortometraggi",43.113144,12.385889,Umbria,Perugia,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""PostModernissimo e del Cinema Metropolis"", ""Descrizione"": ""Sul sito del PostModernissimo e del Cinema Metropolis sono disponibili gratuitamente per questi giorni di quarantena alcuni film, documentari e cortometraggi che negli anni sono stati prodotti e distribuiti, proiettati nei festival e in sala. Sono alcune delle opere con cui abbiamo lavorato: le nostre, quelle dei nostri amici, quelle dei nostri compagni, quelle dei nostri maestri. In questi giorni di emergenza e di quarantena, in un momento come questo che cambier\u00e0 le nostre abitudini, vogliamo continuare a camminare sul sentiero che abbiamo sempre percorso: quello della passione, della solidariet\u00e0 e della cultura. DI/STANZA \u00e8 la sola risposta che avremmo potuto dare a questi giorni. Perch\u00e9 siamo isolati, ma mai soli."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""http://www.postmodernissimo.com/distanza/?fbclid=IwAR28e2ivL2Mw4ysMpqhqKhUkMr1RglkCK3zyKO4TzVlZCJCXtAk8AQHT0ZA"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.113144 12.385889 0 0"", ""Titolo"": ""Cinema Postmodernissimo #Perugia mette a disposizione gratuitamente film, documentari e cortometraggi""}","<pre><yamldata>
+Da_chi_offerta: PostModernissimo e del Cinema Metropolis
+Descrizione: 'Sul sito del PostModernissimo e del Cinema Metropolis sono disponibili
+  gratuitamente per questi giorni di quarantena alcuni film, documentari e cortometraggi
+  che negli anni sono stati prodotti e distribuiti, proiettati nei festival e in sala.
+  Sono alcune delle opere con cui abbiamo lavorato: le nostre, quelle dei nostri amici,
+  quelle dei nostri compagni, quelle dei nostri maestri. In questi giorni di emergenza
+  e di quarantena, in un momento come questo che cambierà le nostre abitudini, vogliamo
+  continuare a camminare sul sentiero che abbiamo sempre percorso: quello della passione,
+  della solidarietà e della cultura. DI/STANZA è la sola risposta che avremmo potuto
+  dare a questi giorni. Perché siamo isolati, ma mai soli.'
+Destinatari: Tutte e tutti
+Link: http://www.postmodernissimo.com/distanza/?fbclid=IwAR28e2ivL2Mw4ysMpqhqKhUkMr1RglkCK3zyKO4TzVlZCJCXtAk8AQHT0ZA
+Natura: culturale-ricr
+Posizione: 43.113144 12.385889 0 0
+Titolo: 'Cinema Postmodernissimo #Perugia mette a disposizione gratuitamente film,
+  documentari e cortometraggi'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1067,585795304,2020-03-22 19:43:27,2020-03-22 19:37:29,Raccolta fondi Ospedale Santa Maria della Misericordia #Perugia,43.112567,12.386355,Umbria,Perugia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""PA Social Umbria,  \u00e8 parte di PA Social, prima associazione italiana dedicata allo sviluppo della nuova comunicazione attraverso social network, chat e tutti gli strumenti innovativi messi a disposizione dal web. \n\nL'associazione, senza scopo di lucro, \u00e8 impegnata in tutta Italia da settimane attraverso i suoi comunicatori, giornalisti, SMM nella gestione e cura della comunicazione social a seguito dell'emergenza COVID-19 nei Ministeri, nelle Regioni, nelle Province, nei Comuni, nelle Aziende Sanitarie, nelle  Universit\u00e0 e in tanti altri enti pubblici. \n\nAnche in Umbria, molti socie e soci di PA Social sono impegnate nella gestione della comunicazione dell'emergenza Coronavirus/COVID-19, nell'assistenza, nella condivisione di contenuti e informazioni e nel fornire risposte chiare a cittadini, studenti, aziende, soggetti deboli, altri enti. \n\nOggi PA Social Umbria e il Comune di Perugia, socio di PA Social Umbria, vogliono fare ancora di piu e hanno deciso di  proporre una raccolta fondi per l'Ospedale Santa Maria della Misericordia di Perugia, per il suo personale medico e infermieristico impegnato in prima linea per l'emergenza Coronavirus.\n\nSosteniamo l'Ospedale di Perugia! Dona insieme a noi"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-s-maria-della-misericordia-perugia?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR04axdyl6kRWJnBYqL1-Ll3r4QPdorVeSpPJnbKDMD9hqkLvHX9zRV726A"", ""Nome"": ""PA Social Umbria e il Comune di Perugia"", ""Posizione"": ""43.112567 12.386355 0 0""}","<pre><yamldata>
 Descrizione: ""PA Social Umbria,  è parte di PA Social, prima associazione italiana\
   \ dedicata allo sviluppo della nuova comunicazione attraverso social network, chat\
