@@ -1,0 +1,38 @@
+- language: it
+  navbar-links:
+    SEGNALA: "segnala/"
+    SCOPRI:
+      - SEGNALAZIONI : "issues/"
+      - SEGNALAZIONI PER REGIONE: "issues/regione/"
+    SEGUI:
+       - NOTIZIE: "notizie/"
+       - BLOG : "post/"
+       - CONTATTI: "canali/"
+    COS'È?:
+     - ABOUT: "about/"
+     - PRESS: "press/"
+     - DOMANDE FREQUENTI: "faq/"
+     - OPEN DATA: "opendata/"
+    PARTECIPA:
+      - COME PARTECIPARE: "contribuisci/"
+      - WIKI: "wiki/"
+    PRIVACY: "legal"
+- language: en
+  navbar-links:
+    REPORT: "segnala/"
+    DISCOVER:
+      - REPORTS : "issues/"
+      - REPORTS FOR REGION : "issues/regione/"
+    FOLLOW:
+       - NEWS: "notizie/"
+       - BLOG : "post/"
+       - CONTACTS: "canali/"
+    WHAT IS THIS?:
+     - ABOUT: "about/"
+     - PRESS: "press/"
+     - FAQ: "faq/"
+     - OPEN DATA: "opendata/"
+    CONTRIBUTE:
+      - HOW: "contribuisci/"
+      - WIKI: "wiki/"
+    PRIVACY: "legal"
