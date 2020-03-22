@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1066,585791334,2020-03-22 19:17:45,2020-03-22 19:17:16,Lista dei servizi attivi per i senza fissa dimora #Roma,41.908534,12.511234,Lazio,Roma,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Polo sociale di Roma Termini Binario 95"", ""Descrizione"": ""In una Roma resa deserta dall'emergenza Coronavirus, lo sportello di orientamento del Polo sociale di Roma Termini\nBinario 95 ha reso pubblica una lista di servizi messi a disposizione delle persone senza fissa dimora.\nEssi comprendono: mense, ambulatori, centri di ascolto e di accoglienza, docce e lavanderie, distribuzione indumenti, assistenza legale, servizi di supporto per donne vittime di violenza, orientamento per migranti e distribuzioni dei pasti in strada.\n\nPer accedere alla mappatura dei servizi, visitate e CONDIVIDETE questo link > https://www.binario95.it/roma-mappatura-servizi-per-persone-senza-dimora-emergenza-covid-19/"", ""Destinatari"": ""Senza fissa dimora"", ""Link"": ""https://www.binario95.it/roma-mappatura-servizi-per-persone-senza-dimora-emergenza-covid-19/"", ""Natura"": ""solidale"", ""Posizione"": ""41.908534 12.511234 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Lista dei servizi attivi per i senza fissa dimora #Roma""}","<pre><yamldata>
+Da_chi_offerta: Polo sociale di Roma Termini Binario 95
+Descrizione: 'In una Roma resa deserta dall''emergenza Coronavirus, lo sportello di
+  orientamento del Polo sociale di Roma Termini
+
+  Binario 95 ha reso pubblica una lista di servizi messi a disposizione delle persone
+  senza fissa dimora.
+
+  Essi comprendono: mense, ambulatori, centri di ascolto e di accoglienza, docce e
+  lavanderie, distribuzione indumenti, assistenza legale, servizi di supporto per
+  donne vittime di violenza, orientamento per migranti e distribuzioni dei pasti in
+  strada.
+
+
+  Per accedere alla mappatura dei servizi, visitate e CONDIVIDETE questo link > https://www.binario95.it/roma-mappatura-servizi-per-persone-senza-dimora-emergenza-covid-19/'
+Destinatari: Senza fissa dimora
+Link: https://www.binario95.it/roma-mappatura-servizi-per-persone-senza-dimora-emergenza-covid-19/
+Natura: solidale
+Posizione: 41.908534 12.511234 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Lista dei servizi attivi per i senza fissa dimora #Roma'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1065,585790567,2020-03-22 19:14:01,2020-03-22 19:13:14,#TorinoComeStai piattaforma per raccogliere informazioni sulla qualità della vita dei cittadini,45.071271,7.684932,Piemonte,Torino,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nesta Italia in collaborazione con SocialFare, Fondazione Links, Experientia, Cottino Social Impact Campus e il Dipartimento di Culture, Politica e Societ\u00e0 dell\u2019Universit\u00e0 di Torino."", ""Descrizione"": ""Torino come Stai? \u00e8 una piattaforma web che  ha l\u2019obiettivo di raccogliere informazioni e dati  sulla qualit\u00e0 della vita  dei cittadini torinesi in questo periodo di emergenza sanitaria caratterizzata dall\u2019epidemia di coronavirus covid-19.  L\u2019obiettivo di Torino Come Stai \u00e8 realizzare una fotografia dinamica del  sentire comune, delle nuove abitudini e delle necessit\u00e0 che stanno emergendo nel capoluogo piemontese ai tempi del coronavirus.\n\nL\u2019iniziativa \u00e8 aperta a tutti. Per partecipare basta visitare il sito www.torinocomestai.org e compilare il questionario in forma anonima senza inserire dati personali. ma fornendo solo le risposte alle domande previste\n\nTorino come stai? \u00e8 stata lanciata dalla fondazione Nesta Italia in collaborazione con SocialFare, Fondazione Links, Experientia, Cottino Social Impact Campus e il Dipartimento di Culture, Politica e Societ\u00e0 dell\u2019Universit\u00e0 di Torino."", ""Destinatari"": ""Cittadine e cittadini di Torino"", ""Link"": ""www.torinocomestai.org"", ""Natura"": ""solidale"", ""Posizione"": ""45.071271 7.684932 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#TorinoComeStai una piattaforma per raccogliere informazioni  sulla qualit\u00e0 della vita  dei cittadini di Torino ai tempi del coronavirus""}","<pre><yamldata>
 Da_chi_offerta: Nesta Italia in collaborazione con SocialFare, Fondazione Links, Experientia,
   Cottino Social Impact Campus e il Dipartimento di Culture, Politica e Società dell’Università
