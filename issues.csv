@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1000,585679661,2020-03-22 09:51:39,2020-03-22 09:46:13,#Cori e #Giulianello in provincia di #Latina - Elenco delle attività commerciali che consegnano a domicilio,41.642853,12.915437,Lazio,Latina,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comitato Civico Cori"", ""Descrizione"": ""Elenco delle attivit\u00e0 commerciali che consegnano a domicilio a Cori e Giulianello"", ""Destinatari"": ""cittadin* di Cori e Giulianello"", ""Link"": ""https://www.facebook.com/337916166775131/posts/639012443332167/"", ""Natura"": ""solidale"", ""Posizione"": ""41.642853 12.915437 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco delle attivit\u00e0 commerciali che consegnano a domicilio a Cori e Giulianello""}","<pre><yamldata>
+Da_chi_offerta: Comitato Civico Cori
+Descrizione: Elenco delle attività commerciali che consegnano a domicilio a Cori e
+  Giulianello
+Destinatari: cittadin* di Cori e Giulianello
+Link: https://www.facebook.com/337916166775131/posts/639012443332167/
+Natura: solidale
+Posizione: 41.642853 12.915437 0 0
+Tipo_di_soggetto: privato
+Titolo: Elenco delle attività commerciali che consegnano a domicilio a Cori e Giulianello
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/997,585677956,2020-03-22 09:37:09,2020-03-22 09:33:47,Raccolta Fondi per la rianimazione di #Desio ,45.61839,9.207809,Lombardia,Monza e della Brianza,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La rianimazione di Desio \u00e8 in un momento difficile.\nI dispositivi di protezione sono carenti, la nostra azienda fa quello che pu\u00f2.\nAiutateci ad aiutarvi."", ""Link"": ""https://www.gofundme.com/f/fondo-rianimazione-ospedale-di-desio?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet&fbclid=IwAR3b6i0_HNnxdp21BWFEFznB4IENw8AyBpVrHJ99nvEQaPQWmrbp2G92pds"", ""Nome"": ""Luca Bisignani per Ospedale di Desio"", ""Posizione"": ""45.61839 9.207809 0 0""}","<pre><yamldata>
 Descrizione: 'La rianimazione di Desio è in un momento difficile.
 
