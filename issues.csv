@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/988,585579421,2020-03-22 08:52:49,2020-03-21 20:37:34,Yoopies cerca educatori ed educatrici per assistenza all'infanzia a sostegno delle famiglie dei lavoratori in ambito medico-sanitario,,,,,"[""Attivita culturali e ricreative"", ""Donazioni beni e offerte servizi"", ""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Yoopies"", ""Descrizione"": ""Il nostro Paese sta attraversando un momento molto complesso edelicato. Eppure, mentre ci viene chiesto di stare in casa, una parte dei nostri concittadini si impegna e lavora ogni giorno per garantire i servizi necessari a tutti noi.\n\n Yoopies si mobilita per concretizzare un sistema di aiuto a tutte le famiglie dei lavoratori nell'ambito medico-sanitario e dei servizi garantiti.\nLa chiusura delle scuole ha avuto, infatti, un impatto molto forte sulle vite di tutti coloro i quali continuano a lavorare anche durante questo periodo. \n\nInsegnanti, ex infermieri/e, educatori ed educatrici... abbiamo bisogno di voi! Le vostre competenze possono essere utili alle famiglie dei nostri medici e infermieri, e possono togliere loro l'incombenza della ricerca di una baby sitter, permettendogli di concentrarsi al massimo sul proprio lavoro, in questo momento di crisi sanitaria."", ""Destinatari"": ""Lavoratori in ambito medico-sanitario."", ""Link"": ""https://info.yoopies.it/yoopies-aiuta/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""assistenza all'infanzia a sostegno delle famiglie dei lavoratori in ambito medico-sanitario""}","<pre><yamldata>
+Da_chi_offerta: Yoopies
+Descrizione: ""Il nostro Paese sta attraversando un momento molto complesso edelicato.\
+  \ Eppure, mentre ci viene chiesto di stare in casa, una parte dei nostri concittadini\
+  \ si impegna e lavora ogni giorno per garantire i servizi necessari a tutti noi.\n\
+  \n Yoopies si mobilita per concretizzare un sistema di aiuto a tutte le famiglie\
+  \ dei lavoratori nell'ambito medico-sanitario e dei servizi garantiti.\nLa chiusura\
+  \ delle scuole ha avuto, infatti, un impatto molto forte sulle vite di tutti coloro\
+  \ i quali continuano a lavorare anche durante questo periodo. \n\nInsegnanti, ex\
+  \ infermieri/e, educatori ed educatrici... abbiamo bisogno di voi! Le vostre competenze\
+  \ possono essere utili alle famiglie dei nostri medici e infermieri, e possono togliere\
+  \ loro l'incombenza della ricerca di una baby sitter, permettendogli di concentrarsi\
+  \ al massimo sul proprio lavoro, in questo momento di crisi sanitaria.""
+Destinatari: Lavoratori in ambito medico-sanitario.
+Link: https://info.yoopies.it/yoopies-aiuta/
+Natura: sostegno-lavor
+Titolo: assistenza all'infanzia a sostegno delle famiglie dei lavoratori in ambito
+  medico-sanitario
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/987,585571525,2020-03-22 08:47:34,2020-03-21 20:09:54,A #PadenghesulGarda in provincia di #Brescia è attiva la consegna a domicilio di spesa e farmaci,45.509584,10.506376,Lombardia,Brescia,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Padenghe sul Garda"", ""Descrizione"": ""Amministrazione Comunale, con Servizi Sociali, Volontari, Associazioni e Gruppi del territorio\n\nIstruzioni pi\u00f9 dettagliate e recapiti dei punti vendita aderenti sono nel volantino allegato\n\nPer informazioni: chiamare ufficio servizi sociali 030/9995660 dalle 09.00 alle 12.30"", ""Destinatari"": ""Abitanti nel Comune"", ""Link"": ""http://www.comune.padenghesulgarda.bs.it/PortaleNet/portale/CadmoDriver_s_434895"", ""Natura"": ""solidale"", ""Posizione"": ""45.509584 10.506376 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""CONSEGNA A DOMICILIO DELLA SPESA E DEI FARMACI""}","<pre><yamldata>
 Da_chi_offerta: Comune di Padenghe sul Garda
 Descrizione: 'Amministrazione Comunale, con Servizi Sociali, Volontari, Associazioni
