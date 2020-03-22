@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1045,585766595,2020-03-22 18:00:21,2020-03-22 17:11:25,Coronavirus - Canale informativo ufficiale Protezione Civile #Palermo,,,,,"[""Bollettino"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Email"": ""protezionecivile@cert.comune.palermo.it"", ""Indirizzo"": ""38.112004 13.35165 0 0"", ""Link"": ""https://t.me/ProtezioneCivilePalermo"", ""Nome"": ""Coronavirus - Canale informativo ufficiale Protezione Civile Palermo"", ""Scopo"": ""Informazioni ed alerts di Protezione Civile dal Comune di Palermo.\n\n\u00c8 possibile ricevere allerte meteo e notizie di emergenza direttamente sul proprio smartphone, installando l'App Telegramm ed iscrivendosi al canale della Protezione Civile Palermo (@ProtezioneCivilePalermo)\n\nVista la tipologia di strumento, che prevede notifiche evidenti, verr\u00e0 utilizzato solo per comunicazioni con un alto livello di allerta.\nIn particolare verr\u00e0 utilizzato nei seguenti casi:\n\n- Allerte Meteo\n- Gravi problematiche di viabilit\u00e0\n- Chiusura di scuole dovuta a maltempo o ad eventi calamitosi\n- Informazioni che hanno particolare carattere di emergenza"", ""Telefono"": ""800404040""}","<pre><yamldata>
+Email: protezionecivile@cert.comune.palermo.it
+Indirizzo: 38.112004 13.35165 0 0
+Link: https://t.me/ProtezioneCivilePalermo
+Nome: Coronavirus - Canale informativo ufficiale Protezione Civile Palermo
+Scopo: 'Informazioni ed alerts di Protezione Civile dal Comune di Palermo.
+
+
+  È possibile ricevere allerte meteo e notizie di emergenza direttamente sul proprio
+  smartphone, installando l''App Telegramm ed iscrivendosi al canale della Protezione
+  Civile Palermo (@ProtezioneCivilePalermo)
+
+
+  Vista la tipologia di strumento, che prevede notifiche evidenti, verrà utilizzato
+  solo per comunicazioni con un alto livello di allerta.
+
+  In particolare verrà utilizzato nei seguenti casi:
+
+
+  - Allerte Meteo
+
+  - Gravi problematiche di viabilità
+
+  - Chiusura di scuole dovuta a maltempo o ad eventi calamitosi
+
+  - Informazioni che hanno particolare carattere di emergenza'
+Telefono: '800404040'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1044,585764317,2020-03-22 17:59:19,2020-03-22 16:59:41,Sostegno educativo a distanza sul portale della scuola Comune di #Palermo,38.111937,13.353453,Sicilia,Palermo,"[""Bollettino"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Palermo"", ""Descrizione"": ""Sostegno educativo a distanza per i bambini di Palermo grazie alla sinergia tra l\u2019Assessorato alla Scuola e la Sispi, Sistema Palermo Innovazione, che, da oggi, arricchisce il sito https://portalescuola.comune.palermo.it \ncon una nuova sezione: uno spazio virtuale messo a disposizione di insegnanti, educatrici e famiglie per rinsaldare il rapporto quotidiano bruscamente interrotto a causa dell\u2019emergenza Coronavirus."", ""Destinatari"": ""insegnanti, educatrici e famiglie"", ""Link"": ""https://protezionecivile.comune.palermo.it/protezione-civile-dettaglio.php?id=26886&s=2"", ""Natura"": ""didattica"", ""Posizione"": ""38.111937 13.353453 0 0"", ""Titolo"": ""CORONAVIRUS. Online sul portale della scuola gli strumenti per la \""Cura educativa\""""}","<pre><yamldata>
+Da_chi_offerta: Comune di Palermo
+Descrizione: ""Sostegno educativo a distanza per i bambini di Palermo grazie alla sinergia\
+  \ tra l’Assessorato alla Scuola e la Sispi, Sistema Palermo Innovazione, che, da\
+  \ oggi, arricchisce il sito https://portalescuola.comune.palermo.it \ncon una nuova\
+  \ sezione: uno spazio virtuale messo a disposizione di insegnanti, educatrici e\
+  \ famiglie per rinsaldare il rapporto quotidiano bruscamente interrotto a causa\
+  \ dell’emergenza Coronavirus.""
+Destinatari: insegnanti, educatrici e famiglie
+Link: https://protezionecivile.comune.palermo.it/protezione-civile-dettaglio.php?id=26886&s=2
+Natura: didattica
+Posizione: 38.111937 13.353453 0 0
+Titolo: CORONAVIRUS. Online sul portale della scuola gli strumenti per la ""Cura educativa""
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1043,585763689,2020-03-22 17:55:10,2020-03-22 16:56:29,Servizio telefonico e supporto psicologico per donne in gravidanza e neo mamme Comune di #Palermo,38.110924,-346.647663,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Palermo"", ""Descrizione"": ""Coronavirus. Servizio telefonico di ascolto e supporto psicologico gratuito per donne in gravidanza e neo mamme sul sito Portale Scuola del Comune di Palermo.\n\nUn servizio di sostegno psicologico telefonico gratuito sul Coronavirus per neo-mamme e donne in gravidanza \u00e8 attivo da oggi sul sito Portale Scuola del Comune dedicato al sostegno genitoriale. L\u2019esperta Violetta Sieli, psicologa ed educatrice pre e post natale, si \u00e8 resa disponibile per consulenze gratuite, attraverso incontri telefonici con le interessate che possono essere chiesti, \n\norario attivo dalle ore 10 alle ore 17, \nchiamando il numero 339.7037940."", ""Destinatari"": ""donne in gravidanza e neo mamme"", ""Link"": ""https://protezionecivile.comune.palermo.it/protezione-civile-dettaglio.php?id=26929&s=2"", ""Natura"": ""solidale"", ""Posizione"": ""38.110924 -346.647663 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio telefonico di ascolto e supporto psicologico gratuito per donne in gravidanza e neo mamme""}","<pre><yamldata>
 Da_chi_offerta: Comune di Palermo
 Descrizione: ""Coronavirus. Servizio telefonico di ascolto e supporto psicologico gratuito\
