@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1099,586122626,2020-03-23 11:15:32,2020-03-23 11:03:58,"Pronto Soccorso Ascolto e Mediazione, servizio gratuito offerto dall'Associazione Me.Dia.Re.",45.071217,7.676997,Piemonte,Torino,"[""Contatti utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Me.Dia.Re. - Mediazione Dialogo Relazione"", ""Descrizione"": ""Il servizio, gestito da mediatori familiari, totalmente gratuito, mira alla facilitazione della comunicazione interpersonale e alla de-tensione dei rapporti per le persone e le famiglie le cui difficolt\u00e0 nei rapporti o i cui conflitti siano causati o aggravati dalle misure restrittive in atto. Si svolge con colloqui on line o telefonici, previo appuntamento. Per informazioni e contatti inviare una mail all\u2019indirizzo info@me-dia-re.it scrivendo nell\u2019oggetto \u201crichiesta per Pronto Soccorso Ascolto e Mediazione\u201d, scrivendo un messaggio privato sulla pagina Facebook dell\u2019Associazione Me.Dia.Re. (https://www.facebook.com/mediaretorino/), \nchiamando il numero 393 8584373 nei seguenti orari 10-12.00 \u2013 14.00-18.00 da luned\u00ec a venerd\u00ec."", ""Destinatari"": ""Persone e famiglie che, anche, dovendo restare in casa e, in generale, a causa delle misure restrittive finalizzate al contenimento dell\u2019epidemia, vivono criticit\u00e0 relazionali, difficolt\u00e0 di comunicazione o di aperta conflittualit\u00e0."", ""Link"": ""http://www.me-dia-re.it/pronto-soccorso-ascolto-mediazione/"", ""Natura"": ""solidale"", ""Posizione"": ""45.071217 7.676997 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pronto Soccorso Ascolto e Mediazione""}","<pre><yamldata>
+Da_chi_offerta: Associazione Me.Dia.Re. - Mediazione Dialogo Relazione
+Descrizione: ""Il servizio, gestito da mediatori familiari, totalmente gratuito, mira\
+  \ alla facilitazione della comunicazione interpersonale e alla de-tensione dei rapporti\
+  \ per le persone e le famiglie le cui difficoltà nei rapporti o i cui conflitti\
+  \ siano causati o aggravati dalle misure restrittive in atto. Si svolge con colloqui\
+  \ on line o telefonici, previo appuntamento. Per informazioni e contatti inviare\
+  \ una mail all’indirizzo info@me-dia-re.it scrivendo nell’oggetto “richiesta per\
+  \ Pronto Soccorso Ascolto e Mediazione”, scrivendo un messaggio privato sulla pagina\
+  \ Facebook dell’Associazione Me.Dia.Re. (https://www.facebook.com/mediaretorino/),\
+  \ \nchiamando il numero 393 8584373 nei seguenti orari 10-12.00 – 14.00-18.00 da\
+  \ lunedì a venerdì.""
+Destinatari: Persone e famiglie che, anche, dovendo restare in casa e, in generale,
+  a causa delle misure restrittive finalizzate al contenimento dell’epidemia, vivono
+  criticità relazionali, difficoltà di comunicazione o di aperta conflittualità.
+Link: http://www.me-dia-re.it/pronto-soccorso-ascolto-mediazione/
+Natura: solidale
+Posizione: 45.071217 7.676997 0 0
+Tipo_di_soggetto: privato
+Titolo: Pronto Soccorso Ascolto e Mediazione
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1097,586068086,2020-03-23 11:00:16,2020-03-23 09:41:22,#RestiamoConnessi: sportello telematico di supporto alle famiglie di bambini con autismo,41.897102,12.51832,Lazio,Roma,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gruppo Autismo del Dipartimento di Neuroscienze e Salute Mentale del Policlinico Universitario Umberto I"", ""Descrizione"": ""I medici e i terapisti dell'Unit\u00e0 Operativa di Neuropsichiatria Infantile del Dipartimento di Neuroscienze e Salute Mentale del Policlinico Universitario Umberto I (via dei Sabelli 108) sono a disposizione per supportare per via telematica le famiglie dei bambini con Autismo che in questo momento di emergenza hanno visto stravolti tutti i loro riferimenti quotidiani e possono presentare criticit\u00e0 da monitorare. Si pu\u00f2 inviare un'email:\nviadeisabelliautismo@gmail.com indicando il proprio nome, una breve richiesta ed un recapito dove poter essere contattati."", ""Destinatari"": ""Famiglie di bambini con Disturbo dello Spettro Autistico"", ""Natura"": ""solidale"", ""Posizione"": ""41.897102 12.51832 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Restiamo connessi: sportello telematico di supporto alle famiglie di bambini con Autismo""}","<pre><yamldata>
 Da_chi_offerta: Gruppo Autismo del Dipartimento di Neuroscienze e Salute Mentale del
   Policlinico Universitario Umberto I
