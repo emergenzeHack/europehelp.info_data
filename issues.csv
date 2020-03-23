@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1087,586002309,2020-03-23 10:34:43,2020-03-23 07:52:19,Comitato CRI #Castelvetrano #Trapani lancia raccolta fondi ,37.680016,12.792807,Sicilia,Trapani,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Ciao. Siamo il Comitato di Castelvetrano della Croce Rossa Italiana, ed abbiamo bisogno del tuo aiuto.\n\nAbbiamo lavorato il pi\u00f9 possibile con le nostre sole forze, ma ora anche noi cominciamo ad avere difficolt\u00e0.\nLe attrezzature ed i materiali necessari a fronteggiare l'epidemia di COVID-19 hanno un costo molto alto, e noi vogliamo continuare a proteggere i nostri operatori e la cittadinanza.\nAiutateci ad aiutarvi: ogni euro donato contribuir\u00e0 a proteggere la salute della popolazione e dei nostri operatori sanitari.\n\nOvunque per chiunque da SEMPRE: CRI Castelvetrano"", ""Link"": ""https://www.gofundme.com/f/covid19-raccolta-fondi-cri-castelvetrano"", ""Nome"": ""Croce Rossa Italiana - Comitato di Castelvetrano"", ""Posizione"": ""37.680016 12.792807 0 0""}","<pre><yamldata>
+Descrizione: 'Ciao. Siamo il Comitato di Castelvetrano della Croce Rossa Italiana,
+  ed abbiamo bisogno del tuo aiuto.
+
+
+  Abbiamo lavorato il più possibile con le nostre sole forze, ma ora anche noi cominciamo
+  ad avere difficoltà.
+
+  Le attrezzature ed i materiali necessari a fronteggiare l''epidemia di COVID-19
+  hanno un costo molto alto, e noi vogliamo continuare a proteggere i nostri operatori
+  e la cittadinanza.
+
+  Aiutateci ad aiutarvi: ogni euro donato contribuirà a proteggere la salute della
+  popolazione e dei nostri operatori sanitari.
+
+
+  Ovunque per chiunque da SEMPRE: CRI Castelvetrano'
+Link: https://www.gofundme.com/f/covid19-raccolta-fondi-cri-castelvetrano
+Nome: Croce Rossa Italiana - Comitato di Castelvetrano
+Posizione: 37.680016 12.792807 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1082,585993512,2020-03-23 10:29:52,2020-03-23 07:34:56,Libreria Modusvivendi di #Palermo consegna libri a domicilio,38.117873,13.362961,Sicilia,Palermo,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""#Mondadori-Flaccovio di via Roma a #Palermo"", ""Descrizione"": ""#Mondadori ha attivato \u201cPronto libro\u201d: \nsi possono ordinare i titoli o tramite il numero 091 36 10 64 o via Facebook \n(pagina Mondadori bookstore via Roma 270/272 Palermo) \no per mail scrivendo a fabulaviaroma@libreriaflaccovio.it. \n\nLa consegna ha un costo di 2 euro.\n\nnotizia del 19 marzo 2020"", ""Destinatari"": ""lettori"", ""Link"": ""https://www.facebook.com/modusvivendi.libreria"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""38.117873 13.362961 0 0"", ""Titolo"": ""#Palermo, Coronavirus: Consegna #libri a #domicilio""}","<pre><yamldata>
 Da_chi_offerta: '#Mondadori-Flaccovio di via Roma a #Palermo'
 Descrizione: ""#Mondadori ha attivato “Pronto libro”: \nsi possono ordinare i titoli\
