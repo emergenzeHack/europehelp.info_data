@@ -1,4 +1,43 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1127,586401367,2020-03-23 17:54:21,2020-03-23 17:49:13,I servizi digitali per #iorestoacasa per i cittadini della #Lombardia,45.48553,9.20517,Lombardia,Milano,"[""Contatti utili"", ""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Lombardia"", ""Descrizione"": ""I lombardi che restano a casa non devono essere lasciati soli in un momento cos\u00ec difficile e la mancanza di competenze digitali o di abitudine all\u2019utilizzo degli strumenti tecnologici non devono essere elementi di esclusione dei cittadini.\n\nEd \u00e8 per questo che dal 23 marzo \u00e8 a disposizione dei cittadini lombardi un nuovo servizio offerto dal call center istituzionale al numero verde 800.318.318 (02 3232 3325 da rete mobile e dall'estero, a pagamento al costo previsto dal proprio piano tariffario), che aiuta nell\u2019utilizzo degli strumenti digitali necessari per la vita quotidiana ai tempi del Coronavirus. Si tratta di un servizio regionale di solidariet\u00e0 digitale che fornisce informazioni per:\n- Accedere ai servizi di consegna della spesa e farmaci a domicilio\n- Consultare le ricette e i referti on-line senza la necessit\u00e0 di recarsi negli ambulatori.\n- Utilizzare strumenti di chat e videochiamate per mettersi in contatto con i propri cari\n- Rimanere informati sul fenomeno Coronavirus dai siti istituzionali\n- Prendere visione delle principali misure e iniziative a livello locale delle singole amministrazioni\n- Avere informazioni per trascorrere momenti di svago e di approfondimento culturale in casa\n\nIl servizio \u00e8 attivo 7 giorni su 7 dalle 8.00 alle 20.00."", ""Destinatari"": ""tutti"", ""Link"": ""https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/coronavirus/corona-ricerca-oersonale-sanitario-rec"", ""Natura"": ""solidale"", ""Posizione"": ""45.48553 9.20517 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""I servizi digitali per #iorestoacasa per i cittadini della #Lombardia""}","<pre><yamldata>
+Da_chi_offerta: Regione Lombardia
+Descrizione: 'I lombardi che restano a casa non devono essere lasciati soli in un
+  momento così difficile e la mancanza di competenze digitali o di abitudine all’utilizzo
+  degli strumenti tecnologici non devono essere elementi di esclusione dei cittadini.
+
+
+  Ed è per questo che dal 23 marzo è a disposizione dei cittadini lombardi un nuovo
+  servizio offerto dal call center istituzionale al numero verde 800.318.318 (02 3232
+  3325 da rete mobile e dall''estero, a pagamento al costo previsto dal proprio piano
+  tariffario), che aiuta nell’utilizzo degli strumenti digitali necessari per la vita
+  quotidiana ai tempi del Coronavirus. Si tratta di un servizio regionale di solidarietà
+  digitale che fornisce informazioni per:
+
+  - Accedere ai servizi di consegna della spesa e farmaci a domicilio
+
+  - Consultare le ricette e i referti on-line senza la necessità di recarsi negli
+  ambulatori.
+
+  - Utilizzare strumenti di chat e videochiamate per mettersi in contatto con i propri
+  cari
+
+  - Rimanere informati sul fenomeno Coronavirus dai siti istituzionali
+
+  - Prendere visione delle principali misure e iniziative a livello locale delle singole
+  amministrazioni
+
+  - Avere informazioni per trascorrere momenti di svago e di approfondimento culturale
+  in casa
+
+
+  Il servizio è attivo 7 giorni su 7 dalle 8.00 alle 20.00.'
+Destinatari: tutti
+Link: https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/coronavirus/corona-ricerca-oersonale-sanitario-rec
+Natura: solidale
+Posizione: 45.48553 9.20517 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'I servizi digitali per #iorestoacasa per i cittadini della #Lombardia'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1126,586393405,2020-03-23 17:38:01,2020-03-23 17:37:01,SOS-Teniamoci - servizio gratuito di supporto psicologico a #Milano,45.4302186,9.1692763,Lombardia,Milano,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa Calypso Onlus"", ""Descrizione"": ""Per molti restare a casa, obbligati ad una segregazione a cui non si \u00e8 abituati, \u00e8 pi\u00f9 che un momento di difficolt\u00e0.\n\nIl timore di contrarre il virus, la solitudine, ma anche la separazione volontaria in casa per proteggere i propri cari, pu\u00f2 indurre forte preoccupazione e ansia.\n\nCooperativa Calypso Onlus mette a disposizione psicologi e psicoterapeuti per un servizio di ascolto telefonico GRATUITO a supporto di chi ne avesse bisogno.\n\n#andr\u00e0tuttobene ma se per ora non \u00e8 cos\u00ec, chiama e chiedi aiuto.\n\nCooperativa Calypso Onlus\nTel/Whatsapp 3383760207\nServizio gratuito\n\n#lopsicologotiaiuta"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/claudio.migliavacca/posts/10220759253193064"", ""Natura"": ""solidale"", ""Posizione"": ""45.4302186 9.1692763 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SOS-Teniamoci - servizio gratuito di supporto psicologico""}","<pre><yamldata>
 Da_chi_offerta: Cooperativa Calypso Onlus
 Descrizione: 'Per molti restare a casa, obbligati ad una segregazione a cui non si
