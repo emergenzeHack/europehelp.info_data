@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1118,586324542,2020-03-23 17:05:02,2020-03-23 16:06:50,Servizio di supporto psicologico telefonico gratuito - #Torino,45.074058,7.676755,Piemonte,Torino,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Centro per la psicoterapia e la ricerca"", ""Descrizione"": ""Data l'emergenza in corso in Italia e all'Estero, l\u2019equipe di psicoterapeuti psicologi e medici di Open si mette a disposizione fornendo un servizio di supporto psicologico telefonico GRATUITO.\nL'obiettivo \u00e8 aiutare e supportare a livello psicologico la popolazione nel gestire lo stress causato dall'attuale emergenza sanitaria Coronavirus. E sostenere il personale medico impegnato in prima linea nell\u2019affrontare tale emergenza."", ""Destinatari"": ""\u2022 Coloro che sentono il bisogno di un sostegno emotivo in questo periodo di emergenza Covid-19. -  Personale sanitario medico e infermieristico impegnato in prima linea nell\u2019affrontare l\u2019emergenza Covid-19."", ""Link"": ""http://www.ippweb.it/istituto/centro-psicoterapia-e-ricerca.html"", ""Natura"": ""solidale"", ""Posizione"": ""45.074058 7.676755 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di supporto psicologico telefonico nell\u2019emergenza coronavirus""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1118,586324542,2020-03-23 17:07:39,2020-03-23 16:06:50,Servizio di supporto psicologico telefonico gratuito - #Torino,45.074058,7.676755,Piemonte,Torino,"[""Contatti utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Centro per la psicoterapia e la ricerca"", ""Descrizione"": ""Data l'emergenza in corso in Italia e all'Estero, l\u2019equipe di psicoterapeuti psicologi e medici di Open si mette a disposizione fornendo un servizio di supporto psicologico telefonico GRATUITO.\nL'obiettivo \u00e8 aiutare e supportare a livello psicologico la popolazione nel gestire lo stress causato dall'attuale emergenza sanitaria Coronavirus. E sostenere il personale medico impegnato in prima linea nell\u2019affrontare tale emergenza."", ""Destinatari"": ""\u2022 Coloro che sentono il bisogno di un sostegno emotivo in questo periodo di emergenza Covid-19. -  Personale sanitario medico e infermieristico impegnato in prima linea nell\u2019affrontare l\u2019emergenza Covid-19."", ""Email"": ""centro.psicoterapia@ippweb.it"", ""Indirizzo"": ""45.073964 7.676737 0 0"", ""Link"": ""http://www.ippweb.it/istituto/centro-psicoterapia-e-ricerca.html"", ""Natura"": ""solidale"", ""Nome"": ""OPEN Centro per la Psicoterapia e la Ricerca"", ""Posizione"": ""45.074058 7.676755 0 0"", ""Scopo"": ""Servizio di supporto psicologico telefonico gratuito promosso dal Centro per la Psicoterapia e la Ricerca \u201cOpen\u201d dell\u2019Istituto di Psicoterapia Psicoanalitica di Torino.\n\nCome funziona:\nAttivo dalle ore 10 alle ore 22\n-telefonare al numero:\n+39 3348951276\n\n- Scrivere sms al numero:\n+39 3348951276\nper essere ricontattati\n\n- Scrivere a:\ncentro.psicoterapia@ippweb.it\n \n\nGli accadimenti come quello che la nostra societ\u00e0 sta vivendo, rendono necessari interventi tempestivi a favore della popolazione. \nNoi psicoterapeuti di \u201cOpen\u201d abbiamo sentito il dovere e la necessit\u00e0 di mettere al servizio della popolazione la nostra professionalit\u00e0 secondo un principio etico e curativo che sentiamo fondamentale e fondante la nostra attivit\u00e0 clinica.\n \nL\u2019iniziativa \u00e8 promossa da un\u2019\u00e9quipe di professionisti specializzati composta da psicologi e medici psicoterapeuti,  che offre gratuitamente la propria competenza in termini di disagio psicologico, dato il momento di particolare criticit\u00e0 sociale. L\u2019intervento proposto mira principalmente ad accogliere eventuali richieste di supporto, fornendo un contributo specialistico nell\u2019affrontare le conseguenze psicologiche ed emotive connesse alla pandemia da Coronavirus e orientare il singolo seguendo le direttive nazionali, attraverso colloqui di supporto psicologico telefonico."", ""Telefono"": ""3348951276"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di supporto psicologico telefonico nell\u2019emergenza coronavirus""}","<pre><yamldata>
 Da_chi_offerta: Open Centro per la psicoterapia e la ricerca
 Descrizione: 'Data l''emergenza in corso in Italia e all''Estero, l’equipe di psicoterapeuti
   psicologi e medici di Open si mette a disposizione fornendo un servizio di supporto
@@ -8,6 +8,28 @@ Descrizione: 'Data l''emergenza in corso in Italia e all''Estero, l’equipe di 
   L''obiettivo è aiutare e supportare a livello psicologico la popolazione nel gestire
   lo stress causato dall''attuale emergenza sanitaria Coronavirus. E sostenere il personale medico
   impegnato in prima linea nell’affrontare tale emergenza.'
+Email: centro.psicoterapia@ippweb.it
+Indirizzo: 45.073964 7.676737 0 0
+Link: http://www.ippweb.it/istituto/centro-psicoterapia-e-ricerca.html
+Nome: OPEN Centro per la Psicoterapia e la Ricerca
+Scopo: ""Servizio di supporto psicologico telefonico gratuito promosso dal Centro per\
+  \ la Psicoterapia e la Ricerca “Open” dell’Istituto di Psicoterapia Psicoanalitica\
+  \ di Torino.\n\nCome funziona:\nAttivo dalle ore 10 alle ore 22\n-telefonare al\
+  \ numero:\n+39 3348951276\n\n- Scrivere sms al numero:\n+39 3348951276\nper essere\
+  \ ricontattati\n\n- Scrivere a:\ncentro.psicoterapia@ippweb.it\n \n\nGli accadimenti\
+  \ come quello che la nostra società sta vivendo, rendono necessari interventi tempestivi\
+  \ a favore della popolazione. \nNoi psicoterapeuti di “Open” abbiamo sentito il\
+  \ dovere e la necessità di mettere al servizio della popolazione la nostra professionalità\
+  \ secondo un principio etico e curativo che sentiamo fondamentale e fondante la\
+  \ nostra attività clinica.\n \nL’iniziativa è promossa da un’équipe di professionisti\
+  \ specializzati composta da psicologi e medici psicoterapeuti,  che offre gratuitamente\
+  \ la propria competenza in termini di disagio psicologico, dato il momento di particolare\
+  \ criticità sociale. L’intervento proposto mira principalmente ad accogliere eventuali\
+  \ richieste di supporto, fornendo un contributo specialistico nell’affrontare le\
+  \ conseguenze psicologiche ed emotive connesse alla pandemia da Coronavirus e orientare\
+  \ il singolo seguendo le direttive nazionali, attraverso colloqui di supporto psicologico\
+  \ telefonico.""
+Telefono: '3348951276'
 Destinatari: • Coloro che sentono il bisogno di un sostegno emotivo in questo periodo
   di emergenza Covid-19. -  Personale sanitario medico e infermieristico impegnato
   in prima linea nell’affrontare l’emergenza Covid-19.
