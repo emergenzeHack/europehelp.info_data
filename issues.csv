@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1106,586226064,2020-03-23 14:44:30,2020-03-23 13:51:57,Consegna spesa a domicilio #Milano Municipio 9,45.500885,9.180504,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio 9 Comune di Milano"", ""Descrizione"": ""Un'iniziativa della giunta e dei consiglieri del Municipio9 per mettere a disposizione dei cittadini l'elenco dei negozi che effettuano consegne a domicilio: cos\u00ec puoi rispettare le disposizioni vigenti, sostenendo i commercianti del tuo quartiere. \nGrazie anche al comitato Bovisattiva che ci ha fornito i dati di alcuni esercenti\n\nL'elenco dei commercianti, sempre aggiornato, lo trovi qui\nwww.tinyurl.com/laspesaacasa\n\nSe sei un negoziante e vuoi aggiungerti all'elenco, scrivi a\nlaspesaacasa.municipio9@gmail.com"", ""Destinatari"": ""cittadini di Milano zona 9"", ""Link"": ""www.tinyurl.com/laspesaacasa"", ""Natura"": ""solidale"", ""Posizione"": ""45.500885 9.180504 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Fai la spesa a casa-municipio 9""}","<pre><yamldata>
+Da_chi_offerta: Municipio 9 Comune di Milano
+Descrizione: ""Un'iniziativa della giunta e dei consiglieri del Municipio9 per mettere\
+  \ a disposizione dei cittadini l'elenco dei negozi che effettuano consegne a domicilio:\
+  \ così puoi rispettare le disposizioni vigenti, sostenendo i commercianti del tuo\
+  \ quartiere. \nGrazie anche al comitato Bovisattiva che ci ha fornito i dati di\
+  \ alcuni esercenti\n\nL'elenco dei commercianti, sempre aggiornato, lo trovi qui\n\
+  www.tinyurl.com/laspesaacasa\n\nSe sei un negoziante e vuoi aggiungerti all'elenco,\
+  \ scrivi a\nlaspesaacasa.municipio9@gmail.com""
+Destinatari: cittadini di Milano zona 9
+Link: www.tinyurl.com/laspesaacasa
+Natura: solidale
+Posizione: 45.500885 9.180504 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Fai la spesa a casa-municipio 9
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1105,586187624,2020-03-23 14:39:00,2020-03-23 12:55:04,Consegna spesa a domicilio #Verona e #ProvinciaVerona,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nicola Ferrari"", ""Descrizione"": ""Elenco con le aziende divise per categoria e paese"", ""Destinatari"": ""Aziende e cittadini"", ""Indirizzo"": ""45.43839046 10.99352685"", ""Link"": ""https://sheet2site.com/s/ordinaconsegna/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco aziende della provincia di Verona con consegna domicilio/prenotazione per ritiro ordine""}","<pre><yamldata>
 Da_chi_offerta: Nicola Ferrari
 Descrizione: Elenco con le aziende divise per categoria e paese
