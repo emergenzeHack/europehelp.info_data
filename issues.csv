@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1113,586295403,2020-03-23 16:32:09,2020-03-23 15:27:29,A #Torino il Gruppo Abele ha attivato uno sportello telefonico di ascolto e supporto psicologico,45.0676332,7.638944013984772,Piemonte,Torino,"[""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Email"": ""piero@babelica.it"", ""Link"": ""https://www.gruppoabele.org/uno-sportello-di-assistenza-psicologica-covid19-per-cittadinanza-e-operatori-sanitari/"", ""Nome"": ""Piero Ferrante"", ""Posizione"": ""45.0676332 7.638944013984772 0 0"", ""Scopo"": ""Sportello telefonico di ascolto, assistenza e supporto psicologico del Gruppo Abele, associazione di Torino fondata e presieduta da Luigi Ciotti, per cittadini che patiscono la situazione di isolamento e per operatori sanitari\nLo sportello \u00e8 attivo tutti i giorni, compreso il fine settimana, dalle 15 alle 20. \nIl numero 0113841040""}","<pre><yamldata>
+Email: piero@babelica.it
+Link: https://www.gruppoabele.org/uno-sportello-di-assistenza-psicologica-covid19-per-cittadinanza-e-operatori-sanitari/
+Nome: Piero Ferrante
+Scopo: ""Sportello telefonico di ascolto, assistenza e supporto psicologico del Gruppo\
+  \ Abele, associazione di Torino fondata e presieduta da Luigi Ciotti, per cittadini\
+  \ che patiscono la situazione di isolamento e per operatori sanitari\nLo sportello\
+  \ è attivo tutti i giorni, compreso il fine settimana, dalle 15 alle 20. \nIl numero\
+  \ 0113841040""
+Posizione: 45.0676332 7.638944013984772 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1109,586257555,2020-03-23 14:59:19,2020-03-23 14:36:21,#SmartStories: Letture collettive in #Campania,40.836854,14.251108,Campania,Napoli,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nati per Leggere Campania"", ""Descrizione"": ""I Punti Lettura Nati per Leggere Campania sono chiusi, le attivit\u00e0 nelle scuole e nei presidi sospese in via precauzionale come da indicazione della Regione e di molti Comuni.\nMa non ci andava di lasciarci per tanto tempo... cos\u00ec abbiamo pensato di organizzarci per fronteggiare l\u2019emergenza e per cercare di mantenere la normalit\u00e0.\nCome? Cosa?\nRestate collegati alla nostra pagina facebook: a partire dal 2 marzo,  i volontari di Nati per Leggere Campania hanno dato appuntamento, in diversi orari, con una diretta facebook, per tenere stretti i legami con le famiglie come piace a noi...leggendo!\nVi aspettiamo, come sempre, a libro aperto e cuore spalancato!"", ""Destinatari"": ""Bambini da 0 a 6 anni, famiglie, operatori"", ""Link"": ""https://www.facebook.com/pg/natiperleggerecampania/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""40.836854 14.251108 0 0"", ""Titolo"": ""\""#SmartStories - una scorta di storie per leggersi accanto\""""}","<pre><yamldata>
 Da_chi_offerta: Nati per Leggere Campania
 Descrizione: 'I Punti Lettura Nati per Leggere Campania sono chiusi, le attività nelle
