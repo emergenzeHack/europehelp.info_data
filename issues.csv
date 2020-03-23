@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1118,586324542,2020-03-23 17:05:02,2020-03-23 16:06:50,Servizio di supporto psicologico telefonico gratuito - #Torino,45.074058,7.676755,Piemonte,Torino,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Centro per la psicoterapia e la ricerca"", ""Descrizione"": ""Data l'emergenza in corso in Italia e all'Estero, l\u2019equipe di psicoterapeuti psicologi e medici di Open si mette a disposizione fornendo un servizio di supporto psicologico telefonico GRATUITO.\nL'obiettivo \u00e8 aiutare e supportare a livello psicologico la popolazione nel gestire lo stress causato dall'attuale emergenza sanitaria Coronavirus. E sostenere il personale medico impegnato in prima linea nell\u2019affrontare tale emergenza."", ""Destinatari"": ""\u2022 Coloro che sentono il bisogno di un sostegno emotivo in questo periodo di emergenza Covid-19. -  Personale sanitario medico e infermieristico impegnato in prima linea nell\u2019affrontare l\u2019emergenza Covid-19."", ""Link"": ""http://www.ippweb.it/istituto/centro-psicoterapia-e-ricerca.html"", ""Natura"": ""solidale"", ""Posizione"": ""45.074058 7.676755 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di supporto psicologico telefonico nell\u2019emergenza coronavirus""}","<pre><yamldata>
+Da_chi_offerta: Open Centro per la psicoterapia e la ricerca
+Descrizione: 'Data l''emergenza in corso in Italia e all''Estero, l’equipe di psicoterapeuti
+  psicologi e medici di Open si mette a disposizione fornendo un servizio di supporto
+  psicologico telefonico GRATUITO.
+
+  L''obiettivo è aiutare e supportare a livello psicologico la popolazione nel gestire
+  lo stress causato dall''attuale emergenza sanitaria Coronavirus. E sostenere il personale medico
+  impegnato in prima linea nell’affrontare tale emergenza.'
+Destinatari: • Coloro che sentono il bisogno di un sostegno emotivo in questo periodo
+  di emergenza Covid-19. -  Personale sanitario medico e infermieristico impegnato
+  in prima linea nell’affrontare l’emergenza Covid-19.
+Link: http://www.ippweb.it/istituto/centro-psicoterapia-e-ricerca.html
+Natura: solidale
+Posizione: 45.074058 7.676755 0 0
+Tipo_di_soggetto: privato
+Titolo: Servizio di supporto psicologico telefonico nell’emergenza coronavirus
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1115,586304965,2020-03-23 16:49:19,2020-03-23 15:40:18,Enac dà il via libera all’uso dei droni per monitorare gli spostamenti,41.9055241,12.5058088,Lazio,Roma,"[""Notizie"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, Enac d\u00e0 l\u2019ok all\u2019uso dei droni per monitorare gli spostamenti"", ""Descrizione"": ""Enac, l'Ente nazionale per l'aviazione civile, ha dato il \u00abvia libera\u00bb dell'Enac, all'uso in deroga dei droni per monitorare gli spostamenti dei cittadini sul territorio comunale \u00abnell'ottica di garantire il contenimento dell'emergenza epidemiologica coronavirus\u00bb. E' quanto prevede la nota inviata ai ministeri dell'Interno, dei Trasporti e della Giustizia, allo Stato Maggiore dell'Aeronautica, all'Enav, all'Associazione nazionale dei comuni italiani e ai Comandi delle polizie locali."", ""Link"": ""https://www.enac.gov.it/news/utilizzo-droni-provvedimenti-governativi-emergenziali-in-vigore-fino-al-03042020"", ""Posizione"": ""41.9055241 12.5058088 0 0""}","<pre><yamldata>
 Cosa: Coronavirus, Enac dà l’ok all’uso dei droni per monitorare gli spostamenti
 Descrizione: Enac, l'Ente nazionale per l'aviazione civile, ha dato il «via libera»
