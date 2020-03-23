@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1077,585824634,2020-03-23 10:17:33,2020-03-22 22:11:23,Gazzetta Ufficiale: misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica,41.89332,12.48293,Lazio,Roma,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica"", ""Descrizione"": ""Misure urgenti di contenimento del contagio sull'intero territorio nazionale \n \n  1. Allo scopo di contrastare e contenere il diffondersi  del  virus COVID-19, sull'intero territorio nazionale sono adottate le  seguenti\nmisure: \n    a) sono sospese  tutte  le  attivita'  produttive  industriali  e commerciali, ad eccezione di quelle indicate nell'allegato 1 e  salvo quanto di seguito  disposto."", ""Fonte"": ""Gazzetta Ufficiale n.76 del 22/3/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-22&atto.codiceRedazionale=20A01807&elenco30giorni=false"", ""Posizione"": ""41.89332 12.48293""}","<pre><yamldata>
+Cosa: misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica
+Descrizione: ""Misure urgenti di contenimento del contagio sull'intero territorio nazionale\
+  \ \n \n  1. Allo scopo di contrastare e contenere il diffondersi  del  virus COVID-19,\
+  \ sull'intero territorio nazionale sono adottate le  seguenti\nmisure: \n    a)\
+  \ sono sospese  tutte  le  attivita'  produttive  industriali  e commerciali, ad\
+  \ eccezione di quelle indicate nell'allegato 1 e  salvo quanto di seguito  disposto.""
+Fonte: Gazzetta Ufficiale n.76 del 22/3/2020
+Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-22&atto.codiceRedazionale=20A01807&elenco30giorni=false
+Posizione: 41.89332 12.48293
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1076,585824407,2020-03-23 09:00:57,2020-03-22 22:10:05,App per tenersi aggiornati sull'emergenza #Trentino TreCovid19,46.073666,11.121558,Trentino-Alto Adige,Trento,"[""Bollettino"", ""Dati utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""TreCovid19"", ""Descrizione"": ""TreCovid19 \u00e8 l'app per tenersi aggiornati sull'emergenza coronavirus in Trentino. \n\nTreCovid19 \u00e8 un progetto di TrentinoSalute4.0 nato dalla stretta collaborazione tra Provincia Autonoma di Trento, Azienda Provinciale per i Servizi Sanitari e Fondazione Bruno Kessler."", ""Fonte"": ""Provincia Autonoma di Trento"", ""Link"": ""https://trecovid.apss.tn.it/app/tabs/home"", ""Posizione"": ""46.073666 11.121558 0 0""}","<pre><yamldata>
 Cosa: TreCovid19
 Descrizione: ""TreCovid19 è l'app per tenersi aggiornati sull'emergenza coronavirus\
