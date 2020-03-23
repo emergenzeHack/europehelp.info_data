@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1105,586187624,2020-03-23 14:39:00,2020-03-23 12:55:04,Consegna spesa a domicilio #Verona e #ProvinciaVerona,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nicola Ferrari"", ""Descrizione"": ""Elenco con le aziende divise per categoria e paese"", ""Destinatari"": ""Aziende e cittadini"", ""Indirizzo"": ""45.43839046 10.99352685"", ""Link"": ""https://sheet2site.com/s/ordinaconsegna/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco aziende della provincia di Verona con consegna domicilio/prenotazione per ritiro ordine""}","<pre><yamldata>
+Da_chi_offerta: Nicola Ferrari
+Descrizione: Elenco con le aziende divise per categoria e paese
+Destinatari: Aziende e cittadini
+Indirizzo: 45.43839046 10.99352685
+Link: https://sheet2site.com/s/ordinaconsegna/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Elenco aziende della provincia di Verona con consegna domicilio/prenotazione
+  per ritiro ordine
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1104,586166433,2020-03-23 14:29:52,2020-03-23 12:18:27,Raccolta e consegna generi alimentari e prodotti utili a #Bologna,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Rete Don't Panic - Organizziamoci!"", ""Descrizione"": ""Raccogliamo:\n\u2013 Generi Alimentari:\npasta, riso, farina, passata di pomodoro, scatolame, olio di oliva, olio di semi, tonno, biscotti, zucchero, succhi di frutta\n\u2013 Beni per l\u2019igiene personale:\nspazzolino, rasoi usa e getta, assorbenti igienici femminili, pannolini per bambini\n\u2013 Prodotti per l\u2019igiene della casa:\ndetersivi bucato, detergenti casa, asciugatutto, carta igienica\n\nSei disponibile a donare questi beni?\nI nostri volontari passeranno a recuperarli direttamente da casa tua. Altrimenti puoi donare a Don\u2019t Panic e l\u2019acquisto lo facciamo noi per te!\nIn ogni caso verrai contattato per ricevere maggiori info"", ""Destinatari"": ""Famiglie in condizione di povert\u00e0 ed emarginazione sociale"", ""Link"": ""https://dontpanicbo.it/attivati/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa solidale""}","<pre><yamldata>
 Da_chi_offerta: Rete Don't Panic - Organizziamoci!
 Descrizione: 'Raccogliamo:
