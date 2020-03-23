@@ -1,4 +1,36 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1129,586415049,2020-03-23 18:12:22,2020-03-23 18:11:34,#Bologna Don't Panic - Organizziamoci  La solidarietà è di casa (in casa),44.495817,11.350079,Emilia-Romagna,Bologna,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comitato OrganizziamociDontPanic"", ""Descrizione"": ""Don\u2019t Panic \u2013 Organizziamoci! \u00e8 la campagna di mutualismo, informazioni e solidariet\u00e0 che nasce per rispondere ai bisogni della nostra societ\u00e0 al tempo del Coronavirus nella citt\u00e0 di Bologna. Siamo associazioni, comitati, organizzazioni sociali e politiche, singoli cittadini/e che vogliono rispondere ai problemi che il necessario isolamento di tutti noi comporta. \n\nDon\u2019t Panic \u00e8 una campagna aperta, di resistenza e condivisione in questo momento di crisi ed emergenza. Sei un\u2019associazione che si occupa dei temi citati? Costruiamo una rete di mutuo aiuto cittadina, inviaci l\u2019adesione scrivendo a organizziamocidontpanic@gmail.com \n\nSei un singolo cittadino che vuole mettersi a disposizione? Contattaci compilando il form o scrivendo alle pagine.\n\n\nOltre a rispettare gli inviti a stare a casa e uscire il meno possibile, seguendo le indicazioni delle Istituzioni e delle Autorit\u00e0 Sanitarie crediamo che per superare questa emergenza (e anche per cogliere l\u2019occasione e provare a vivere, dopo la pandemia, in un mondo migliore di quello in cui vivevamo prima) sia necessario:\n\n    Mettere le persone prima dei profitti: le attivit\u00e0 lavorative che non si svolgono in piena sicurezza e che non rappresentano servizi essenziali devono essere sospese. Lo Stato deve garantire continuit\u00e0 di reddito alle fasce sociali in difficolt\u00e0;\n    Bloccare ogni procedura di sfratto, dare un sostegno a chi \u00e8 in affitto e rischia di non poter pagare i canoni e mettere in sicurezza di chi una casa non ce l\u2019ha: con questa emergenza non possiamo permetterci che le persone rimangano senza una casa;\n    Sostenere con il welfare i nuclei familiari e singoli/e dal punto di vista economico e sociale; \n\nCosa facciamo?\nSpesa solidale\nWebRadio - costruiamo un'agor\u00e0 pubblica in tempo di crisi\nInfopoint Lavoro"", ""Destinatari"": ""tutti"", ""Link"": ""https://dontpanicbo.it/cosa-facciamo/"", ""Natura"": ""solidale"", ""Posizione"": ""44.495817 11.350079 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Bologna Don't Panic - Organizziamoci  La solidariet\u00e0 \u00e8 di casa (in casa)""}","<pre><yamldata>
+Da_chi_offerta: Comitato OrganizziamociDontPanic
+Descrizione: ""Don’t Panic – Organizziamoci! è la campagna di mutualismo, informazioni\
+  \ e solidarietà che nasce per rispondere ai bisogni della nostra società al tempo\
+  \ del Coronavirus nella città di Bologna. Siamo associazioni, comitati, organizzazioni\
+  \ sociali e politiche, singoli cittadini/e che vogliono rispondere ai problemi che\
+  \ il necessario isolamento di tutti noi comporta. \n\nDon’t Panic è una campagna\
+  \ aperta, di resistenza e condivisione in questo momento di crisi ed emergenza.\
+  \ Sei un’associazione che si occupa dei temi citati? Costruiamo una rete di mutuo\
+  \ aiuto cittadina, inviaci l’adesione scrivendo a organizziamocidontpanic@gmail.com\
+  \ \n\nSei un singolo cittadino che vuole mettersi a disposizione? Contattaci compilando\
+  \ il form o scrivendo alle pagine.\n\n\nOltre a rispettare gli inviti a stare a\
+  \ casa e uscire il meno possibile, seguendo le indicazioni delle Istituzioni e delle\
+  \ Autorità Sanitarie crediamo che per superare questa emergenza (e anche per cogliere\
+  \ l’occasione e provare a vivere, dopo la pandemia, in un mondo migliore di quello\
+  \ in cui vivevamo prima) sia necessario:\n\n    Mettere le persone prima dei profitti:\
+  \ le attività lavorative che non si svolgono in piena sicurezza e che non rappresentano\
+  \ servizi essenziali devono essere sospese. Lo Stato deve garantire continuità di\
+  \ reddito alle fasce sociali in difficoltà;\n    Bloccare ogni procedura di sfratto,\
+  \ dare un sostegno a chi è in affitto e rischia di non poter pagare i canoni e mettere\
+  \ in sicurezza di chi una casa non ce l’ha: con questa emergenza non possiamo permetterci\
+  \ che le persone rimangano senza una casa;\n    Sostenere con il welfare i nuclei\
+  \ familiari e singoli/e dal punto di vista economico e sociale; \n\nCosa facciamo?\n\
+  Spesa solidale\nWebRadio - costruiamo un'agorà pubblica in tempo di crisi\nInfopoint\
+  \ Lavoro""
+Destinatari: tutti
+Link: https://dontpanicbo.it/cosa-facciamo/
+Natura: solidale
+Posizione: 44.495817 11.350079 0 0
+Tipo_di_soggetto: privato
+Titolo: '#Bologna Don''t Panic - Organizziamoci  La solidarietà è di casa (in casa)'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1128,586402567,2020-03-23 17:56:12,2020-03-23 17:51:05,Spesa Solidale #Trieste - consegne a domicilio di spesa e farmaci,45.631371,13.791093,Friuli Venezia Giulia,Trieste,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Parrocchia Beata Vergine Addolorata"", ""Descrizione"": ""Siamo un gruppo di volontari che consegnamo spesa e farmaci a casa di chi ha bisogno!"", ""Destinatari"": ""Anziani, invalidi, persone che non possono uscire di casa"", ""Link"": ""https://facebook.com/pages/category/Product-Service/Spesa-Solidale-TS-108407294116318/"", ""Natura"": ""solidale"", ""Posizione"": ""45.631371 13.791093 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa Solidale Trieste""}","<pre><yamldata>
 Da_chi_offerta: Parrocchia Beata Vergine Addolorata
 Descrizione: Siamo un gruppo di volontari che consegnamo spesa e farmaci a casa di
