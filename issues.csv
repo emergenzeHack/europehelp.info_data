@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1097,586068086,2020-03-23 11:00:16,2020-03-23 09:41:22,#RestiamoConnessi: sportello telematico di supporto alle famiglie di bambini con autismo,41.897102,12.51832,Lazio,Roma,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gruppo Autismo del Dipartimento di Neuroscienze e Salute Mentale del Policlinico Universitario Umberto I"", ""Descrizione"": ""I medici e i terapisti dell'Unit\u00e0 Operativa di Neuropsichiatria Infantile del Dipartimento di Neuroscienze e Salute Mentale del Policlinico Universitario Umberto I (via dei Sabelli 108) sono a disposizione per supportare per via telematica le famiglie dei bambini con Autismo che in questo momento di emergenza hanno visto stravolti tutti i loro riferimenti quotidiani e possono presentare criticit\u00e0 da monitorare. Si pu\u00f2 inviare un'email:\nviadeisabelliautismo@gmail.com indicando il proprio nome, una breve richiesta ed un recapito dove poter essere contattati."", ""Destinatari"": ""Famiglie di bambini con Disturbo dello Spettro Autistico"", ""Natura"": ""solidale"", ""Posizione"": ""41.897102 12.51832 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Restiamo connessi: sportello telematico di supporto alle famiglie di bambini con Autismo""}","<pre><yamldata>
+Da_chi_offerta: Gruppo Autismo del Dipartimento di Neuroscienze e Salute Mentale del
+  Policlinico Universitario Umberto I
+Descrizione: 'I medici e i terapisti dell''Unità Operativa di Neuropsichiatria Infantile
+  del Dipartimento di Neuroscienze e Salute Mentale del Policlinico Universitario
+  Umberto I (via dei Sabelli 108) sono a disposizione per supportare per via telematica
+  le famiglie dei bambini con Autismo che in questo momento di emergenza hanno visto
+  stravolti tutti i loro riferimenti quotidiani e possono presentare criticità da
+  monitorare. Si può inviare un''email:
+
+  viadeisabelliautismo@gmail.com indicando il proprio nome, una breve richiesta ed
+  un recapito dove poter essere contattati.'
+Destinatari: Famiglie di bambini con Disturbo dello Spettro Autistico
+Natura: solidale
+Posizione: 41.897102 12.51832 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Restiamo connessi: sportello telematico di supporto alle famiglie di bambini
+  con Autismo'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1095,586048651,2020-03-23 10:57:48,2020-03-23 09:11:51,L'alveare che dice sì #Italia: acquisti prodotti alimentari a km 0,,,,,"[""Consegne e commissioni"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""L'Alveare che dice s\u00ec"", ""Descrizione"": ""\""L'Alveare che dice s\u00ec\"" consente di acquistare prodotti alimentari e per la cura della casa a km 0 con consegna settimanale. Alcuni alveari (controllare quelli della propria zona) si sono organizzati per la consegna senza scendere dalla macchina o a domicilio."", ""Link"": ""https://alvearechedicesi.it/"", ""Titolo"": ""Spesa a domicilio""}","<pre><yamldata>
 Da_chi_offerta: L'Alveare che dice sì
 Descrizione: '""L''Alveare che dice sì"" consente di acquistare prodotti alimentari
