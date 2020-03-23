@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1123,586356769,2020-03-23 17:25:55,2020-03-23 16:52:34,"ReNoir Comics , online una scorta (gratuita) di fumetti per affrontare la quarantena",45.467876,9.2055507,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Cari lettori, nell\u2019impossibilit\u00e0 per noi di lavorare serenamente, per voi di trovarvi, uscire, passare il tempo assieme, abbiamo deciso di mettere a disposizione gratuitamente alcuni dei nostri titoli finch\u00e9 non cesseranno le misure d\u2019emergenza dovute al contenimento di Covid-19. I titoli saranno pubblicati settimanalmente \u2013 ogni luned\u00ec e gioved\u00ec \u2013 e saranno consultabili sul sito https://www.renoircomics.it/ Tra i volumi gi\u00e0 disponibili, Padre Brown \u2013 La croce azzurra di Davide Barzi e Marco \u201cWill\u201d Villa, il primo volume di Fantazoo di Wil Raymakers e Thijs Wilms, e il primo volume di Atomic Robo di Brian Clevinger e Scott Wegener."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.renoircomics.it/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.467876 9.2055507 0 0"", ""Titolo"": ""ReNoir Comics , online una scorta (gratuita) di fumetti per affrontare la quarantena""}","<pre><yamldata>
+Descrizione: Cari lettori, nell’impossibilità per noi di lavorare serenamente, per
+  voi di trovarvi, uscire, passare il tempo assieme, abbiamo deciso di mettere a disposizione
+  gratuitamente alcuni dei nostri titoli finché non cesseranno le misure d’emergenza
+  dovute al contenimento di Covid-19. I titoli saranno pubblicati settimanalmente
+  – ogni lunedì e giovedì – e saranno consultabili sul sito https://www.renoircomics.it/
+  Tra i volumi già disponibili, Padre Brown – La croce azzurra di Davide Barzi e Marco
+  “Will” Villa, il primo volume di Fantazoo di Wil Raymakers e Thijs Wilms, e il primo
+  volume di Atomic Robo di Brian Clevinger e Scott Wegener.
+Destinatari: Tutti
+Link: https://www.renoircomics.it/
+Natura: culturale-ricr
+Titolo: ReNoir Comics , online una scorta (gratuita) di fumetti per affrontare la
+  quarantena
+Posizione: 45.467876 9.2055507 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1122,586354034,2020-03-23 17:23:30,2020-03-23 16:48:36,"Scuola, universitari di #Monza offrono ripetizioni gratuite via skype",45.584686,9.273233,Lombardia,Monza e della Brianza,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ripethub"", ""Descrizione"": ""Ripetizioni gratuite ai ragazzi del liceo e delle medie. Cos\u00ec alcuni studenti universitari del quartiere Libert\u00e0 di Monza hanno deciso di mettersi in gioco mettendo a disposizione tempo ed esperienza per aiutare qualche giovane collega in questo momento di chiusura delle scuole. L\u2019idea in realt\u00e0 nasce mesi fa e l\u2019obiettivo era quello di fare lezioni telematiche a pagamento. \u201cConsiderata per\u00f2 la situazione abbiamo voluto dare un\u2019accelerata al progetto e lanciare il servizio a titolo gratuito in questo periodo di emergenza nazionale\u201c.\nTramite il portale https://www.ripethub.it/ \u00e8 possibile prenotare le lezioni con dieci tutor con alle spalle un percorso di studi specifico per ogni disciplina (le materie in cui \u00e8 possibile essere sostenuti tramite le lezioni private sono attualmente 11). Si va dall\u2019informatica alla letteratura, alla matematica, all\u2019economia fino alla chimica. Una volta fissato l\u2019appuntamento con il tutor scelto le lezioni si tengono via skype o in videocall su whatsapp."", ""Destinatari"": ""Studenti"", ""Link"": ""https://www.mbnews.it/2020/03/monza-coronavirus-maturita-ripetizioni-gratuite/"", ""Natura"": ""didattica"", ""Posizione"": ""45.584686 9.273233 0 0"", ""Titolo"": ""Scuola, universitari di Monza offrono ripetizioni gratuite via skype""}","<pre><yamldata>
 Da_chi_offerta: Ripethub
 Descrizione: 'Ripetizioni gratuite ai ragazzi del liceo e delle medie. Così alcuni
