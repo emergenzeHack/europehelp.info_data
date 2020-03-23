@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1072,585803800,2020-03-23 08:50:11,2020-03-22 20:21:45,Consegne a domicilio #Latiano #Brindisi,40.5537831,17.718222,Puglia,Brindisi,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cittadinanza attiva (iniziativa non istituzionale)"", ""Descrizione"": ""Realizzazione di un documento google condiviso nel quale tutte le attivit\u00e0 commerciali che offrono il servizio di consegna a domicilio, potevano segnalarsi.\n\u00c8 stato realizzato un manifesto (con tutte le tipologie e i numeri delle attivit\u00e0 disponibili) che \u00e8 stato divulgato attraverso i social network e ha ricevuto migliaia di visualizzazioni e tantissime condivisioni.\nLa finalit\u00e0 principale era quella di fornire uno strumento che consentisse alle persone di stare a casa e non avere scuse per uscire."", ""Destinatari"": ""Cittadinanza"", ""Link"": ""https://docs.google.com/document/d/1p0sasJPkG8-HDpc0P2M6hdxrkaGK4bbkwZtjnmN-vYw/edit"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""40.5537831 17.718222 0 0"", ""Titolo"": ""Latiano \u00e8 tua - consegna a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Cittadinanza attiva (iniziativa non istituzionale)
+Descrizione: 'Realizzazione di un documento google condiviso nel quale tutte le attività
+  commerciali che offrono il servizio di consegna a domicilio, potevano segnalarsi.
+
+  È stato realizzato un manifesto (con tutte le tipologie e i numeri delle attività
+  disponibili) che è stato divulgato attraverso i social network e ha ricevuto migliaia
+  di visualizzazioni e tantissime condivisioni.
+
+  La finalità principale era quella di fornire uno strumento che consentisse alle
+  persone di stare a casa e non avere scuse per uscire.'
+Destinatari: Cittadinanza
+Link: https://docs.google.com/document/d/1p0sasJPkG8-HDpc0P2M6hdxrkaGK4bbkwZtjnmN-vYw/edit
+Natura: sostegno-lavor
+Titolo: Latiano è tua - consegna a domicilio
+Posizione: 40.5537831 17.718222 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1071,585801434,2020-03-22 20:10:43,2020-03-22 20:09:27,Consegna a domicilio di farmaci #CRI #Perugia,,,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Afas e CRI"", ""Descrizione"": ""E' attivo il servizio di consegna a domicilio di farmaci e presidi sanitari per l'emergenza coronavirus attivato da Afas (farmacie comunali di Perugia) e Croce rossa italiana. E' dedicato ad anziani, oltre 65 anni, soggetti fragili o non autosufficienti, con febbre, con sintomatologia da infezione respiratoria, o comunque sottoposti a quarantena.\n    Il servizio pu\u00f2 essere attivato chiamando il numero di telefono dedicato 075 5272711.\n    Il volontario della Cri - spiegano i promotori del servizio -, in divisa e con tesserino di riconoscimento, verifica i requisiti del richiedente; acquisisce l'originale della ricetta medica in busta chiusa; si reca nella farmacia Afas indicata dal cittadino (o presso altra privata se espressamente indicata) per acquistare il farmaco o altro presidio sanitario; torna nel domicilio del cittadino per la consegna (in busta chiusa)."", ""Destinatari"": ""Anziani, oltre 65 anni, soggetti fragili o non autosufficienti, con febbre, con sintomatologia da infezione respiratoria, o comunque sottoposti a quarantena."", ""Indirizzo"": ""43.1067584 12.38824699"", ""Link"": ""http://www.ansa.it/umbria/notizie/2020/03/16/a-perugia-consegna-a-domicilio-farmaci_a0c3c8e9-c6ae-4549-b1fc-8bdb026a6319.html?fbclid=IwAR2nVSbLaTe0Mny25qy5bxQHBAeGup8fA0ZOPSOEyk0lQby0dNat6FIBLhA"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio di farmaci e presidi sanitari per l'emergenza coronavirus #Perugia""}","<pre><yamldata>
 Da_chi_offerta: Afas e CRI
 Descrizione: ""E' attivo il servizio di consegna a domicilio di farmaci e presidi sanitari\
