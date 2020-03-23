@@ -1,4 +1,36 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1126,586393405,2020-03-23 17:38:01,2020-03-23 17:37:01,SOS-Teniamoci - servizio gratuito di supporto psicologico a #Milano,45.4302186,9.1692763,Lombardia,Milano,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa Calypso Onlus"", ""Descrizione"": ""Per molti restare a casa, obbligati ad una segregazione a cui non si \u00e8 abituati, \u00e8 pi\u00f9 che un momento di difficolt\u00e0.\n\nIl timore di contrarre il virus, la solitudine, ma anche la separazione volontaria in casa per proteggere i propri cari, pu\u00f2 indurre forte preoccupazione e ansia.\n\nCooperativa Calypso Onlus mette a disposizione psicologi e psicoterapeuti per un servizio di ascolto telefonico GRATUITO a supporto di chi ne avesse bisogno.\n\n#andr\u00e0tuttobene ma se per ora non \u00e8 cos\u00ec, chiama e chiedi aiuto.\n\nCooperativa Calypso Onlus\nTel/Whatsapp 3383760207\nServizio gratuito\n\n#lopsicologotiaiuta"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/claudio.migliavacca/posts/10220759253193064"", ""Natura"": ""solidale"", ""Posizione"": ""45.4302186 9.1692763 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SOS-Teniamoci - servizio gratuito di supporto psicologico""}","<pre><yamldata>
+Da_chi_offerta: Cooperativa Calypso Onlus
+Descrizione: 'Per molti restare a casa, obbligati ad una segregazione a cui non si
+  è abituati, è più che un momento di difficoltà.
+
+
+  Il timore di contrarre il virus, la solitudine, ma anche la separazione volontaria
+  in casa per proteggere i propri cari, può indurre forte preoccupazione e ansia.
+
+
+  Cooperativa Calypso Onlus mette a disposizione psicologi e psicoterapeuti per un
+  servizio di ascolto telefonico GRATUITO a supporto di chi ne avesse bisogno.
+
+
+  #andràtuttobene ma se per ora non è così, chiama e chiedi aiuto.
+
+
+  Cooperativa Calypso Onlus
+
+  Tel/Whatsapp 3383760207
+
+  Servizio gratuito
+
+
+  #lopsicologotiaiuta'
+Destinatari: tutti
+Link: https://www.facebook.com/claudio.migliavacca/posts/10220759253193064
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: SOS-Teniamoci - servizio gratuito di supporto psicologico
+Posizione: 45.4302186 9.1692763 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1124,586375930,2020-03-23 17:27:55,2020-03-23 17:14:43,"#Milano, spesa e farmaci a domicilio con le Brigate Volontarie per l’emergenza",45.464149,9.189334,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Brigate Volontarie per l\u2019emergenza"", ""Descrizione"": ""Da una settimana sono attive a Milano le Brigate Volontarie per l'emergenza, che agiscono in tutti i quartieri della citt\u00e0 per garantire ai cittadini la consegna a domicilio della spesa, dei farmaci e altre attivit\u00e0 di supporto. Per accedere al servizio basta chiamare il numero verde 020202. In un momento cos\u00ec critico \u00e8 fondamentale restare solidali e aiutarci il pi\u00f9 possibile. Tutte le zone di Milano sono coperte."", ""Destinatari"": ""Anziani, disabili e chiunque sia in difficolt\u00e0"", ""Link"": ""https://www.facebook.com/brigatevolontarieMilano/photos/a.105328841095474/114398086855216/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.464149 9.189334 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Milano, spesa e farmaci a domicilio con le Brigate Volontarie per l\u2019emergenza""}","<pre><yamldata>
 Da_chi_offerta: Brigate Volontarie per l’emergenza
 Descrizione: Da una settimana sono attive a Milano le Brigate Volontarie per l'emergenza,
