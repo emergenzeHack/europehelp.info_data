@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1078,585825877,2020-03-23 10:21:40,2020-03-22 22:16:18,Il Museo delle Scienze di #Trento mette a disposizione contenuti on-line,46.062824,11.114924,Trentino-Alto Adige,Trento,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""MUSE"", ""Descrizione"": ""Il progetto che intende mettere a disposizione di tutti i tanti materiali prodotti dal MUSE; contemporaneamente offre opportunit\u00e0 educative al mondo della scuola per svolgere delle attivit\u00e0 a distanza in questo periodo di chiusura forzata.\n\nIl progetto presenta innanzitutto un consistente numero di videoclip che rispecchiano l\u2019organizzazione del percorso espositivo del museo. \n\nAd ogni videoclip sono associate delle domande che potranno servire da stimolo per approfondire di pi\u00f9 li tema proposto o costituire una buona base per l\u2019attivit\u00e0 didattica degli insegnanti che vorranno utilizzare questa risorsa online. \n\nSi aprono quindi le porte per un viaggio virtuale all\u2019interno delle sale espositive, in cui poter approfondire diverse tematiche attraverso dei video, per raccontare la nascita e l\u2019evoluzione della vita sul nostro pianeta, la presenza umana e il rapporto uomo-ambiente e il suo contributo tecnologico.\n\nE oltre alla visita al MUSE, puoi trovare tante altre proposte."", ""Destinatari"": ""Studenti, insegnanti, appassionati di scienze e persone curiose"", ""Link"": ""https://www.muse.it/it/Esplora/Progetti-Speciali/Pagine/Marzo_2020/Marzo-2020.aspx"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""46.062824 11.114924 0 0"", ""Titolo"": ""Il MUSE per #iorestoacasa""}","<pre><yamldata>
+Da_chi_offerta: MUSE
+Descrizione: ""Il progetto che intende mettere a disposizione di tutti i tanti materiali\
+  \ prodotti dal MUSE; contemporaneamente offre opportunità educative al mondo della\
+  \ scuola per svolgere delle attività a distanza in questo periodo di chiusura forzata.\n\
+  \nIl progetto presenta innanzitutto un consistente numero di videoclip che rispecchiano\
+  \ l’organizzazione del percorso espositivo del museo. \n\nAd ogni videoclip sono\
+  \ associate delle domande che potranno servire da stimolo per approfondire di più\
+  \ li tema proposto o costituire una buona base per l’attività didattica degli insegnanti\
+  \ che vorranno utilizzare questa risorsa online. \n\nSi aprono quindi le porte per\
+  \ un viaggio virtuale all’interno delle sale espositive, in cui poter approfondire\
+  \ diverse tematiche attraverso dei video, per raccontare la nascita e l’evoluzione\
+  \ della vita sul nostro pianeta, la presenza umana e il rapporto uomo-ambiente e\
+  \ il suo contributo tecnologico.\n\nE oltre alla visita al MUSE, puoi trovare tante\
+  \ altre proposte.""
+Destinatari: Studenti, insegnanti, appassionati di scienze e persone curiose
+Link: https://www.muse.it/it/Esplora/Progetti-Speciali/Pagine/Marzo_2020/Marzo-2020.aspx
+Natura: culturale-ricr
+Posizione: 46.062824 11.114924 0 0
+Titolo: 'Il MUSE per #iorestoacasa'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1077,585824634,2020-03-23 10:17:33,2020-03-22 22:11:23,Gazzetta Ufficiale: misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica,41.89332,12.48293,Lazio,Roma,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica"", ""Descrizione"": ""Misure urgenti di contenimento del contagio sull'intero territorio nazionale \n \n  1. Allo scopo di contrastare e contenere il diffondersi  del  virus COVID-19, sull'intero territorio nazionale sono adottate le  seguenti\nmisure: \n    a) sono sospese  tutte  le  attivita'  produttive  industriali  e commerciali, ad eccezione di quelle indicate nell'allegato 1 e  salvo quanto di seguito  disposto."", ""Fonte"": ""Gazzetta Ufficiale n.76 del 22/3/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-22&atto.codiceRedazionale=20A01807&elenco30giorni=false"", ""Posizione"": ""41.89332 12.48293""}","<pre><yamldata>
 Cosa: misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica
 Descrizione: ""Misure urgenti di contenimento del contagio sull'intero territorio nazionale\
