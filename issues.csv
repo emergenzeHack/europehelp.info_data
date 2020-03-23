@@ -1,4 +1,36 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1114,586299401,2020-03-23 16:40:01,2020-03-23 15:32:40,#Torino - Raccolta fondi dell'associazione Gruppo Abele Onlus per supportare i servizi in bassa soglia,45.0676332,7.638944013984772,Piemonte,Torino,"[""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi dell'associazione Gruppo Abele Onlus pensata per supportare i servizi in bassa soglia dell'associazione. La raccolta fondi serve a sostenerele attivit\u00e0 che operano accanto a quelli che una casa non ce l\u2019hanno e si affidano all\u2019accoglienza del nostro dormitorio, quelli per cui restare a casa significa sottoporsi a una violenza, le donne e gli uomini che vivono nelle nostre comunit\u00e0 con i loro bambini. Le donne vittime di tratta e sfruttamento che trovano rifugio nella casa di fuga. Le persone migranti con gravi problemi sanitari che continuiamo ad accogliere in una delle nostre case.\n\nOBBIETTIVI:\n- per acquistare materiale igienico-sanitario per prevenire il contagio del virus nelle nostre strutture di accoglienza e nel dormitorio\n\n- per garantire, anche in questo periodo, un adeguato supporto psicologico alle persone con fragilit\u00e0 pregresse\n\n- per mettere in sicurezza anche la Communaut\u00e8 Abel, il nostro progetto in Costa d\u2019Avorio, dove la diffusione del Covid-19 sta aumentando\n\n- per far s\u00ec che l\u2019Associazione Gruppo Abele possa superare il momento di crisi e continuare a stare a fianco agli ultimi, come fa da 55 anni"", ""Email"": ""sostieni@gruppoabele.org"", ""Link"": ""https://www.gruppoabele.org/dona/accanto-a-chi-non-puo-restareacasa/"", ""Nome"": ""Associazione Gruppo Abele Onlus"", ""Posizione"": ""45.0676332 7.638944013984772 0 0""}","<pre><yamldata>
+Descrizione: 'Raccolta fondi dell''associazione Gruppo Abele Onlus pensata per supportare
+  i servizi in bassa soglia dell''associazione. La raccolta fondi serve a sostenerele
+  attività che operano accanto a quelli che una casa non ce l’hanno e si affidano
+  all’accoglienza del nostro dormitorio, quelli per cui restare a casa significa sottoporsi
+  a una violenza, le donne e gli uomini che vivono nelle nostre comunità con i loro
+  bambini. Le donne vittime di tratta e sfruttamento che trovano rifugio nella casa
+  di fuga. Le persone migranti con gravi problemi sanitari che continuiamo ad accogliere
+  in una delle nostre case.
+
+
+  OBBIETTIVI:
+
+  - per acquistare materiale igienico-sanitario per prevenire il contagio del virus
+  nelle nostre strutture di accoglienza e nel dormitorio
+
+
+  - per garantire, anche in questo periodo, un adeguato supporto psicologico alle
+  persone con fragilità pregresse
+
+
+  - per mettere in sicurezza anche la Communautè Abel, il nostro progetto in Costa
+  d’Avorio, dove la diffusione del Covid-19 sta aumentando
+
+
+  - per far sì che l’Associazione Gruppo Abele possa superare il momento di crisi
+  e continuare a stare a fianco agli ultimi, come fa da 55 anni'
+Email: sostieni@gruppoabele.org
+Link: https://www.gruppoabele.org/dona/accanto-a-chi-non-puo-restareacasa/
+Nome: Associazione Gruppo Abele Onlus
+Posizione: 45.0676332 7.638944013984772 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1113,586295403,2020-03-23 16:32:09,2020-03-23 15:27:29,A #Torino il Gruppo Abele ha attivato uno sportello telefonico di ascolto e supporto psicologico,45.0676332,7.638944013984772,Piemonte,Torino,"[""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Email"": ""piero@babelica.it"", ""Link"": ""https://www.gruppoabele.org/uno-sportello-di-assistenza-psicologica-covid19-per-cittadinanza-e-operatori-sanitari/"", ""Nome"": ""Piero Ferrante"", ""Posizione"": ""45.0676332 7.638944013984772 0 0"", ""Scopo"": ""Sportello telefonico di ascolto, assistenza e supporto psicologico del Gruppo Abele, associazione di Torino fondata e presieduta da Luigi Ciotti, per cittadini che patiscono la situazione di isolamento e per operatori sanitari\nLo sportello \u00e8 attivo tutti i giorni, compreso il fine settimana, dalle 15 alle 20. \nIl numero 0113841040""}","<pre><yamldata>
 Email: piero@babelica.it
 Link: https://www.gruppoabele.org/uno-sportello-di-assistenza-psicologica-covid19-per-cittadinanza-e-operatori-sanitari/
