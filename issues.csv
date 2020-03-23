@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1107,586232973,2020-03-23 14:51:56,2020-03-23 14:02:07,AgCom: intervento cautelare nei confronti del sito per raccolta fondi gofundme.com ,,,,,"[""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza coronavirus, intervento cautelare nei confronti del sito web gofundme.com che gestisce raccolta fondi a scopo benefico."", ""Descrizione"": ""L\u2019Autorit\u00e0, nell\u2019adunanza di domenica 22 marzo 2020, ha disposto un intervento in via cautelare nei confronti del sito web www.gofundme.com che gestisce una piattaforma attraverso la quale \u00e8 possibile effettuare raccolte di fondi a scopo benefico (crowdfunding).\nIl provvedimento \u00e8 motivato dall\u2019esigenza di interrompere la diffusione di una pratica estremamente grave, tale da rendere urgente e indifferibile l\u2019intervento dell\u2019Autorit\u00e0."", ""Fonte"": ""AGCM -Autorit\u00e0 Garante della Concorrenza e del Mercato"", ""Link"": ""https://www.agcm.it/media/comunicati-stampa/2020/3/PS11726""}","<pre><yamldata>
+Cosa: Emergenza coronavirus, intervento cautelare nei confronti del sito web gofundme.com
+  che gestisce raccolta fondi a scopo benefico.
+Descrizione: 'L’Autorità, nell’adunanza di domenica 22 marzo 2020, ha disposto un
+  intervento in via cautelare nei confronti del sito web www.gofundme.com che gestisce
+  una piattaforma attraverso la quale è possibile effettuare raccolte di fondi a scopo
+  benefico (crowdfunding).
+
+  Il provvedimento è motivato dall’esigenza di interrompere la diffusione di una pratica
+  estremamente grave, tale da rendere urgente e indifferibile l’intervento dell’Autorità.'
+Fonte: AGCM -Autorità Garante della Concorrenza e del Mercato
+Link: https://www.agcm.it/media/comunicati-stampa/2020/3/PS11726
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1106,586226064,2020-03-23 14:44:30,2020-03-23 13:51:57,Consegna spesa a domicilio #Milano Municipio 9,45.500885,9.180504,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio 9 Comune di Milano"", ""Descrizione"": ""Un'iniziativa della giunta e dei consiglieri del Municipio9 per mettere a disposizione dei cittadini l'elenco dei negozi che effettuano consegne a domicilio: cos\u00ec puoi rispettare le disposizioni vigenti, sostenendo i commercianti del tuo quartiere. \nGrazie anche al comitato Bovisattiva che ci ha fornito i dati di alcuni esercenti\n\nL'elenco dei commercianti, sempre aggiornato, lo trovi qui\nwww.tinyurl.com/laspesaacasa\n\nSe sei un negoziante e vuoi aggiungerti all'elenco, scrivi a\nlaspesaacasa.municipio9@gmail.com"", ""Destinatari"": ""cittadini di Milano zona 9"", ""Link"": ""www.tinyurl.com/laspesaacasa"", ""Natura"": ""solidale"", ""Posizione"": ""45.500885 9.180504 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Fai la spesa a casa-municipio 9""}","<pre><yamldata>
 Da_chi_offerta: Municipio 9 Comune di Milano
 Descrizione: ""Un'iniziativa della giunta e dei consiglieri del Municipio9 per mettere\
