@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1124,586375930,2020-03-23 17:27:55,2020-03-23 17:14:43,"#Milano, spesa e farmaci a domicilio con le Brigate Volontarie per l’emergenza",45.464149,9.189334,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Brigate Volontarie per l\u2019emergenza"", ""Descrizione"": ""Da una settimana sono attive a Milano le Brigate Volontarie per l'emergenza, che agiscono in tutti i quartieri della citt\u00e0 per garantire ai cittadini la consegna a domicilio della spesa, dei farmaci e altre attivit\u00e0 di supporto. Per accedere al servizio basta chiamare il numero verde 020202. In un momento cos\u00ec critico \u00e8 fondamentale restare solidali e aiutarci il pi\u00f9 possibile. Tutte le zone di Milano sono coperte."", ""Destinatari"": ""Anziani, disabili e chiunque sia in difficolt\u00e0"", ""Link"": ""https://www.facebook.com/brigatevolontarieMilano/photos/a.105328841095474/114398086855216/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.464149 9.189334 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Milano, spesa e farmaci a domicilio con le Brigate Volontarie per l\u2019emergenza""}","<pre><yamldata>
+Da_chi_offerta: Brigate Volontarie per l’emergenza
+Descrizione: Da una settimana sono attive a Milano le Brigate Volontarie per l'emergenza,
+  che agiscono in tutti i quartieri della città per garantire ai cittadini la consegna
+  a domicilio della spesa, dei farmaci e altre attività di supporto. Per accedere
+  al servizio basta chiamare il numero verde 020202. In un momento così critico è
+  fondamentale restare solidali e aiutarci il più possibile. Tutte le zone di Milano
+  sono coperte.
+Destinatari: Anziani, disabili e chiunque sia in difficoltà
+Link: https://www.facebook.com/brigatevolontarieMilano/photos/a.105328841095474/114398086855216/?type=3&theater
+Natura: solidale
+Posizione: 45.464149 9.189334 0 0
+Tipo_di_soggetto: privato
+Titolo: Milano, spesa e farmaci a domicilio con le Brigate Volontarie per l’emergenza
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1123,586356769,2020-03-23 17:25:55,2020-03-23 16:52:34,"ReNoir Comics , online una scorta (gratuita) di fumetti per affrontare la quarantena",45.467876,9.2055507,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Cari lettori, nell\u2019impossibilit\u00e0 per noi di lavorare serenamente, per voi di trovarvi, uscire, passare il tempo assieme, abbiamo deciso di mettere a disposizione gratuitamente alcuni dei nostri titoli finch\u00e9 non cesseranno le misure d\u2019emergenza dovute al contenimento di Covid-19. I titoli saranno pubblicati settimanalmente \u2013 ogni luned\u00ec e gioved\u00ec \u2013 e saranno consultabili sul sito https://www.renoircomics.it/ Tra i volumi gi\u00e0 disponibili, Padre Brown \u2013 La croce azzurra di Davide Barzi e Marco \u201cWill\u201d Villa, il primo volume di Fantazoo di Wil Raymakers e Thijs Wilms, e il primo volume di Atomic Robo di Brian Clevinger e Scott Wegener."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.renoircomics.it/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.467876 9.2055507 0 0"", ""Titolo"": ""ReNoir Comics , online una scorta (gratuita) di fumetti per affrontare la quarantena""}","<pre><yamldata>
 Descrizione: Cari lettori, nell’impossibilità per noi di lavorare serenamente, per
   voi di trovarvi, uscire, passare il tempo assieme, abbiamo deciso di mettere a disposizione
