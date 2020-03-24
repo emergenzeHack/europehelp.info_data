@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1181,587203031,2020-03-24 18:47:34,2020-03-24 18:46:03,Aggiornamenti in tempo reale su variazioni dei servizi di #Amsa #Milano,45.463288,9.190785,Lombardia,Milano,"[""Bollettino"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza COVID-19 - Aggiornamenti in tempo reale su eventuali variazioni dei servizi di Amsa #Milano"", ""Descrizione"": ""Pagina informativa con aggiornamenti in tempo reale su eventuali variazioni dei servizi di Amsa. Attivit\u00e0 straordinarie di sanificazione delle strade di Milano. Raccolta differenziata porta a porta regolare in citt\u00e0."", ""Link"": ""https://www.amsa.it/news-eventi/raccolta-differenziata-porta-porta-regolare-aggiornamenti-tempo-reale"", ""Posizione"": ""45.463288 9.190785 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1181,587203031,2020-03-24 18:47:45,2020-03-24 18:46:03,Aggiornamenti in tempo reale su variazioni dei servizi di #Amsa #Milano,45.463288,9.190785,Lombardia,Milano,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza COVID-19 - Aggiornamenti in tempo reale su eventuali variazioni dei servizi di Amsa #Milano"", ""Descrizione"": ""Pagina informativa con aggiornamenti in tempo reale su eventuali variazioni dei servizi di Amsa. Attivit\u00e0 straordinarie di sanificazione delle strade di Milano. Raccolta differenziata porta a porta regolare in citt\u00e0."", ""Link"": ""https://www.amsa.it/news-eventi/raccolta-differenziata-porta-porta-regolare-aggiornamenti-tempo-reale"", ""Posizione"": ""45.463288 9.190785 0 0""}","<pre><yamldata>
 Cosa: 'Emergenza COVID-19 - Aggiornamenti in tempo reale su eventuali variazioni dei
   servizi di Amsa #Milano'
 Descrizione: Pagina informativa con aggiornamenti in tempo reale su eventuali variazioni
@@ -10593,6 +10593,26 @@ Nome: 'Fondazione Spedali Civili #Brescia'
 Posizione: 45.541553 10.211802 0 0
 Provincia: Brescia
 Regione: Lombardia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/345,580591279,2020-03-16 23:03:29,2020-03-13 13:10:52,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,45.69349,9.66985,Lombardia,Bergamo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Descrizione"": ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \nAttenzione: nessun altro conto corrente o modalit\u00e0 di raccolta via web \u00e8 stata concordata n\u00e9 autorizzata dalla nostra azienda,\nad eccezione della raccolta fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature e dispositivi di protezione:\nChi pu\u00f2 donare attrezzature respiratorie e dispositivi di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it"", ""Link"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""Nome"": ""Raccolta Fondi Ospedale Papa Giovanni XXIII"", ""Posizione"": ""45.69349 9.66985 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""group_bq2vf46/BIC_SWIFT"": ""POSOIT22"", ""group_bq2vf46/IBAN"": ""IT52Z0569611100000012000X95"", ""group_bq2vf46/Intestazione"": ""Azienda Socio Sanitaria Territoriale Giovanni XXIII""}","<pre><yamldata>
+Comune: Bergamo
+Descrizione: ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove\
+  \ indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi\
+  \ raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione\
+  \ non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \n\
+  Attenzione: nessun altro conto corrente o modalit\xE0 di raccolta via web \xE8 stata\
+  \ concordata n\xE9 autorizzata dalla nostra azienda,\nad eccezione della raccolta\
+  \ fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature\
+  \ e dispositivi di protezione:\nChi pu\xF2 donare attrezzature respiratorie e dispositivi\
+  \ di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it""
+Link: http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/
+Nome: Raccolta Fondi Ospedale Papa Giovanni XXIII
+Posizione: 45.69349 9.66985 0 0
+Provincia: Bergamo
+Regione: Lombardia
+group_bq2vf46/BIC_SWIFT: POSOIT22
+group_bq2vf46/IBAN: IT52Z0569611100000012000X95
+group_bq2vf46/Intestazione: Azienda Socio Sanitaria Territoriale Giovanni XXIII
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/345,580591279,2020-03-16 23:03:29,2020-03-13 13:10:52,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,45.69349,9.66985,Lombardia,Bergamo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Descrizione"": ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \nAttenzione: nessun altro conto corrente o modalit\u00e0 di raccolta via web \u00e8 stata concordata n\u00e9 autorizzata dalla nostra azienda,\nad eccezione della raccolta fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature e dispositivi di protezione:\nChi pu\u00f2 donare attrezzature respiratorie e dispositivi di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it"", ""Link"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""Nome"": ""Raccolta Fondi Ospedale Papa Giovanni XXIII"", ""Posizione"": ""45.69349 9.66985 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""group_bq2vf46/BIC_SWIFT"": ""POSOIT22"", ""group_bq2vf46/IBAN"": ""IT52Z0569611100000012000X95"", ""group_bq2vf46/Intestazione"": ""Azienda Socio Sanitaria Territoriale Giovanni XXIII""}","<pre><yamldata>
 Comune: Bergamo
