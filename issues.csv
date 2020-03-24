@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1171,587123070,2020-03-24 17:06:21,2020-03-24 17:02:30,"Gestione biancheria paziente: istruzioni per la famiglia, Ospedale Maggiore #Novara",45.44640,8.61965,Piemonte,Novara,"[""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Gestione biancheria paziente \u2013 Istruzioni per la famiglia"", ""Descrizione"": ""L'Ospedale Maggiore di Novara ha redatto una pratico prontuario per gestire la biancheria dei soggetti contaminati da coronavirus."", ""Fonte"": ""Ospedale Maggiore Novara"", ""Link"": ""http://www.maggioreosp.novara.it/download/gestione-biancheria-paziente-istruzioni-per-la-famiglia/"", ""Posizione"": ""45.44640 8.61965""}","<pre><yamldata>
+Cosa: Gestione biancheria paziente – Istruzioni per la famiglia
+Descrizione: L'Ospedale Maggiore di Novara ha redatto una pratico prontuario per gestire
+  la biancheria dei soggetti contaminati da coronavirus.
+Fonte: Ospedale Maggiore Novara
+Link: http://www.maggioreosp.novara.it/download/gestione-biancheria-paziente-istruzioni-per-la-famiglia/
+Posizione: 45.44640 8.61965
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1168,587025882,2020-03-24 16:37:23,2020-03-24 15:01:59,#Hackweagainstvirus: un hackaton per sviluppare idee - 28/29 marzo ,,,,,"[""Informazioni utili"", ""Notizie"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""https://hackthealps.it/"", ""Descrizione"": ""HACKATHON \n\nLa nostra vita quotidiana \u00e8 stata stravolta in modo negativo dal Covid-19.\nCollaboriamo a trovare soluzioni insieme!\nl\u2019hackathon inizia Sabato, 28 marzo 2020, alle ore 09.00 CET"", ""Destinatari"": ""sviluppatori software"", ""Link"": ""https://hackthealps.it/weagainstvirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""weagainstvirus""}","<pre><yamldata>
 Da_chi_offerta: https://hackthealps.it/
 Descrizione: ""HACKATHON \n\nLa nostra vita quotidiana è stata stravolta in modo negativo\
