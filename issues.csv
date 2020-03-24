@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1178,587189275,2020-03-24 18:36:12,2020-03-24 18:23:57,Save the Children - corsi online gratis per docenti ,,,,,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Save the Children"", ""Descrizione"": ""Nonostante queste difficolt\u00e0 la scuola italiana non si \u00e8 fermata, anzi, molti docenti e dirigenti scolastici, oltre a garantire la didattica per i propri studenti, hanno deciso di mettersi al servizio e sostenere i loro colleghi, condividendo competenze e professionalit\u00e0."", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.savethechildren.it/blog-notizie/corsi-online-gratis-docenti-strumenti-la-didattica-digitale?utm_source=fb&utm_medium=social-paid&utm_campaign=loy-corona&utm_content=demo-ins&utm_term=lnk&causale=13726&fbclid=IwAR1C-xRpYPV6LapvRDcmTAoSqXpa4G7CFtYjjm6cvCYh7kFI3UxXrkqpJr4"", ""Natura"": ""didattica"", ""Titolo"": ""CORSI ONLINE GRATIS PER DOCENTI: STRUMENTI PER LA DIDATTICA DIGITALE""}","<pre><yamldata>
+Da_chi_offerta: Save the Children
+Descrizione: Nonostante queste difficoltà la scuola italiana non si è fermata, anzi,
+  molti docenti e dirigenti scolastici, oltre a garantire la didattica per i propri
+  studenti, hanno deciso di mettersi al servizio e sostenere i loro colleghi, condividendo
+  competenze e professionalità.
+Destinatari: Docenti
+Link: https://www.savethechildren.it/blog-notizie/corsi-online-gratis-docenti-strumenti-la-didattica-digitale?utm_source=fb&utm_medium=social-paid&utm_campaign=loy-corona&utm_content=demo-ins&utm_term=lnk&causale=13726&fbclid=IwAR1C-xRpYPV6LapvRDcmTAoSqXpa4G7CFtYjjm6cvCYh7kFI3UxXrkqpJr4
+Natura: didattica
+Titolo: 'CORSI ONLINE GRATIS PER DOCENTI: STRUMENTI PER LA DIDATTICA DIGITALE'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1177,587186947,2020-03-24 18:34:54,2020-03-24 18:21:18,"""PER QUANDO TORNEREMO"" ebook il cui ricavato andrà all'ospedale di #Prato e ad altre strutture italiane",,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""IL CLEB"", ""Descrizione"": ""\""PER QUANDO TORNEREMO\"" \u00c8 UN EBOOK CHE CONTIENE POESIE E RACCONTI scritti da autori di tutta italia.\nPUOI SCARICARLO CON UNA PICCOLA DONAZIONE CHE andr\u00e0 direttamente all'ospedale di prato (80% dei fondi raccolti) e ad altre strutture ospedaliere italiane (20% dei fondi raccolti) che stanno gestendo l'emergenza sanitaria in corso. tutte le donazioni saranno tracciate e condivise su questo portale."", ""Destinatari"": ""Tutte e tutti"", ""Indirizzo"": ""43.88062274 11.09703315"", ""Link"": ""https://perquandotorneremo.wixsite.com/home?fbclid=IwAR2A3kK_KUOStaTeVQJVu-QkvujBM487nofT0aAnuSUoGAO4qctwEwhVwYk"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""\""PER QUANDO TORNEREMO\"" \u00c8 UN EBOOK CHE CONTIENE POESIE E RACCONTI ilricavato andr\u00e0 all'ospedale di prato e ad altre strutture ospedaliere italiane""}","<pre><yamldata>
 Da_chi_offerta: IL CLEB
 Descrizione: '""PER QUANDO TORNEREMO"" È UN EBOOK CHE CONTIENE POESIE E RACCONTI scritti
@@ -10123,17 +10134,6 @@ Regione: Lazio
 Tipo_di_soggetto: privato
 Titolo: ""Consegna Farmacia a domicilio per persone disabilit\xE0 o grave malattia\
   \ #Italia""
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/371,580886376,2020-03-16 23:10:58,2020-03-13 22:02:35,Comune di #Milano cerca volontari per il progetto Milano Aiuta,45.464676,9.191394,Lombardia,Milano,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Cosa"": ""Come diventare volontario del progetto Milano Aiuta del Comune di Milano"", ""Descrizione"": ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta che offre supporto e aiuto alle persone anziane in difficolt\u00e0. Per candidarsi come volontario si pu\u00f2 scrivere all'indirizzo mail per.volontariato@comune.milano.it"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65"", ""Posizione"": ""45.464676 9.191394 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia""}","<pre><yamldata>
-Comune: Milano
-Cosa: Come diventare volontario del progetto Milano Aiuta del Comune di Milano
-Descrizione: ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta\
-  \ che offre supporto e aiuto alle persone anziane in difficolt\xE0. Per candidarsi\
-  \ come volontario si pu\xF2 scrivere all'indirizzo mail per.volontariato@comune.milano.it""
-Link: https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65
-Posizione: 45.464676 9.191394 0 0
-Provincia: Milano
-Regione: Lombardia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/371,580886376,2020-03-16 23:10:58,2020-03-13 22:02:35,Comune di #Milano cerca volontari per il progetto Milano Aiuta,45.464676,9.191394,Lombardia,Milano,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Cosa"": ""Come diventare volontario del progetto Milano Aiuta del Comune di Milano"", ""Descrizione"": ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta che offre supporto e aiuto alle persone anziane in difficolt\u00e0. Per candidarsi come volontario si pu\u00f2 scrivere all'indirizzo mail per.volontariato@comune.milano.it"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65"", ""Posizione"": ""45.464676 9.191394 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia""}","<pre><yamldata>
 Comune: Milano
