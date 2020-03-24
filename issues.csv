@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1148,586852999,2020-03-24 11:05:08,2020-03-24 10:27:13,Consolato Generale a #Londra chiude al pubblico e comunica nuove modalità di erogazione dei servizi.,52.005623,0.219727,,,"[""Fonti istituzionali"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""EMERGENZA COVID-19: CHIUSURA AL PUBBLICO DEL CONSOLATO GENERALE (SOLO EMERGENZE)"", ""Descrizione"": ""Nel quadro delle misure collegate all\u2019emergenza COVID-19 si segnalano di seguito le nuove modalita\u2019 con cui verranno erogati i servizi consolari a partire da mercoled\u00ec 25 marzo 2020"", ""Link"": ""http://conslondra.esteri.it/consolato_londra/it/la_comunicazione/dal_consolato/2020/03/emergenza-covid-19-ulteriore-limitazione.html"", ""Posizione"": ""52.005623 0.219727 0 0""}","<pre><yamldata>
+Cosa: 'EMERGENZA COVID-19: CHIUSURA AL PUBBLICO DEL CONSOLATO GENERALE (SOLO EMERGENZE)'
+Descrizione: Nel quadro delle misure collegate all’emergenza COVID-19 si segnalano
+  di seguito le nuove modalita’ con cui verranno erogati i servizi consolari a partire
+  da mercoledì 25 marzo 2020
+Link: http://conslondra.esteri.it/consolato_londra/it/la_comunicazione/dal_consolato/2020/03/emergenza-covid-19-ulteriore-limitazione.html
+Posizione: 52.005623 0.219727 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1147,586842718,2020-03-24 10:56:01,2020-03-24 10:10:54,“Questa battaglia si vince da casa.Un nuovo artwork al giorno per sostenere l’emergenza.” Asta benefica di opere d'arte su instagram.,45.4513778,9.1884711,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""20136"", ""Descrizione"": ""\u201cQuesta battaglia si vince da casa.\nUn nuovo artwork al giorno per sostenere l\u2019emergenza Covid-19.\u201d\n\nPer dare il nostro contributo e aiutare attivamente la regione Lombardia, quella che ci ospita e che attualmente ha registrato il maggior numero di casi, abbiamo deciso di dare vita a un progetto di beneficenza che coinvolge sia gli artisti che i nostri lettori.\n\nDal 20 marzo fino al 30 aprile con \u201cArt is Resistance\u201d racconteremo sul nostro profilo Instagram @Collater.al il lavoro di alcuni dei pi\u00f9 interessanti artisti contemporanei.\n\nAttraverso dei takeover che avverranno in diretta sulle Instagram Stories del nostro canale, ogni artista mostrer\u00e0 il making-of di un\u2019opera originale realizzata per questa particolare occasione che verr\u00e0 poi messa all\u2019asta qui.\u2028Il ricavato di tutte le aste verr\u00e0 donato alla regione Lombardia per sostenere l\u2019emergenza Covid-19 e utilizzato per l\u2019acquisto straordinario i materiali di consumo, quali mascherine, tute protettive, disinfettanti e strumentazioni necessari alle strutture sanitarie, ai medici, agli infermieri e al personale per curare al meglio i malati e limitare le occasioni di contagio.\n\nIl nostro obiettivo, e quello di tutti gli artisti coinvolti, \u00e8 quello di combattere questa battaglia da casa aiutando chi invece lavora in prima linea.\u2028\nVi aspettiamo ogni giorno sul nostro profilo Instagram dove verranno comunicate date e orari di tutte le live session degli artisti e poi qui, dove potrete contribuire alla causa acquistando un pezzo unico ideato solo ed esclusivamente per questa occasione."", ""Email"": ""miriam@collater.al"", ""Link"": ""https://www.32auctions.com/artisresistance"", ""Nome"": ""Collater.al"", ""Posizione"": ""45.4513778 9.1884711 0 0""}","<pre><yamldata>
 CC_Postale: '20136'
 Descrizione: '“Questa battaglia si vince da casa.
@@ -125,6 +133,53 @@ IBAN: IT97O0501802600000012494936
 Link: http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/
 Nome: Associazione Italiana Carlo Urbani
 Posizione: 43.531003 13.222904 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1136,586730305,2020-03-24 11:05:50,2020-03-24 06:39:17,Su Autistici.org servizio di videoconferenza open source ,,,,,"[""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""autistici.org"", ""Descrizione"": ""Viste le circostanze abbiamo deciso di rendere disponibile, su base sperimentale e per un periodo limitato di tempo, un servizio di videoconferenza aperto a tutti, per supportare attivit\u00e0 di gruppo a distanza.\nIl servizio \u00e8 disponibile su vc.autistici.org ed \u00e8 stato implementato usando il software open source Jitsi.\nIl servizio \u00e8 fruibile liberamente da un computer con webcam o da uno smartphone (usando l\u2019app di Jitsi), senza bisogno di effettuare alcuna registrazione o autenticazione (ovvero \u00e8 possibile usarlo anche se non si \u00e8 gi\u00e0 utenti di autistici.org). La capacit\u00e0 \u00e8 limitata, e nel caso dovesse terminare, le condizioni di accesso potrebbero cambiare oppure espanderemo la capacit\u00e0, vedremo.\nCi interessa per\u00f2 parlarvi di alcune questioni tecniche che \u00e8 importante sapere prima di usare questo strumento.\nAutistici/Inventati non mantiene alcuna registrazione della chiamata e nessun identificativo personale dei partecipanti. Questo ovviamente non vale per le persone che partecipano alla chiamata con voi, perci\u00f2 se non volete che sconosciuti partecipino alla vostra chiamata vi consigliamo di impostare una password per la stanza.\nIl servizio \u00e8 pensato per gruppi che condividono la nostra policy, in caso di abuso non ci faremo problemi ad intervenire\nPare ci siano incompatibilit\u00e0 con versioni di Firefox non sufficientemente recenti, quindi in caso riscontraste problemi vi consigliamo prima di provare con Chromium.\nIn alcuni casi Jitsi effettua connessioni peer-to-peer, che implica che il proprio indirizzo IP pu\u00f2 essere rivelato agli altri partecipanti.\nRicordate che \u00e8 impossibile impedire agli altri partecipanti di registrare le conversazioni, e che le videoconferenze sono suscettibili alle intercettazioni elettroniche ED ambientali contemporaneamente.\nDetto questo, non ci resta che augurarvi buon uso del nostro nuovo servizio.\nIn caso riscontraste problemi ricordate che potete segnalarli all\u2019indirizzo email help@autistici.org.\nBuona organizzazione!"", ""Destinatari"": ""privati, lavoratori, piccole realt\u00e0"", ""Link"": ""https://vc.autistici.org/"", ""Natura"": ""didattica"", ""Titolo"": ""Server di Videoconferenze""}","<pre><yamldata>
+Da_chi_offerta: autistici.org
+Descrizione: 'Viste le circostanze abbiamo deciso di rendere disponibile, su base
+  sperimentale e per un periodo limitato di tempo, un servizio di videoconferenza
+  aperto a tutti, per supportare attività di gruppo a distanza.
+
+  Il servizio è disponibile su vc.autistici.org ed è stato implementato usando il
+  software open source Jitsi.
+
+  Il servizio è fruibile liberamente da un computer con webcam o da uno smartphone
+  (usando l’app di Jitsi), senza bisogno di effettuare alcuna registrazione o autenticazione
+  (ovvero è possibile usarlo anche se non si è già utenti di autistici.org). La capacità
+  è limitata, e nel caso dovesse terminare, le condizioni di accesso potrebbero cambiare
+  oppure espanderemo la capacità, vedremo.
+
+  Ci interessa però parlarvi di alcune questioni tecniche che è importante sapere
+  prima di usare questo strumento.
+
+  Autistici/Inventati non mantiene alcuna registrazione della chiamata e nessun identificativo
+  personale dei partecipanti. Questo ovviamente non vale per le persone che partecipano
+  alla chiamata con voi, perciò se non volete che sconosciuti partecipino alla vostra
+  chiamata vi consigliamo di impostare una password per la stanza.
+
+  Il servizio è pensato per gruppi che condividono la nostra policy, in caso di abuso
+  non ci faremo problemi ad intervenire
+
+  Pare ci siano incompatibilità con versioni di Firefox non sufficientemente recenti,
+  quindi in caso riscontraste problemi vi consigliamo prima di provare con Chromium.
+
+  In alcuni casi Jitsi effettua connessioni peer-to-peer, che implica che il proprio
+  indirizzo IP può essere rivelato agli altri partecipanti.
+
+  Ricordate che è impossibile impedire agli altri partecipanti di registrare le conversazioni,
+  e che le videoconferenze sono suscettibili alle intercettazioni elettroniche ED
+  ambientali contemporaneamente.
+
+  Detto questo, non ci resta che augurarvi buon uso del nostro nuovo servizio.
+
+  In caso riscontraste problemi ricordate che potete segnalarli all’indirizzo email
+  help@autistici.org.
+
+  Buona organizzazione!'
+Destinatari: privati, lavoratori, piccole realtà
+Link: https://vc.autistici.org/
+Natura: didattica
+Titolo: Server di Videoconferenze
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1135,586553950,2020-03-23 22:28:04,2020-03-23 22:19:00,#Brescia per stampare valvole salvavita serve polvere Duraform HST della 3D Systems,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Brescia per stampare valvole salvavita Ricerca polvere Duraform HST della 3D Systems"", ""Descrizione"": ""Beretta: \u00abCerchiamo polvere \nper stampare le valvole salvavita\u00bb\nLa materia prima \u00e8 finita, serve per stampare in 3D dispositivi per la ventilazione destinati all\u2019ospedale di Gardone Valtrompia. \u00abChi ne ha, ci contatti\u00bb\nL\u2019appello lo ha fatto l\u2019amministratore delegato di Beretta Franco Gussalli Beretta che cerca polvere per stampare valvole salvavita. \u00abStiamo dando una mano con le nostre stampanti 3d per produrre valvole per le maschere respiratorie d\u2019emergenza per l\u2019ospedale di Gardone Valtrompia - ha detto Beretta -. Ne abbiamo gi\u00e0 prodotte un primo lotto, ma ora abbiamo finito la polvere necessaria a produrne altre e il nuovo ordine non arriver\u00e0 fino a venerd\u00ec. Se qualcuno in Italia avesse disponibile polvere Duraform HST della 3D Systems Corporation lo preghiamo di contattarci scrivendo a vincenzo.maffi@beretta.com\u00bb."", ""Destinatari"": ""Beretta #Brescia"", ""Email"": ""vincenzo.maffi@beretta.com"", ""Indirizzo"": ""45.53993052 10.21910323"", ""Link"": ""https://brescia.corriere.it/notizie/cronaca/20_marzo_23/beretta-cerchiamo-polvere-stampare-valvole-salvavita-8d8fec58-6d26-11ea-ba71-0c6303b9bf2d.shtml""}","<pre><yamldata>
 Cosa: '#Brescia per stampare valvole salvavita Ricerca polvere Duraform HST della
