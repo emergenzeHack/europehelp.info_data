@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1137,586754402,2020-03-24 08:57:19,2020-03-24 07:34:29,AICU - attiva raccolta fondi per terapia intensiva Ospedale Carlo Urbani #Jesi,43.531003,13.222904,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l\u2019emergenza COVID-19\nattraverso il seguente riferimento\nIBAN: IT97O0501802600000012494936\nIl ricavato della raccolta fondi sar\u00e0 destinato all\u2019acquisto di materiale sanitario per l\u2019ospedale Carlo Urbani di Jesi.\nUn gesto per ricordare il contributo del dottor Carlo Urbani nella lotta contro la Sars che possiamo tradurre oggi nell\u2019aiuto ai pazienti e nel sostegno al personale sanitario impegnato in prima linea in questa difficile emergenza."", ""IBAN"": ""IT97O0501802600000012494936"", ""Link"": ""http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/"", ""Nome"": ""Associazione Italiana Carlo Urbani"", ""Posizione"": ""43.531003 13.222904 0 0""}","<pre><yamldata>
+Descrizione: 'L’AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l’emergenza
+  COVID-19
+
+  attraverso il seguente riferimento
+
+  IBAN: IT97O0501802600000012494936
+
+  Il ricavato della raccolta fondi sarà destinato all’acquisto di materiale sanitario
+  per l’ospedale Carlo Urbani di Jesi.
+
+  Un gesto per ricordare il contributo del dottor Carlo Urbani nella lotta contro
+  la Sars che possiamo tradurre oggi nell’aiuto ai pazienti e nel sostegno al personale
+  sanitario impegnato in prima linea in questa difficile emergenza.'
+IBAN: IT97O0501802600000012494936
+Link: http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/
+Nome: Associazione Italiana Carlo Urbani
+Posizione: 43.531003 13.222904 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1135,586553950,2020-03-23 22:28:04,2020-03-23 22:19:00,#Brescia per stampare valvole salvavita serve polvere Duraform HST della 3D Systems,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Brescia per stampare valvole salvavita Ricerca polvere Duraform HST della 3D Systems"", ""Descrizione"": ""Beretta: \u00abCerchiamo polvere \nper stampare le valvole salvavita\u00bb\nLa materia prima \u00e8 finita, serve per stampare in 3D dispositivi per la ventilazione destinati all\u2019ospedale di Gardone Valtrompia. \u00abChi ne ha, ci contatti\u00bb\nL\u2019appello lo ha fatto l\u2019amministratore delegato di Beretta Franco Gussalli Beretta che cerca polvere per stampare valvole salvavita. \u00abStiamo dando una mano con le nostre stampanti 3d per produrre valvole per le maschere respiratorie d\u2019emergenza per l\u2019ospedale di Gardone Valtrompia - ha detto Beretta -. Ne abbiamo gi\u00e0 prodotte un primo lotto, ma ora abbiamo finito la polvere necessaria a produrne altre e il nuovo ordine non arriver\u00e0 fino a venerd\u00ec. Se qualcuno in Italia avesse disponibile polvere Duraform HST della 3D Systems Corporation lo preghiamo di contattarci scrivendo a vincenzo.maffi@beretta.com\u00bb."", ""Destinatari"": ""Beretta #Brescia"", ""Email"": ""vincenzo.maffi@beretta.com"", ""Indirizzo"": ""45.53993052 10.21910323"", ""Link"": ""https://brescia.corriere.it/notizie/cronaca/20_marzo_23/beretta-cerchiamo-polvere-stampare-valvole-salvavita-8d8fec58-6d26-11ea-ba71-0c6303b9bf2d.shtml""}","<pre><yamldata>
 Cosa: '#Brescia per stampare valvole salvavita Ricerca polvere Duraform HST della
   3D Systems'
