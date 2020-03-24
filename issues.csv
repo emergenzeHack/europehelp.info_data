@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1139,586758186,2020-03-24 09:27:21,2020-03-24 07:42:24,La Croce Rossa di #Magliolo (#Savona) raccoglie fondi per dispositivi sanitari di protezione individuale ,44.191805,8.249359,Liguria,Savona,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Croce Rossa Italiana \u00e8 impegnata fin dai primissimi momenti su tutto il territorio nazionale per rispondere all'emergenza Coronavirus.\nStiamo operando con capacit\u00e0 reattiva e al massimo delle nostre possibilit\u00e0, cosa che non era per nulla scontata in una situazione che si regge sulle forze del volontariato.\nAbbiamo per\u00f2 bisogno del tuo aiuto, perch\u00e8 ognuno, anche con un piccolo contributo, possa far parte di un'Italia Che Aiuta."", ""Link"": ""https://www.gofundme.com/f/emergenza-covid19-raccolta-fondi-cri-magliolo?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Croce Rossa Italiana - Comitato di Magliolo"", ""Posizione"": ""44.191805 8.249359 0 0""}","<pre><yamldata>
+Descrizione: 'La Croce Rossa Italiana è impegnata fin dai primissimi momenti su tutto
+  il territorio nazionale per rispondere all''emergenza Coronavirus.
+
+ Stiamo operando con capacità reattiva e al massimo delle nostre possibilità, cosa
+  che non era per nulla scontata in una situazione che si regge sulle forze del volontariato.
+
+Abbiamo però bisogno del tuo aiuto, perchè ognuno, anche con un piccolo contributo,
+  possa far parte di un''Italia Che Aiuta.'
+
+Link: https://www.gofundme.com/f/emergenza-covid19-raccolta-fondi-cri-magliolo?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet
+Nome: Croce Rossa Italiana - Comitato di Magliolo
+Posizione: 44.191805 8.249359 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1137,586754402,2020-03-24 08:57:19,2020-03-24 07:34:29,AICU - attiva raccolta fondi per terapia intensiva Ospedale Carlo Urbani #Jesi,43.531003,13.222904,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l\u2019emergenza COVID-19\nattraverso il seguente riferimento\nIBAN: IT97O0501802600000012494936\nIl ricavato della raccolta fondi sar\u00e0 destinato all\u2019acquisto di materiale sanitario per l\u2019ospedale Carlo Urbani di Jesi.\nUn gesto per ricordare il contributo del dottor Carlo Urbani nella lotta contro la Sars che possiamo tradurre oggi nell\u2019aiuto ai pazienti e nel sostegno al personale sanitario impegnato in prima linea in questa difficile emergenza."", ""IBAN"": ""IT97O0501802600000012494936"", ""Link"": ""http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/"", ""Nome"": ""Associazione Italiana Carlo Urbani"", ""Posizione"": ""43.531003 13.222904 0 0""}","<pre><yamldata>
 Descrizione: 'L’AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l’emergenza
   COVID-19
