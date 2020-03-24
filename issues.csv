@@ -12524,22 +12524,6 @@ provincia: Milano
 regione: 'lombardia '
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/126,578925998,2020-03-16 23:04:53,2020-03-10 23:53:37,Disposizioni decreto tradotte in varie lingue,45.5398022,10.2200214,Lombardia,Brescia,"[""Informazioni utili"", ""accettato""]",,,"{""Comune"": ""Brescia"", ""Posizione"": ""45.5398022 10.2200214 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia"", ""chi"": ""Radio Onda d'urto"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Disposizioni decreto tradotte in varie lingue"", ""destinatari"": ""Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun, pulaar, bambara."", ""fonte"": ""https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Informazioni utili""}","<pre><yamldata>
-Comune: Brescia
-Posizione: 45.5398022 10.2200214 0 0
-Provincia: Brescia
-Regione: Lombardia
-chi: Radio Onda d'urto
-comune: Italia
-contatti: ''
-descrizione: Disposizioni decreto tradotte in varie lingue
-destinatari: Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun,
-  pulaar, bambara.
-fonte: https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/
-provincia: Italia
-regione: Italia
-tag: Informazioni utili
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-11 11:41:59,2020-03-10 23:53:37,Su Telegram storie lette ad alta voce,,,,,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce sul canale Telegram @storiealtelefono"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
 comune: Italia
 contatti: canale telegram @storiealtelefono
@@ -12656,7 +12640,7 @@ provincia: tutta Italia
 regione: tutta Italia
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/113,578925949,2020-03-16 23:07:48,2020-03-10 23:53:27,Sospensione da 3 a 6 mesi finanziamenti Intesa San Paolo,,,,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Intesa San Paolo"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Sospensione da 3 a 6 mesi della rata dei finanziamenti"", ""destinatari"": ""clienti intesa San Paolo"", ""fonte"": ""https://group.intesasanpaolo.com/it/sala-stampa/news/il-mondo-di-intesa-sanpaolo/2020/coronavirus--intesa-sanpaolo-in-aiuto--di-famiglie-e-imprese"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Intesa San Paolo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/113,578925949,2020-03-24 19:19:49,2020-03-10 23:53:27,Sospensione da 3 a 6 mesi finanziamenti Intesa San Paolo,,,,,"[""Informazioni utili"", ""Notizie"", ""accettato""]",,,"{""chi"": ""Intesa San Paolo"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Sospensione da 3 a 6 mesi della rata dei finanziamenti"", ""destinatari"": ""clienti intesa San Paolo"", ""fonte"": ""https://group.intesasanpaolo.com/it/sala-stampa/news/il-mondo-di-intesa-sanpaolo/2020/coronavirus--intesa-sanpaolo-in-aiuto--di-famiglie-e-imprese"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Intesa San Paolo
 comune: Italia
 contatti: ''
 descrizione: Sospensione da 3 a 6 mesi della rata dei finanziamenti
@@ -12785,7 +12769,7 @@ provincia: Bergamo
 regione: Lombardia
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/101,578925850,2020-03-11 15:03:27,2020-03-10 23:53:05,Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute,,,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Anffas Trento"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute."", ""destinatari"": ""persone con disabilit\u00e0 intellettiva"", ""fonte"": ""http://www.anffas.tn.it/component/k2/item/824-coronavirus.html"", ""provincia"": null, ""regione"": null, ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: 'Anffas Trento'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/101,578925850,2020-03-24 19:19:59,2020-03-10 23:53:05,Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute,,,,,"[""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Anffas Trento"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute."", ""destinatari"": ""persone con disabilit\u00e0 intellettiva"", ""fonte"": ""http://www.anffas.tn.it/component/k2/item/824-coronavirus.html"", ""provincia"": null, ""regione"": null, ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: 'Anffas Trento'
 comune:
 contatti: ''
 descrizione: Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute.
@@ -12795,7 +12779,7 @@ provincia:
 regione: 
 tag: Sostegno al lavoro
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/100,578925845,2020-03-20 10:56:18,2020-03-10 23:53:04,Traduzione in 7 lingue decalogo Ministero della Salute #Milano,45.4449916,9.1793239,Lombardia,Milano,"[""Informazioni utili"", ""Stranieri"", ""accettato""]",,,"{""Comune"": ""Milano"", ""Posizione"": ""45.4449916 9.1793239 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""chi"": ""Comitato Abitanti San Siro, associazione Naga"", ""comune"": ""Milano"", ""contatti"": ""02 58102599"", ""descrizione"": ""Traduzione in 7 lingue decalogo Ministero della Salute"", ""destinatari"": ""\u2018cittadini stranieri'"", ""fonte"": ""http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html"", ""provincia"": ""Milano"", ""regione"": ""Lombardia "", ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/100,578925845,2020-03-24 19:20:22,2020-03-10 23:53:04,Traduzione in 7 lingue decalogo Ministero della Salute #Milano,45.4449916,9.1793239,Lombardia,Milano,"[""Informazioni utili"", ""Notizie"", ""Stranieri"", ""accettato""]",,,"{""Comune"": ""Milano"", ""Posizione"": ""45.4449916 9.1793239 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""chi"": ""Comitato Abitanti San Siro, associazione Naga"", ""comune"": ""Milano"", ""contatti"": ""02 58102599"", ""descrizione"": ""Traduzione in 7 lingue decalogo Ministero della Salute"", ""destinatari"": ""\u2018cittadini stranieri'"", ""fonte"": ""http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html"", ""provincia"": ""Milano"", ""regione"": ""Lombardia "", ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>
 Comune: Milano
 Posizione: 45.4449916 9.1793239 0 0
 Provincia: Milano
@@ -12916,7 +12900,7 @@ provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/92,578925313,2020-03-17 23:02:19,2020-03-10 23:51:08,Agid - Elenco servizi digitali gratuiti per imprese e persone,,,,,"[""Didattica a distanza e-learning"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Agid - Solidariet\u00e0 digitale"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Solidariet\u00e0 digitale, sito di Agid che raccoglie tutti i servizi digitali gratuiti che le aziende hanno messo a disposizione in modo gratuito in questo periodo di emergenza. I servizi si rivolgono sia a cittadini che imprese."", ""destinatari"": ""Tutte e tutti"", ""fonte"": ""https://solidarietadigitale.agid.gov.it/?fbclid=IwAR3RRsTt948UxECBvv_YwnBsys7u9qmH0GFB-zToMxJwgEVz6iOghU4xmfM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: ""Agid - Solidariet\xE0 digitale""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/92,578925313,2020-03-24 19:20:40,2020-03-10 23:51:08,Agid - Elenco servizi digitali gratuiti per imprese e persone,,,,,"[""Didattica a distanza e-learning"", ""Fonti istituzionali"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Agid - Solidariet\u00e0 digitale"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Solidariet\u00e0 digitale, sito di Agid che raccoglie tutti i servizi digitali gratuiti che le aziende hanno messo a disposizione in modo gratuito in questo periodo di emergenza. I servizi si rivolgono sia a cittadini che imprese."", ""destinatari"": ""Tutte e tutti"", ""fonte"": ""https://solidarietadigitale.agid.gov.it/?fbclid=IwAR3RRsTt948UxECBvv_YwnBsys7u9qmH0GFB-zToMxJwgEVz6iOghU4xmfM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: ""Agid - Solidariet\xE0 digitale""
 comune: Italia
 contatti: ''
 descrizione: Solidarietà digitale, sito di Agid che raccoglie tutti i servizi digitali gratuiti che le aziende hanno messo a disposizione in modo gratuito in questo periodo di emergenza. I servizi si rivolgono sia a cittadini che imprese.
