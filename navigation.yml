@@ -20,7 +20,7 @@ languages:
       PRIVACY: "legal"
   - language: en
     navbar-links:
-      REPORT: "segnala/"
+      REPORT: "en/segnala/"
       DISCOVER:
         - REPORTS : "issues/"
         - REPORTS FOR REGION : "issues/regione/"
