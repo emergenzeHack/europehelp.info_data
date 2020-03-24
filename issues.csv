@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1145,586825382,2020-03-24 09:53:25,2020-03-24 09:41:35,Regala un ebook,,,,,"[""Attivita culturali e ricreative"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il saggiatore casa editrice"", ""Descrizione"": ""La casa editrice il saggiatore regala un ebook ogni due giorni nell'ambito dell'iniziativa solidariet\u00e0 digitale"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.ilsaggiatore.com/solidarieta/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Regala un ebook""}","<pre><yamldata>
+Da_chi_offerta: Il saggiatore casa editrice
+Descrizione: La casa editrice il saggiatore regala un ebook ogni due giorni nell'ambito
+  dell'iniziativa solidarietà digitale
+Destinatari: Tutti
+Link: https://www.ilsaggiatore.com/solidarieta/
+Natura: culturale-ricr
+Titolo: Regala un ebook
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1144,586789374,2020-03-24 09:51:28,2020-03-24 08:40:34,SIARE Engineering azienda #Bologna che produce ventilatori polmonari Ricerca Sviluppatore C++ ,,,,,"[""Dati utili"", ""Notizia"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ricerca sviluppatore C++ per azienda emiliana che produce ventilatori polmonari"", ""Descrizione"": ""Linko il post su Twitter dove si ricerca un programmatore per aiutare nello sviluppo dei ventilatori polmonari"", ""Link"": ""https://twitter.com/italiancpp/status/1240228096336441344?s=19""}","<pre><yamldata>
 Cosa: Ricerca sviluppatore C++ per azienda emiliana che produce ventilatori polmonari
 Descrizione: Linko il post su Twitter dove si ricerca un programmatore per aiutare
