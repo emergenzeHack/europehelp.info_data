@@ -6,7 +6,7 @@ languages:
         - SEGNALAZIONI : "issues/"
         - SEGNALAZIONI PER REGIONE: "issues/regione/"
       SEGUI:
-        - NOTIZIE: "notizie/"
+        - NOTIZIE: "notizie-utili/"
         - BLOG : "post/"
         - CONTATTI: "canali/"
       COS'È?:
@@ -25,7 +25,7 @@ languages:
         - REPORTS : "issues/"
         - REPORTS FOR REGION : "issues/regione/"
       FOLLOW:
-        - NEWS: "notizie/"
+        - NEWS: "notizie-utili/"
         - BLOG : "post/"
         - CONTACTS: "canali/"
       WHAT IS THIS?:
