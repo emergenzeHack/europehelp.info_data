@@ -1,4 +1,50 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1156,586907286,2020-03-24 12:03:22,2020-03-24 11:58:46,Comune di #Palermo - Potenziato sistema distribuzione #benialimentari,38.11367,13.354225,Sicilia,Palermo,"[""Bollettino"", ""Consegne e commissioni"", ""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di #Palermo - Associazione Banco Alimentare, Il Banco delle Opere di Carit\u00e0 in sinergia con la Caritas Diocesana"", ""Descrizione"": ""CORONAVIRUS. Potenziato sistema distribuzione beni alimentari\n\n(data pubblicazione 23 Marzo 2020)\n\nIn vista di un possibile aggravamento della situazione in citt\u00e0 con la necessit\u00e0 di provvedere alla distribuzione di generi alimentari alle persone in quarantena/isolamento, e comunque con l'obiettivo di supportare le famiglie e i singoli che stanno attraversando un momento di difficolt\u00e0 a causa dell\u2019emergenza Coronavirus, il Comune sta provvedendo alla costituzione di una Centrale Unica di Erogazione Banco Alimentare che coinvolge l'Associazione Banco Alimentare, Il Banco delle Opere di Carit\u00e0 in sinergia con la Caritas Diocesana nelle sue diverse componenti.\n \nI cittadini e le famiglie interessate potranno rivolgersi ai contatti indicati di seguito, fornendo le informazioni richieste.\n\n\""Nessuno sar\u00e0 lasciato solo in questo momento di difficolt\u00e0 - affermano il Sindaco e l'Assessore Mattina - E' un momento di straordinaria crisi ed emergenza, che colpisce tutta la popolazione, tutti gli strati sociali, tutti i palermitani. Come sempre per\u00f2 ad essere maggiormente colpite sono le fasce pi\u00f9 fragili della popolazione, quelli cui, con questa iniziativa, cercheremo di dare il massimo sostegno possibile, perch\u00e9 tutti possano beneficiare di uno sforzo di solidariet\u00e0 altrettanto straordinario.\""\n\nDovranno essere inviate le seguenti informazioni:\n\n- Nome e Cognome del capofamiglia\n- Data di nascita\n- Codice Fiscale\n- Indirizzo di domicilio e di residenza\n- Tutti i recapiti telefonici disponibili (sia fissi sia mobili)\n- Componenti del nucleo familiare e dati anagrafici completi\n- Situazioni particolari da evidenziare\n\nPER LE FAMIGLIE CHE NON SONO IN QUARANTENA E IN CUI NON SI RISCONTRANO CASI POSITIVI AL COVID-19\n\nLe richieste dovranno essere inviate agli Uffici di servizio sociale presso la propria Circoscrizione di residenza, ai seguenti contatti:\nI telefoni sono operativi dal luned\u00ec al venerd\u00ec dalle 8 alle 13 e il mercoled\u00ec dalle 15 alle 17\n\n- I Circoscrizione - sscprimacircoscrizione@comune.palermo.it - 0917405419/18\n\n- II Circoscrizione - sscsecondacircoscrizione@comune.palermo.it - 0917403419/81\n\n- III Circoscrizione - sscterzacircoscrizione@comune.palermo.it - 0917409162\n\n- IV Circoscrizione - sscquartacircoscrizione@comune.palermo.it - 0917409531\n\n- V Circoscrizione - sscquintacircoscrizione@comune.palermo.it - 0917403071\n\n- VI Circoscrizione - sscsestacircoscrizione@comune.palermo.it - 0917407685\n\n- VII Circoscrizione - sscsettimacircoscrizione@comune.palermo.it - 0916716763\n\n- VIII Circoscrizione - sscottavacircoscrizione@comune.palermo.it - 0917407430/32\n\nPER LE FAMIGLIE IN QUARANTENA/ISOLAMENTO\n\nLa domanda va inviata direttamente all\u2019Ufficio di coordinamento emergenzesociali@comune.palermo.it\nTel. 335.1997496 \n\n(dal luned\u00ec al venerd\u00ec dalle 8 alle 13 e il mercoled\u00ec dalle 15 alle 17)"", ""Destinatari"": ""persone in quarantena/isolamento, famiglie e i singoli."", ""Link"": ""https://www.comune.palermo.it/noticext.php?cat=1&id=26948"", ""Natura"": ""solidale"", ""Posizione"": ""38.11367 13.354225 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di #Palermo - Potenziato sistema distribuzione #benialimentari""}","<pre><yamldata>
+Da_chi_offerta: 'Comune di #Palermo - Associazione Banco Alimentare, Il Banco delle
+  Opere di Carità in sinergia con la Caritas Diocesana'
+Descrizione: ""CORONAVIRUS. Potenziato sistema distribuzione beni alimentari\n\n(data\
+  \ pubblicazione 23 Marzo 2020)\n\nIn vista di un possibile aggravamento della situazione\
+  \ in città con la necessità di provvedere alla distribuzione di generi alimentari\
+  \ alle persone in quarantena/isolamento, e comunque con l'obiettivo di supportare\
+  \ le famiglie e i singoli che stanno attraversando un momento di difficoltà a causa\
+  \ dell’emergenza Coronavirus, il Comune sta provvedendo alla costituzione di una\
+  \ Centrale Unica di Erogazione Banco Alimentare che coinvolge l'Associazione Banco\
+  \ Alimentare, Il Banco delle Opere di Carità in sinergia con la Caritas Diocesana\
+  \ nelle sue diverse componenti.\n \nI cittadini e le famiglie interessate potranno\
+  \ rivolgersi ai contatti indicati di seguito, fornendo le informazioni richieste.\n\
+  \n\""Nessuno sarà lasciato solo in questo momento di difficoltà - affermano il Sindaco\
+  \ e l'Assessore Mattina - E' un momento di straordinaria crisi ed emergenza, che\
+  \ colpisce tutta la popolazione, tutti gli strati sociali, tutti i palermitani.\
+  \ Come sempre però ad essere maggiormente colpite sono le fasce più fragili della\
+  \ popolazione, quelli cui, con questa iniziativa, cercheremo di dare il massimo\
+  \ sostegno possibile, perché tutti possano beneficiare di uno sforzo di solidarietà\
+  \ altrettanto straordinario.\""\n\nDovranno essere inviate le seguenti informazioni:\n\
+  \n- Nome e Cognome del capofamiglia\n- Data di nascita\n- Codice Fiscale\n- Indirizzo\
+  \ di domicilio e di residenza\n- Tutti i recapiti telefonici disponibili (sia fissi\
+  \ sia mobili)\n- Componenti del nucleo familiare e dati anagrafici completi\n- Situazioni\
+  \ particolari da evidenziare\n\nPER LE FAMIGLIE CHE NON SONO IN QUARANTENA E IN\
+  \ CUI NON SI RISCONTRANO CASI POSITIVI AL COVID-19\n\nLe richieste dovranno essere\
+  \ inviate agli Uffici di servizio sociale presso la propria Circoscrizione di residenza,\
+  \ ai seguenti contatti:\nI telefoni sono operativi dal lunedì al venerdì dalle 8\
+  \ alle 13 e il mercoledì dalle 15 alle 17\n\n- I Circoscrizione - sscprimacircoscrizione@comune.palermo.it\
+  \ - 0917405419/18\n\n- II Circoscrizione - sscsecondacircoscrizione@comune.palermo.it\
+  \ - 0917403419/81\n\n- III Circoscrizione - sscterzacircoscrizione@comune.palermo.it\
+  \ - 0917409162\n\n- IV Circoscrizione - sscquartacircoscrizione@comune.palermo.it\
+  \ - 0917409531\n\n- V Circoscrizione - sscquintacircoscrizione@comune.palermo.it\
+  \ - 0917403071\n\n- VI Circoscrizione - sscsestacircoscrizione@comune.palermo.it\
+  \ - 0917407685\n\n- VII Circoscrizione - sscsettimacircoscrizione@comune.palermo.it\
+  \ - 0916716763\n\n- VIII Circoscrizione - sscottavacircoscrizione@comune.palermo.it\
+  \ - 0917407430/32\n\nPER LE FAMIGLIE IN QUARANTENA/ISOLAMENTO\n\nLa domanda va inviata\
+  \ direttamente all’Ufficio di coordinamento emergenzesociali@comune.palermo.it\n\
+  Tel. 335.1997496 \n\n(dal lunedì al venerdì dalle 8 alle 13 e il mercoledì dalle\
+  \ 15 alle 17)""
+Destinatari: persone in quarantena/isolamento, famiglie e i singoli.
+Link: https://www.comune.palermo.it/noticext.php?cat=1&id=26948
+Natura: solidale
+Posizione: 38.11367 13.354225 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Comune di #Palermo - Potenziato sistema distribuzione #benialimentari'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1155,586907103,2020-03-24 11:59:48,2020-03-24 11:58:28,A #Perugia la chat telegram che offre sostegno psicologico per under27,,,,,"[""Bollettino"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""43.111589 12.388823 0 0"", ""Link"": ""https://www.facebook.com/uslumbria1/photos/rpp.101595441234788/236628347731496/?type=3&theater"", ""Nome"": ""USL Umbria"", ""Scopo"": ""Con-Tatto\nLa Chat telegram rivolta ad adolescenti e giovani under 27 che offre sostegno psicologico.\nL\u2019iniziativa \u00e8 stata promossa e organizzata dal servizio di Promozione della salute del distretto del Perugino della Usl Umbria 1 insieme agli operatori del centro servizi giovani del #ComunediPerugia.\n\nLa chat si propone di attivare uno spazio dedicati ai ragazzi che possa fare da contenitore a #pensieri, riflessioni, #paure e #ansie inevitabilmente generati o amplificati da questa nuova situazione di emergenza che ha modificato tutti gli stili di vita. Si tratta di un momento di presenza e ascolto attraverso una modalit\u00e0 di incontro che tuteli l\u2019assoluta riservatezza e che utilizzi i canali pi\u00f9 noti al mondo dei giovani come le app.\n\n\u201cCon-Tatto! Covid-19\u201d sar\u00e0 gestita sempre da uno psicologo attraverso la piattaforma Telegram raggiungibile al link\n\u25b6\ufe0f https://t.me/ConTatto_Covid19\n\nRICORDIAMO :il luned\u00ec, mercoled\u00ec, gioved\u00ec e sabato dalle 15 alle 17.""}","<pre><yamldata>
 Indirizzo: 43.111589 12.388823 0 0
 Link: https://www.facebook.com/uslumbria1/photos/rpp.101595441234788/236628347731496/?type=3&theater
