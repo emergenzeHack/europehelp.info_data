@@ -422,7 +422,7 @@ Natura: sostegno-lavor
 Titolo: Prometto di Tornare
 Posizione: 41.8933203 12.4829321 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1152,586862858,2020-03-24 11:15:46,2020-03-24 10:42:44,"A #Milano Dolcidea di Gabriella Pandini consegna a domicilio di prodotti da forno, caffè e cioccolateria",45.506382,8.815291,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Dolcidea di Gabriella Pandini"", ""Descrizione"": ""Consegna a domicilio. \n- Pane fresco e grissini (del panificio Garavaglia di Inveruno)\n- Biscotti, prodotti da forno e dessert\n- Caramelle\n- Farine del territorio\n- Zucchero\n- Caff\u00e8\n- Cioccolateria \n\nConsegna al pianerottolo.\nPagamento differito.\n\nGli ordini saranno accettati fino alle 18.\nLe consegne avverranno entro le 12 del giorno successivo.\n\nContatti: \nWhatsapp: 347 4515637\nOppure tramite Facebook."", ""Destinatari"": ""Clienti"", ""Link"": ""https://www.facebook.com/dolcideabio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.506382 8.815291 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Dolcidea di Gabriella Pandini""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1152,586862858,2020-03-24 19:25:28,2020-03-24 10:42:44,"A #Milano Dolcidea di Gabriella Pandini consegna a domicilio prodotti da forno, caffè e cioccolateria",45.506382,8.815291,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Dolcidea di Gabriella Pandini"", ""Descrizione"": ""Consegna a domicilio. \n- Pane fresco e grissini (del panificio Garavaglia di Inveruno)\n- Biscotti, prodotti da forno e dessert\n- Caramelle\n- Farine del territorio\n- Zucchero\n- Caff\u00e8\n- Cioccolateria \n\nConsegna al pianerottolo.\nPagamento differito.\n\nGli ordini saranno accettati fino alle 18.\nLe consegne avverranno entro le 12 del giorno successivo.\n\nContatti: \nWhatsapp: 347 4515637\nOppure tramite Facebook."", ""Destinatari"": ""Clienti"", ""Link"": ""https://www.facebook.com/dolcideabio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.506382 8.815291 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Dolcidea di Gabriella Pandini""}","<pre><yamldata>
 Da_chi_offerta: Dolcidea di Gabriella Pandini
 Descrizione: ""Consegna a domicilio. \n- Pane fresco e grissini (del panificio Garavaglia\
   \ di Inveruno)\n- Biscotti, prodotti da forno e dessert\n- Caramelle\n- Farine del\
@@ -436,6 +436,37 @@ Natura: solidale
 Posizione: 45.506382 8.815291 0 0
 Tipo_di_soggetto: privato
 Titolo: Dolcidea di Gabriella Pandini
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1149,586855897,2020-03-24 19:26:24,2020-03-24 10:31:48,Con Campagna Amica spesa e piatti km0 direttamente a casa (tutta Italia),41.9002394,12.492499,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Campagna Amica"", ""Descrizione"": ""Mercati e agriturismi di Campagna Amica in tutta Italia hanno attivato, dove possibile, un servizio di consegna a domicilio di prodotti di qualit\u00e0, sicuri e garantiti. Scarica le liste complete\nIn questo momento di grande crisi per tutto il Paese, i nostri agricoltori si stanno attivando in tutta Italia per riuscire a garantire un servizio ai cittadini e continuare a portare sulle loro tavole il meglio del nostro made in Italy. Sosteniamo il #MangiaItaliano e aiutano il comparto agroalimentare che in questo momento \u00e8 in grande difficolt\u00e0 come tanti altri settori. Non smettiamo di mangiare san0, sicuro e garantito!\nDai link sotto potete scaricare i volantini dei diversi Mercati e agriturismi di Campagna Amica, promossi da Terranostra, che in questi giorni si sono organizzati per portare la spesa a casa. Questo articolo verr\u00e0 costantemente aggiornato con tutte le iniziative che stanno partendo anche nelle altre regioni.\nInsieme possiamo superare questo momento difficile!\nGuarda il file completo delle consegne a domicilio delle aziende agricole di tutte le regioni (in aggiornamento) \u2013> TUTTE LE REGIONI https://www.campagnamica.it/wp-content/uploads/sites/43/2020/03/Elenco-aziende-Nazionale-agg_23_03_ore-21_00.pdf\nGuarda il file completo degli Agriturismi: piatti pronti della tradizione a domicilio https://www.campagnamica.it/wp-content/uploads/sites/43/2020/03/AZ-AGR-SPESA-DOMICILIO-21-marzo.pdf"", ""Destinatari"": ""Privati cittadini"", ""Link"": ""https://www.campagnamica.it/2020/03/16/la-tua-spesa-km0-direttamente-casa/"", ""Natura"": ""solidale"", ""Posizione"": ""41.9002394 12.492499 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa e piatti contadini direttamente a casa tua""}","<pre><yamldata>
+Da_chi_offerta: Campagna Amica
+Descrizione: 'Mercati e agriturismi di Campagna Amica in tutta Italia hanno attivato,
+  dove possibile, un servizio di consegna a domicilio di prodotti di qualità, sicuri
+  e garantiti. Scarica le liste complete
+
+  In questo momento di grande crisi per tutto il Paese, i nostri agricoltori si stanno
+  attivando in tutta Italia per riuscire a garantire un servizio ai cittadini e continuare
+  a portare sulle loro tavole il meglio del nostro made in Italy. Sosteniamo il #MangiaItaliano
+  e aiutano il comparto agroalimentare che in questo momento è in grande difficoltà
+  come tanti altri settori. Non smettiamo di mangiare san0, sicuro e garantito!
+
+  Dai link sotto potete scaricare i volantini dei diversi Mercati e agriturismi di
+  Campagna Amica, promossi da Terranostra, che in questi giorni si sono organizzati
+  per portare la spesa a casa. Questo articolo verrà costantemente aggiornato con
+  tutte le iniziative che stanno partendo anche nelle altre regioni.
+
+  Insieme possiamo superare questo momento difficile! 
+
+  Guarda il file completo delle consegne a domicilio delle aziende agricole di tutte
+  le regioni (in aggiornamento) –> TUTTE LE REGIONI https://www.campagnamica.it/wp-content/uploads/sites/43/2020/03/Elenco-aziende-Nazionale-agg_23_03_ore-21_00.pdf
+
+  Guarda il file completo degli Agriturismi: piatti pronti della tradizione a domicilio
+  https://www.campagnamica.it/wp-content/uploads/sites/43/2020/03/AZ-AGR-SPESA-DOMICILIO-21-marzo.pdf'
+Destinatari: Privati cittadini
+Link: https://www.campagnamica.it/2020/03/16/la-tua-spesa-km0-direttamente-casa/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Spesa e piatti contadini direttamente a casa tua
+Posizione: 41.9002394 12.492499 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1148,586852999,2020-03-24 11:05:08,2020-03-24 10:27:13,Consolato Generale a #Londra chiude al pubblico e comunica nuove modalità di erogazione dei servizi.,52.005623,0.219727,,,"[""Fonti istituzionali"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""EMERGENZA COVID-19: CHIUSURA AL PUBBLICO DEL CONSOLATO GENERALE (SOLO EMERGENZE)"", ""Descrizione"": ""Nel quadro delle misure collegate all\u2019emergenza COVID-19 si segnalano di seguito le nuove modalita\u2019 con cui verranno erogati i servizi consolari a partire da mercoled\u00ec 25 marzo 2020"", ""Link"": ""http://conslondra.esteri.it/consolato_londra/it/la_comunicazione/dal_consolato/2020/03/emergenza-covid-19-ulteriore-limitazione.html"", ""Posizione"": ""52.005623 0.219727 0 0""}","<pre><yamldata>
 Cosa: 'EMERGENZA COVID-19: CHIUSURA AL PUBBLICO DEL CONSOLATO GENERALE (SOLO EMERGENZE)'
