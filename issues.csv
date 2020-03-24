@@ -1,4 +1,40 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1180,587195057,2020-03-24 18:41:28,2020-03-24 18:32:42,Spesa a domicilio e supporto psicologico di Quarantena Solidale e II Municipio #Roma,41.897224,12.515692,Lazio,Roma,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Quarantena Solidale e II Municipio Roma"", ""Descrizione"": ""\""Quarantena Solidale\"" si affianca alle numerose iniziative messe in campo dal Municipio in questo periodo di emergenza sanitaria:\n\n- Il Municipio ha attivato due numeri di telefono esclusivamente dedicati all\u2019emergenza da Covid-19 che potete contattare per ogni necessit\u00e0:\nPRONTO ANZIANI\n06 4957871 attivo dal luned\u00ec al venerd\u00ec dalle 9.00 alle 12.00\nPRONTO GIOVANI E FAMIGLIE\n06 4456791 attivo dal luned\u00ec al venerd\u00ec dalle 9.00 alle 12.00\nAnche il Servizio Sociale \u00e8 a vostra disposizione per ogni necessit\u00e0:\nPUA (Punto Unico di Accesso) - tel. 06/69602605 - 06/69602606 tutti i marted\u00ec e i gioved\u00ec dalle 9.00 alle 12.00 e dalle 14.00 alle 16.00.\n\n- Vi ricordiamo inoltre che il Municipio ha lanciato l\u2019iniziativa \u201cI MERCATI SOLIDALI\u201d, offrendo la possibilit\u00e0 di fare la spesa a domicilio per tutti, con consegne gratuite per gli anziani. Da casa si potranno chiamare i commercianti, evitando di uscire.\nDi seguito l\u2019elenco dei Mercati e i contatti degli operatori:\nhttps://www.comune.roma.it/web/it/informazione-di-servizio.page?contentId=IDS548555"", ""Destinatari"": ""Cittadine e cittadini II Municipio Roma"", ""Natura"": ""solidale"", ""Posizione"": ""41.897224 12.515692 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Quarantena Solidale e II Municipio Roma""}","<pre><yamldata>
+Da_chi_offerta: Quarantena Solidale e II Municipio Roma
+Descrizione: '""Quarantena Solidale"" si affianca alle numerose iniziative messe in
+  campo dal Municipio in questo periodo di emergenza sanitaria:
+
+
+  - Il Municipio ha attivato due numeri di telefono esclusivamente dedicati all’emergenza
+  da Covid-19 che potete contattare per ogni necessità:
+
+  PRONTO ANZIANI
+
+  06 4957871 attivo dal lunedì al venerdì dalle 9.00 alle 12.00
+
+  PRONTO GIOVANI E FAMIGLIE
+
+  06 4456791 attivo dal lunedì al venerdì dalle 9.00 alle 12.00
+
+  Anche il Servizio Sociale è a vostra disposizione per ogni necessità:
+
+  PUA (Punto Unico di Accesso) - tel. 06/69602605 - 06/69602606 tutti i martedì e
+  i giovedì dalle 9.00 alle 12.00 e dalle 14.00 alle 16.00.
+
+
+  - Vi ricordiamo inoltre che il Municipio ha lanciato l’iniziativa “I MERCATI SOLIDALI”,
+  offrendo la possibilità di fare la spesa a domicilio per tutti, con consegne gratuite
+  per gli anziani. Da casa si potranno chiamare i commercianti, evitando di uscire.
+
+  Di seguito l’elenco dei Mercati e i contatti degli operatori:
+
+  https://www.comune.roma.it/web/it/informazione-di-servizio.page?contentId=IDS548555'
+Destinatari: Cittadine e cittadini II Municipio Roma
+Natura: solidale
+Posizione: 41.897224 12.515692 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Quarantena Solidale e II Municipio Roma
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1179,587190309,2020-03-24 18:40:03,2020-03-24 18:25:29,"FastCall: #telemedicina e sistemi di monitoraggio, #tecnologie per il contrasto diffusione Covid-19",,,,,"[""Bollettino"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Telemedicina e sistemi di monitoraggio, una call per tecnologie per il contrasto alla diffusione del Covid-19"", ""Descrizione"": ""Una call for contributions di tre giorni a supporto del Ministero della Salute e dell\u2019Istituto Superiore di Sanit\u00e0 in collaborazione con l\u2019Organizzazione Mondiale della Sanit\u00e0: valutiamo le migliori proposte disponibili, per agire in modo coordinato a livello nazionale."", ""Link"": ""https://innovazione.gov.it/telemedicina-e-sistemi-di-monitoraggio-una-call-per-tecnologie-per-il-contrasto-alla-diffusione-del-covid-19/?fbclid=IwAR1pauPo3uTVDsIuO00lbRzkZAUDZ8WRusyL6OB5znYXdirqyyYr_rBVj74""}","<pre><yamldata>
 Cosa: Telemedicina e sistemi di monitoraggio, una call per tecnologie per il contrasto
   alla diffusione del Covid-19
@@ -62,7 +98,7 @@ Natura: didattica
 Titolo: campus virtuale di supporto a bambini e bambine con Disturbo di attenzione
   e iperattività
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1174,587168399,2020-03-24 18:24:27,2020-03-24 17:58:35,Associazione Quelli del Villaggio offre servizio a domicilio #Affori #Milano,45.46680,9.19050,Lombardia,Milano,"[""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione \u201cQuelli del Villaggio\u201d"", ""Descrizione"": ""L''attivit\u00e0 si svolger\u00e0 con le seguenti modalit\u00e0:\nil servizio \u00e8 limitato a prodotti di stretta necessit\u00e0 alimentari e pu\u00f2 essere richiesto AL MASSIMO DUE VOLTE ALLA SETTIMANA;\noccorre chiamare dalle 10 alle 12 il numero 339 2818613 indicando NOME COGNOME - SCALA - piano - numero di telefono per ordinare la spesa per il giorno successivo. Esempio: l''ordine parte il luned\u00ec - spesa arriva il marted\u00ec\nil volontario che si occuper\u00e0 della vostra spesa vi contatter\u00e0 il giorno successivo all''ordine, indicandovi l''ora a cui potr\u00e0 passare per ritirare i soldi, che dovranno essere inseriti in una busta;\na meno che non sussistano indicazioni particolari e motivate, il volontario comprer\u00e0 prodotti a basso prezzo, avvalendosi dei supermercati della zona, a massimo 200 metri di distanza dal Villaggio. Insieme alla spesa verr\u00e0 riconsegnato il resto e lo scontrino;\nper quanto riguarda l''acquisto di prodotti farmaceutici contattate la d.ssa Stella Franzoni 349 5788430. Vi indicher\u00e0 lei le procedure e vi porter\u00e0 i medicinali a casa.\nvi ricordiamo che per le ricette non \u00e8 necessario recarsi dal medico di base ma \u00e8 necessario chiamare il proprio medico curante che vi spiegher\u00e0 le procedure.\noccorre rispettare delle precauzioni fondamentali per la salute di tutti: i volontari, che indosseranno guanti e mascherina, dovranno mantenere una DISTANZA DI ALMENO 1 METRO E MEZZO e non potranno entrare nelle abitazioni dei beneficiari.\nSe qualche socio fosse a conoscenza di situazioni di bisogno relative a persone che non gestiscono il cellulare o che non sono a conoscenza di questa mail, potrebbe rendersi disponibile a fare da tramite fra costoro e l''associazione."", ""Destinatari"": ""Persone anziane o vulnerabili"", ""Link"": ""https://www.facebook.com/quellidelvillaggio/photos/a.157493920976854/2917472344978984/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""45.46680 9.19050"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne e commissioni a domicilio Associazione Quelli del Villaggio #Affori #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1174,587168399,2020-03-24 18:41:31,2020-03-24 17:58:35,Associazione Quelli del Villaggio offre consegne a domicilio di spesa e farmaci #Affori #Milano,45.46680,9.19050,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione \u201cQuelli del Villaggio\u201d"", ""Descrizione"": ""L''attivit\u00e0 si svolger\u00e0 con le seguenti modalit\u00e0:\nil servizio \u00e8 limitato a prodotti di stretta necessit\u00e0 alimentari e pu\u00f2 essere richiesto AL MASSIMO DUE VOLTE ALLA SETTIMANA;\noccorre chiamare dalle 10 alle 12 il numero 339 2818613 indicando NOME COGNOME - SCALA - piano - numero di telefono per ordinare la spesa per il giorno successivo. Esempio: l''ordine parte il luned\u00ec - spesa arriva il marted\u00ec\nil volontario che si occuper\u00e0 della vostra spesa vi contatter\u00e0 il giorno successivo all''ordine, indicandovi l''ora a cui potr\u00e0 passare per ritirare i soldi, che dovranno essere inseriti in una busta;\na meno che non sussistano indicazioni particolari e motivate, il volontario comprer\u00e0 prodotti a basso prezzo, avvalendosi dei supermercati della zona, a massimo 200 metri di distanza dal Villaggio. Insieme alla spesa verr\u00e0 riconsegnato il resto e lo scontrino;\nper quanto riguarda l''acquisto di prodotti farmaceutici contattate la d.ssa Stella Franzoni 349 5788430. Vi indicher\u00e0 lei le procedure e vi porter\u00e0 i medicinali a casa.\nvi ricordiamo che per le ricette non \u00e8 necessario recarsi dal medico di base ma \u00e8 necessario chiamare il proprio medico curante che vi spiegher\u00e0 le procedure.\noccorre rispettare delle precauzioni fondamentali per la salute di tutti: i volontari, che indosseranno guanti e mascherina, dovranno mantenere una DISTANZA DI ALMENO 1 METRO E MEZZO e non potranno entrare nelle abitazioni dei beneficiari.\nSe qualche socio fosse a conoscenza di situazioni di bisogno relative a persone che non gestiscono il cellulare o che non sono a conoscenza di questa mail, potrebbe rendersi disponibile a fare da tramite fra costoro e l''associazione."", ""Destinatari"": ""Persone anziane o vulnerabili"", ""Link"": ""https://www.facebook.com/quellidelvillaggio/photos/a.157493920976854/2917472344978984/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""45.46680 9.19050"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne e commissioni a domicilio Associazione Quelli del Villaggio #Affori #Milano""}","<pre><yamldata>
 Da_chi_offerta: Associazione “Quelli del Villaggio”
 Descrizione: ""L''attività si svolgerà con le seguenti modalità:
 
@@ -2766,21 +2802,6 @@ Descrizione: ""L’emergenza COVID-19 sta colpendo duramente anche le Opere di C
 Link: https://www.donorioneitalia.it/dona-ora/
 Nome: La carità non si ferma, raccolta fondi Opere di Carità Don Orione per emergenza
   coronavirus
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/959,585476866,2020-03-21 19:59:06,2020-03-21 11:02:44,Fondazione MilleSoli Onlus e Gruppo Tecnocasa avviano raccolta fondi per Policlinico Gemelli #Roma e Fondazione  Poliambulanza #Brescia,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""MilleSoli, con il fondamentale supporto del Gruppo Tecnocasa, ha deciso di promuovere su Retedeldono.it la raccolta fondi online \u201cDiamoci una mano\u201d per sostenere la sanit\u00e0 pubblica in questo momento di emergenza straordinaria, contribuendo cos\u00ec ad ampliare le possibilit\u00e0 di cure per chi dovesse contrarre il virus influenzale. Gli enti beneficiari individuati sono la Fondazione Policlinico Universitario Agostino Gemelli IRCCS - Universit\u00e0 Cattolica del Sacro Cuore di Roma e la Fondazione Poliambulanza di Brescia con i quali \u00e8 stata avviata una partnership per la corretta destinazione dei fondi, a garanzia delle persone che decideranno di sostenere il nostro gesto. Tutte le info al link."", ""Indirizzo"": ""41.89277044 12.48366723"", ""Link"": ""https://www.retedeldono.it/it/progetti/millesoli/millesoli-per-il-gemelli-e-poliambulanza"", ""Nome"": ""MilleSoli e Tecnocasa, raccolta fondi per Fondazione Policlinico Gemelli e Fondazione Poliambulanza""}","<pre><yamldata>
-Descrizione: MilleSoli, con il fondamentale supporto del Gruppo Tecnocasa, ha deciso
-  di promuovere su Retedeldono.it la raccolta fondi online “Diamoci una mano” per
-  sostenere la sanità pubblica in questo momento di emergenza straordinaria, contribuendo
-  così ad ampliare le possibilità di cure per chi dovesse contrarre il virus influenzale.
-  Gli enti beneficiari individuati sono la Fondazione Policlinico Universitario Agostino
-  Gemelli IRCCS - Università Cattolica del Sacro Cuore di Roma e la Fondazione Poliambulanza
-  di Brescia con i quali è stata avviata una partnership per la corretta destinazione
-  dei fondi, a garanzia delle persone che decideranno di sostenere il nostro gesto.
-  Tutte le info al link.
-Indirizzo: 41.89277044 12.48366723
-Link: https://www.retedeldono.it/it/progetti/millesoli/millesoli-per-il-gemelli-e-poliambulanza
-Nome: MilleSoli e Tecnocasa, raccolta fondi per Fondazione Policlinico Gemelli e Fondazione
-  Poliambulanza
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/959,585476866,2020-03-21 19:59:06,2020-03-21 11:02:44,Fondazione MilleSoli Onlus e Gruppo Tecnocasa avviano raccolta fondi per Policlinico Gemelli #Roma e Fondazione  Poliambulanza #Brescia,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""MilleSoli, con il fondamentale supporto del Gruppo Tecnocasa, ha deciso di promuovere su Retedeldono.it la raccolta fondi online \u201cDiamoci una mano\u201d per sostenere la sanit\u00e0 pubblica in questo momento di emergenza straordinaria, contribuendo cos\u00ec ad ampliare le possibilit\u00e0 di cure per chi dovesse contrarre il virus influenzale. Gli enti beneficiari individuati sono la Fondazione Policlinico Universitario Agostino Gemelli IRCCS - Universit\u00e0 Cattolica del Sacro Cuore di Roma e la Fondazione Poliambulanza di Brescia con i quali \u00e8 stata avviata una partnership per la corretta destinazione dei fondi, a garanzia delle persone che decideranno di sostenere il nostro gesto. Tutte le info al link."", ""Indirizzo"": ""41.89277044 12.48366723"", ""Link"": ""https://www.retedeldono.it/it/progetti/millesoli/millesoli-per-il-gemelli-e-poliambulanza"", ""Nome"": ""MilleSoli e Tecnocasa, raccolta fondi per Fondazione Policlinico Gemelli e Fondazione Poliambulanza""}","<pre><yamldata>
 Descrizione: MilleSoli, con il fondamentale supporto del Gruppo Tecnocasa, ha deciso
