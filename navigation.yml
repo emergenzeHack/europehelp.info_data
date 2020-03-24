@@ -35,5 +35,5 @@ languages:
         - OPEN DATA: "opendata/"
       CONTRIBUTE:
         - HOW: "contribuisci/"
-        - WIKI: "wiki/"
+        - WIKI: "en/wiki/"
       PRIVACY: "legal"
