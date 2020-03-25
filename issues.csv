@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1195,587595626,2020-03-25 10:47:38,2020-03-25 10:30:43,Servizio bus a chiamata da/per ospedali non-Covid per abitanti della Comunità Montana di #Camerino #Marche,43.296077,13.454209,Marche,Macerata,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Contram Mobilit\u00e0"", ""Descrizione"": ""Nelle zone nelle quali non \u00e8 possibile raggiungere i servizi ospedalieri \""non covid\"", con il servizio di linea Contrammobilit\u00e0, abbiamo attivato un servizio di trasporto a chiamata per il periodo dell'emergenza.\n\nIl servizio \u00e8 prenotabile al numero 800037737 dalle 9:00 alle 18:00 dal luned\u00ec al venerd\u00ec. Chiamare il giorno precedente alla partenza per prenotare."", ""Destinatari"": ""abitanti delle zone del cratere sisma Marche/Comunit\u00e0 Montana di Camerino"", ""Link"": ""https://www.facebook.com/groups/ussitapuntoacapo/"", ""Natura"": ""solidale"", ""Posizione"": ""43.296077 13.454209 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio bus a chiamata da/per ospedali non-Covid""}","<pre><yamldata>
+Da_chi_offerta: Contram Mobilità
+Descrizione: 'Nelle zone nelle quali non è possibile raggiungere i servizi ospedalieri
+  ""non covid"", con il servizio di linea Contrammobilità, abbiamo attivato un servizio
+  di trasporto a chiamata per il periodo dell''emergenza.
+
+
+  Il servizio è prenotabile al numero 800037737 dalle 9:00 alle 18:00 dal lunedì al
+  venerdì. Chiamare il giorno precedente alla partenza per prenotare.'
+Destinatari: abitanti delle zone del cratere sisma Marche/Comunità Montana di Camerino
+Link: https://www.facebook.com/groups/ussitapuntoacapo/
+Natura: solidale
+Posizione: 43.296077 13.454209 0 0
+Tipo_di_soggetto: privato
+Titolo: Servizio bus a chiamata da/per ospedali non-Covid
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1194,587575438,2020-03-25 10:02:58,2020-03-25 09:57:21,Supermercato fa consegne a domicilio nei paesi etnei  e nella provincia di #Catania,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\u00c8 un supermercato che fa consegne a domicilio nei paesi etnei - provincia di Catania. Il minimo d'ordine online \u00e8 50 euro e il pagamento ammesso \u00e8 con carta di credito o Paypal. La fascia oraria per le consegne \u00e8 limitata a poche ore al giorno e in questo periodo di emergenza i tempi per la consegna si aggirano sui 6-7 giorni"", ""Indirizzo"": ""37.50287801 15.08704738"", ""Link"": ""https://www.cliccalaspesa.it"", ""Metodi_di_pagamento_accettati"": ""option_2 option_1 carta_prepagat"", ""Nome_dell_esercizio_commercial"": ""Cliccalaspesa"", ""Telefono"": ""800536155""}","<pre><yamldata>
 Descrizione: È un supermercato che fa consegne a domicilio nei paesi etnei - provincia
   di Catania. Il minimo d'ordine online è 50 euro e il pagamento ammesso è con carta
