@@ -27,7 +27,7 @@ languages:
       FOLLOW:
         - NEWS: "notizie-utili/"
         - BLOG : "post/"
-        - CONTACTS: "canali/"
+        - CONTACTS: "en/canali/"
       WHAT IS THIS?:
         - ABOUT: "en/about/"
         - PRESS: "press/"
