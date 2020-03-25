@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1193,587572524,2020-03-25 09:54:03,2020-03-25 09:52:22,Esercizi alimentari che fanno consegne a domicilio nel Comune di #Tortona,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Cosa"": ""Consegne a domicilio"", ""Descrizione"": ""Consegne a domicilio alimentari e ristorazione"", ""Fonte"": ""Comune di Tortona (AL)"", ""Link"": ""https://www.comune.tortona.al.it/attivita-che-effettuano-servizio-a-domicilio""}","<pre><yamldata>
+Cosa: Consegne a domicilio
+Descrizione: Consegne a domicilio alimentari e ristorazione
+Fonte: Comune di Tortona (AL)
+Link: https://www.comune.tortona.al.it/attivita-che-effettuano-servizio-a-domicilio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1192,587570481,2020-03-25 09:52:16,2020-03-25 09:48:54,Vendita e consegna a domicilio di prodotti orto frutticoli a #Catania e nei paesi etnei,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Vendita e consegna a domicilio di prodotti orto frutticoli a Catania e nei paesi etnei.\n Il numero di cellulare \u00e8 attivo su whatzapp. Si pu\u00f2 ordinare e pagare attraverso il sito senza un minimo di spesa, si pu\u00f2 pagare online sia con carta-credito che con Paypal. Le consegne avvengono il giorno successivo all'ordine, tra le 10 e le 19."", ""Email"": ""horeca@fruttilio.it"", ""Indirizzo"": ""37.50287801 15.08704738"", ""Link"": ""https://www.fruttilio.it/"", ""Metodi_di_pagamento_accettati"": ""option_2 option_1 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Fruttilio"", ""Telefono"": ""3423021984""}","<pre><yamldata>
 Descrizione: ""Vendita e consegna a domicilio di prodotti orto frutticoli a Catania\
   \ e nei paesi etnei.\n Il numero di cellulare è attivo su whatzapp. Si può ordinare\
