@@ -29,7 +29,7 @@ languages:
         - BLOG : "post/"
         - CONTACTS: "canali/"
       WHAT IS THIS?:
-        - ABOUT: "about/"
+        - ABOUT: "en/about/"
         - PRESS: "press/"
         - FAQ: "en/faq/"
         - OPEN DATA: "opendata/"
