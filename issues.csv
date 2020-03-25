@@ -1,4 +1,247 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1222,587889910,2020-03-25 18:15:07,2020-03-25 18:08:23,Vino sfuso a domicilio zona #CittaStudi #Milano,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Vino sfuso a domicilio"", ""Metodi_di_pagamento_accettati"": ""option_2 contanti"", ""Nome_dell_esercizio_commercial"": ""Il Torchio"", ""Telefono"": ""02745635""}","<pre><yamldata>
+Descrizione: Vino sfuso a domicilio
+Metodi_di_pagamento_accettati: option_2 contanti
+Nome_dell_esercizio_commercial: Il Torchio
+Telefono: '02745635'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1221,587881301,2020-03-25 18:48:55,2020-03-25 17:54:57,Adottauneroe.com - L'aiuto dal tuo vicinato per l'acquisto di alimentari e medicinali,,,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Da Loud s.r.l. e Ennevolte s.r.l."", ""Descrizione"": ""Ciao a tutti.\n\nDurante lo scorso weekend abbiamo creato una piccola piattaforma per mettere in contatto telefonico persone bisognose di aiuto per fare spesa alimentare e farmaceutica con enti e giovani volontari nei loro paraggi pronti ad aiutare.\n\nSe pensi di poter dare una mano alle persone in difficolt\u00e0, a coloro che lottano in prima linea oppure tu stesso hai bisogno di aiuto, iscriviti e condividi questo link.\n\nhttps://adottauneroe.com/\n\n\u00c8 un'iniziativa senza scopo di lucro per il bene comune ed \u00e8 nata proprio per risolvere questa esigenza che abbiamo visto che sta aumentando.\n\n#adottauneroe #iorestoacasa #lontanimavicini\n\nGrazie"", ""Destinatari"": ""Enti e Persone in cerca di aiuto"", ""Link"": ""https://adottauneroe.com/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Adottauneroe.com | L'aiuto dal tuo vicinato per l'acquisto di alimentari e medicinali""}","<pre><yamldata>
+Da_chi_offerta: Da Loud s.r.l. e Ennevolte s.r.l.
+Descrizione: 'Ciao a tutti.
+
+
+  Durante lo scorso weekend abbiamo creato una piccola piattaforma per mettere in
+  contatto telefonico persone bisognose di aiuto per fare spesa alimentare e farmaceutica
+  con enti e giovani volontari nei loro paraggi pronti ad aiutare.
+
+
+  Se pensi di poter dare una mano alle persone in difficoltà, a coloro che lottano
+  in prima linea oppure tu stesso hai bisogno di aiuto, iscriviti e condividi questo
+  link.
+
+
+  https://adottauneroe.com/
+
+
+  È un''iniziativa senza scopo di lucro per il bene comune ed è nata proprio per risolvere
+  questa esigenza che abbiamo visto che sta aumentando.
+
+
+  #adottauneroe #iorestoacasa #lontanimavicini
+
+
+  Grazie'
+Destinatari: Enti e Persone in cerca di aiuto
+Link: https://adottauneroe.com/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Adottauneroe.com | L'aiuto dal tuo vicinato per l'acquisto di alimentari e
+  medicinali
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1217,587874925,2020-03-25 18:50:21,2020-03-25 17:44:13,#RegionePiemonte sospensione bollo auto fino al 30/6/2020,45.06091,7.71191,Piemonte,Torino,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""#RegionePiemonte: sospensione bollo auto fino al 30/6/2020"", ""Descrizione"": ""Sospeso fino al mese di giugno il pagamento del bollo auto dovuto dagli automobilisti piemontesi alla Regione."", ""Link"": ""https://www.regione.piemonte.it/web/pinforma/notizie/pagamento-bollo-auto-sospeso-fino-giugno"", ""Posizione"": ""45.06091 7.71191""}","<pre><yamldata>
+Cosa: '#RegionePiemonte: sospensione bollo auto fino al 30/6/2020'
+Descrizione: Sospeso fino al mese di giugno il pagamento del bollo auto dovuto dagli
+  automobilisti piemontesi alla Regione.
+Link: https://www.regione.piemonte.it/web/pinforma/notizie/pagamento-bollo-auto-sospeso-fino-giugno
+Posizione: 45.06091 7.71191
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1215,587857680,2020-03-25 17:51:40,2020-03-25 17:16:30,"Conad #Cori #Latina, consegne a domicilio per persone in difficoltà",41.64321,12.91050,Lazio,Latina,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Conad di Cori, piazza della Croce, Cori, LT"", ""Descrizione"": ""Solo per persone con difficolt\u00e0 e/o di oltre 65 anni, in collaborazione con la Protezione Civile \u00e8 possibile richiedere consegna a domicilio contattando il numero 3355342197\n\u00c8 possibile anche prenotare e andare a ritirare la spesa senza fare fila contattando i seguenti numeri:\n3755352058\n3208406188\n3206307729\n3494516117\nConad, piazza della Croce, Cori, LT"", ""Destinatari"": ""persone in difficolt\u00e0 a Cori"", ""Natura"": ""solidale"", ""Posizione"": ""41.64321 12.91050"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne a domicilio per persone in difficolt\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Conad di Cori, piazza della Croce, Cori, LT
+Descrizione: 'Solo per persone con difficoltà e/o di oltre 65 anni, in collaborazione
+  con la Protezione Civile è possibile richiedere consegna a domicilio contattando
+  il numero 3355342197
+
+  È possibile anche prenotare e andare a ritirare la spesa senza fare fila contattando
+  i seguenti numeri:
+
+  3755352058
+
+  3208406188
+
+  3206307729
+
+  3494516117
+
+  Conad, piazza della Croce, Cori, LT'
+Destinatari: persone in difficoltà a Cori
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Consegne a domicilio per persone in difficoltà
+Posizione: 41.64321 12.91050
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1214,587838747,2020-03-25 17:47:01,2020-03-25 16:48:13,"#Catanzaro, elenco negozi che consegnano a domicilio",,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi vari, Catanzaro"", ""Descrizione"": ""Lista di esercizi commerciali che consegnano a casa a Catanzaro compilata dal quotidiano locale online YesCalabria.com"", ""Destinatari"": ""Cittadini di Catanzaro"", ""Indirizzo"": ""38.90597588 16.59440429"", ""Link"": ""https://www.yescalabria.com/it/emergenza-covid-19-consegne-a-domicilio-a-catanzaro/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Catanzaro, elenco negozi che consegnano a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Negozi vari, Catanzaro
+Descrizione: Lista di esercizi commerciali che consegnano a casa a Catanzaro compilata
+  dal quotidiano locale online YesCalabria.com
+Destinatari: Cittadini di Catanzaro
+Indirizzo: 38.90597588 16.59440429
+Link: https://www.yescalabria.com/it/emergenza-covid-19-consegne-a-domicilio-a-catanzaro/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: '#Catanzaro, elenco negozi che consegnano a domicilio'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1213,587834969,2020-03-25 17:45:55,2020-03-25 16:42:39,"#Cosenza e provincia, elenco negozi che consegnano a domicilio",39.298325,16.251783,Calabria,Cosenza,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""negozi vari provincia Cosenza"", ""Descrizione"": ""Lista di esercizi commerciali che consegnano a casa a Cosenza e provincia, compilata dal quotidiano locale online YesCalabria.com"", ""Destinatari"": ""Cittadini in provincia di Cosenza"", ""Link"": ""https://www.yescalabria.com/it/consegne-a-domicilio-cosenza-e-provincia/"", ""Natura"": ""solidale"", ""Posizione"": ""39.298325 16.251783 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Cosenza e provincia, elenco negozi che consegnano a domicilio""}","<pre><yamldata>
+Da_chi_offerta: negozi vari provincia Cosenza
+Descrizione: Lista di esercizi commerciali che consegnano a casa a Cosenza e provincia,
+  compilata dal quotidiano locale online YesCalabria.com
+Destinatari: Cittadini in provincia di Cosenza
+Link: https://www.yescalabria.com/it/consegne-a-domicilio-cosenza-e-provincia/
+Natura: solidale
+Posizione: 39.298325 16.251783 0 0
+Tipo_di_soggetto: privato
+Titolo: '#Cosenza e provincia, elenco negozi che consegnano a domicilio'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1212,587818415,2020-03-25 18:03:36,2020-03-25 16:18:55,Docente madrelingua offre lezioni di inglese online,,,,,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Daniel Knight, English Teacher"", ""Descrizione"": ""Docente Madrelingua British (perfettamente bilingue) offre i suoi servizi:\n\n[Per questo periodo particolarmente difficile, ESCLUSIVAMENTE su Skype o Zoom le lezioni.]\n\n- lezioni Business/Regular English\n- conversation\n- stesura/traduzione cv professionali.\n-preparazione esami (quali Ket, Pet, First, Ielts, ecc..\n- bambini, anche per esami (fliers, moovers etc)\n\nEsperienza di oltre 8 anni maturata nei migliori istituti (British, dove ero anche direttore Junior Academy, International School, Language Academy ecc) e collaborato con aziende quali Ebay, GFK, Nielsen, Banca Intesa e molte altre"", ""Destinatari"": ""Chiunque voglia migliorare il proprio inglese"", ""Natura"": ""didattica"", ""Titolo"": ""Online English Lessons""}","<pre><yamldata>
+Da_chi_offerta: Daniel Knight, English Teacher
+Descrizione: 'Docente Madrelingua British (perfettamente bilingue) offre i suoi servizi:
+
+
+  [Per questo periodo particolarmente difficile, ESCLUSIVAMENTE su Skype o Zoom le
+  lezioni.]
+
+
+  - lezioni Business/Regular English
+
+  - conversation
+
+  - stesura/traduzione cv professionali.
+
+  -preparazione esami (quali Ket, Pet, First, Ielts, ecc..
+
+  - bambini, anche per esami (fliers, moovers etc)
+
+
+  Esperienza di oltre 8 anni maturata nei migliori istituti (British, dove ero anche
+  direttore Junior Academy, International School, Language Academy ecc) e collaborato
+  con aziende quali Ebay, GFK, Nielsen, Banca Intesa e molte altre'
+Destinatari: Chiunque voglia migliorare il proprio inglese
+Natura: didattica
+Titolo: Online English Lessons
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1211,587801207,2020-03-25 17:45:22,2020-03-25 15:55:22,Lezioni gratuite di yoga e meditazione ,,,,,"[""Attivita culturali e ricreative"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Cosa"": ""Yoga"", ""Descrizione"": ""Lezioni gratuite \nLE LEZIONI SONO:\nLUNEDI alle 12 YOGA FLOW con Laura\nMARTEDI alle 18.30 MEDITAZIONE con Gisella\nGIOVEDI alle 18.30 YOGA BASE con Nicoletta\nPer accedere registrati su www.youelements.com/community"", ""Destinatari"": ""Tutti in salute psicofisica"", ""Email"": ""Info@youelements.com"", ""Immagine"": ""56814D20-0C38-4E71-8DB1-67291821CBCC-16_55_15.jpeg"", ""Link"": ""www.youelements.com/community"", ""Telefono"": ""3494997789""}","<pre><yamldata>
+Cosa: Yoga
+Descrizione: ""Lezioni gratuite \nLE LEZIONI SONO:\nLUNEDI alle 12 YOGA FLOW con Laura\n\
+  MARTEDI alle 18.30 MEDITAZIONE con Gisella\nGIOVEDI alle 18.30 YOGA BASE con Nicoletta\n\
+  Per accedere registrati su www.youelements.com/community""
+Destinatari: Tutti in salute psicofisica
+Email: Info@youelements.com
+Immagine: 56814D20-0C38-4E71-8DB1-67291821CBCC-16_55_15.jpeg
+Link: www.youelements.com/community
+Telefono: '3494997789'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1210,587798402,2020-03-25 15:57:15,2020-03-25 15:51:28,Procedura per ottenere ZOOM esteso e gratuito nelle scuole,,,,,"[""Didattica a distanza e-learning"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Zoom"", ""Descrizione"": ""Zoom \u00e8 un programma di videoconferenze che - vista l'emergenza attuale - ha deciso di donare agli istituti di istruzione l'accesso completo di tutte le funzionalit\u00e0 extra, compresa l'assenza di limite massimo di durata delle sessioni video.\nCondivido qui le informazioni ricevute finora dall'assistenza di Zoom su come funziona l'attivazione.\n1. Per ottenere Zoom compila il form al seguente link: https://zoom.us/docs/ent/school-verification.html\n2. Per abilitare la scuola utilizza una mail istituzionale della scuola (ad esempio nina@scuolanomecognome.it), avendo cura di scegliere un indirizzo che sia presidiato anche in questi giorni in cui le scuole sono chiuse.\n3. Entro 48-72 ore Zoom invier\u00e0 una mail di conferma di avvenuta attivazione dei servizi per TUTTO l'istituto scolastico.\n4. Tutti i docenti dotati di mail istituzionale @scuolanomecognome.it dovranno andare su Zoom e creare un account base al seguente link: https://zoom.us/signup\n5. Finita la registrazione ogni docente dovr\u00e0 andare sulla propria pagina profilo (zoom.us/profile). Il sistema riconoscer\u00e0 che l'indirizzo email personale appartiene a quello della scuola che si \u00e8 candidata. Dovrebbe comparirvi un piccolo banner verde in cima alla pagina, da cui potrete accedere ai servizi extra.\nIn questo modo TUTTI i docenti potranno usare la piattaforma."", ""Destinatari"": ""Docenti"", ""Link"": ""https://zoom.us/docs/ent/school-verification.html?fbclid=IwAR2XtuCc1ZV2ucCSKmYo9nR2Wp4f4bcB2In5us7km6D8iXf3QtUR1Ijq3a8"", ""Natura"": ""didattica"", ""Titolo"": ""PROCEDURA PER OTTENERE ZOOM ESTESO E GRATUITO NELLE SCUOLE""}","<pre><yamldata>
+Da_chi_offerta: Zoom
+Descrizione: 'Zoom è un programma di videoconferenze che - vista l''emergenza attuale
+  - ha deciso di donare agli istituti di istruzione l''accesso completo di tutte le
+  funzionalità extra, compresa l''assenza di limite massimo di durata delle sessioni
+  video.
+
+  Condivido qui le informazioni ricevute finora dall''assistenza di Zoom su come funziona
+  l''attivazione.
+
+  1. Per ottenere Zoom compila il form al seguente link: https://zoom.us/docs/ent/school-verification.html
+
+  2. Per abilitare la scuola utilizza una mail istituzionale della scuola (ad esempio
+  nina@scuolanomecognome.it), avendo cura di scegliere un indirizzo che sia presidiato
+  anche in questi giorni in cui le scuole sono chiuse.
+
+  3. Entro 48-72 ore Zoom invierà una mail di conferma di avvenuta attivazione dei
+  servizi per TUTTO l''istituto scolastico.
+
+  4. Tutti i docenti dotati di mail istituzionale @scuolanomecognome.it dovranno andare
+  su Zoom e creare un account base al seguente link: https://zoom.us/signup
+
+  5. Finita la registrazione ogni docente dovrà andare sulla propria pagina profilo
+  (zoom.us/profile). Il sistema riconoscerà che l''indirizzo email personale appartiene
+  a quello della scuola che si è candidata. Dovrebbe comparirvi un piccolo banner
+  verde in cima alla pagina, da cui potrete accedere ai servizi extra.
+
+  In questo modo TUTTI i docenti potranno usare la piattaforma.'
+Destinatari: Docenti
+Link: https://zoom.us/docs/ent/school-verification.html?fbclid=IwAR2XtuCc1ZV2ucCSKmYo9nR2Wp4f4bcB2In5us7km6D8iXf3QtUR1Ijq3a8
+Natura: didattica
+Titolo: PROCEDURA PER OTTENERE ZOOM ESTESO E GRATUITO NELLE SCUOLE
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1207,587767472,2020-03-25 17:38:56,2020-03-25 15:09:16,Attivo il programma di teleassistenza infermieristica specializzata #ParkinsonCare a titolo gratuito,,,,,"[""Bollettino"", ""Contatti utili"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Email"": ""info@parkinsoncare.com"", ""Indirizzo"": ""0 0 0 0"", ""Link"": ""http://www.vita.it/it/article/2020/03/25/coronavirus-teleassistenza-gratuita-ai-malati-di-parkinson/154656/"", ""Nome"": ""Teleassistenza gratuita ai malati di Parkinson"", ""Scopo"": ""Fino al 12 giugno per le persone con malattia di Parkinson che vivono nelle regioni pi\u00f9 colpite dall\u2019emergenza Coronavirus (Lombardia, Emilia Romagna, Veneto e Piemonte) \u00e8 possibile accedere al programma di teleassistenza infermieristica specializzata ParkinsonCare a titolo gratuito.\nIl servizio \u00e8 attivo ogni giorno dalle ore 9 alle 18 da luned\u00ec a venerd\u00ec."", ""Telefono"": ""0221079997""}","<pre><yamldata>
+Email: info@parkinsoncare.com
+Indirizzo: 0 0 0 0
+Link: http://www.vita.it/it/article/2020/03/25/coronavirus-teleassistenza-gratuita-ai-malati-di-parkinson/154656/
+Nome: Teleassistenza gratuita ai malati di Parkinson
+Scopo: 'Fino al 12 giugno per le persone con malattia di Parkinson che vivono nelle
+  regioni più colpite dall’emergenza Coronavirus (Lombardia, Emilia Romagna, Veneto
+  e Piemonte) è possibile accedere al programma di teleassistenza infermieristica
+  specializzata ParkinsonCare a titolo gratuito.
+
+  Il servizio è attivo ogni giorno dalle ore 9 alle 18 da lunedì a venerdì.'
+Telefono: 0221079997
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1206,587761871,2020-03-25 16:50:52,2020-03-25 15:01:29,Raccolta fondi Croce Verde #Vigevano acquisto di ventilatori polmonari ,45.31886101,8.841402,Lombardia,Pavia,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Croce verde Vigevano per un ventilatore polmonare"", ""Descrizione"": ""Raccolta fondi per l'acquisto di ventilatori polmonari da donare al reparto di rianimazione dell'Ospedale Civile di Vigevano."", ""IBAN"": ""IT18D0521623000000000086450"", ""Link"": ""https://www.informatorevigevanese.it/attualita/2020/03/24/news/croce-verde-una-raccolta-fondi-per-la-rianimazione-dell-ospedale-di-vigevano-545932/"", ""Nome"": ""Croce Verde Vigevano"", ""Posizione"": ""45.31886101 8.841402 0 0""}","<pre><yamldata>
+Causale: Croce verde Vigevano per un ventilatore polmonare
+Descrizione: Raccolta fondi per l'acquisto di ventilatori polmonari da donare al reparto
+  di rianimazione dell'Ospedale Civile di Vigevano.
+IBAN: IT18D0521623000000000086450
+Link: https://www.informatorevigevanese.it/attualita/2020/03/24/news/croce-verde-una-raccolta-fondi-per-la-rianimazione-dell-ospedale-di-vigevano-545932/
+Nome: Croce Verde Vigevano
+Posizione: 45.31886101 8.841402 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1205,587755981,2020-03-25 16:45:29,2020-03-25 14:53:43,Pagina aggiornata con dati affluenza Ipermercati Lando #Veneto,45.729191,11.90918,Veneto,Treviso,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dati affluenza Ipermercati Lando - VENETO"", ""Descrizione"": ""Pagina aggiornata ogni 30 minuti con i dati di affluenza nei supermercati della catena LANDO."", ""Link"": ""https://sites.google.com/iperlando.it/afflussoclienti/home-page?authuser=0"", ""Posizione"": ""45.729191 11.90918 0 0""}","<pre><yamldata>
+Cosa: Dati affluenza Ipermercati Lando - VENETO
+Descrizione: Pagina aggiornata ogni 30 minuti con i dati di affluenza nei supermercati
+  della catena LANDO.
+Link: https://sites.google.com/iperlando.it/afflussoclienti/home-page?authuser=0
+Posizione: 45.729191 11.90918 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1204,587740772,2020-03-25 16:43:30,2020-03-25 14:33:22,Su #IlPost un romanzo di Tiziano Sclavi da scaricare gratuitamente ,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Post"", ""Descrizione"": ""Sul sito de Il Post \u00e8 disponibile gratuitamente il racconto \""Dellamorte Dellamore\"", scritto da Tiziano Sclavi, fumettista che ha creato il personaggio di Dylan Dog. Il racconto parla di Francesco Dellamorte, che ricorda il pi\u00f9 celebre Dylan Dog.\n\u00c9 possibile sia leggerlo online che scaricarlo."", ""Destinatari"": ""Tutti"", ""Indirizzo"": ""41.89277044 12.48366723"", ""Link"": ""https://www.ilpost.it/2020/03/25/tiziano-sclavi-dellamorte-dellamore-pdf-scaricare/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Un romanzo di Tiziano Sclavi (l'inventore di Dylan Dog) da scaricare e leggere""}","<pre><yamldata>
+Da_chi_offerta: Il Post
+Descrizione: 'Sul sito de Il Post è disponibile gratuitamente il racconto ""Dellamorte
+  Dellamore"", scritto da Tiziano Sclavi, fumettista che ha creato il personaggio di
+  Dylan Dog. Il racconto parla di Francesco Dellamorte, che ricorda il più celebre
+  Dylan Dog.
+
+  É possibile sia leggerlo online che scaricarlo.'
+Destinatari: Tutti
+Indirizzo: 41.89277044 12.48366723
+Link: https://www.ilpost.it/2020/03/25/tiziano-sclavi-dellamorte-dellamore-pdf-scaricare/
+Natura: culturale-ricr
+Titolo: Un romanzo di Tiziano Sclavi (l'inventore di Dylan Dog) da scaricare e leggere
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1203,587734195,2020-03-25 17:42:53,2020-03-25 14:24:35,"#Varese, produttori che consegnano a domicilio prodotti km 0 (e il 10% dei ricavati va agli ospedali del territorio)",,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""produttori locali"", ""Descrizione"": ""Piattaforma online che aggrega produttori del varesotto con l'obiettivo di: \n\nAiutare ad approvvigionare, con consegne a domicilio e con prodotti a Km 0, tutte le famiglie che non possono o preferiscono non spostarsi per fare la spesa di prodotti alimentari\n\nSostenere le imprese territoriali della filiera agro-alimentare in un momento di massima difficolt\u00e0 economica affinch\u00e8 possano proseguire con l\u2019attivit\u00e0 e non soccombere\n\nContribuire economicamente agli investimenti ed alle spese degli ospedali del territorio, grazie ad una percentuale del 10% che verr\u00e0 devoluta dagli operatori su ogni acquisto effettuato"", ""Destinatari"": ""Abitanti della provincia di Varese"", ""Link"": ""https://scelgoilterritorio.it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Acquisti km 0 e 10% donato a ospedali (provincia VA)""}","<pre><yamldata>
+Da_chi_offerta: produttori locali
+Descrizione: ""Piattaforma online che aggrega produttori del varesotto con l'obiettivo\
+  \ di: \n\nAiutare ad approvvigionare, con consegne a domicilio e con prodotti a\
+  \ Km 0, tutte le famiglie che non possono o preferiscono non spostarsi per fare\
+  \ la spesa di prodotti alimentari\n\nSostenere le imprese territoriali della filiera\
+  \ agro-alimentare in un momento di massima difficoltà economica affinchè possano\
+  \ proseguire con l’attività e non soccombere\n\nContribuire economicamente agli\
+  \ investimenti ed alle spese degli ospedali del territorio, grazie ad una percentuale\
+  \ del 10% che verrà devoluta dagli operatori su ogni acquisto effettuato""
+Destinatari: Abitanti della provincia di Varese
+Link: https://scelgoilterritorio.it/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Acquisti km 0 e 10% donato a ospedali (provincia VA)
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1202,587690369,2020-03-25 16:34:40,2020-03-25 13:19:13,Aggiornamento dell’elenco delle attività indifferibili da rendere in presenza presso gli UMC,,,,,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Aggiornamento dell\u2019elenco delle attivit\u00e0 indifferibili da rendere in presenza presso gli UMC."", ""Descrizione"": ""Artt. 92, comma 4 e 103, commi 1 e 2, decreto-legge 17 marzo 2020, n. 18 \u2013 Proroga e sospensione di termini in considerazione dell\u2019emergenza epidemiologica da COVID-19. Aggiornamento dell\u2019elenco delle attivit\u00e0 indifferibili da rendere in presenza presso gli UMC."", ""Fonte"": ""Ministero delle Infrastrutture e dei Trasporti"", ""Link"": ""http://www.mit.gov.it/sites/default/files/media/normativa/2020-03/Circolare%201735.pdf""}","<pre><yamldata>
+Cosa: Aggiornamento dell’elenco delle attività indifferibili da rendere in presenza
+  presso gli UMC.
+Descrizione: Artt. 92, comma 4 e 103, commi 1 e 2, decreto-legge 17 marzo 2020, n.
+  18 – Proroga e sospensione di termini in considerazione dell’emergenza epidemiologica
+  da COVID-19. Aggiornamento dell’elenco delle attività indifferibili da rendere in
+  presenza presso gli UMC.
+Fonte: Ministero delle Infrastrutture e dei Trasporti
+Link: http://www.mit.gov.it/sites/default/files/media/normativa/2020-03/Circolare%201735.pdf
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1201,587687486,2020-03-25 17:53:05,2020-03-25 13:14:37,Proroga validità patenti e altri documenti #MIT,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Proroga validit\u00e0 patenti e altri documenti"", ""Descrizione"": ""Proroga dei termini di validit\u00e0 delle abilitazioni alla guida e dei documenti necessari per il loro rilascio o conferma di validit\u00e0, ai sensi degli articoli 103 e 104 decreto-legge 17 marzo 2020, n. 18.\nLa presente circolare sostituisce integralmente la circolare prot. 9209 del 19 marzo 2020."", ""Fonte"": ""Ministero delle Infrastrutture e dei Trasporti"", ""Link"": ""http://www.mit.gov.it/sites/default/files/media/normativa/2020-03/Circolare%209487%20del%2024-03-2020.pdf""}","<pre><yamldata>
+Cosa: Proroga validità patenti e altri documenti
+Descrizione: 'Proroga dei termini di validità delle abilitazioni alla guida e dei
+  documenti necessari per il loro rilascio o conferma di validità, ai sensi degli
+  articoli 103 e 104 decreto-legge 17 marzo 2020, n. 18.
+
+  La presente circolare sostituisce integralmente la circolare prot. 9209 del 19 marzo
+  2020.'
+Fonte: Ministero delle Infrastrutture e dei Trasporti
+Link: http://www.mit.gov.it/sites/default/files/media/normativa/2020-03/Circolare%209487%20del%2024-03-2020.pdf
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1200,587643940,2020-03-25 12:22:25,2020-03-25 11:56:40,"Cosa cambia per gli spostamenti dopo gli ultimi provvedimenti del Governo, 12 domande e risposte",,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Visite mediche, familiari anziani, colf:\u2009ecco quando ci si pu\u00f2 spostare e quando no da un Comune all\u2019altro"", ""Descrizione"": ""Dopo l\u2019entrata in vigore degli ultimi provvedimenti restrittivi del Governo ecco cosa cambia per gli spostamenti in 12 domande e risposte pubblicate dal Sole 24 Ore."", ""Link"": ""https://www.ilsole24ore.com/art/visite-mediche-familiari-anziani-colf-ecco-quando-ci-si-puo-spostare-e-quando-no-un-comune-all-altro-ADKZHFF""}","<pre><yamldata>
 Cosa: Visite mediche, familiari anziani, colf: ecco quando ci si può spostare e quando
   no da un Comune all’altro
@@ -345,7 +588,7 @@ Natura: culturale-ricr
 Titolo: '""PER QUANDO TORNEREMO"" È UN EBOOK CHE CONTIENE POESIE E RACCONTI ilricavato
   andrà all''ospedale di prato e ad altre strutture ospedaliere italiane'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1176,587180182,2020-03-25 09:37:41,2020-03-24 18:12:57,#MyTutela app anti-stalking gratuita per emergenza coronavirus ,,,,,"[""Bollettino"", ""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Procura di Roma"", ""Descrizione"": ""Per difendere meglio le donne dalle violenze domestiche la startup che ha inventato la App che difende le donne dagli stalker ha annunciato di renderla totalmente gratis per tutto il periodo della quarantena dovuta al coronavirus.\nScaricare la App \u00e8 facile poi si inserisce il numero del molestatore. Da quel momento ogni telefonata o messaggio vengono automaticamente messi da parte e archiviati, ordinati da un punto di vista cronologico, in modo da definire il percorso dello stalker."", ""Destinatari"": ""Donne"", ""Link"": ""www.mytutela.app"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#MyTutela App che difende le donne da violenze e stalker per il periodo della quarantena""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1176,587180182,2020-03-25 15:08:36,2020-03-24 18:12:57,#MyTutela app anti-stalking gratuita per emergenza coronavirus ,,,,,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Donne"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Procura di Roma"", ""Descrizione"": ""Per difendere meglio le donne dalle violenze domestiche la startup che ha inventato la App che difende le donne dagli stalker ha annunciato di renderla totalmente gratis per tutto il periodo della quarantena dovuta al coronavirus.\nScaricare la App \u00e8 facile poi si inserisce il numero del molestatore. Da quel momento ogni telefonata o messaggio vengono automaticamente messi da parte e archiviati, ordinati da un punto di vista cronologico, in modo da definire il percorso dello stalker."", ""Destinatari"": ""Donne"", ""Link"": ""www.mytutela.app"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#MyTutela App che difende le donne da violenze e stalker per il periodo della quarantena""}","<pre><yamldata>
 Da_chi_offerta: Procura di Roma
 Descrizione: 'Per difendere meglio le donne dalle violenze domestiche la startup che
   ha inventato la App che difende le donne dagli stalker ha annunciato di renderla
