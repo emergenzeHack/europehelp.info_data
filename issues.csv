@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1194,587575438,2020-03-25 10:02:58,2020-03-25 09:57:21,Supermercato fa consegne a domicilio nei paesi etnei  e nella provincia di #Catania,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\u00c8 un supermercato che fa consegne a domicilio nei paesi etnei - provincia di Catania. Il minimo d'ordine online \u00e8 50 euro e il pagamento ammesso \u00e8 con carta di credito o Paypal. La fascia oraria per le consegne \u00e8 limitata a poche ore al giorno e in questo periodo di emergenza i tempi per la consegna si aggirano sui 6-7 giorni"", ""Indirizzo"": ""37.50287801 15.08704738"", ""Link"": ""https://www.cliccalaspesa.it"", ""Metodi_di_pagamento_accettati"": ""option_2 option_1 carta_prepagat"", ""Nome_dell_esercizio_commercial"": ""Cliccalaspesa"", ""Telefono"": ""800536155""}","<pre><yamldata>
+Descrizione: È un supermercato che fa consegne a domicilio nei paesi etnei - provincia
+  di Catania. Il minimo d'ordine online è 50 euro e il pagamento ammesso è con carta
+  di credito o Paypal. La fascia oraria per le consegne è limitata a poche ore al
+  giorno e in questo periodo di emergenza i tempi per la consegna si aggirano sui
+  6-7 giorni
+Indirizzo: 37.50287801 15.08704738
+Link: https://www.cliccalaspesa.it
+Metodi_di_pagamento_accettati: option_2 option_1 carta_prepagat
+Nome_dell_esercizio_commercial: Cliccalaspesa
+Telefono: '800536155'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1193,587572524,2020-03-25 09:54:03,2020-03-25 09:52:22,Esercizi alimentari che fanno consegne a domicilio nel Comune di #Tortona,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Cosa"": ""Consegne a domicilio"", ""Descrizione"": ""Consegne a domicilio alimentari e ristorazione"", ""Fonte"": ""Comune di Tortona (AL)"", ""Link"": ""https://www.comune.tortona.al.it/attivita-che-effettuano-servizio-a-domicilio""}","<pre><yamldata>
 Cosa: Consegne a domicilio
 Descrizione: Consegne a domicilio alimentari e ristorazione
