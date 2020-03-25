@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1189,587362694,2020-03-25 08:53:41,2020-03-25 00:33:56,Consegne a domicilio in tutta #Italia delle Botteghe del commercio equo solidale ,,,,,"[""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Botteghe del commercio equo solidale"", ""Descrizione"": ""Su Altreconomia elenco delle botteghe del commercio equo e solidale che in questa fase di emergenza consegnano a domicilio in molte citt\u00e0 italiane."", ""Link"": ""https://altreconomia.it/emergenza-covid19-commercio-equo/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Le Botteghe del commercio equo solidale che consegnano a domicilio nelle citt\u00e0 italiane""}","<pre><yamldata>
+Da_chi_offerta: Botteghe del commercio equo solidale
+Descrizione: Su Altreconomia elenco delle botteghe del commercio equo e solidale che
+  in questa fase di emergenza consegnano a domicilio in molte città italiane.
+Link: https://altreconomia.it/emergenza-covid19-commercio-equo/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Le Botteghe del commercio equo solidale che consegnano a domicilio nelle città
+  italiane
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1188,587360674,2020-03-25 08:51:35,2020-03-25 00:27:38,Spesa ExEquo Altromercato a domicilio nel Comune di #Bologna ,44.514686,11.344156,Emilia-Romagna,Bologna,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Come funziona il servizio di PRENOTAZIONE DELLA SPESA ONLINE E CONSEGNA A DOMICILIO:\n\ud83d\udcde puoi chiamarci allo 051 233588 (rispondiamo sempre durante gli orari abituali, anche quelli in cui la Bottega \u00e8 chiusa!)\noppure\n\ud83d\udce7 puoi scriverci indicando quello che ti serve o allegando il modulo d'ordine (segreteria@exaequo.bo.it) \n\ud83d\uded2 noi prepariamo la spesa\n\ud83d\ude97\ud83d\udeb4\u200d\u2640\ufe0f a bordo del nostro furgoncino o in sella alla cargobike, te la consegniamo direttamente a casa senza costi aggiuntivi!\n\ud83d\udcddPer aiutarti a compilare la tua lista della spesa abbiamo preparato un MODULO D'ORDINE ONLINE disponibile sul nostro profilo Facebook con tutti i prodotti disponibili in questo momento. Puoi ordinare anche i prodotti pasquali e il fresco, frutta e formaggi di bufala!"", ""Email"": ""segreteria@exaequo.bo.it"", ""Link"": ""https://www.facebook.com/ExAequoBottegaDelMondo"", ""Nome_dell_esercizio_commercial"": ""ExAequo Bottega Solidale Bologna"", ""Posizione"": ""44.514686 11.344156 0 0"", ""Telefono"": ""051233588""}","<pre><yamldata>
 Descrizione: ""Come funziona il servizio di PRENOTAZIONE DELLA SPESA ONLINE E CONSEGNA\
   \ A DOMICILIO:\n\U0001F4DE puoi chiamarci allo 051 233588 (rispondiamo sempre durante\
