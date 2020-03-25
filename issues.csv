@@ -1803,7 +1803,7 @@ Fonte: Gazzetta Ufficiale n.76 del 22/3/2020
 Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-22&atto.codiceRedazionale=20A01807&elenco30giorni=false
 Posizione: 41.89332 12.48293
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1076,585824407,2020-03-23 09:00:57,2020-03-22 22:10:05,App per tenersi aggiornati sull'emergenza #Trentino TreCovid19,46.073666,11.121558,Trentino-Alto Adige,Trento,"[""Bollettino"", ""Dati utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""TreCovid19"", ""Descrizione"": ""TreCovid19 \u00e8 l'app per tenersi aggiornati sull'emergenza coronavirus in Trentino. \n\nTreCovid19 \u00e8 un progetto di TrentinoSalute4.0 nato dalla stretta collaborazione tra Provincia Autonoma di Trento, Azienda Provinciale per i Servizi Sanitari e Fondazione Bruno Kessler."", ""Fonte"": ""Provincia Autonoma di Trento"", ""Link"": ""https://trecovid.apss.tn.it/app/tabs/home"", ""Posizione"": ""46.073666 11.121558 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1076,585824407,2020-03-25 12:12:52,2020-03-22 22:10:05,App per tenersi aggiornati sull'emergenza #Trentino TreCovid19,46.073666,11.121558,Trentino-Alto Adige,Trento,"[""Bollettino"", ""Dati utili"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""TreCovid19"", ""Descrizione"": ""TreCovid19 \u00e8 l'app per tenersi aggiornati sull'emergenza coronavirus in Trentino. \n\nTreCovid19 \u00e8 un progetto di TrentinoSalute4.0 nato dalla stretta collaborazione tra Provincia Autonoma di Trento, Azienda Provinciale per i Servizi Sanitari e Fondazione Bruno Kessler."", ""Fonte"": ""Provincia Autonoma di Trento"", ""Link"": ""https://trecovid.apss.tn.it/app/tabs/home"", ""Posizione"": ""46.073666 11.121558 0 0""}","<pre><yamldata>
 Cosa: TreCovid19
 Descrizione: ""TreCovid19 è l'app per tenersi aggiornati sull'emergenza coronavirus\
   \ in Trentino. \n\nTreCovid19 è un progetto di TrentinoSalute4.0 nato dalla stretta\
@@ -4133,12 +4133,6 @@ Tipo_di_soggetto: privato
 Titolo: Produzione mascherine
 Posizione: 43.6886553 10.4915599 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/885,584903936,2020-03-25 12:12:13,2020-03-20 08:05:25,Grafici aggiornati dati coronavirus in Italia per Regione e Provincia,,,,,"[""Dati utili"", ""Notizie Utili"", ""accettato"", ""da sistemare"", ""form""]",,,{},"<pre><yamldata>
-Cosa: Grafici aggiornati dati coronavirus in Italia per Regione e Provincia
-Descrizione: Visualizzatore su base regionale e su base provinciale, che consente di confrontare l'andamento dei dati sul coronavirus tra provincia e provincia. Fonte dei dati: Ptotezione civile nazionale.
-Fonte:
-Link: https://covid-19.netseven.it/regioni-province
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/884,584895002,2020-03-20 17:06:04,2020-03-20 07:43:41,Associazione Nuove Frontiere del Diritto lancia raccolta fondi #Lazio,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""00139"", ""Causale"": ""Nfd contro il COVID-19"", ""Descrizione"": ""https://www.nuovefrontierediritto.it/appello-di-solidarieta/"", ""Email"": ""federica.federici@nuovefrontierediritto.it"", ""IBAN"": ""IT67X0311103254000000003878"", ""Intestazione"": ""Nuove Frontiere del Diritto"", ""Link"": ""https://www.nuovefrontierediritto.it/appello-di-solidarieta/"", ""Nome"": ""Associazione nuove Frontiere del Diritto""}","<pre><yamldata>
 CC_Postale: 00139
 Causale: Nfd contro il COVID-19
@@ -6097,11 +6091,10 @@ Tipo_di_soggetto: privato
 Titolo: #ReggioCalabria - consegne a domicio - lista degli esercizi commerciali in aggiornamento #756 
 Posizione: 38.1035389 15.6397556 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/752,583611757,2020-03-18 11:31:37,2020-03-18 10:04:24,Protezione civile Friuli Venezia Giulia - Consegne a domicilio e contatti utili,46.075644,13.156128,Friuli Venezia Giulia,Udine,"[""Consegne e commissioni"", ""Contatti utili"", ""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Consegne a domicilio"", ""Descrizione"": ""Mappa (non interattiva) ed elenco numeri per soggetti deboli e anziani >70 senza famiglia; escluso persone in quarantena.\n\nConsegne prima necessit\u00e0 e medicinali effettuate da volontari Protezione Civile."", ""Fonte"": ""Protezione Civile Friuli Venezia Giulia"", ""Link"": ""https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/emergenza-coronavirus-covid-19-i-comuni-supporto-dei-cittadini"", ""Posizione"": ""46.075644 13.156128 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/752,583611757,2020-03-25 12:14:38,2020-03-18 10:04:24,Protezione civile #FriuliVeneziaGiulia - Mappa consegne a domicilio e contatti utili per anziani e soggetti fragili,46.075644,13.156128,Friuli Venezia Giulia,Udine,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Cosa"": ""Consegne a domicilio"", ""Descrizione"": ""Mappa (non interattiva) ed elenco numeri per soggetti deboli e anziani >70 senza famiglia; escluso persone in quarantena.\nConsegne prima necessit\u00e0 e medicinali effettuate da volontari Protezione Civile."", ""Fonte"": ""Protezione Civile Friuli Venezia Giulia"", ""Link"": ""https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/emergenza-coronavirus-covid-19-i-comuni-supporto-dei-cittadini"", ""Posizione"": ""46.075644 13.156128 0 0""}","<pre><yamldata>
 Cosa: Consegne a domicilio
 Descrizione: 'Mappa (non interattiva) ed elenco numeri per soggetti deboli e anziani
   >70 senza famiglia; escluso persone in quarantena.
-
 
   Consegne prima necessità e medicinali effettuate da volontari Protezione Civile.'
 Fonte: Protezione Civile Friuli Venezia Giulia
