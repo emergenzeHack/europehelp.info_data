@@ -1,4 +1,28 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1215,587857680,2020-03-25 17:51:40,2020-03-25 17:16:30,"Conad #Cori #Latina, consegne a domicilio per persone in difficoltà",41.64321,12.91050,Lazio,Latina,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Conad di Cori, piazza della Croce, Cori, LT"", ""Descrizione"": ""Solo per persone con difficolt\u00e0 e/o di oltre 65 anni, in collaborazione con la Protezione Civile \u00e8 possibile richiedere consegna a domicilio contattando il numero 3355342197\n\u00c8 possibile anche prenotare e andare a ritirare la spesa senza fare fila contattando i seguenti numeri:\n3755352058\n3208406188\n3206307729\n3494516117\nConad, piazza della Croce, Cori, LT"", ""Destinatari"": ""persone in difficolt\u00e0 a Cori"", ""Natura"": ""solidale"", ""Posizione"": ""41.64321 12.91050"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne a domicilio per persone in difficolt\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Conad di Cori, piazza della Croce, Cori, LT
+Descrizione: 'Solo per persone con difficoltà e/o di oltre 65 anni, in collaborazione
+  con la Protezione Civile è possibile richiedere consegna a domicilio contattando
+  il numero 3355342197
+
+  È possibile anche prenotare e andare a ritirare la spesa senza fare fila contattando
+  i seguenti numeri:
+
+  3755352058
+
+  3208406188
+
+  3206307729
+
+  3494516117
+
+  Conad, piazza della Croce, Cori, LT'
+Destinatari: persone in difficoltà a Cori
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Consegne a domicilio per persone in difficoltà
+Posizione: 41.64321 12.91050
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1214,587838747,2020-03-25 17:47:01,2020-03-25 16:48:13,"#Catanzaro, elenco negozi che consegnano a domicilio",,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi vari, Catanzaro"", ""Descrizione"": ""Lista di esercizi commerciali che consegnano a casa a Catanzaro compilata dal quotidiano locale online YesCalabria.com"", ""Destinatari"": ""Cittadini di Catanzaro"", ""Indirizzo"": ""38.90597588 16.59440429"", ""Link"": ""https://www.yescalabria.com/it/emergenza-covid-19-consegne-a-domicilio-a-catanzaro/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Catanzaro, elenco negozi che consegnano a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Negozi vari, Catanzaro
 Descrizione: Lista di esercizi commerciali che consegnano a casa a Catanzaro compilata
