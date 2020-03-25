@@ -30,7 +30,6 @@ languages:
         - CONTACTS: "en/canali/"
       WHAT IS THIS?:
         - ABOUT: "en/about/"
-        - PRESS: "press/"
         - FAQ: "en/faq/"
         - OPEN DATA: "opendata/"
       CONTRIBUTE:
