@@ -1,4 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1239,588026127,2020-03-25 22:47:38,2020-03-25 22:21:20,​Tgr Leonardo del 2015 e coronavirus: nessun legame con l'epidemia in corso,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""\u200bTgr Leonardo del 2015 e coronavirus: nessun legame con l'epidemia in corso"", ""Descrizione"": ""Un vecchio servizio su un altro virus ingegnerizzato in un laboratorio cinese fa riesplodere sui social la teoria del complotto. La smentita di Nature: \u201cGli scienziati sono convinti che un animale sia la fonte pi\u00f9 probabile del coronavirus\u201d."", ""Link"": ""http://www.rainews.it/dl/rainews/articoli/tgr-Leonardo-del-2015-e-coronavirus-perche-non-ci-sono-legami-con-epidemia-in-corso-82c8d1c3-e9e1-46b2-aad2-e2f54a778e2a.html""}","<pre><yamldata>
+Cosa: '​Tgr Leonardo del 2015 e coronavirus: nessun legame con l''epidemia in corso'
+Descrizione: 'Un vecchio servizio su un altro virus ingegnerizzato in un laboratorio
+  cinese fa riesplodere sui social la teoria del complotto. La smentita di Nature:
+  “Gli scienziati sono convinti che un animale sia la fonte più probabile del coronavirus”.'
+Link: http://www.rainews.it/dl/rainews/articoli/tgr-Leonardo-del-2015-e-coronavirus-perche-non-ci-sono-legami-con-epidemia-in-corso-82c8d1c3-e9e1-46b2-aad2-e2f54a778e2a.html
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1222,587889910,2020-03-25 18:15:07,2020-03-25 18:08:23,Vino sfuso a domicilio zona #CittaStudi #Milano,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Vino sfuso a domicilio"", ""Metodi_di_pagamento_accettati"": ""option_2 contanti"", ""Nome_dell_esercizio_commercial"": ""Il Torchio"", ""Telefono"": ""02745635""}","<pre><yamldata>
 Descrizione: Vino sfuso a domicilio
 Metodi_di_pagamento_accettati: option_2 contanti
@@ -5619,7 +5626,7 @@ Link: http://www.aslcn1.it/index.php?id=10228
 Nome: Azienda sanitaria locale Cn1
 Posizione: 44.45807 7.55814 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/809,584287893,2020-03-25 22:12:54,2020-03-19 09:49:52,#ItaliaNonProfit - Le risposte della Filantropia al COVID-19,,,,,"[""Notizie Utili"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Italia non profit"", ""Descrizione"": ""Quali aziende, fondazioni e privati stanno supportando l'emergenza del coronavirus e come stanno destinando i finanziamenti."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://italianonprofit.it/aiuti-coronavirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#ItaliaNonProfit - Le risposte della Filantropia al COVID-19""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/809,584287893,2020-03-25 22:13:34,2020-03-19 09:49:52,#ItaliaNonProfit - Le risposte della Filantropia al COVID-19,,,,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Italia non profit"", ""Descrizione"": ""Quali aziende, fondazioni e privati stanno supportando l'emergenza del coronavirus e come stanno destinando i finanziamenti."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://italianonprofit.it/aiuti-coronavirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#ItaliaNonProfit - Le risposte della Filantropia al COVID-19""}","<pre><yamldata>
 Da_chi_offerta: Italia non profit
 Descrizione: Quali aziende, fondazioni e privati stanno supportando l'emergenza del
   coronavirus e come stanno destinando i finanziamenti.
