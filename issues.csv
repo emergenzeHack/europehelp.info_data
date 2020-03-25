@@ -1,4 +1,29 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1199,587642982,2020-03-25 12:01:47,2020-03-25 11:54:51,Comune di #Sassari: elenco degli esercizi commerciali che consegnano a domicilio (in aggiornamento),40.723763,8.560753,Sardegna,Sassari,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Sassari, Protezione Civile Sassari"", ""Descrizione"": ""Comune di Sassari e Protezione Civile hanno creato un database con i contatti degli esercizi commerciali che svolgono a Sassari il servizio di consegne a domicilio della merce.\nIl database in continuo aggiornamento, raccoglie diversi tipi di rivenditori di generi alimentari (dai supermercati, ai negozi specializzati fino alle pizzerie), farmacie, rivenditori di bombole, di pellet, carburanti ed erboristerie.\nTutti gli esercizi commerciali di generi di prima necessit\u00e0, le farmacie e parafarmacie che fanno consegne a domicilio possono aderire, \u00e8 sufficiente contattare la mail protezionecivile@comune.sassari.it.\nUscire per acquistare beni di prima necessit\u00e0 \u00e8 tra le motivazioni ammesse, ma \u00e8 necessario limitare quanto possibile gli spostamenti; pertanto avere l'opportunit\u00e0 di usufruire del servizio a domicilio \u00e8 un'opzione da cogliere quanto pi\u00f9 possibile. La Protezione civile comunale \u00e8 contattabile anche allo 079279048 da luned\u00ec al venerd\u00ec dalle 9 alle 13 e dalle 15 alle 17."", ""Link"": ""http://www.comune.sassari.it/comune/ufficio_stampa/marzo_2020/consegne_domicilio.html"", ""Natura"": ""solidale"", ""Posizione"": ""40.723763 8.560753 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Elenco degli esercizi commerciali che consegnano a domicilio a Sassari""}","<pre><yamldata>
+Da_chi_offerta: Comune di Sassari, Protezione Civile Sassari
+Descrizione: 'Comune di Sassari e Protezione Civile hanno creato un database con i
+  contatti degli esercizi commerciali che svolgono a Sassari il servizio di consegne
+  a domicilio della merce.
+
+  Il database in continuo aggiornamento, raccoglie diversi tipi di rivenditori di
+  generi alimentari (dai supermercati, ai negozi specializzati fino alle pizzerie),
+  farmacie, rivenditori di bombole, di pellet, carburanti ed erboristerie.
+
+  Tutti gli esercizi commerciali di generi di prima necessità, le farmacie e parafarmacie
+  che fanno consegne a domicilio possono aderire, è sufficiente contattare la mail
+  protezionecivile@comune.sassari.it.
+
+  Uscire per acquistare beni di prima necessità è tra le motivazioni ammesse, ma è
+  necessario limitare quanto possibile gli spostamenti; pertanto avere l''opportunità
+  di usufruire del servizio a domicilio è un''opzione da cogliere quanto più possibile.
+  La Protezione civile comunale è contattabile anche allo 079279048 da lunedì al venerdì
+  dalle 9 alle 13 e dalle 15 alle 17.'
+Link: http://www.comune.sassari.it/comune/ufficio_stampa/marzo_2020/consegne_domicilio.html
+Natura: solidale
+Posizione: 40.723763 8.560753 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Elenco degli esercizi commerciali che consegnano a domicilio a Sassari
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1198,587642410,2020-03-25 11:59:09,2020-03-25 11:53:46,Il comune di #Cori #Latina attiva sportello di sostegno psicologico ,41.643096,12.915965,Lazio,Latina,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Cori"", ""Descrizione"": ""In questo periodo difficile, se hai bisogno di parlare con qualcuno, puoi contattare i numeri 3911208952 o 3911162559 e le psicologhe del servizio SOS ti ascolteranno e offriranno consulenza telefonica."", ""Destinatari"": ""Cittadini di Cori"", ""Link"": ""https://www.facebook.com/ComunediCori/photos/a.436528526526021/1494322767413253/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""41.643096 12.915965 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sportello di sostegno Psicologico a #Cori (LT)""}","<pre><yamldata>
 Da_chi_offerta: Comune di Cori
 Descrizione: In questo periodo difficile, se hai bisogno di parlare con qualcuno,
