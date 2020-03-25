@@ -31,7 +31,7 @@ languages:
       WHAT IS THIS?:
         - ABOUT: "en/about/"
         - FAQ: "en/faq/"
-        - OPEN DATA: "opendata/"
+        - OPEN DATA: "en/opendata/"
       CONTRIBUTE:
         - HOW: "contribuisci/"
         - WIKI: "en/wiki/"
