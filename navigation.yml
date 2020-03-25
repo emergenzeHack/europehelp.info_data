@@ -20,14 +20,14 @@ languages:
       PRIVACY: "legal"
   - language: en
     navbar-links:
-      REPORT: "en/segnala/"
+      REPORT: "en/reporting/"
       DISCOVER:
         - REPORTS : "issues/"
         - REPORTS FOR REGION : "issues/regione/"
       FOLLOW:
         - NEWS: "notizie-utili/"
         - BLOG : "post/"
-        - CONTACTS: "en/canali/"
+        - CONTACTS: "en/channels/"
       WHAT IS THIS?:
         - ABOUT: "en/about/"
         - FAQ: "en/faq/"
