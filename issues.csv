@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1198,587642410,2020-03-25 11:59:09,2020-03-25 11:53:46,Il comune di #Cori #Latina attiva sportello di sostegno psicologico ,41.643096,12.915965,Lazio,Latina,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Cori"", ""Descrizione"": ""In questo periodo difficile, se hai bisogno di parlare con qualcuno, puoi contattare i numeri 3911208952 o 3911162559 e le psicologhe del servizio SOS ti ascolteranno e offriranno consulenza telefonica."", ""Destinatari"": ""Cittadini di Cori"", ""Link"": ""https://www.facebook.com/ComunediCori/photos/a.436528526526021/1494322767413253/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""41.643096 12.915965 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sportello di sostegno Psicologico a #Cori (LT)""}","<pre><yamldata>
+Da_chi_offerta: Comune di Cori
+Descrizione: In questo periodo difficile, se hai bisogno di parlare con qualcuno,
+  puoi contattare i numeri 3911208952 o 3911162559 e le psicologhe del servizio SOS
+  ti ascolteranno e offriranno consulenza telefonica.
+Destinatari: Cittadini di Cori
+Link: https://www.facebook.com/ComunediCori/photos/a.436528526526021/1494322767413253/?type=3&theater
+Natura: solidale
+Posizione: 41.643096 12.915965 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Sportello di sostegno Psicologico a #Cori (LT)'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1197,587607706,2020-03-25 10:56:17,2020-03-25 10:50:43,Fondazione CRT: call internazionale per rendere i dati globali disponibili agli scienziati,,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Fondazione CRT lancia call internazionale per rendere i dati globali disponibili agli scienziati"", ""Descrizione"": ""Fondazione CRT insieme a The GovLab e Fondazione ISI ha promosso un call for action internazionale per incoraggiare la costruzione di un ecosistema di collaborazione sui dati, utile per contrastare l\u2019attuale pandemia e le sfide ambientali e sociali future. Rendere accessibili i dati e condividerli perch\u00e9 i ricercatori possano sviluppare modelli e previsioni \u00e8 fondamentale per affrontare l'emergenza Covid 19."", ""Link"": ""http://www.fondazionecrt.it/news/2020-call-to-action-bigdata-coronavirus.html""}","<pre><yamldata>
 Cosa: Fondazione CRT lancia call internazionale per rendere i dati globali disponibili
   agli scienziati
