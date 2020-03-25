@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1222,587889910,2020-03-25 18:15:07,2020-03-25 18:08:23,Vino sfuso a domicilio zona #CittaStudi #Milano,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Vino sfuso a domicilio"", ""Metodi_di_pagamento_accettati"": ""option_2 contanti"", ""Nome_dell_esercizio_commercial"": ""Il Torchio"", ""Telefono"": ""02745635""}","<pre><yamldata>
+Descrizione: Vino sfuso a domicilio
+Metodi_di_pagamento_accettati: option_2 contanti
+Nome_dell_esercizio_commercial: Il Torchio
+Telefono: '02745635'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1215,587857680,2020-03-25 17:51:40,2020-03-25 17:16:30,"Conad #Cori #Latina, consegne a domicilio per persone in difficoltà",41.64321,12.91050,Lazio,Latina,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Conad di Cori, piazza della Croce, Cori, LT"", ""Descrizione"": ""Solo per persone con difficolt\u00e0 e/o di oltre 65 anni, in collaborazione con la Protezione Civile \u00e8 possibile richiedere consegna a domicilio contattando il numero 3355342197\n\u00c8 possibile anche prenotare e andare a ritirare la spesa senza fare fila contattando i seguenti numeri:\n3755352058\n3208406188\n3206307729\n3494516117\nConad, piazza della Croce, Cori, LT"", ""Destinatari"": ""persone in difficolt\u00e0 a Cori"", ""Natura"": ""solidale"", ""Posizione"": ""41.64321 12.91050"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne a domicilio per persone in difficolt\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Conad di Cori, piazza della Croce, Cori, LT
 Descrizione: 'Solo per persone con difficoltà e/o di oltre 65 anni, in collaborazione
