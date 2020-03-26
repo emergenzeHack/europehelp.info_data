@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1283,588582799,2020-03-26 17:13:58,2020-03-26 17:10:24,Attivo ambulatorio di Emergency a #CastelVolturno #Caserta per stranieri e fasce più deboli ,41.119618,13.874316,Campania,Caserta,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""A Castel Volturno, migranti e fasce pi\u00f9 deboli della popolazione possono ricevere gratuitamente cure di base e l\u2019aiuto dei nostri mediatori.\n\nAmbulatorio di EMERGENCY a Castel Volturno\nvia Domitiana, 288\n81030 Castel Volturno (CE)\nTel: 342 0999790\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-castel-volturno-ambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""41.119618 13.874316 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Castel Volturno""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1283,588582799,2020-03-26 17:16:47,2020-03-26 17:10:24,Attivo ambulatorio di Emergency a #CastelVolturno #Caserta per stranieri e fasce più deboli ,41.119618,13.874316,Campania,Caserta,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""A Castel Volturno, migranti e fasce pi\u00f9 deboli della popolazione possono ricevere gratuitamente cure di base e l\u2019aiuto dei nostri mediatori.\n\nAmbulatorio di EMERGENCY a Castel Volturno\nvia Domitiana, 288\n81030 Castel Volturno (CE)\nTel: 342 0999790\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-castel-volturno-ambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""41.119618 13.874316 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Castel Volturno""}","<pre><yamldata>
 Da_chi_offerta: EMERGENCY
 Descrizione: 'A Castel Volturno, migranti e fasce più deboli della popolazione possono
   ricevere gratuitamente cure di base e l’aiuto dei nostri mediatori.
@@ -23,6 +23,21 @@ Natura: solidale
 Posizione: 41.119618 13.874316 0 0
 Tipo_di_soggetto: privato
 Titolo: Ambulatorio di EMERGENCY a Castel Volturno
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1282,588577459,2020-03-26 17:16:36,2020-03-26 17:02:10,ARS Cooperativa sociale offre servizio gratuito di ascolto psicologico,,,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""servizio gratuito di ascolto psicologico"", ""Descrizione"": ""Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l\u2019incertezza sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di confrontarsi e di reinventare una propria normalit\u00e0 diventa necessario perch\u00e9 strettamente correlati al benessere psicologico e alla salute mentale."", ""Destinatari"": ""chiunque, in qualsiasi citt\u00e0 di Italia, in questi giorni \u00e8 chiuso in casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi ci \u00e8 accanto"", ""Email"": ""info@arscooperativa.it"", ""Immagine"": ""WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg"", ""Link"": ""https://www.facebook.com/arscooperativa/"", ""Telefono"": ""08119639950""}","<pre><yamldata>
+Cosa: servizio gratuito di ascolto psicologico
+Descrizione: Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre
+  abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l’incertezza
+  sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di
+  confrontarsi e di reinventare una propria normalità diventa necessario perché strettamente
+  correlati al benessere psicologico e alla salute mentale.
+Destinatari: chiunque, in qualsiasi città di Italia, in questi giorni è chiuso in
+  casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi
+  ci è accanto
+Email: info@arscooperativa.it
+Immagine: WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg
+Link: https://www.facebook.com/arscooperativa/
+Telefono: 08119639950
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1280,588563945,2020-03-26 17:09:51,2020-03-26 16:43:04,Attivo poliambulatorio di Emergency a #Polistena #ReggioCalabria,38.402127,16.069661,Calabria,Reggio di Calabria,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""I nostri ambulatori offrono gratuitamente servizi di medicina di base e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare l\u2019accesso al sistema sanitario a chi ne ha bisogno.\n\nSono presenti mediatori culturali\n\nAmbulatorio di EMERGENCY a Polistena\nVia Catena 45, secondo piano\nPolistena (RC)\nTel: 0966 444400\nTel: 347 6308217 (Coordinatore di progetto)\nFax: 0966 042027\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-polistena-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""38.402127 16.069661 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Polistena""}","<pre><yamldata>
 Da_chi_offerta: EMERGENCY
