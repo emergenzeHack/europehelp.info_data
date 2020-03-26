@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1292,588618712,2020-03-26 18:08:22,2020-03-26 18:03:43,Ad un metro: piattaforma gratuita per negozi che non hanno un e-commerce,,,,,"[""Bollettino"", ""Donazioni"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Fai consegne a domicilio per l'emergenza, ma non hai un e-commerce?"", ""Descrizione"": ""Abbiamo deciso di contribuire mettendo a disposizione una piattaforma completamente gratuita per vendere i vostri prodotti online, attraverso la consegna a domicilio, durante tutto il periodo di quarantena.\n\nAbbiamo deciso di chiamarla \""ad un metro\"": quel metro di sicurezza che \u00e8 oggi imposto dalle normative ministeriali, ma che vuole rappresentare anche la distanza, quasi impercettibile, tra il vostro negozio e i clienti di fiducia che ogni giorno vi scelgono."", ""Destinatari"": ""Titolari di negozi che fanno consegna a domicilio ma non hanno un e-commerce"", ""Email"": ""info@webmotion.it"", ""Link"": ""https://www.adunmetro.it/?fbclid=IwAR2xOIo70N0K_pJcqLC9rZb4UPSc5r_0Ni8v2I8L2Pqy07wole6RzlVxlBw""}","<pre><yamldata>
+Cosa: Fai consegne a domicilio per l'emergenza, ma non hai un e-commerce?
+Descrizione: 'Abbiamo deciso di contribuire mettendo a disposizione una piattaforma
+  completamente gratuita per vendere i vostri prodotti online, attraverso la consegna
+  a domicilio, durante tutto il periodo di quarantena.
+
+
+  Abbiamo deciso di chiamarla ""ad un metro"": quel metro di sicurezza che è oggi imposto
+  dalle normative ministeriali, ma che vuole rappresentare anche la distanza, quasi
+  impercettibile, tra il vostro negozio e i clienti di fiducia che ogni giorno vi
+  scelgono.'
+Destinatari: Titolari di negozi che fanno consegna a domicilio ma non hanno un e-commerce
+Email: info@webmotion.it
+Link: https://www.adunmetro.it/?fbclid=IwAR2xOIo70N0K_pJcqLC9rZb4UPSc5r_0Ni8v2I8L2Pqy07wole6RzlVxlBw
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1290,588613004,2020-03-26 18:03:44,2020-03-26 17:55:15,Attivo sportello informativo per stranieri di Emergency a #Brescia,45.534428,10.217516,Lombardia,Brescia,"[""Bollettino"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""In seguito al confronto con le istituzioni e le associazioni locali e alla valutazione delle necessit\u00e0, abbiamo aperto, in accordo con l\u2019ASST Brescia e grazie alla collaborazione del Comune, uno Sportello di orientamento socio-sanitario per rispondere alla necessit\u00e0 di un servizio di mediazione culturale, educazione sanitaria e orientamento socio-sanitario e per garantire l\u2019inserimento dei cittadini stranieri in un corretto percorso di cure.\n\nTutte le prestazioni erogate presso il Centro sono gratuite.\n\nSportello informativo di EMERGENCY a Brescia\nVicolo delle Lucertole, 1E\n25122 Brescia\nTel: 030 7823511\nTel: 342 1830402\ne-mail: healthpointbrescia@emergency.it\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""cittadini stranieri"", ""Link"": ""https://www.emergency.it/progetti/italia-brescia-centro-orientamento-socio-sanitario/"", ""Natura"": ""solidale"", ""Posizione"": ""45.534428 10.217516 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello informativo di EMERGENCY a Brescia""}","<pre><yamldata>
 Da_chi_offerta: EMERGENCY
 Descrizione: 'In seguito al confronto con le istituzioni e le associazioni locali
@@ -13290,29 +13305,6 @@ Nome: Lega tumori LILT MIlano
 Posizione: 45.464194 9.188516 0 0
 Provincia: Milano
 Regione: Lombardia
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/226,579803570,2020-03-16 23:04:25,2020-03-12 09:28:48,Servizio di portierato di quartiere #Ancona,43.608441,13.514226,Marche,Ancona,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Ancona"", ""Da_chi_offerta"": ""Biblioteca Associazione Casa delle Culture"", ""Descrizione"": ""Il servizio di portierato di quartiere \u00e8 attivo anche in questo periodo delicato dove molte persone non possono o non devono frequentare luoghi affollati!\n\nI portieri possono aiutarvi:\n- consegnandovi a domicilio un libro dalla biblioteca, giornale e riviste \n- facendo per voi la spesa dalle attivit\u00e0 commerciali del quartiere e recapitandovela a casa \n- andando per voi a ritirare medicinali in farmacia \nPotete contattare i portieri Diego e Giovanni telefonando al numero: 3737660799 negli orari indicati.\n\n(Il servizio \u00e8 gratuito ed attivo per il quartiere di Vallemiano - Ancona dal luned\u00ec al venerd\u00ec dalle 9:00 alle 13.00 e dalle 15.00 alle 19.00 - La consegna avverr\u00e0  rispettando la distanza di sicurezza ed evitando contatti diretti)"", ""Destinatari"": ""Anziani ed abitanti residenti del territorio del quartiere Vallemiano Ancona"", ""Link"": ""https://www.casacultureancona.it/2020/01/19/incipit-il-portiere-di-quartiere-a-vallemiano-ancona/"", ""Natura"": ""solidale"", ""Posizione"": ""43.608441 13.514226 0 0"", ""Provincia"": ""Ancona"", ""Regione"": ""Marche"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di portierato di quartiere""}","<pre><yamldata>
-Comune: Ancona
-Da_chi_offerta: Biblioteca Associazione Casa delle Culture
-Descrizione: ""Il servizio di portierato di quartiere \xE8 attivo anche in questo periodo\
-  \ delicato dove molte persone non possono o non devono frequentare luoghi affollati!\n\
-  \nI portieri possono aiutarvi:\n- consegnandovi a domicilio un libro dalla biblioteca,\
-  \ giornale e riviste \n- facendo per voi la spesa dalle attivit\xE0 commerciali\
-  \ del quartiere e recapitandovela a casa \n- andando per voi a ritirare medicinali\
-  \ in farmacia \nPotete contattare i portieri Diego e Giovanni telefonando al numero:\
-  \ 3737660799 negli orari indicati.\n\n(Il servizio \xE8 gratuito ed attivo per il\
-  \ quartiere di Vallemiano - Ancona dal luned\xEC al venerd\xEC dalle 9:00 alle 13.00\
-  \ e dalle 15.00 alle 19.00 - La consegna avverr\xE0  rispettando la distanza di\
-  \ sicurezza ed evitando contatti diretti)""
-Destinatari: Anziani ed abitanti residenti del territorio del quartiere Vallemiano
-  Ancona
-Link: https://www.casacultureancona.it/2020/01/19/incipit-il-portiere-di-quartiere-a-vallemiano-ancona/
-Natura: solidale
-Posizione: 43.608441 13.514226 0 0
-Provincia: Ancona
-Regione: Marche
-Tipo_di_soggetto: privato
-Titolo: Servizio di portierato di quartiere
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/225,579773951,2020-03-12 10:54:07,2020-03-12 08:32:40,Raccolta fondi Istituto Nazionale per le Malattie infettive Spallanzani #Roma,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per l'Istituto Nazionale per le Malattie Infettive Lazzaro Spallanzani di Roma"", ""Link"": ""https://www.gofundme.com/f/nomoreweakness"", ""Nome"": ""Andrea De Bartolis e Giovanni Maria Riccio - Fondazione Homo ex Machina""}","<pre><yamldata>
 Descrizione: Raccolta fondi per l'Istituto Nazionale per le Malattie Infettive Lazzaro
