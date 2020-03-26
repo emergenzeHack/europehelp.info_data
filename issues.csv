@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1254,588331122,2020-03-26 12:07:01,2020-03-26 10:57:51,"InveceBottega, la mappa (in aggiornamento) di negozi e produttori per evitare le attese al supermercato in tutta #italia",42.6384261,12.674297,Umbria,Terni,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""RE-LEARN"", ""Descrizione"": ""Sito che aggrega su una mappa i negozi e produttori di generi alimentari con relativi recapiti e orari e l'indicazione se consegnino a domicilio o meno, per offrire un'alternativa anche alle lunghe attese della spesa da casa.\nAl momento \u00e8 limitato ad alcune province, ma si possono segnalare attivit\u00e0 non presenti sulla mappa."", ""Link"": ""www.invecebottega.it"", ""Natura"": ""solidale"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""INVECE BOTTEGA""}","<pre><yamldata>
+Da_chi_offerta: RE-LEARN
+Descrizione: 'Sito che aggrega su una mappa i negozi e produttori di generi alimentari
+  con relativi recapiti e orari e l''indicazione se consegnino a domicilio o meno,
+  per offrire un''alternativa anche alle lunghe attese della spesa da casa.
+
+  Al momento è limitato ad alcune province, ma si possono segnalare attività non presenti
+  sulla mappa.'
+Link: www.invecebottega.it
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: INVECE BOTTEGA
+Posizione: 42.6384261 12.674297 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1253,588328142,2020-03-26 12:02:22,2020-03-26 10:53:07,IoRestoACasa Games,43.528031,10.335195,Toscana,Livorno,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Di Palma Giuseppe"", ""Descrizione"": ""IoRestoACasa Games sono dedicati ai ragazzi e alle ragazze delle scuole elementari e medie. Sono sfide di logica, musica, curiosit\u00e0, cultura, che coinvolgono tutta la famiglia, perch\u00e9 ci sono delle sezioni dedicate al tempo in cui... a scuola ci andavano i vostri genitori!\nPuoi giocare con lo smartphone, con il tablet, con il computer... ma non puoi giocare senza la tua famiglia perch\u00e9 il divertimento si moltiplica soltanto quando siamo in tanti. Dillo anche ai vostri amici e vediamo chi di voi \u00e8 pi\u00f9 bravo!Ci si collega al sito https://sites.google.com/view/iorestoacasagames e all'orario prestabilito vengono pubblicati una serie di quiz, domande di cultura varia, indovinelli.\nIl primo che invia le risposte esatte vince.\n\nL'ora e il giorno del prossimo quiz sono sul sito."", ""Destinatari"": ""Bambini in et\u00e0 elementari/medie"", ""Link"": ""https://sites.google.com/view/iorestoacasagames"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.528031 10.335195 0 0"", ""Titolo"": ""IoRestoACasa Games""}","<pre><yamldata>
 Da_chi_offerta: Di Palma Giuseppe
 Descrizione: 'IoRestoACasa Games sono dedicati ai ragazzi e alle ragazze delle scuole elementari e medie. Sono sfide di logica, musica, curiosità, cultura, che coinvolgono tutta la famiglia, perché ci sono delle sezioni dedicate al tempo in cui... a scuola ci andavano i vostri genitori!
