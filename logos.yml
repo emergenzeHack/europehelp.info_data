@@ -8,13 +8,13 @@
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala/
-  name_en: REPORT
+  name_en: RECOMMEND
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Elenco delle segnalazioni ricevute
   logo: /img/icone/tci-solidali.png
   map: false
   link: issues/
-  name_en: ALL THE REPORTS
+  name_en: ALL THE INITIATIVES
 - name: RACCOLTE FONDI
   logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
