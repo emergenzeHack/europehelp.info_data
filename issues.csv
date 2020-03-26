@@ -1,4 +1,30 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1279,588557895,2020-03-26 16:37:06,2020-03-26 16:34:49,Attivo poliambulatorio di Emergency a #Marghera #Venezia,45.471303,12.227048,Veneto,Venezia,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""Assistenza sanitaria di base e specialistica, orientamento socio-sanitario\n\nAmbulatorio di EMERGENCY a Marghera\nVia G.B. Var\u00e8 6\n30175 Marghera (VE)\nTel: 041 0994114\nFax: 041 928475\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""migranti e persone in stato di bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-marghera-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.471303 12.227048 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Marghera""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'Assistenza sanitaria di base e specialistica, orientamento socio-sanitario
+
+
+  Ambulatorio di EMERGENCY a Marghera
+
+  Via G.B. Varè 6
+
+  30175 Marghera (VE)
+
+  Tel: 041 0994114
+
+  Fax: 041 928475
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: migranti e persone in stato di bisogno
+Link: https://www.emergency.it/progetti/italia-marghera-poliambulatorio/
+Natura: solidale
+Posizione: 45.471303 12.227048 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Marghera
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1278,588554451,2020-03-26 16:31:36,2020-03-26 16:30:15,"Raccolta fondi per Zumbimbi, struttura che a #Milano ospita bimbi con entrambi i genitori in ospedale",45.441239,9.157823,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Zumbimbi"", ""Descrizione"": ""La Cordata insieme al Comune di Milano, a EMERGENCY, alla Cooperativa COMIN e alla Diaconia Valdese, hanno deciso di aprire Zumbimbi, una struttura per bambini tra i 6 e i 14 anni, i cui genitori sono in ospedale perch\u00e9 positivi al Coronavirus e che non hanno altri adulti di riferimento che possano prendersi cura di loro. \nAl momento ospitiamo 6 bambine e bambini. Abbiamo per\u00f2 bisogno dell'aiuto di tutti voi per rendere l\u2019accoglienza di questi bimbi il pi\u00f9 possibile serena, poich\u00e9 l\u2019isolamento prevede che alloggino in camere singole e mantengano le distanze di sicurezza tra di loro e con gli operatori, rendendo questa fase della loro vita ancor pi\u00f9 delicata.  Fai una donazione, i tuoi soldi ci permetteranno di comprare i materiali e i giochi che ci mancano."", ""Email"": ""volontarizumbini@lacordata.it"", ""IBAN"": ""IT 95 D 05034 01740 0000 0000 2232"", ""Intestazione"": ""La Cordata"", ""Link"": ""https://www.lacordata.it/zumbimbi?fbclid=IwAR38p9XNgxKc0y7vCkXEsAymGMB8AyZyYVL_Z2C8YKbN9zSom_MPmrdpXno"", ""Nome"": ""Raccolta fondi per Zumbimbi, struttura che a Milano ospita bimbi con entrambi i genitori in ospedale"", ""Posizione"": ""45.441239 9.157823 0 0""}","<pre><yamldata>
 Causale: Zumbimbi
 Descrizione: ""La Cordata insieme al Comune di Milano, a EMERGENCY, alla Cooperativa\
@@ -10530,15 +10556,6 @@ Provincia: Sondrio
 Regione: Lombardia
 Tipo_di_soggetto: pubblico
 Titolo: Consegne cibo o medicinali a domicilio Comune di Livigno
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-22 14:41:53,2020-03-14 16:07:25,Open source Mask - Mascherine stampate in 3D: modello a disposizione di tutti,,,,,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://bari.repubblica.it/cronaca/2020/03/14/news/coronavirus_mascherine_prodotte_con_le_stampanti_3d_il_nostro_modello_e_a_disposizione_di_tutti_-251260492/?fbclid=IwAR1_4VXK02m2FHLgBjgvnO-eiKAnoJRrdfcy8fdKW_bxFl9zk8rDduYgaa0""}","<pre><yamldata>
-Cosa: 'mascherine prodotte con le stampanti 3D: modello a disposizione di tutti'
-Descrizione: 'Coronavirus, mascherine prodotte con le stampanti 3D: ""Il nostro modello
-  è a disposizione di tutti""
-
-  È il progetto pugliese-siciliano Open source mask'
-Destinatari: tutti
-Link: https://bari.repubblica.it/cronaca/2020/03/14/news/coronavirus_mascherine_prodotte_con_le_stampanti_3d_il_nostro_modello_e_a_disposizione_di_tutti_-251260492/?fbclid=IwAR1_4VXK02m2FHLgBjgvnO-eiKAnoJRrdfcy8fdKW_bxFl9zk8rDduYgaa0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-22 14:41:53,2020-03-14 16:07:25,Open source Mask - Mascherine stampate in 3D: modello a disposizione di tutti,,,,,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://bari.repubblica.it/cronaca/2020/03/14/news/coronavirus_mascherine_prodotte_con_le_stampanti_3d_il_nostro_modello_e_a_disposizione_di_tutti_-251260492/?fbclid=IwAR1_4VXK02m2FHLgBjgvnO-eiKAnoJRrdfcy8fdKW_bxFl9zk8rDduYgaa0""}","<pre><yamldata>
 Cosa: 'mascherine prodotte con le stampanti 3D: modello a disposizione di tutti'
