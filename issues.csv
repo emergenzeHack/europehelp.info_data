@@ -22,6 +22,15 @@ Nome_dell_esercizio_commercial: Macelleria Santa Croce Carni
 Telefono: 075 43650
 Posizione: 43.1070321 12.402996209906487 0 0
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1266,588419610,2020-03-26 14:59:32,2020-03-26 13:26:05,#Roma Municipio I - Lista in aggiornamento di negozi di vicinato che effettuano consegne a casa,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Lista di negozi di vicinato del primo municipio di Roma che effettuano consegne a casa.  In aggiornamento"", ""Email"": ""primomunicipiorm@gmail.com"", ""Indirizzo"": ""41.89277044 12.48366723 0 0"", ""Link"": ""https://primomunicipioroma.com/2020/03/23/negozi-di-vicinato-e-mercati-con-consegna-a-domicilio/?fbclid=IwAR06dqETJMWi8VbIpEQuhmOXrUWjGlwDJ3dSH6LVodbFnGZroHos4BAde1U"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Negozi ed esercenti municipio 1- Roma""}","<pre><yamldata>
+Descrizione: Lista di negozi di vicinato del primo municipio di Roma che effettuano
+  consegne a casa.  In aggiornamento
+Email: primomunicipiorm@gmail.com
+Indirizzo: 41.89277044 12.48366723 0 0
+Link: https://primomunicipioroma.com/2020/03/23/negozi-di-vicinato-e-mercati-con-consegna-a-domicilio/?fbclid=IwAR06dqETJMWi8VbIpEQuhmOXrUWjGlwDJ3dSH6LVodbFnGZroHos4BAde1U
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: Negozi ed esercenti municipio 1- Roma
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1255,588338135,2020-03-26 12:10:53,2020-03-26 11:09:29,A #Milano è nato il progetto Zumbimbi - una struttura per ospitare bambini dai 6 ai 14 anni con i genitori in ospedale,45.4416723,9.1596333,Lombardia,Milano,"[""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Raccolte fondi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Causale"": ""Zumbimbi"", ""Descrizione"": ""Struttura per ospitare bambine e bambini tra i 6 e i 14 anni i cui genitori sono in ospedale perch\u00e9 positivi al Coronavirus e che non hanno altri adulti di riferimento che possano prendersi cura di loro. \n\nServono: \n- volontari, giocoliere/prestigiatore/attore/cantastorie, insegnanti che possono aiutare con i compiti. Scrivi a volontarizumbini@lacordata.it\n-materiale: termometri, traverse per letti singoli, tablet, play station, pennarelli e tempere, libri per bambini, presumibilmente vestiario. Scrivi a materialezumbini@lacordata.it \n- fondi. I tuoi soldi ci permetteranno di comprare i materiali e i giochi che ci mancano. Per ora solo IBAN, saranno attivati altri canali.\n\nOrganizzata dall'impresa sociale La Cordata insieme al Comune di Milano, a EMERGENCY, alla Cooperativa COMIN e alla Diaconia Valdese. \nSita in via Bonaventura Zumbini 6 a Milano"", ""Email"": ""volontarizumbini@lacordata.it"", ""IBAN"": ""IT 95 D 05034 01740 0000 0000 2232"", ""Intestazione"": ""La Cordata scs"", ""Link"": ""https://www.facebook.com/lacordata/videos/275447683447467/"", ""Nome"": ""Progetto Zumbimbi"", ""Posizione"": ""45.4416723 9.1596333 0 0""}","<pre><yamldata>
 Causale: Zumbimbi
 Descrizione: ""Struttura per ospitare bambine e bambini tra i 6 e i 14 anni i cui genitori\
@@ -11507,6 +11516,26 @@ Nome: 'Fondazione Spedali Civili #Brescia'
 Posizione: 45.541553 10.211802 0 0
 Provincia: Brescia
 Regione: Lombardia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/345,580591279,2020-03-16 23:03:29,2020-03-13 13:10:52,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,45.69349,9.66985,Lombardia,Bergamo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Descrizione"": ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \nAttenzione: nessun altro conto corrente o modalit\u00e0 di raccolta via web \u00e8 stata concordata n\u00e9 autorizzata dalla nostra azienda,\nad eccezione della raccolta fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature e dispositivi di protezione:\nChi pu\u00f2 donare attrezzature respiratorie e dispositivi di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it"", ""Link"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""Nome"": ""Raccolta Fondi Ospedale Papa Giovanni XXIII"", ""Posizione"": ""45.69349 9.66985 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""group_bq2vf46/BIC_SWIFT"": ""POSOIT22"", ""group_bq2vf46/IBAN"": ""IT52Z0569611100000012000X95"", ""group_bq2vf46/Intestazione"": ""Azienda Socio Sanitaria Territoriale Giovanni XXIII""}","<pre><yamldata>
+Comune: Bergamo
+Descrizione: ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove\
+  \ indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi\
+  \ raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione\
+  \ non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \n\
+  Attenzione: nessun altro conto corrente o modalit\xE0 di raccolta via web \xE8 stata\
+  \ concordata n\xE9 autorizzata dalla nostra azienda,\nad eccezione della raccolta\
+  \ fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature\
+  \ e dispositivi di protezione:\nChi pu\xF2 donare attrezzature respiratorie e dispositivi\
+  \ di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it""
+Link: http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/
+Nome: Raccolta Fondi Ospedale Papa Giovanni XXIII
+Posizione: 45.69349 9.66985 0 0
+Provincia: Bergamo
+Regione: Lombardia
+group_bq2vf46/BIC_SWIFT: POSOIT22
+group_bq2vf46/IBAN: IT52Z0569611100000012000X95
+group_bq2vf46/Intestazione: Azienda Socio Sanitaria Territoriale Giovanni XXIII
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/345,580591279,2020-03-16 23:03:29,2020-03-13 13:10:52,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,45.69349,9.66985,Lombardia,Bergamo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Bergamo"", ""Descrizione"": ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \nAttenzione: nessun altro conto corrente o modalit\u00e0 di raccolta via web \u00e8 stata concordata n\u00e9 autorizzata dalla nostra azienda,\nad eccezione della raccolta fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature e dispositivi di protezione:\nChi pu\u00f2 donare attrezzature respiratorie e dispositivi di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it"", ""Link"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""Nome"": ""Raccolta Fondi Ospedale Papa Giovanni XXIII"", ""Posizione"": ""45.69349 9.66985 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""group_bq2vf46/BIC_SWIFT"": ""POSOIT22"", ""group_bq2vf46/IBAN"": ""IT52Z0569611100000012000X95"", ""group_bq2vf46/Intestazione"": ""Azienda Socio Sanitaria Territoriale Giovanni XXIII""}","<pre><yamldata>
 Comune: Bergamo
