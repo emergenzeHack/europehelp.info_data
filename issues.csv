@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1268,588452746,2020-03-26 14:48:52,2020-03-26 14:13:33,A #Trieste consegne a domicilio di alimentari biologici.,45.643966,13.778835,Friuli Venezia Giulia,Trieste,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alimentari biologici.\nConsegna gratuita.\nX info 040 7606402\nAperti dal luned\u00ec al sabato dalle 9 alle 13.00"", ""Email"": ""centroilsettimocielo@gmail.com"", ""Link"": ""www.centroilsettimocielo.com"", ""Metodi_di_pagamento_accettati"": ""bonifico_banca contanti"", ""Nome_dell_esercizio_commercial"": ""Il Settimocielo"", ""Posizione"": ""45.643966 13.778835 0 0"", ""Telefono"": ""0407606402""}","<pre><yamldata>
+Descrizione: 'Alimentari biologici.
+
+  Consegna gratuita.
+
+  X info 040 7606402
+
+  Aperti dal lunedì al sabato dalle 9 alle 13.00'
+Email: centroilsettimocielo@gmail.com
+Link: www.centroilsettimocielo.com
+Metodi_di_pagamento_accettati: bonifico_banca contanti
+Nome_dell_esercizio_commercial: Il Settimocielo
+Posizione: 45.643966 13.778835 0 0
+Telefono: '0407606402'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1255,588338135,2020-03-26 12:10:53,2020-03-26 11:09:29,A #Milano è nato il progetto Zumbimbi - una struttura per ospitare bambini dai 6 ai 14 anni con i genitori in ospedale,45.4416723,9.1596333,Lombardia,Milano,"[""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Raccolte fondi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Causale"": ""Zumbimbi"", ""Descrizione"": ""Struttura per ospitare bambine e bambini tra i 6 e i 14 anni i cui genitori sono in ospedale perch\u00e9 positivi al Coronavirus e che non hanno altri adulti di riferimento che possano prendersi cura di loro. \n\nServono: \n- volontari, giocoliere/prestigiatore/attore/cantastorie, insegnanti che possono aiutare con i compiti. Scrivi a volontarizumbini@lacordata.it\n-materiale: termometri, traverse per letti singoli, tablet, play station, pennarelli e tempere, libri per bambini, presumibilmente vestiario. Scrivi a materialezumbini@lacordata.it \n- fondi. I tuoi soldi ci permetteranno di comprare i materiali e i giochi che ci mancano. Per ora solo IBAN, saranno attivati altri canali.\n\nOrganizzata dall'impresa sociale La Cordata insieme al Comune di Milano, a EMERGENCY, alla Cooperativa COMIN e alla Diaconia Valdese. \nSita in via Bonaventura Zumbini 6 a Milano"", ""Email"": ""volontarizumbini@lacordata.it"", ""IBAN"": ""IT 95 D 05034 01740 0000 0000 2232"", ""Intestazione"": ""La Cordata scs"", ""Link"": ""https://www.facebook.com/lacordata/videos/275447683447467/"", ""Nome"": ""Progetto Zumbimbi"", ""Posizione"": ""45.4416723 9.1596333 0 0""}","<pre><yamldata>
 Causale: Zumbimbi
 Descrizione: ""Struttura per ospitare bambine e bambini tra i 6 e i 14 anni i cui genitori\
@@ -248,6 +263,20 @@ Descrizione: Elenco degli esercenti del comune di Carpi che effettuano consegne 
 Indirizzo: 44.7835699 10.8854523 0 0
 Link: https://www.comune.carpi.mo.it/aree-tematiche/sicurezza-ed-emergenza/emergenza-coronavirus/13682-spesa-e-farmaci-a-domicilio/87440-consegna-spesa-a-domicilio-di-attivita-commerciali-privati
 Nome_dell_esercizio_commercial: Negozi e farmacie
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1229,587921074,2020-03-26 14:48:38,2020-03-25 18:58:55,"Puglia, mappa guardie mediche protette con dispositivi di protezione personali",,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Email"": ""Laricchia.antonella@consiglio.puglia.it"", ""Link"": ""http://www.pugliacinquestelle.it/2020/03/distribuiti-kit-protezione-individuale-guardie-mediche"", ""Nome"": ""Mappa dei Medici protetti in Puglia"", ""Scopo"": ""Vuoi scoprire dove fare visita medica insicurezza ?\nIn Puglia tutte le guardie mediche operano con i dispositivi di protezione\nGrazie a una donazione di oltre 4000 kit completi di tute mascherine guanti occhiali e disinfettante donati dai consiglieri regionali m5s Puglia.\nAbbiamo geolocalizzato dove operano i medici protetti grazie all\u2019associazione senza scopo di lucro OpenPuglia.""}","<pre><yamldata>
+Email: Laricchia.antonella@consiglio.puglia.it
+Link: http://www.pugliacinquestelle.it/2020/03/distribuiti-kit-protezione-individuale-guardie-mediche
+Nome: Mappa dei Medici protetti in Puglia
+Scopo: 'Vuoi scoprire dove fare visita medica insicurezza ?
+
+  In Puglia tutte le guardie mediche operano con i dispositivi di protezione
+
+  Grazie a una donazione di oltre 4000 kit completi di tute mascherine guanti occhiali
+  e disinfettante donati dai consiglieri regionali m5s Puglia.
+
+  Abbiamo geolocalizzato dove operano i medici protetti grazie all’associazione senza
+  scopo di lucro OpenPuglia.'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1225,587911411,2020-03-26 11:12:04,2020-03-25 18:42:29,Come eravamo ai tempi del Covid19. Raccolta di materiali audio e video per installazione in realtà aumentata.,45.4464861,9.1818415,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""BEPART"", ""Descrizione"": ""PERCHE' IL PROGETTO\nAttraversiamo un passaggio storico che sta trasformando il nostro modo di vivere e pensare, segnandoci nel profondo, a partire dalla nostra quotidianit\u00e0.\nQuando l'emergenza sar\u00e0 terminata e con essa le relative misure di contenimento ricorderemo gli aneddoti e le riflessioni fatte in questi giorni? Giornate in cui, fermi a casa, abbiamo tempo per ragionare sui nostri sogni e le nostre paure, sul valore dei gesti e delle parole, sul tempo e sul denaro, sul significato della convivenza e dei baci, su libert\u00e0 e verit\u00e0. Piccoli e grandi temi che, sino a qualche giorno fa, davamo spesso per scontati.\nVorremmo dunque coinvolgervi nella realizzazione di una grande opera collettiva: un mosaico di autoritratti che ci aiuti nel futuro a ri-guardare, ricordare e a capire questo momento.\n\nCOME PARTECIPARE\nCompila il form (trovi il link nella sezione \""biglietti\"") mandandoci:\n1_un'immagine del PRE: una foto, un disegno o un collage che rappresenti come eri PRIMA del virus\n2_un racconto del DURANTE: un video, della durata massima di 1 minuto, che rappresenti te per come stai VIVENDO QUESTO PERIODO (pu\u00f2 essere un filmato, un'intervista, un piccolo montaggio anche di foto, oppure un'animazione fatta da te).\nN.B. Ovviamente sono tutti materiali che puoi tranquillamente produrre a casa da solo/a o coinvolgendo la tua famiglia, dal pi\u00f9 piccolo al pi\u00f9 grande!\nE infine dai un titolo alla tua opera e lascia una breve descrizione.\nCarica i tuoi materiali sul seguente link https://forms.gle/6ft6kfQGPUcHavNt6\n\nLA RESTITUZIONE\nI materiali raccolti entreranno a far parte di un'opera in realt\u00e0 aumentata che, quando l'emergenza sar\u00e0 rientrata, sar\u00e0 presentata al pubblico. Per dare vita a un momento di rilettura collettivo e condiviso.\nIl progetto \u00e8 a cura di Bepart https://bepart.net/"", ""Destinatari"": ""Per tutti"", ""Link"": ""https://www.facebook.com/events/213801336399804/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.4464861 9.1818415 0 0"", ""Titolo"": ""Come eravamo ai tempi del Covid19""}","<pre><yamldata>
 Da_chi_offerta: BEPART
