@@ -20,10 +20,10 @@ languages:
       PRIVACY: "legal"
   - language: en
     navbar-links:
-      REPORT: "en/reporting/"
+      RECOMMEND: "en/reporting/"
       DISCOVER:
-        - ITALIAN REPORTS : "issues/"
-        - REPORTS FOR ITALIAN REGION : "issues/regione/"
+        - ITALIAN INITIATIVES : "issues/"
+        - INITIATIVES FOR ITALIAN REGION : "issues/regione/"
       FOLLOW:
         - ITALIAN NEWS: "notizie-utili/"
         - CONTACTS: "en/channels/"
