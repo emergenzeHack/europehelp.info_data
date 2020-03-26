@@ -1,4 +1,36 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1285,588591690,2020-03-26 17:28:47,2020-03-26 17:23:32,Attivo poliambulatorio di Emergency a #Napoli,40.861102,14.342973,Campania,Napoli,"[""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""I nostri ambulatori offrono gratuitamente servizi di medicina di base e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare l\u2019accesso al sistema sanitario a chi ne ha bisogno.\n\nSono presenti mediatori culturali, un ambulatorio infermieristico, servizio di supporto psicologico. Lo affianca un\u2019unit\u00e0 di strada per persone senza fissa dimora\n\nAmbulatorio di EMERGENCY a Napoli (quartiere Ponticelli)\nVia Pacioli, 95\n80147 Napoli\nTel: 0811 9579909\nTel: 342 8627270\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-napoli-ambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""40.861102 14.342973 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Napoli""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'I nostri ambulatori offrono gratuitamente servizi di medicina di base
+  e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare
+  l’accesso al sistema sanitario a chi ne ha bisogno.
+
+
+  Sono presenti mediatori culturali, un ambulatorio infermieristico, servizio di supporto
+  psicologico. Lo affianca un’unità di strada per persone senza fissa dimora
+
+
+  Ambulatorio di EMERGENCY a Napoli (quartiere Ponticelli)
+
+  Via Pacioli, 95
+
+  80147 Napoli
+
+  Tel: 0811 9579909
+
+  Tel: 342 8627270
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: chi ne ha bisogno
+Link: https://www.emergency.it/progetti/italia-napoli-ambulatorio/
+Natura: solidale
+Posizione: 40.861102 14.342973 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Napoli
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1284,588585465,2020-03-26 17:20:15,2020-03-26 17:14:24,PsyPlus Onlus offre servizio di sostegno gratuito on-line per sanitari e operatori attività essenziali,,,,,"[""Bollettino"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""PsyPlus Onlus"", ""Descrizione"": ""Con l'intensificarsi dell'emergenza Corona Virus Psy+ Onlus, che opera in rete con altre organizzazioni impegnate nei servizi di sostegno psicosociale, ha avviato una iniziativa di solidariet\u00e0 nei conforonti degli operatori e delle operatirici dei servizi essenziali. Tutte e tutti coloro che oggi sono impegnati nel garantire alla popolazione cure mediche, consegna di medicinali, di cibo, e di ogni altro bene indispensabile per affrontare questa crisi, o altrimenti impegnati/e nel mantenimento di servizi essenziali, possono ottenere ascolto e sostegno psicologico specifico:\n\nPER UN MASSIMO DI QUATTRO INCONTRI (EVENTUALMENTE RINNOVABILI PER SITUAZIONI ECCEZIONALI) POTRETE CONTARE SULL'ASCOLTO E SUL SOSTEGNO DI ESPERTI IN PSICOLOGIA / PSICOTERAPIA CHE VI ORIENTERANNO NELLA GESTIONE DELLO STRESS, AGEVOLANDOVI NELL'ACQUSIZIONE DI STRUMENTI PER IL CONTENIMENTO DELL'ANSIA E DI EVENTUALI ALTRE SINTOMATOLOGIE CONNESSE ALLA MERITORIA FUNZIONE CHE STATE SVOLGENDO A BENEFICIO DELLE PERSONE CHE VI CIRCONDANO.\n\nil servizio gratuito di ascolto e sostegno psicologico per chi opera nei servizi essenziali pu\u00f2 essere richiesto ed attivato cliccando qui sotto, scrivendo a:\n CORONAVIRUS@PSYPLUS.ORG\n\nIN CONSIDERAZIONE DELLE GRANDI NECESSIT\u00c0, DELLE NOSTRE LIMITATE RISORSE, E DELLE NUMEROSE OFFERTE DI SOLIDARIET\u00c0 NEI DIVERSI TERRITORI, INVITIAMO A CONTATTARCI SOPRATTUTTO GLI OPERATORI IMPEGNATI NEI COMUNI DI ROMA E PESCARA (RESTANDO  APERTI A RICHIESTE ANCHE DA ALTRI LUOGHI)."", ""Destinatari"": ""SANITARI E PERSONALE ATTIVIT\u00c0 ESSENZIALI"", ""Link"": ""https://www.psyplus.org/index.php/74-uncategorized/180-sanitari-e-essenziali"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SERVIZIO DI SOSTEGNO GRATUITO ONLINE PER SANITARI E PERSONALE ATTIVIT\u00c0 ESSENZIALI""}","<pre><yamldata>
 Da_chi_offerta: PsyPlus Onlus
 Descrizione: ""Con l'intensificarsi dell'emergenza Corona Virus Psy+ Onlus, che opera\
@@ -617,7 +649,7 @@ Descrizione: 'Un vecchio servizio su un altro virus ingegnerizzato in un laborat
   “Gli scienziati sono convinti che un animale sia la fonte più probabile del coronavirus”.'
 Link: http://www.rainews.it/dl/rainews/articoli/tgr-Leonardo-del-2015-e-coronavirus-perche-non-ci-sono-legami-con-epidemia-in-corso-82c8d1c3-e9e1-46b2-aad2-e2f54a778e2a.html
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1238,588003724,2020-03-26 17:28:14,2020-03-25 21:31:30,Covid19 – Vedemecum legale: Il lavoro,,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Covid-19 \u2013 Vedemecum legale #2: Il lavoro"", ""Descrizione"": ""infografica"", ""Fonte"": ""Brigate di solidariet\u00e0 attiva"", ""Link"": ""https://brigatesolidarietaattiva.net/2020/03/25/covid-19-vedemecum-legale-2-lavoro/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1238,588003724,2020-03-26 17:28:28,2020-03-25 21:31:30,Covid19 – Vedemecum legale: Il lavoro,,,,,"[""Notizie Utili"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Cosa"": ""Covid-19 \u2013 Vedemecum legale #2: Il lavoro"", ""Descrizione"": ""infografica"", ""Fonte"": ""Brigate di solidariet\u00e0 attiva"", ""Link"": ""https://brigatesolidarietaattiva.net/2020/03/25/covid-19-vedemecum-legale-2-lavoro/""}","<pre><yamldata>
 Cosa: 'Covid-19 – Vedemecum legale #2: Il lavoro'
 Descrizione: infografica
 Fonte: Brigate di solidarietà attiva
