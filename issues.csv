@@ -98,6 +98,12 @@ Metodi_di_pagamento_accettati: contrassegno option_2 option_1 carta_prepagat con
 Nome_dell_esercizio_commercial: Gelateria Pellicano
 Posizione: 44.05939 12.56844
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1273,588509211,2020-03-26 16:39:32,2020-03-26 15:28:58,Il Ministero della Salute fornisce informazioni su attivazione di servizi di supporto psicologico e psicoanalitico,,,,,"[""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza coronavirus: il servizio di aiuto di psicologi e psicoanalisti"", ""Descrizione"": ""Il ministero della salute attraverso una news fornisce informazioni su diverse iniziative messe in campo per supportare dal punto di vista psicologico la popolazione."", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4307""}","<pre><yamldata>
+Cosa: 'Emergenza coronavirus: il servizio di aiuto di psicologi e psicoanalisti'
+Descrizione: 'Il ministero della salute attraverso una news fornisce informazioni su diverse iniziative messe in campo per supportare dal
+  punto di vista psicologico la popolazione.'
+Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4307
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1271,588487466,2020-03-26 16:11:23,2020-03-26 15:00:26,2gether onlus promuove un raccolta fondi per fornire mascherine e ventilatori in #ValdiSusa,45.13716,7.053888,Piemonte,Torino,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""2gether onlus, considerato l'evolversi dell'emergenza epidemiologica e per contribuire alla presa in carico sanitaria e socio-assistenziale della popolazione della Val di Susa, lancia una raccolta fondi a favore di:\n\n1. Operatori di strutture di aree periferiche dei servizi territoriali e ospedalieri, operatori socio-assistenziali, protezione civile e fasce deboli della popolazione: fornitura di circa 30.000 mascherine \n\n2. Pazienti in cura presso Ospedale di Susa: fornitura di sistemi di ventilazione e ventilatori polmonari\n\nLa raccolta fondi \u00e8 realizzata in collaborazione con ASLTO3, Unione Montana Alta Valle Susa, Unione Montana Comuni Olimpici Via Lattea e Consorzio Socio Assistenziale Con.I.S.A. Valle di Susa.\n\nIl dono di ognuno \u00e8 il bene di tutti!\nTi ringraziamo con tutto il cuore per il tuo contributo!"", ""Email"": ""info@2getheronlus.eu"", ""Link"": ""https://www.retedeldono.it/it/progetti/2gether-onlus/insieme-per-lemergenza-in-val-di-susa"", ""Nome"": ""2gether onlus"", ""Posizione"": ""45.13716 7.053888 0 0""}","<pre><yamldata>
 Descrizione: ""2gether onlus, considerato l'evolversi dell'emergenza epidemiologica\
   \ e per contribuire alla presa in carico sanitaria e socio-assistenziale della popolazione\
@@ -14160,22 +14166,6 @@ destinatari: ""tutti""
 fonte: https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 provincia: Torino
 regione: Piemonte
-tag: Raccolta fondi
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-16 23:13:29,2020-03-10 23:50:04,Raccolta fondi online Comunità di Sant’Egidio per persone senza dimora e anziani in difficoltà,41.890213,12.4690343,Lazio,Roma,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Comune"": ""Roma"", ""Posizione"": ""41.890213 12.4690343 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio"", ""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
-Comune: Roma
-Posizione: 41.890213 12.4690343 0 0
-Provincia: Roma
-Regione: Lazio
-chi: ""Comunit\xE0 di Sant'Egidio""
-comune: Roma
-contatti: ''
-descrizione: Raccolta fondi online per offrire generi utili, come alimentari, gel
-  igienizzanti e fazzoletti di carta a senzatetto e anziani soli.
-destinatari: persone senza dimora, anziani
-fonte: https://www.facebook.com/donate/503579490301582/10221812290241438/
-provincia: Roma
-regione: Lazio
 tag: Raccolta fondi
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-16 23:13:29,2020-03-10 23:50:04,Raccolta fondi online Comunità di Sant’Egidio per persone senza dimora e anziani in difficoltà,41.890213,12.4690343,Lazio,Roma,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Comune"": ""Roma"", ""Posizione"": ""41.890213 12.4690343 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio"", ""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
