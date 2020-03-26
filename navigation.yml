@@ -20,7 +20,7 @@ languages:
       PRIVACY: "legal"
   - language: en
     navbar-links:
-      RECOMMEND: "en/recomend/"
+      RECOMMEND: "en/recommend/"
       DISCOVER:
         - ITALIAN INITIATIVES : "issues/"
         - INITIATIVES FOR ITALIAN REGION : "issues/regione/"
