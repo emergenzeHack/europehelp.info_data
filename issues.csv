@@ -1,4 +1,37 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1280,588563945,2020-03-26 16:45:22,2020-03-26 16:43:04,Attivo poliambulatorio di Emergency a #Polistena #ReggioCalabria,38.402127,16.069661,Calabria,Reggio di Calabria,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""I nostri ambulatori offrono gratuitamente servizi di medicina di base e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare l\u2019accesso al sistema sanitario a chi ne ha bisogno.\n\nSono presenti mediatori culturali\n\nAmbulatorio di EMERGENCY a Polistena\nVia Catena 45, secondo piano\nPolistena (RC)\nTel: 0966 444400\nTel: 347 6308217 (Coordinatore di progetto)\nFax: 0966 042027\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-polistena-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""38.402127 16.069661 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Polistena""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'I nostri ambulatori offrono gratuitamente servizi di medicina di base
+  e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare
+  l’accesso al sistema sanitario a chi ne ha bisogno.
+
+
+  Sono presenti mediatori culturali
+
+
+  Ambulatorio di EMERGENCY a Polistena
+
+  Via Catena 45, secondo piano
+
+  Polistena (RC)
+
+  Tel: 0966 444400
+
+  Tel: 347 6308217 (Coordinatore di progetto)
+
+  Fax: 0966 042027
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: chi ne ha bisogno
+Link: https://www.emergency.it/progetti/italia-polistena-poliambulatorio/
+Natura: solidale
+Posizione: 38.402127 16.069661 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Polistena
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1279,588557895,2020-03-26 16:37:06,2020-03-26 16:34:49,Attivo poliambulatorio di Emergency a #Marghera #Venezia,45.471303,12.227048,Veneto,Venezia,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""Assistenza sanitaria di base e specialistica, orientamento socio-sanitario\n\nAmbulatorio di EMERGENCY a Marghera\nVia G.B. Var\u00e8 6\n30175 Marghera (VE)\nTel: 041 0994114\nFax: 041 928475\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""migranti e persone in stato di bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-marghera-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.471303 12.227048 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Marghera""}","<pre><yamldata>
 Da_chi_offerta: EMERGENCY
 Descrizione: 'Assistenza sanitaria di base e specialistica, orientamento socio-sanitario
