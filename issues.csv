@@ -1,11 +1,940 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1293,588636094,2020-03-26 18:58:26,2020-03-26 18:30:35,Non è vero che EMERGENCY ha sospeso le attività in Italia,45.453761,9.181936,Lombardia,Milano,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""EMERGENCY ha sospeso le attivit\u00e0 in Italia? FALSO!"", ""Descrizione"": ""Abbiamo solo fermato le attivit\u00e0 di sensibilizzazione e gli eventi sul territorio organizzati dai nostri Gruppi di volontari (come per esempio i banchetti in piazza, le cene di raccolta fondi\u2026), per rispettare le indicazioni ministeriali e per prevenire la diffusione del virus.\n\nLe attivit\u00e0 dei nostri progetti (ambulatori, ambulatori mobili\u2026) e il lavoro del nostro staff in Italia, invece, PROSEGUONO.\n\nNegli ambulatori, ambulatori mobili, Sportelli di orientamento abbiamo adottato un protocollo di triage che permette di individuare pazienti con sintomi compatibili con il virus, di informarli e indirizzarli ai servizi competenti.\n\nAnche i nostri interventi per l\u2019epidemia di Covid-19 sono in costante aggiornamento. Nella pagina ** EMERGENZA SANITARIA IN ITALIA PER COVID-19: ECCO COSA STIAMO FACENDO ** puoi trovare notizie di nuovi interventi che stiamo, mano a mano, avviando."", ""Link"": ""https://www.emergency.it/blog/pace-e-diritti/emergency-ha-sospeso-le-attivita-in-italia-%e2%9d%8cfalso/"", ""Posizione"": ""45.453761 9.181936 0 0""}","<pre><yamldata>
+Cosa: EMERGENCY ha sospeso le attività in Italia? FALSO!
+Descrizione: 'Abbiamo solo fermato le attività di sensibilizzazione e gli eventi sul
+  territorio organizzati dai nostri Gruppi di volontari (come per esempio i banchetti
+  in piazza, le cene di raccolta fondi…), per rispettare le indicazioni ministeriali
+  e per prevenire la diffusione del virus.
+
+
+  Le attività dei nostri progetti (ambulatori, ambulatori mobili…) e il lavoro del
+  nostro staff in Italia, invece, PROSEGUONO.
+
+
+  Negli ambulatori, ambulatori mobili, Sportelli di orientamento abbiamo adottato
+  un protocollo di triage che permette di individuare pazienti con sintomi compatibili
+  con il virus, di informarli e indirizzarli ai servizi competenti.
+
+
+  Anche i nostri interventi per l’epidemia di Covid-19 sono in costante aggiornamento.
+  Nella pagina ** EMERGENZA SANITARIA IN ITALIA PER COVID-19: ECCO COSA STIAMO FACENDO
+  ** puoi trovare notizie di nuovi interventi che stiamo, mano a mano, avviando.'
+Link: https://www.emergency.it/blog/pace-e-diritti/emergency-ha-sospeso-le-attivita-in-italia-%e2%9d%8cfalso/
+Posizione: 45.453761 9.181936 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1292,588618712,2020-03-26 18:12:23,2020-03-26 18:03:43,Ad un metro: piattaforma gratuita per negozi che non hanno un e-commerce,,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Fai consegne a domicilio per l'emergenza, ma non hai un e-commerce?"", ""Descrizione"": ""Abbiamo deciso di contribuire mettendo a disposizione una piattaforma completamente gratuita per vendere i vostri prodotti online, attraverso la consegna a domicilio, durante tutto il periodo di quarantena.\n\nAbbiamo deciso di chiamarla \""ad un metro\"": quel metro di sicurezza che \u00e8 oggi imposto dalle normative ministeriali, ma che vuole rappresentare anche la distanza, quasi impercettibile, tra il vostro negozio e i clienti di fiducia che ogni giorno vi scelgono."", ""Destinatari"": ""Titolari di negozi che fanno consegna a domicilio ma non hanno un e-commerce"", ""Email"": ""info@webmotion.it"", ""Link"": ""https://www.adunmetro.it/?fbclid=IwAR2xOIo70N0K_pJcqLC9rZb4UPSc5r_0Ni8v2I8L2Pqy07wole6RzlVxlBw""}","<pre><yamldata>
+Cosa: Fai consegne a domicilio per l'emergenza, ma non hai un e-commerce?
+Descrizione: 'Abbiamo deciso di contribuire mettendo a disposizione una piattaforma
+  completamente gratuita per vendere i vostri prodotti online, attraverso la consegna
+  a domicilio, durante tutto il periodo di quarantena.
+
+
+  Abbiamo deciso di chiamarla ""ad un metro"": quel metro di sicurezza che è oggi imposto
+  dalle normative ministeriali, ma che vuole rappresentare anche la distanza, quasi
+  impercettibile, tra il vostro negozio e i clienti di fiducia che ogni giorno vi
+  scelgono.'
+Destinatari: Titolari di negozi che fanno consegna a domicilio ma non hanno un e-commerce
+Email: info@webmotion.it
+Link: https://www.adunmetro.it/?fbclid=IwAR2xOIo70N0K_pJcqLC9rZb4UPSc5r_0Ni8v2I8L2Pqy07wole6RzlVxlBw
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1290,588613004,2020-03-26 18:03:44,2020-03-26 17:55:15,Attivo sportello informativo per stranieri di Emergency a #Brescia,45.534428,10.217516,Lombardia,Brescia,"[""Bollettino"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""In seguito al confronto con le istituzioni e le associazioni locali e alla valutazione delle necessit\u00e0, abbiamo aperto, in accordo con l\u2019ASST Brescia e grazie alla collaborazione del Comune, uno Sportello di orientamento socio-sanitario per rispondere alla necessit\u00e0 di un servizio di mediazione culturale, educazione sanitaria e orientamento socio-sanitario e per garantire l\u2019inserimento dei cittadini stranieri in un corretto percorso di cure.\n\nTutte le prestazioni erogate presso il Centro sono gratuite.\n\nSportello informativo di EMERGENCY a Brescia\nVicolo delle Lucertole, 1E\n25122 Brescia\nTel: 030 7823511\nTel: 342 1830402\ne-mail: healthpointbrescia@emergency.it\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""cittadini stranieri"", ""Link"": ""https://www.emergency.it/progetti/italia-brescia-centro-orientamento-socio-sanitario/"", ""Natura"": ""solidale"", ""Posizione"": ""45.534428 10.217516 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello informativo di EMERGENCY a Brescia""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'In seguito al confronto con le istituzioni e le associazioni locali
+  e alla valutazione delle necessità, abbiamo aperto, in accordo con l’ASST Brescia
+  e grazie alla collaborazione del Comune, uno Sportello di orientamento socio-sanitario
+  per rispondere alla necessità di un servizio di mediazione culturale, educazione
+  sanitaria e orientamento socio-sanitario e per garantire l’inserimento dei cittadini
+  stranieri in un corretto percorso di cure.
+
+
+  Tutte le prestazioni erogate presso il Centro sono gratuite.
+
+
+  Sportello informativo di EMERGENCY a Brescia
+
+  Vicolo delle Lucertole, 1E
+
+  25122 Brescia
+
+  Tel: 030 7823511
+
+  Tel: 342 1830402
+
+  e-mail: healthpointbrescia@emergency.it
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: cittadini stranieri
+Link: https://www.emergency.it/progetti/italia-brescia-centro-orientamento-socio-sanitario/
+Natura: solidale
+Posizione: 45.534428 10.217516 0 0
+Tipo_di_soggetto: privato
+Titolo: Sportello informativo di EMERGENCY a Brescia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1289,588612825,2020-03-26 18:01:04,2020-03-26 17:54:57,Asini e Basilico consegna prodotti di produzione propria a domicilio #Genova,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019 idea di asini e basilico nasce dal nostro terreno sulle colline di Murta, consapevoli della soddisfazione delle persone nel nutrirsi di prodotti appena colti e coltivati in modo naturale, e constatando d\u2019altro canto quanto sia difficile, soprattutto in una regione come la nostra, vivere di agricoltura e permettere alla crescente richiesta di prodotti genuini da parte del consumatore di incontarsi con l\u2019offerta dei produttori in modo agevole e a un prezzo equo.\nAsini e basilico vuole proporsi come tramite tra questi due mondi arricchendo la sua offerta con una proposta gastronomica per non rinunciare ai prodotti genuini, spesso sacrificati per questioni di tempo o opportunit\u00e0, gustandoli, freschi o cucinati, comodamente a casa propria o in ufficio."", ""Email"": ""Asiniebasilicosestri@outlook.it"", ""Indirizzo"": ""44.40726 8.93386"", ""Link"": ""http://www.asiniebasilico.it/"", ""Metodi_di_pagamento_accettati"": ""bonifico_banca contanti"", ""Nome_dell_esercizio_commercial"": ""Asini&basilico"", ""Telefono"": ""010 9912460""}","<pre><yamldata>
+Descrizione: 'L’ idea di asini e basilico nasce dal nostro terreno sulle colline di
+  Murta, consapevoli della soddisfazione delle persone nel nutrirsi di prodotti appena
+  colti e coltivati in modo naturale, e constatando d’altro canto quanto sia difficile,
+  soprattutto in una regione come la nostra, vivere di agricoltura e permettere alla
+  crescente richiesta di prodotti genuini da parte del consumatore di incontarsi con
+  l’offerta dei produttori in modo agevole e a un prezzo equo.
+
+  Asini e basilico vuole proporsi come tramite tra questi due mondi arricchendo la
+  sua offerta con una proposta gastronomica per non rinunciare ai prodotti genuini,
+  spesso sacrificati per questioni di tempo o opportunità, gustandoli, freschi o cucinati,
+  comodamente a casa propria o in ufficio.'
+Email: Asiniebasilicosestri@outlook.it
+Indirizzo: 44.40726 8.93386
+Link: http://www.asiniebasilico.it/
+Metodi_di_pagamento_accettati: bonifico_banca contanti
+Nome_dell_esercizio_commercial: Asini&basilico
+Telefono: 010 9912460
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1288,588611565,2020-03-26 17:55:18,2020-03-26 17:53:37,Acquamarina non lascia sole le mamme #Catanzaro,38.907559,16.596828,Calabria,Catanzaro,"[""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione di volontariato Acquamarina"", ""Descrizione"": ""Contattando l\u2019associazione sulla pagina facebook ad essa dedicata ci si potr\u00e0 relazionare con una equipe multidisciplinare composta da ostetriche, educatrici, assistenti sociali, legali, nutrizionisti, peer counselor dell\u2019allattamento al seno, mamme alla pari."", ""Destinatari"": ""Mamme"", ""Link"": ""https://www.csvcatanzaro.it/acquamarina-non-lascia-sole-le-mamme/?fbclid=IwAR0BS2x90TORqTGYKo5qq0WkEVx-INssLTGyifckyJuFn60Sc-kRyWbcm0k"", ""Natura"": ""solidale"", ""Posizione"": ""38.907559 16.596828 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Acquamarina non lascia sole le mamme""}","<pre><yamldata>
+Da_chi_offerta: Associazione di volontariato Acquamarina
+Descrizione: Contattando l’associazione sulla pagina facebook ad essa dedicata ci
+  si potrà relazionare con una equipe multidisciplinare composta da ostetriche, educatrici,
+  assistenti sociali, legali, nutrizionisti, peer counselor dell’allattamento al seno,
+  mamme alla pari.
+Destinatari: Mamme
+Link: https://www.csvcatanzaro.it/acquamarina-non-lascia-sole-le-mamme/?fbclid=IwAR0BS2x90TORqTGYKo5qq0WkEVx-INssLTGyifckyJuFn60Sc-kRyWbcm0k
+Natura: solidale
+Posizione: 38.907559 16.596828 0 0
+Tipo_di_soggetto: privato
+Titolo: Acquamarina non lascia sole le mamme
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1287,588609249,2020-03-26 17:51:08,2020-03-26 17:49:50,URGENTE: Cercasi volontari che parlino #spagnolo Ospedale #Crema,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cercasi volontari che parlino spagnolo Ospedale #Crema"", ""Descrizione"": ""All'ospedale di Crema cercano volontari che parlino spagnolo,  disposti ad assistere i medici cubani per le traduzioni. Il servizio dovr\u00e0 essere svolto anche all'interno dell'ospedale da campo. Se conosci qualcuno, digli di contattare l'ospedale di Crema, dott.ssa de martinis. \nBisogna mandare una mail dichiarante la propria disponibilit\u00e0 a : direzione.sanitaria@asst-crema.it"", ""Destinatari"": ""Volontari/e che parlino lo spagnolo"", ""Email"": ""direzione.sanitaria@asst-crema.it"", ""Indirizzo"": ""45.364569 9.681578 0 0"", ""Nome"": ""Dott.ssa De Martinis""}","<pre><yamldata>
+Cosa: 'Cercasi volontari che parlino spagnolo Ospedale #Crema'
+Descrizione: ""All'ospedale di Crema cercano volontari che parlino spagnolo,  disposti\
+  \ ad assistere i medici cubani per le traduzioni. Il servizio dovrà essere svolto\
+  \ anche all'interno dell'ospedale da campo. Se conosci qualcuno, digli di contattare\
+  \ l'ospedale di Crema, dott.ssa de martinis. \nBisogna mandare una mail dichiarante\
+  \ la propria disponibilità a : direzione.sanitaria@asst-crema.it""
+Destinatari: Volontari/e che parlino lo spagnolo
+Email: direzione.sanitaria@asst-crema.it
+Indirizzo: 45.364569 9.681578 0 0
+Nome: Dott.ssa De Martinis
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1286,588602864,2020-03-26 17:42:33,2020-03-26 17:39:21,Attivo ambulatorio di Emergency a #Sassari,40.718937,8.555308,Sardegna,Sassari,"[""Bollettino"", ""Notizie Utili"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""I nostri ambulatori offrono gratuitamente servizi di medicina di base e orientamento socio-sanitario per facilitare l\u2019accesso al sistema sanitario a chi ne ha bisogno.\n\nSono presenti mediatori culturali. Presso l\u2019ambulatorio di Sassari vengono anche svolte attivit\u00e0 di educazione sanitaria e di prevenzione. \n\nAmbulatorio di EMERGENCY a Sassari (in collaborazione con la Asl Sassari 1)\nc/o ASL 1 via Monte Grappa 82 (piano terra)\n07100 \u2013 SASSARI\nTel: 345 3719597\ne-mail: infosassari@emergency.it\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-13.00 e 14.00-18.00 per prestazioni infermieristiche e orientamento socio-sanitario\nLuned\u00ec, mercoled\u00ec e gioved\u00ec 14.00-18.00 per la medicina di base"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-sassari-ambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""40.718937 8.555308 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Sassari""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: ""I nostri ambulatori offrono gratuitamente servizi di medicina di base\
+  \ e orientamento socio-sanitario per facilitare l’accesso al sistema sanitario a\
+  \ chi ne ha bisogno.\n\nSono presenti mediatori culturali. Presso l’ambulatorio\
+  \ di Sassari vengono anche svolte attività di educazione sanitaria e di prevenzione.\
+  \ \n\nAmbulatorio di EMERGENCY a Sassari (in collaborazione con la Asl Sassari 1)\n\
+  c/o ASL 1 via Monte Grappa 82 (piano terra)\n07100 – SASSARI\nTel: 345 3719597\n\
+  e-mail: infosassari@emergency.it\n\nOrari\nDal lunedì al venerdì, 9.00-13.00 e 14.00-18.00\
+  \ per prestazioni infermieristiche e orientamento socio-sanitario\nLunedì, mercoledì\
+  \ e giovedì 14.00-18.00 per la medicina di base""
+Destinatari: chi ne ha bisogno
+Link: https://www.emergency.it/progetti/italia-sassari-ambulatorio/
+Natura: solidale
+Posizione: 40.718937 8.555308 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Sassari
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1285,588591690,2020-03-26 17:43:03,2020-03-26 17:23:32,Attivo poliambulatorio di Emergency a #Napoli,40.861102,14.342973,Campania,Napoli,"[""Bollettino"", ""Notizie Utili"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""I nostri ambulatori offrono gratuitamente servizi di medicina di base e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare l\u2019accesso al sistema sanitario a chi ne ha bisogno.\n\nSono presenti mediatori culturali, un ambulatorio infermieristico, servizio di supporto psicologico. Lo affianca un\u2019unit\u00e0 di strada per persone senza fissa dimora\n\nAmbulatorio di EMERGENCY a Napoli (quartiere Ponticelli)\nVia Pacioli, 95\n80147 Napoli\nTel: 0811 9579909\nTel: 342 8627270\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-napoli-ambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""40.861102 14.342973 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Napoli""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'I nostri ambulatori offrono gratuitamente servizi di medicina di base
+  e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare
+  l’accesso al sistema sanitario a chi ne ha bisogno.
+
+
+  Sono presenti mediatori culturali, un ambulatorio infermieristico, servizio di supporto
+  psicologico. Lo affianca un’unità di strada per persone senza fissa dimora
+
+
+  Ambulatorio di EMERGENCY a Napoli (quartiere Ponticelli)
+
+  Via Pacioli, 95
+
+  80147 Napoli
+
+  Tel: 0811 9579909
+
+  Tel: 342 8627270
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: chi ne ha bisogno
+Link: https://www.emergency.it/progetti/italia-napoli-ambulatorio/
+Natura: solidale
+Posizione: 40.861102 14.342973 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Napoli
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1284,588585465,2020-03-26 17:43:17,2020-03-26 17:14:24,PsyPlus Onlus offre servizio di sostegno gratuito on-line per sanitari e operatori attività essenziali,,,,,"[""Bollettino"", ""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""PsyPlus Onlus"", ""Descrizione"": ""Con l'intensificarsi dell'emergenza Corona Virus Psy+ Onlus, che opera in rete con altre organizzazioni impegnate nei servizi di sostegno psicosociale, ha avviato una iniziativa di solidariet\u00e0 nei conforonti degli operatori e delle operatirici dei servizi essenziali. Tutte e tutti coloro che oggi sono impegnati nel garantire alla popolazione cure mediche, consegna di medicinali, di cibo, e di ogni altro bene indispensabile per affrontare questa crisi, o altrimenti impegnati/e nel mantenimento di servizi essenziali, possono ottenere ascolto e sostegno psicologico specifico:\n\nPER UN MASSIMO DI QUATTRO INCONTRI (EVENTUALMENTE RINNOVABILI PER SITUAZIONI ECCEZIONALI) POTRETE CONTARE SULL'ASCOLTO E SUL SOSTEGNO DI ESPERTI IN PSICOLOGIA / PSICOTERAPIA CHE VI ORIENTERANNO NELLA GESTIONE DELLO STRESS, AGEVOLANDOVI NELL'ACQUSIZIONE DI STRUMENTI PER IL CONTENIMENTO DELL'ANSIA E DI EVENTUALI ALTRE SINTOMATOLOGIE CONNESSE ALLA MERITORIA FUNZIONE CHE STATE SVOLGENDO A BENEFICIO DELLE PERSONE CHE VI CIRCONDANO.\n\nil servizio gratuito di ascolto e sostegno psicologico per chi opera nei servizi essenziali pu\u00f2 essere richiesto ed attivato cliccando qui sotto, scrivendo a:\n CORONAVIRUS@PSYPLUS.ORG\n\nIN CONSIDERAZIONE DELLE GRANDI NECESSIT\u00c0, DELLE NOSTRE LIMITATE RISORSE, E DELLE NUMEROSE OFFERTE DI SOLIDARIET\u00c0 NEI DIVERSI TERRITORI, INVITIAMO A CONTATTARCI SOPRATTUTTO GLI OPERATORI IMPEGNATI NEI COMUNI DI ROMA E PESCARA (RESTANDO  APERTI A RICHIESTE ANCHE DA ALTRI LUOGHI)."", ""Destinatari"": ""SANITARI E PERSONALE ATTIVIT\u00c0 ESSENZIALI"", ""Link"": ""https://www.psyplus.org/index.php/74-uncategorized/180-sanitari-e-essenziali"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SERVIZIO DI SOSTEGNO GRATUITO ONLINE PER SANITARI E PERSONALE ATTIVIT\u00c0 ESSENZIALI""}","<pre><yamldata>
+Da_chi_offerta: PsyPlus Onlus
+Descrizione: ""Con l'intensificarsi dell'emergenza Corona Virus Psy+ Onlus, che opera\
+  \ in rete con altre organizzazioni impegnate nei servizi di sostegno psicosociale,\
+  \ ha avviato una iniziativa di solidarietà nei conforonti degli operatori e delle\
+  \ operatirici dei servizi essenziali. Tutte e tutti coloro che oggi sono impegnati\
+  \ nel garantire alla popolazione cure mediche, consegna di medicinali, di cibo,\
+  \ e di ogni altro bene indispensabile per affrontare questa crisi, o altrimenti\
+  \ impegnati/e nel mantenimento di servizi essenziali, possono ottenere ascolto e\
+  \ sostegno psicologico specifico:\n\nPER UN MASSIMO DI QUATTRO INCONTRI (EVENTUALMENTE\
+  \ RINNOVABILI PER SITUAZIONI ECCEZIONALI) POTRETE CONTARE SULL'ASCOLTO E SUL SOSTEGNO\
+  \ DI ESPERTI IN PSICOLOGIA / PSICOTERAPIA CHE VI ORIENTERANNO NELLA GESTIONE DELLO\
+  \ STRESS, AGEVOLANDOVI NELL'ACQUSIZIONE DI STRUMENTI PER IL CONTENIMENTO DELL'ANSIA\
+  \ E DI EVENTUALI ALTRE SINTOMATOLOGIE CONNESSE ALLA MERITORIA FUNZIONE CHE STATE\
+  \ SVOLGENDO A BENEFICIO DELLE PERSONE CHE VI CIRCONDANO.\n\nil servizio gratuito\
+  \ di ascolto e sostegno psicologico per chi opera nei servizi essenziali può essere\
+  \ richiesto ed attivato cliccando qui sotto, scrivendo a:\n CORONAVIRUS@PSYPLUS.ORG\n\
+  \nIN CONSIDERAZIONE DELLE GRANDI NECESSITÀ, DELLE NOSTRE LIMITATE RISORSE, E DELLE\
+  \ NUMEROSE OFFERTE DI SOLIDARIETÀ NEI DIVERSI TERRITORI, INVITIAMO A CONTATTARCI\
+  \ SOPRATTUTTO GLI OPERATORI IMPEGNATI NEI COMUNI DI ROMA E PESCARA (RESTANDO  APERTI\
+  \ A RICHIESTE ANCHE DA ALTRI LUOGHI).""
+Destinatari: SANITARI E PERSONALE ATTIVITÀ ESSENZIALI
+Link: https://www.psyplus.org/index.php/74-uncategorized/180-sanitari-e-essenziali
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: SERVIZIO DI SOSTEGNO GRATUITO ONLINE PER SANITARI E PERSONALE ATTIVITÀ ESSENZIALI
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1283,588582799,2020-03-26 17:43:33,2020-03-26 17:10:24,Attivo ambulatorio di Emergency a #CastelVolturno #Caserta per stranieri e fasce più deboli ,41.119618,13.874316,Campania,Caserta,"[""Bollettino"", ""Notizie Utili"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""A Castel Volturno, migranti e fasce pi\u00f9 deboli della popolazione possono ricevere gratuitamente cure di base e l\u2019aiuto dei nostri mediatori.\n\nAmbulatorio di EMERGENCY a Castel Volturno\nvia Domitiana, 288\n81030 Castel Volturno (CE)\nTel: 342 0999790\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-castel-volturno-ambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""41.119618 13.874316 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Castel Volturno""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'A Castel Volturno, migranti e fasce più deboli della popolazione possono
+  ricevere gratuitamente cure di base e l’aiuto dei nostri mediatori.
+
+
+  Ambulatorio di EMERGENCY a Castel Volturno
+
+  via Domitiana, 288
+
+  81030 Castel Volturno (CE)
+
+  Tel: 342 0999790
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: chi ne ha bisogno
+Link: https://www.emergency.it/progetti/italia-castel-volturno-ambulatorio/
+Natura: solidale
+Posizione: 41.119618 13.874316 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Castel Volturno
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1282,588577459,2020-03-26 17:43:49,2020-03-26 17:02:10,ARS Cooperativa sociale offre servizio gratuito di ascolto psicologico,,,,,"[""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""servizio gratuito di ascolto psicologico"", ""Descrizione"": ""Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l\u2019incertezza sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di confrontarsi e di reinventare una propria normalit\u00e0 diventa necessario perch\u00e9 strettamente correlati al benessere psicologico e alla salute mentale."", ""Destinatari"": ""chiunque, in qualsiasi citt\u00e0 di Italia, in questi giorni \u00e8 chiuso in casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi ci \u00e8 accanto"", ""Email"": ""info@arscooperativa.it"", ""Immagine"": ""WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg"", ""Link"": ""https://www.facebook.com/arscooperativa/"", ""Telefono"": ""08119639950""}","<pre><yamldata>
+Cosa: servizio gratuito di ascolto psicologico
+Descrizione: Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre
+  abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l’incertezza
+  sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di
+  confrontarsi e di reinventare una propria normalità diventa necessario perché strettamente
+  correlati al benessere psicologico e alla salute mentale.
+Destinatari: chiunque, in qualsiasi città di Italia, in questi giorni è chiuso in
+  casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi
+  ci è accanto
+Email: info@arscooperativa.it
+Immagine: WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg
+Link: https://www.facebook.com/arscooperativa/
+Telefono: 08119639950
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1281,588572739,2020-03-26 17:32:48,2020-03-26 16:55:18,"Hack the Crisis: un hackathon per fronteggiare l'emergenza, 27-29 marzo '20",,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\""HACK THE CRISIS\"" \u00e8 un hackathon virtuale organizzato da volontari. Non importa quale sia il tuo lavoro, ti invitiamo a partecipare - abbiamo bisogno di aiuto da esperti di ogni settore, imprenditori e professionisti. Contribuisci con il tuo tempo e le tue competenze: combattiamo la crisi insieme. Invece di creare varie challenges, abbiamo deciso di delineare diversi track per Hack for Italy. I 3 track coprono le aree dove pensiamo che la tecnologia possa essere maggiormente di aiuto nelle battaglie che l'Italia sta oggi fronteggiando a causa della pandemia. - SAVE LIVES - SAVE COMMUNITIES - SAVE BUSINESSES"", ""Destinatari"": ""Creator, Specialisti IT, sviluppatori, Project manager, Mentors"", ""Link"": ""https://hackforitaly.online/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""HACK THE CRISIS""}","<pre><yamldata>
+Descrizione: '""HACK THE CRISIS"" è un hackathon virtuale organizzato da volontari.
+  Non importa quale sia il tuo lavoro, ti invitiamo a partecipare - abbiamo bisogno
+  di aiuto da esperti di ogni settore, imprenditori e professionisti. Contribuisci
+  con il tuo tempo e le tue competenze: combattiamo la crisi insieme.
+  Invece di creare varie challenges, abbiamo deciso di delineare diversi track per
+  Hack for Italy. I 3 track coprono le aree dove pensiamo che la tecnologia possa
+  essere maggiormente di aiuto nelle battaglie che l''Italia sta oggi fronteggiando
+  a causa della pandemia.
+  - SAVE LIVES
+  - SAVE COMMUNITIES
+  - SAVE BUSINESSES'
+Destinatari: Creator, Specialisti IT, sviluppatori, Project manager, Mentors
+Link: https://hackforitaly.online/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: HACK THE CRISIS
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1280,588563945,2020-03-26 18:21:41,2020-03-26 16:43:04,Attivo poliambulatorio di Emergency a #Polistena #ReggioCalabria,38.402127,16.069661,Calabria,Reggio di Calabria,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""I nostri ambulatori offrono gratuitamente servizi di medicina di base e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare l\u2019accesso al sistema sanitario a chi ne ha bisogno.\n\nSono presenti mediatori culturali\n\nAmbulatorio di EMERGENCY a Polistena\nVia Catena 45, secondo piano\nPolistena (RC)\nTel: 0966 444400\nTel: 347 6308217 (Coordinatore di progetto)\nFax: 0966 042027\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""chi ne ha bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-polistena-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""38.402127 16.069661 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Polistena""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'I nostri ambulatori offrono gratuitamente servizi di medicina di base
+  e specialistica, educazione sanitaria e orientamento socio-sanitario per facilitare
+  l’accesso al sistema sanitario a chi ne ha bisogno.
+
+
+  Sono presenti mediatori culturali
+
+
+  Ambulatorio di EMERGENCY a Polistena
+
+  Via Catena 45, secondo piano
+
+  Polistena (RC)
+
+  Tel: 0966 444400
+
+  Tel: 347 6308217 (Coordinatore di progetto)
+
+  Fax: 0966 042027
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: chi ne ha bisogno
+Link: https://www.emergency.it/progetti/italia-polistena-poliambulatorio/
+Natura: solidale
+Posizione: 38.402127 16.069661 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Polistena
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1279,588557895,2020-03-26 17:19:31,2020-03-26 16:34:49,Attivo poliambulatorio di Emergency a #Marghera #Venezia,45.471303,12.227048,Veneto,Venezia,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""Assistenza sanitaria di base e specialistica, orientamento socio-sanitario\n\nAmbulatorio di EMERGENCY a Marghera\nVia G.B. Var\u00e8 6\n30175 Marghera (VE)\nTel: 041 0994114\nFax: 041 928475\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""migranti e persone in stato di bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-marghera-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.471303 12.227048 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Marghera""}","<pre><yamldata>
+Da_chi_offerta: EMERGENCY
+Descrizione: 'Assistenza sanitaria di base e specialistica, orientamento socio-sanitario
+
+
+  Ambulatorio di EMERGENCY a Marghera
+
+  Via G.B. Varè 6
+
+  30175 Marghera (VE)
+
+  Tel: 041 0994114
+
+  Fax: 041 928475
+
+
+  Orari
+
+  Dal lunedì al venerdì, 9.00-18.00'
+Destinatari: migranti e persone in stato di bisogno
+Link: https://www.emergency.it/progetti/italia-marghera-poliambulatorio/
+Natura: solidale
+Posizione: 45.471303 12.227048 0 0
+Tipo_di_soggetto: privato
+Titolo: Ambulatorio di EMERGENCY a Marghera
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1278,588554451,2020-03-26 16:31:36,2020-03-26 16:30:15,"Raccolta fondi per Zumbimbi, struttura che a #Milano ospita bimbi con entrambi i genitori in ospedale",45.441239,9.157823,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Zumbimbi"", ""Descrizione"": ""La Cordata insieme al Comune di Milano, a EMERGENCY, alla Cooperativa COMIN e alla Diaconia Valdese, hanno deciso di aprire Zumbimbi, una struttura per bambini tra i 6 e i 14 anni, i cui genitori sono in ospedale perch\u00e9 positivi al Coronavirus e che non hanno altri adulti di riferimento che possano prendersi cura di loro. \nAl momento ospitiamo 6 bambine e bambini. Abbiamo per\u00f2 bisogno dell'aiuto di tutti voi per rendere l\u2019accoglienza di questi bimbi il pi\u00f9 possibile serena, poich\u00e9 l\u2019isolamento prevede che alloggino in camere singole e mantengano le distanze di sicurezza tra di loro e con gli operatori, rendendo questa fase della loro vita ancor pi\u00f9 delicata.  Fai una donazione, i tuoi soldi ci permetteranno di comprare i materiali e i giochi che ci mancano."", ""Email"": ""volontarizumbini@lacordata.it"", ""IBAN"": ""IT 95 D 05034 01740 0000 0000 2232"", ""Intestazione"": ""La Cordata"", ""Link"": ""https://www.lacordata.it/zumbimbi?fbclid=IwAR38p9XNgxKc0y7vCkXEsAymGMB8AyZyYVL_Z2C8YKbN9zSom_MPmrdpXno"", ""Nome"": ""Raccolta fondi per Zumbimbi, struttura che a Milano ospita bimbi con entrambi i genitori in ospedale"", ""Posizione"": ""45.441239 9.157823 0 0""}","<pre><yamldata>
+Causale: Zumbimbi
+Descrizione: ""La Cordata insieme al Comune di Milano, a EMERGENCY, alla Cooperativa\
+  \ COMIN e alla Diaconia Valdese, hanno deciso di aprire Zumbimbi, una struttura\
+  \ per bambini tra i 6 e i 14 anni, i cui genitori sono in ospedale perché positivi\
+  \ al Coronavirus e che non hanno altri adulti di riferimento che possano prendersi\
+  \ cura di loro. \nAl momento ospitiamo 6 bambine e bambini. Abbiamo però bisogno\
+  \ dell'aiuto di tutti voi per rendere l’accoglienza di questi bimbi il più possibile\
+  \ serena, poiché l’isolamento prevede che alloggino in camere singole e mantengano\
+  \ le distanze di sicurezza tra di loro e con gli operatori, rendendo questa fase\
+  \ della loro vita ancor più delicata.  Fai una donazione, i tuoi soldi ci permetteranno\
+  \ di comprare i materiali e i giochi che ci mancano.""
+Email: volontarizumbini@lacordata.it
+IBAN: IT 95 D 05034 01740 0000 0000 2232
+Intestazione: La Cordata
+Link: https://www.lacordata.it/zumbimbi?fbclid=IwAR38p9XNgxKc0y7vCkXEsAymGMB8AyZyYVL_Z2C8YKbN9zSom_MPmrdpXno
+Nome: Raccolta fondi per Zumbimbi, struttura che a Milano ospita bimbi con entrambi
+  i genitori in ospedale
+Posizione: 45.441239 9.157823 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1277,588548272,2020-03-26 16:23:41,2020-03-26 16:22:03,"A #Milano cercasi volontari e materiali per Zumbimbi, struttura che ospita bimbi con entrambi i genitori in ospedale",,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""A Milano cercasi volontari e materiali per Zumbimbi, struttura che ospita bimbi con entrambi i genitori in ospedale"", ""Descrizione"": ""La Cordata onlus insieme al Comune di Milano, a EMERGENCY, alla Cooperativa COMIN e alla Diaconia Valdese, ha deciso di aprire a Milano una struttura per bambini che hanno entrambi i genitori in ospedale perch\u00e9 positivi al coronavirus non hanno nessun adulto che li possa accogliere. Vuoi aiutare i piccoli ospiti? Ecco come puoi farlo: \ud83d\udd39 Proponiti come volontario a distanza. Sei un giocoliere/prestigiatore/attore/cantastorie e puoi dedicare del tempo ai nostri piccoli ospiti? Mancaci il link a un video dimostrativo a volontarizumbini@lacordata.it, la tua disponibilit\u00e0 oraria e il tuo cellulare. Sei un insegnante e puoi supportare nei compiti? Scrivici! \ud83d\udd38 Aiutaci con il materiale. Termometri, traverse per letti singoli, tablet, play station, pennarelli e tempere, libri per bambini. Scrivi a materialezumbini@lacordata.it specificando cosa puoi dare, se hai modo di recapitarlo in via Zumbini 6 e, se non ti \u00e8 possibile, dove/quando possiamo ritirare il materiale. Presumibilmente ci sar\u00e0 anche bisogno di vestiario, ma sapremo con precisione quali capi e per quale et\u00e0 man mano che accogliamo i bimbi. Nel frattempo puoi scrivere per indicare eventuale disponibilit\u00e0 di: mutande, calze, pigiami, pantaloni, magliette, maglioni e felpe. Non dimenticare di specificare l\u2019et\u00e0 di riferimento. Grazie!"", ""Destinatari"": ""Tutti"", ""Email"": ""volontarizumbini@lacordata.it"", ""Indirizzo"": ""45.441265 9.15792 0 0"", ""Link"": ""https://www.facebook.com/lacordata/videos/275447683447467/"", ""Nome"": ""Zumbimbi""}","<pre><yamldata>
+Cosa: A Milano cercasi volontari e materiali per Zumbimbi, struttura che ospita bimbi
+  con entrambi i genitori in ospedale 
+Descrizione: 'La Cordata onlus insieme al Comune di Milano, a EMERGENCY, alla Cooperativa
+  COMIN e alla Diaconia Valdese, ha deciso di aprire a Milano una struttura per bambini
+  che hanno entrambi i genitori in ospedale perché positivi al coronavirus non hanno nessun adulto che li possa accogliere.
+  Vuoi aiutare i piccoli ospiti? Ecco come puoi farlo:
+  🔹 Proponiti come volontario a distanza. Sei un giocoliere/prestigiatore/attore/cantastorie
+  e puoi dedicare del tempo ai nostri piccoli ospiti? Mancaci il link a un video dimostrativo
+  a volontarizumbini@lacordata.it, la tua disponibilità oraria e il tuo cellulare.
+  Sei un insegnante e puoi supportare nei compiti? Scrivici!
+  🔸 Aiutaci con il materiale. Termometri, traverse per letti singoli, tablet, play
+  station, pennarelli e tempere, libri per bambini. Scrivi a materialezumbini@lacordata.it
+  specificando cosa puoi dare, se hai modo di recapitarlo in via Zumbini 6 e, se non
+  ti è possibile, dove/quando possiamo ritirare il materiale. Presumibilmente ci sarà
+  anche bisogno di vestiario, ma sapremo con precisione quali capi e per quale età
+  man mano che accogliamo i bimbi. Nel frattempo puoi scrivere per indicare eventuale
+  disponibilità di: mutande, calze, pigiami, pantaloni, magliette, maglioni e felpe.
+  Non dimenticare di specificare l’età di riferimento. Grazie!'
+Destinatari: Tutti
+Email: volontarizumbini@lacordata.it
+Indirizzo: 45.441265 9.15792 0 0
+Link: https://www.facebook.com/lacordata/videos/275447683447467/
+Nome: Zumbimbi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1276,588536752,2020-03-26 16:23:55,2020-03-26 16:06:09,In 600 a Borgo Sabotino #Latina #Lazio si organizzano su Fb per salvare i piccoli negozi,41.42643,12.81931,Lazio,Latina,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Borgo Sabotino 2.0"", ""Descrizione"": ""A Borgo Sabotino hanno avuto una idea: un passa parola per consorziare gli acquisti nei negozi del borgo. Una catena di acquisti con i commercianti che hanno accettato la scommessa e si sono organizzati per le consegne.\n\nSono gi\u00e0 600 le persone che usano questo strumento. Il gruppo si chiama Borgo Sabotino 2.0 e nasce con lo slogan Aiutiamoli, aiutiamoci.     ttps://www.facebook.com/groups/848853965555813/about/"", ""Link"": ""https://fattoalatina.it/2020/03/26/covid-19-in-600-a-borgo-sabotino-fanno-catena-per-salvare-i-piccoli-negozi/?fbclid=IwAR1F71llB7VGYmWTyV26lJx0f8Ko0Twszlz4ZciGeTIhJ-a3MAQs2hrBYkc"", ""Posizione"": ""41.42643 12.81931""}","<pre><yamldata>
+Cosa: Borgo Sabotino 2.0
+Descrizione: 'A Borgo Sabotino hanno avuto una idea: un passa parola per consorziare gli acquisti nei negozi del borgo. Una catena di acquisti con i commercianti
+  che hanno accettato la scommessa e si sono organizzati per le consegne.
+
+
+  Sono già 600 le persone che usano questo strumento. Il gruppo si chiama Borgo Sabotino
+  2.0 e nasce con lo slogan Aiutiamoli, aiutiamoci.     ttps://www.facebook.com/groups/848853965555813/about/'
+Link: https://fattoalatina.it/2020/03/26/covid-19-in-600-a-borgo-sabotino-fanno-catena-per-salvare-i-piccoli-negozi/?fbclid=IwAR1F71llB7VGYmWTyV26lJx0f8Ko0Twszlz4ZciGeTIhJ-a3MAQs2hrBYkc
+Posizione:  41.42643 12.81931
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1275,588533923,2020-03-26 17:06:49,2020-03-26 16:02:16,Modulo per l'autodichiarazione spostamenti aggiornato al 26/3/2020,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Modulo per l'autodichiarazione aggiornato al 26/3/2020"", ""Descrizione"": ""\u00c8\u200b disponibile on line il nuovo modello di autodichiarazione per gli spostamenti, modificato sulla base delle ultime misure adottate per il contenimento della diffusione del virus Covid-19."", ""Fonte"": ""Ministero degli Interni"", ""Link"": ""https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_26.03.2020_editabile.pdf""}","<pre><yamldata>
+Cosa: Modulo per l'autodichiarazione aggiornato al 26/3/2020
+Descrizione: È​ disponibile on line il nuovo modello di autodichiarazione per gli spostamenti,
+  modificato sulla base delle ultime misure adottate per il contenimento della diffusione
+  del virus Covid-19.
+Fonte: Ministero degli Interni
+Link: https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_26.03.2020_editabile.pdf
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1274,588518836,2020-03-26 16:35:08,2020-03-26 15:41:58,Gelateria Pellicano #Rimini accetta prenotazioni on-line (servizio da venerdì a domenica),44.05939,12.56844,Emilia-Romagna,Rimini,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Solo venerd\u00ec, sabato e domenica, dalle 18.00 alle 22.00.\nDirettamente dalle piattaforme di Take2Me, Just Eat e FoodStation."", ""Link"": ""https://take2me.it/locali/gelateria-pellicano-rimini.html"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 option_1 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Gelateria Pellicano"", ""Posizione"": ""44.05939 12.56844""}","<pre><yamldata>
+Descrizione: 'Solo venerdì, sabato e domenica, dalle 18.00 alle 22.00.
+
+  Direttamente dalle piattaforme di Take2Me, Just Eat e FoodStation.'
+Link: https://take2me.it/locali/gelateria-pellicano-rimini.html
+Metodi_di_pagamento_accettati: contrassegno option_2 option_1 carta_prepagat contanti
+Nome_dell_esercizio_commercial: Gelateria Pellicano
+Posizione: 44.05939 12.56844
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1273,588509211,2020-03-26 16:41:51,2020-03-26 15:28:58,Il Ministero della Salute informa su attivazione di servizi di supporto psicologico e psicoanalitico,,,,,"[""Bollettino"", ""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza coronavirus: il servizio di aiuto di psicologi e psicoanalisti"", ""Descrizione"": ""Il Ministero della Salute attraverso una news fornisce informazioni su diverse iniziative messe in campo per supportare dal punto di vista psicologico e psicoanalitico la popolazione."", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4307""}","<pre><yamldata>
+Cosa: 'Emergenza coronavirus: il servizio di aiuto di psicologi e psicoanalisti'
+Descrizione: 'Il Ministero della Salute attraverso una news fornisce informazioni su diverse iniziative messe in campo per supportare dal
+  punto di vista psicologico e psicoanalitico la popolazione.'
+Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4307
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1271,588487466,2020-03-26 16:11:23,2020-03-26 15:00:26,2gether onlus promuove un raccolta fondi per fornire mascherine e ventilatori in #ValdiSusa,45.13716,7.053888,Piemonte,Torino,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""2gether onlus, considerato l'evolversi dell'emergenza epidemiologica e per contribuire alla presa in carico sanitaria e socio-assistenziale della popolazione della Val di Susa, lancia una raccolta fondi a favore di:\n\n1. Operatori di strutture di aree periferiche dei servizi territoriali e ospedalieri, operatori socio-assistenziali, protezione civile e fasce deboli della popolazione: fornitura di circa 30.000 mascherine \n\n2. Pazienti in cura presso Ospedale di Susa: fornitura di sistemi di ventilazione e ventilatori polmonari\n\nLa raccolta fondi \u00e8 realizzata in collaborazione con ASLTO3, Unione Montana Alta Valle Susa, Unione Montana Comuni Olimpici Via Lattea e Consorzio Socio Assistenziale Con.I.S.A. Valle di Susa.\n\nIl dono di ognuno \u00e8 il bene di tutti!\nTi ringraziamo con tutto il cuore per il tuo contributo!"", ""Email"": ""info@2getheronlus.eu"", ""Link"": ""https://www.retedeldono.it/it/progetti/2gether-onlus/insieme-per-lemergenza-in-val-di-susa"", ""Nome"": ""2gether onlus"", ""Posizione"": ""45.13716 7.053888 0 0""}","<pre><yamldata>
+Descrizione: ""2gether onlus, considerato l'evolversi dell'emergenza epidemiologica\
+  \ e per contribuire alla presa in carico sanitaria e socio-assistenziale della popolazione\
+  \ della Val di Susa, lancia una raccolta fondi a favore di:\n\n1. Operatori di strutture\
+  \ di aree periferiche dei servizi territoriali e ospedalieri, operatori socio-assistenziali,\
+  \ protezione civile e fasce deboli della popolazione: fornitura di circa 30.000\
+  \ mascherine \n\n2. Pazienti in cura presso Ospedale di Susa: fornitura di sistemi\
+  \ di ventilazione e ventilatori polmonari\n\nLa raccolta fondi è realizzata in collaborazione\
+  \ con ASLTO3, Unione Montana Alta Valle Susa, Unione Montana Comuni Olimpici Via\
+  \ Lattea e Consorzio Socio Assistenziale Con.I.S.A. Valle di Susa.\n\nIl dono di\
+  \ ognuno è il bene di tutti!\nTi ringraziamo con tutto il cuore per il tuo contributo!""
+Email: info@2getheronlus.eu
+Link: https://www.retedeldono.it/it/progetti/2gether-onlus/insieme-per-lemergenza-in-val-di-susa
+Nome: 2gether onlus
+Posizione: 45.13716 7.053888 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1270,588475935,2020-03-26 16:32:33,2020-03-26 14:45:12,Le presunte raccomandazioni della John Hopkins University contro il Coronavirus,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Le presunte raccomandazioni della John Hopkins University contro il Coronavirus"", ""Descrizione"": ""Sul web e whatsapp circolano post e messaggi con presunte raccomandazioni della John Hopkins University contro il Coronavirus. Presunte perch\u00e9, come ha verificato Bufale.net, sul sito della John Hopkins University non c\u2019\u00e8 traccia di queste raccomandazioni. Le \u201cpresunte raccomandazioni\u201d sono il solito melange di consigli della nonna e vecchie informazioni \u201cnon troppo verificate\u201d riapparse di qua e di l\u00e0 ed attribuite all\u2019autorit\u00e0 medico di turno."", ""Link"": ""https://www.bufale.net/le-presunte-raccomandazioni-della-john-hopkins-university-contro-il-coronavirus/""}","<pre><yamldata>
+Cosa: Le presunte raccomandazioni della John Hopkins University contro il Coronavirus
+Descrizione: Sul web e whatsapp circolano post e messaggi con presunte raccomandazioni
+  della John Hopkins University contro il Coronavirus. Presunte perché, come ha verificato
+  Bufale.net, sul sito della John Hopkins University non c’è traccia di queste raccomandazioni.
+  Le “presunte raccomandazioni” sono il solito melange di consigli della nonna e vecchie
+  informazioni “non troppo verificate” riapparse di qua e di là ed attribuite all’autorità
+  medico di turno.
+Link: https://www.bufale.net/le-presunte-raccomandazioni-della-john-hopkins-university-contro-il-coronavirus/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1269,588471656,2020-03-26 15:01:10,2020-03-26 14:39:31,"A #Perugia e comuni vicini, bottega Goretti consegna a domicilio frutta e verdura ",,,,,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Goretti Frutta&Verdura nella sua bottega, in Strada Tuderte 129 a Perugia, propone al consumatore ogni tipo di Ortaggi e di verdure di stagione di produzione propria. La Frutta fresca proviene invece per lo pi\u00f9 da aziende agricole di molte regioni d\u2019Italia, scelte per voi per qualit\u00e0 e genuinit\u00e0 dei loro prodotti. \n\nOltre alla frutta e alla verdura, la bottega offre ai propri clienti vere e proprie eccellenze alimentari molte delle quali facenti parte della rete di Campagna Amica, il consorzio delle aziende agricole della Coldiretti, di cui siamo soci da molti anni. \u00c8 attivo anche un servizio di consegna a domicilio a Perugia e comuni vicini."", ""Email"": ""info@lucagoretti.it"", ""Indirizzo"": ""43.1067584 12.38824699"", ""Link"": ""https://www.lucagoretti.it/"", ""Metodi_di_pagamento_accettati"": ""contrassegno contanti"", ""Nome_dell_esercizio_commercial"": ""Azienda Agricola Goretti"", ""Telefono"": ""075 5095033""}","<pre><yamldata>
+Descrizione: ""Goretti Frutta&Verdura nella sua bottega, in Strada Tuderte 129 a Perugia,\
+  \ propone al consumatore ogni tipo di Ortaggi e di verdure di stagione di produzione\
+  \ propria. La Frutta fresca proviene invece per lo più da aziende agricole di molte\
+  \ regioni d’Italia, scelte per voi per qualità e genuinità dei loro prodotti. \n\
+  \nOltre alla frutta e alla verdura, la bottega offre ai propri clienti vere e proprie\
+  \ eccellenze alimentari molte delle quali facenti parte della rete di Campagna Amica,\
+  \ il consorzio delle aziende agricole della Coldiretti, di cui siamo soci da molti\
+  \ anni. È attivo anche un servizio di consegna a domicilio a Perugia e comuni vicini.""
+Email: info@lucagoretti.it
+Indirizzo: 43.1067584 12.38824699
+Link: https://www.lucagoretti.it/
+Metodi_di_pagamento_accettati: contrassegno contanti
+Nome_dell_esercizio_commercial: Azienda Agricola Goretti
+Telefono: 075 5095033
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1268,588452746,2020-03-26 16:33:45,2020-03-26 14:13:33,A #Trieste consegne a domicilio di prodotti alimentari biologici,45.643966,13.778835,Friuli Venezia Giulia,Trieste,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alimentari biologici.\nConsegna gratuita.\nPer info 040 7606402\nAperti dal luned\u00ec al sabato dalle 9 alle 13.00"", ""Email"": ""centroilsettimocielo@gmail.com"", ""Link"": ""www.centroilsettimocielo.com"", ""Metodi_di_pagamento_accettati"": ""bonifico_banca contanti"", ""Nome_dell_esercizio_commercial"": ""Il Settimocielo"", ""Posizione"": ""45.643966 13.778835 0 0"", ""Telefono"": ""0407606402""}","<pre><yamldata>
+Descrizione: 'Alimentari biologici.
+
+  Consegna gratuita.
+
+  Per info 040 7606402
+
+  Aperti dal lunedì al sabato dalle 9 alle 13.00'
+Email: centroilsettimocielo@gmail.com
+Link: www.centroilsettimocielo.com
+Metodi_di_pagamento_accettati: bonifico_banca contanti
+Nome_dell_esercizio_commercial: Il Settimocielo
+Posizione: 45.643966 13.778835 0 0
+Telefono: '0407606402'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1267,588433398,2020-03-26 14:54:53,2020-03-26 13:46:17,A #Perugia la Macelleria Santa Croce Carni consegna a domicilio,43.1070321,12.402996209906487,Umbria,Perugia,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""dal Luned\u00ec al sabato \ndalle 8.30 alle 13.00 e dalle 16.30 alle 19.00\n\nIl gioved\u00ec solo mattino"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 bonifico_banca contanti"", ""Nome_dell_esercizio_commercial"": ""Macelleria Santa Croce Carni"", ""Posizione"": ""43.1070321 12.402996209906487 0 0"", ""Telefono"": ""075 43650""}","<pre><yamldata>
+Descrizione: ""dal Lunedì al sabato \ndalle 8.30 alle 13.00 e dalle 16.30 alle 19.00\n\
+  \nIl giovedì solo mattino""
+Metodi_di_pagamento_accettati: contrassegno option_2 bonifico_banca contanti
+Nome_dell_esercizio_commercial: Macelleria Santa Croce Carni
+Telefono: 075 43650
+Posizione: 43.1070321 12.402996209906487 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1266,588419610,2020-03-26 14:59:32,2020-03-26 13:26:05,#Roma Municipio I - Lista in aggiornamento di negozi di vicinato che effettuano consegne a casa,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Lista di negozi di vicinato del primo municipio di Roma che effettuano consegne a casa.  In aggiornamento"", ""Email"": ""primomunicipiorm@gmail.com"", ""Indirizzo"": ""41.89277044 12.48366723 0 0"", ""Link"": ""https://primomunicipioroma.com/2020/03/23/negozi-di-vicinato-e-mercati-con-consegna-a-domicilio/?fbclid=IwAR06dqETJMWi8VbIpEQuhmOXrUWjGlwDJ3dSH6LVodbFnGZroHos4BAde1U"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Negozi ed esercenti municipio 1- Roma""}","<pre><yamldata>
+Descrizione: Lista di negozi di vicinato del primo municipio di Roma che effettuano
+  consegne a casa.  In aggiornamento
+Email: primomunicipiorm@gmail.com
+Indirizzo: 41.89277044 12.48366723 0 0
+Link: https://primomunicipioroma.com/2020/03/23/negozi-di-vicinato-e-mercati-con-consegna-a-domicilio/?fbclid=IwAR06dqETJMWi8VbIpEQuhmOXrUWjGlwDJ3dSH6LVodbFnGZroHos4BAde1U
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: Negozi ed esercenti municipio 1- Roma
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1265,588411967,2020-03-26 15:52:33,2020-03-26 13:14:43,Croce Rossa attiva servizio di teleassistenza psicologica per operatori sanitari in tutta Italia,41.878866,12.498596,Lazio,Roma,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana"", ""Descrizione"": ""L'esercito dei camici bianchi italiani non molla, combatte nelle terapie intensive, si sottopone a turni infernali, si sacrifica pur di salvare vite. Ma anche chi lotta per tutelare la nostra salute pu\u00f2 avere un momento di fragilit\u00e0. Per non lasciare solo chi si prende di cura di noi la Croce rossa italiana da oggi ha attivato uno speciale servizio di teleassistenza psicologica dedicato proprio agli operatori sanitari impegnati nell\u2019emergenza Covid-19, che risponde al numero 06.5510 (opzione 5), dal luned\u00ec al sabato, dalle ore 8 alle 20.\n\nInoltre in molte regioni \u00e8 attivo per i volontari della Croce rossa il Sep, servizio psicosociale in emergenza, gestito dai comitati territoriali.\n\nSi fa presente che l\u2019iniziativa #psicologionline del Consiglio nazionale dell\u2019Ordine degli psicologi \u00e8 rivolta anche a medici, infermieri e personale sanitario. Cos\u00ec come il servizio di ascolto e sostegno psicologico a distanza offerto dai professionisti della Societ\u00e0 psicanalitica italiana."", ""Destinatari"": ""operatori sanitari"", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4325&fbclid=IwAR0Cz3KmsjzkRa37cXnrfr0LCX8JFWY-jlLwFqZwSgpMHwWWBJc2UbB7BSg"", ""Natura"": ""solidale"", ""Posizione"": ""41.878866 12.498596 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di teleassistenza psicologica per operatori sanitari""}","<pre><yamldata>
+Da_chi_offerta: Croce Rossa Italiana
+Descrizione: 'L''esercito dei camici bianchi italiani non molla, combatte nelle terapie
+  intensive, si sottopone a turni infernali, si sacrifica pur di salvare vite. Ma
+  anche chi lotta per tutelare la nostra salute può avere un momento di fragilità.
+  Per non lasciare solo chi si prende di cura di noi la Croce rossa italiana da oggi
+  ha attivato uno speciale servizio di teleassistenza psicologica dedicato proprio
+  agli operatori sanitari impegnati nell’emergenza Covid-19, che risponde al numero
+  06.5510 (opzione 5), dal lunedì al sabato, dalle ore 8 alle 20.
+
+
+  Inoltre in molte regioni è attivo per i volontari della Croce rossa il Sep, servizio
+  psicosociale in emergenza, gestito dai comitati territoriali.
+
+
+  Si fa presente che l’iniziativa #psicologionline del Consiglio nazionale dell’Ordine
+  degli psicologi è rivolta anche a medici, infermieri e personale sanitario. Così
+  come il servizio di ascolto e sostegno psicologico a distanza offerto dai professionisti
+  della Società psicanalitica italiana.'
+Destinatari: operatori sanitari
+Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4325&fbclid=IwAR0Cz3KmsjzkRa37cXnrfr0LCX8JFWY-jlLwFqZwSgpMHwWWBJc2UbB7BSg
+Natura: solidale
+Posizione: 41.878866 12.498596 0 0
+Tipo_di_soggetto: privato
+Titolo: Servizio di teleassistenza psicologica per operatori sanitari
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1264,588373366,2020-03-26 15:02:53,2020-03-26 12:10:32,Corsi online per docenti sugli strumenti per la didattica generale #Italia,42.6384261,12.674297,Umbria,Terni,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Save the Children"", ""Descrizione"": ""10 webinar gratuiti realizzati in collaborazione con le reti Avanguardie Educative e Piccole Scuole, coordinate da INDIRE su soluzioni per la didattica a distanza con metodologie e strumenti innovativi."", ""Destinatari"": ""Personale docente"", ""Link"": ""http://www.indire.it/la-rete-di-avanguardie-educative-a-supporto-dellemergenza-sanitaria/"", ""Natura"": ""didattica"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Titolo"": ""CORSI ONLINE GRATIS PER DOCENTI: STRUMENTI PER LA DIDATTICA DIGITALE""}","<pre><yamldata>
+Da_chi_offerta: Save the Children
+Descrizione: 10 webinar gratuiti realizzati in collaborazione con le reti Avanguardie Educative e Piccole Scuole, coordinate da INDIRE su soluzioni per la didattica a distanza con metodologie e strumenti innovativi.
+Destinatari: Personale docente
+Link: http://www.indire.it/la-rete-di-avanguardie-educative-a-supporto-dellemergenza-sanitaria/
+Natura: didattica
+Posizione: 42.6384261 12.674297 0 0
+Titolo: 'CORSI ONLINE GRATIS PER DOCENTI: STRUMENTI PER LA DIDATTICA DIGITALE'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1262,588365051,2020-03-26 15:41:48,2020-03-26 11:56:17,"""Per quando torneremo"" è una pubblicazione digitale indipendente promossa a #Prato per raccogliere fondi",43.882057,11.097565,Toscana,Prato,"[""Attivita culturali e ricreative"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\""Per quando torneremo\"" \u00e8 una pubblicazione digitale indipendente ideata da IL CLEB, un gruppo di lettura con casa base a Prato, dedicato a libri scritti da donne, che si occupa anche dell\u2019organizzazione di eventi e iniziative nel campo della narrativa e dell\u2019editoria.\nEsso ha chiesto a scrittori e poeti di ogni sesso, et\u00e0 e provenienza, vicini e lontani di comporre poesie e racconti scritti in e per questo momento particolare.\nTutto il ricavato dell'ebook sar\u00e0 devoluto alle strutture ospedaliere che stanno fronteggiando il coronavirus. All'ospedale di Prato, tramite la Fondazione AMI, sar\u00e0 devoluto l'80% del ricavato. La residua parte del ricavato (il 20%) sar\u00e0 devoluta ad altre strutture ospedaliere e istituti di ricerca nel campo delle malattie infettive, nel caso in cui, nel periodo di raccolta fondi, si manifestassero particolari situazioni di urgenza e necessit\u00e0."", ""Email"": ""info.ilcleb@gmail.com"", ""Link"": ""https://perquandotorneremo.wixsite.com/home?fbclid=IwAR2ksqWvB4EOIW-P2sUFa5sqSjtezeXo9VjzYVV7qYTwKRidshnWUjWGiwQ"", ""Nome"": ""IL CLEB, un gruppo di lettura con casa base a Prato"", ""Posizione"": ""43.882057 11.097565 0 0""}","<pre><yamldata>
+Descrizione: '""Per quando torneremo"" è una pubblicazione digitale indipendente ideata
+  da IL CLEB, un gruppo di lettura con casa base a Prato, dedicato a libri scritti
+  da donne, che si occupa anche dell’organizzazione di eventi e iniziative nel campo
+  della narrativa e dell’editoria.
+
+  Esso ha chiesto a scrittori e poeti di ogni sesso, età e provenienza, vicini e lontani
+  di comporre poesie e racconti scritti in e per questo momento particolare.
+
+  Tutto il ricavato dell''ebook sarà devoluto alle strutture ospedaliere che stanno
+  fronteggiando il coronavirus. All''ospedale di Prato, tramite la Fondazione AMI,
+  sarà devoluto l''80% del ricavato. La residua parte del ricavato (il 20%) sarà devoluta
+  ad altre strutture ospedaliere e istituti di ricerca nel campo delle malattie infettive,
+  nel caso in cui, nel periodo di raccolta fondi, si manifestassero particolari situazioni
+  di urgenza e necessità.'
+Email: info.ilcleb@gmail.com
+Link: https://perquandotorneremo.wixsite.com/home?fbclid=IwAR2ksqWvB4EOIW-P2sUFa5sqSjtezeXo9VjzYVV7qYTwKRidshnWUjWGiwQ
+Nome: IL CLEB, un gruppo di lettura con casa base a Prato
+Posizione: 43.882057 11.097565 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1261,588360267,2020-03-26 16:04:13,2020-03-26 11:47:34,Servizio telefonico di primo sostegno dell'Ordine Psicologi della #Calabria,"39.0565974,16.5249864",0,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine degli Psicologi della Calabria"", ""Descrizione"": ""Un servizio telefonico gratuito, promosso da PLP - Psicologi Liberi Professionisti Calabria, attivo tutti i giorni dalle ore 10:00 alle ore 20:00, creato per fornire un primo sostegno psicologico a chi sta sperimentando la paura del contagio o prova confusione, preoccupazione, smarrimento a causa della situazione che sta interessando tutto il nostro Paese."", ""Destinatari"": ""Residenti Regione Calabria"", ""La consulenza telefonica offre un unico intervento di primo supporto psicologico. Per accedere al servizio comporre il seguente numero"": ""3923213972, attivo da lunedi 23 Marzo."", ""Link"": ""http://www.plpitalia.it/sos-covid-19/"", ""Natura"": ""solidale"", ""Posizione"": ""39.0565974,16.5249864 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio di primo sostegno da parte dell'Ordine degli Psicologi della Calabria""}","<pre><yamldata>
+Da_chi_offerta: Ordine degli Psicologi della Calabria
+Descrizione: Un servizio telefonico gratuito, promosso da PLP - Psicologi Liberi Professionisti Calabria, attivo tutti i giorni dalle ore 10:00 alle ore 20:00, creato per fornire un primo sostegno psicologico a chi sta sperimentando la paura del contagio o prova confusione, preoccupazione, smarrimento a causa della situazione che sta interessando tutto il nostro Paese.
+La consulenza telefonica offre un unico intervento di primo supporto psicologico. Per accedere al servizio comporre il seguente numero: 3923213972, attivo da lunedi 23 Marzo.
+Destinatari: Residenti Regione Calabria
+Link: http://www.plpitalia.it/sos-covid-19/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Servizio di primo sostegno da parte dell'Ordine degli Psicologi della Calabria
+Posizione: 39.0565974,16.5249864 0 0 
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1260,588356669,2020-03-26 15:45:12,2020-03-26 11:40:51,Servizio di supporto psicologico per contrastare stress per personale medico a #ReggioCalabria,38.113057,15.659436,Calabria,Reggio di Calabria,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Grande ospedale metropolitano di Reggio Calabria"", ""Descrizione"": ""La Direzione Aziendale del G.O.M., di concerto con l'Ordine degli Psicologi della Calabria, ha attivato un servizio di counseling gratuito per tutti i dipendenti dell'Azienda  al fine di prevenire e trattare episodi di stress da lavoro-correlato ai sensi del D. Lgs. 81/2008 art. 28, c. 1. La presente misura si \u00e8 resa necessaria alla luce dell'assoluta consapevolezza che non \u00e8 possibile lasciare soli gli operatori sanitari che sono in prima linea nella dura battaglia contro il Coronavirus. Il supporto psicologico gratuito avver\u00e0 nelle modalit\u00e0 delle videochiamate per le quali l'Ordine degli Psicologi ha messo a disposizione del G.O.M. una lista di esperti."", ""Destinatari"": ""Personale sanitario"", ""Link"": ""http://www.ospedalerc.it/news/news/2020/03/23/avviso-a-tutti-i-sanitari-servizio-di-counseling-gratuito-per-contrastare-stress-da-lavoro-correlato-3302/"", ""Natura"": ""solidale"", ""Posizione"": ""38.113057 15.659436 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio di counseling gratuito per contrastare stress da lavoro-correlato""}","<pre><yamldata>
+Da_chi_offerta: Grande ospedale metropolitano di Reggio Calabria
+Descrizione: 'La Direzione Aziendale del G.O.M., di concerto con l''Ordine degli Psicologi
+  della Calabria, ha attivato un servizio di counseling gratuito per tutti i dipendenti
+  dell''Azienda  al fine di prevenire e trattare episodi di stress da lavoro-correlato
+  ai sensi del D. Lgs. 81/2008 art. 28, c. 1.
+La presente misura si è resa necessaria alla luce dell''assoluta consapevolezza che non è possibile lasciare soli gli operatori sanitari che sono in prima linea nella dura battaglia contro il Coronavirus. Il supporto psicologico gratuito avverà nelle modalità delle videochiamate per le quali l''Ordine degli Psicologi ha messo a disposizione del G.O.M. una lista di esperti.'
+Destinatari: Personale sanitario
+Link: http://www.ospedalerc.it/news/news/2020/03/23/avviso-a-tutti-i-sanitari-servizio-di-counseling-gratuito-per-contrastare-stress-da-lavoro-correlato-3302/
+Natura: solidale
+Posizione: 38.113057 15.659436 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Servizio di counseling gratuito per contrastare stress da lavoro-correlato
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1259,588354848,2020-03-26 16:35:20,2020-03-26 11:37:35,Elenco delle librerie che in tutta Italia aderiscono a #LibridaAsporto,42.6384261,12.674297,Umbria,Terni,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Librerie italiane"", ""Descrizione"": ""Elenco, in aggiornamento, delle librerie che aderiscono all'iniziativa #LibridaAsporto"", ""Destinatari"": ""tutti"", ""Link"": ""http://www.libridaasporto.it/elencolibrerie.html?fbclid=IwAR1482rOl0iHoA6Eto6v4KRZYow2EtNPSklYmd4EnaVCvBlyndqvz5o9nAc"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Titolo"": ""Elenco Librerie aderenti a #LibridaAsporto""}","<pre><yamldata>
+Da_chi_offerta: Librerie italiane
+Descrizione: 'Elenco, in aggiornamento, delle librerie che aderiscono all''iniziativa
+  #LibridaAsporto'
+Destinatari: tutti
+Link: http://www.libridaasporto.it/elencolibrerie.html?fbclid=IwAR1482rOl0iHoA6Eto6v4KRZYow2EtNPSklYmd4EnaVCvBlyndqvz5o9nAc
+Natura: culturale-ricr
+Titolo: 'Elenco Librerie aderenti a #LibridaAsporto'
+Posizione: 42.6384261 12.674297 0 0 
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1258,588352042,2020-03-26 17:23:59,2020-03-26 11:32:35,DoveFila - Mappa con tempi di attesa file supermercati in tutta Italia,42.6384261,12.674297,Umbria,Terni,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Servizio di raccolta dati dal basso per conoscere i tempi di attesa in fila ai supermercati a causa delle disposizione per il Coronavirus"", ""Destinatari"": ""Tutti coloro che sono in fila ai supermercati"", ""Link"": ""https://dovefila.it/"", ""Natura"": ""solidale"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""DoveFila""}","<pre><yamldata>
+Descrizione: Servizio di raccolta dati dal basso per conoscere i tempi di attesa in
+  fila ai supermercati a causa delle disposizione per il Coronavirus
+Destinatari: Tutti coloro che sono in fila ai supermercati
+Link: https://dovefila.it/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: DoveFila
+Posizione: 42.6384261 12.674297 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1256,588348341,2020-03-26 17:42:24,2020-03-26 11:26:12,Maschera Easybreath da snorkeling modificata: modalità di raccolta stampe 3D,45.5255987,10.2145664,Lombardia,Brescia,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""FabLab Brescia"", ""Descrizione"": ""La Protezione Civile ha richiesto la realizzazione di 500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza, sul progetto sviluppato e reso disponibile dalla bresciana Isinnova. MODALIT\u00c0 DI RACCOLTA DELLE STAMPE Il punto di raccolta \u00e8 il seguente: \ud83d\udccd Isinnova Via Cefalonia n. 55, Brescia - Palazzo Symbol - 6\u00b0 Piano - Tel. 030 2425514 Sar\u00e0 possibile effettuare la consegna da luned\u00ec 23 marzo, dalle ore 9:00 alle 17:30 segnalando eventuali esigenze telefonicamente Si invita ad informare tramite una mail a info@bresciafablab.it del numero pezzi realizzati, della data di consegna, delle modalit\u00e0 di spedizione adottate, considerando le restrizioni in vigore."", ""Destinatari"": ""Maker ed associati del FabLab Brescia"", ""Link"": ""https://www.isinnova.it/easy-covid19/?fbclid=IwAR0EiYUjEDP8cMkmcOhAhB0zVWmj8alxgxI8F2fJKp8mgnFZIYgusaKAhj0"", ""Natura"": ""solidale"", ""Posizione"": ""45.5255987 10.2145664"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza""}","<pre><yamldata>
+Da_chi_offerta: FabLab Brescia
+Descrizione: 'La Protezione Civile ha richiesto la realizzazione di 500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza, sul progetto sviluppato e reso disponibile dalla bresciana Isinnova.
+MODALITÀ DI RACCOLTA DELLE STAMPE
+Il punto di raccolta è il seguente:
+📍 Isinnova
+Via Cefalonia n. 55, Brescia - Palazzo Symbol - 6° Piano - Tel. 030 2425514
+Sarà possibile effettuare la consegna da lunedì 23 marzo, dalle ore 9:00 alle 17:30 segnalando eventuali esigenze telefonicamente
+Si invita ad informare tramite una mail a info@bresciafablab.it del numero pezzi realizzati, della data di consegna, delle modalità di spedizione adottate, considerando le restrizioni in vigore.'
+Destinatari: Maker ed associati del FabLab Brescia
+Link: https://www.isinnova.it/easy-covid19/?fbclid=IwAR0EiYUjEDP8cMkmcOhAhB0zVWmj8alxgxI8F2fJKp8mgnFZIYgusaKAhj0
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza
+Posizione: 45.5255987 10.2145664
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1255,588338135,2020-03-26 16:13:36,2020-03-26 11:09:29,"A #Milano nasce Zumbimbi, una struttura per ospitare bambini dai 6 ai 14 anni con i genitori in ospedale",45.4416723,9.1596333,Lombardia,Milano,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""A Milano nasce una struttura per ospitare bambine e bambini tra i 6 e i 14 anni i cui genitori sono in ospedale perch\u00e9 positivi al Coronavirus e che non hanno altri adulti di riferimento che possano prendersi cura di loro.\n\nLa struttura \u00e8 organizzata dall'impresa sociale La Cordata insieme al Comune di Milano, a Emergency, alla Cooperativa Comin e alla Diaconia Valdese. \nSi trova in via Bonaventura Zumbini 6."", ""Email"": ""volontarizumbini@lacordata.it"", ""Link"": ""https://www.facebook.com/lacordata/videos/275447683447467/"", ""Nome"": ""Progetto Zumbimbi"", ""Posizione"": ""45.4416723 9.1596333 0 0""}","<pre><yamldata>
+Descrizione: ""A Milano nasce una struttura per ospitare bambine e bambini tra i 6 e i 14 anni i cui genitori\
+  \ sono in ospedale perché positivi al Coronavirus e che non hanno altri adulti di\
+  \ riferimento che possano prendersi cura di loro.\n\nLa struttura è organizzata dall'impresa\
+  \ sociale La Cordata insieme al Comune di Milano, a Emergency, alla Cooperativa\
+  \ Comin e alla Diaconia Valdese. \nSi trova in via Bonaventura Zumbini 6.""
+Email: volontarizumbini@lacordata.it
+Posizione: 45.4416723 9.1596333 0 0
+Link: https://www.facebook.com/lacordata/videos/275447683447467/
+Nome: Progetto Zumbimbi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1254,588331122,2020-03-26 12:07:01,2020-03-26 10:57:51,"InveceBottega, la mappa (in aggiornamento) di negozi e produttori per evitare le attese al supermercato in tutta #italia",42.6384261,12.674297,Umbria,Terni,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""RE-LEARN"", ""Descrizione"": ""Sito che aggrega su una mappa i negozi e produttori di generi alimentari con relativi recapiti e orari e l'indicazione se consegnino a domicilio o meno, per offrire un'alternativa anche alle lunghe attese della spesa da casa.\nAl momento \u00e8 limitato ad alcune province, ma si possono segnalare attivit\u00e0 non presenti sulla mappa."", ""Link"": ""www.invecebottega.it"", ""Natura"": ""solidale"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""INVECE BOTTEGA""}","<pre><yamldata>
+Da_chi_offerta: RE-LEARN
+Descrizione: 'Sito che aggrega su una mappa i negozi e produttori di generi alimentari
+  con relativi recapiti e orari e l''indicazione se consegnino a domicilio o meno,
+  per offrire un''alternativa anche alle lunghe attese della spesa da casa.
+
+  Al momento è limitato ad alcune province, ma si possono segnalare attività non presenti
+  sulla mappa.'
+Link: www.invecebottega.it
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: INVECE BOTTEGA
+Posizione: 42.6384261 12.674297 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1253,588328142,2020-03-26 12:02:22,2020-03-26 10:53:07,IoRestoACasa Games,43.528031,10.335195,Toscana,Livorno,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Di Palma Giuseppe"", ""Descrizione"": ""IoRestoACasa Games sono dedicati ai ragazzi e alle ragazze delle scuole elementari e medie. Sono sfide di logica, musica, curiosit\u00e0, cultura, che coinvolgono tutta la famiglia, perch\u00e9 ci sono delle sezioni dedicate al tempo in cui... a scuola ci andavano i vostri genitori!\nPuoi giocare con lo smartphone, con il tablet, con il computer... ma non puoi giocare senza la tua famiglia perch\u00e9 il divertimento si moltiplica soltanto quando siamo in tanti. Dillo anche ai vostri amici e vediamo chi di voi \u00e8 pi\u00f9 bravo!Ci si collega al sito https://sites.google.com/view/iorestoacasagames e all'orario prestabilito vengono pubblicati una serie di quiz, domande di cultura varia, indovinelli.\nIl primo che invia le risposte esatte vince.\n\nL'ora e il giorno del prossimo quiz sono sul sito."", ""Destinatari"": ""Bambini in et\u00e0 elementari/medie"", ""Link"": ""https://sites.google.com/view/iorestoacasagames"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.528031 10.335195 0 0"", ""Titolo"": ""IoRestoACasa Games""}","<pre><yamldata>
+Da_chi_offerta: Di Palma Giuseppe
+Descrizione: 'IoRestoACasa Games sono dedicati ai ragazzi e alle ragazze delle scuole elementari e medie. Sono sfide di logica, musica, curiosità, cultura, che coinvolgono tutta la famiglia, perché ci sono delle sezioni dedicate al tempo in cui... a scuola ci andavano i vostri genitori!
+
+Puoi giocare con lo smartphone, con il tablet, con il computer... ma non puoi giocare senza la tua famiglia perché il divertimento si moltiplica soltanto quando siamo in tanti. Dillo anche ai vostri amici e vediamo chi di voi è più bravo!Ci si collega al sito https://sites.google.com/view/iorestoacasagames
+  e all''orario prestabilito vengono pubblicati una serie di quiz, domande di cultura
+  varia, indovinelli.
+
+  Il primo che invia le risposte esatte vince.
+
+
+  L''ora e il giorno del prossimo quiz sono sul sito.'
+Destinatari: Bambini in età elementari/medie
+Link: https://sites.google.com/view/iorestoacasagames
+Natura: culturale-ricr
+Posizione: 43.528031 10.335195 0 0
+Titolo: IoRestoACasa Games
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1251,588319152,2020-03-26 11:57:33,2020-03-26 10:38:45,"A #Sora, provincia di #Frosinone, consegna spesa e farmaci a domicilio, telesoccorso, pagamento bollette e supporto psicologico",41.7146328,13.6057567,Lazio,Frosinone,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Numero verde attivo per sostegno a persone over75, immunodepresse, sole e fragili. Viene offerto sostegno psicologico telefonico, consegna spesa e farmaci a domicilio, telesoccorso, teleassistenza, pagamento bollette, supporto psicologico"", ""Link"": ""http://www.aipes.it/news/2020/03/10/comunicato-stampa-numero-verde-emergenza-covid-19/"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Aipes- Consorzio per i Servizi alla Persona"", ""Posizione"": ""41.7146328 13.6057567 0 0"", ""Telefono"": ""800400495""}","<pre><yamldata>
+Descrizione: Numero verde attivo per sostegno a persone over75, immunodepresse, sole e fragili. Viene offerto sostegno psicologico telefonico, consegna spesa e farmaci a domicilio, telesoccorso, teleassistenza, pagamento
+  bollette, supporto psicologico
+Link: http://www.aipes.it/news/2020/03/10/comunicato-stampa-numero-verde-emergenza-covid-19/
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: Aipes- Consorzio per i Servizi alla Persona
+Posizione: 41.7146328 13.6057567 0 0
+Telefono: '800400495'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1250,588310445,2020-03-26 11:51:43,2020-03-26 10:25:00,Senior #Italia FederAnziani ha stilato il Vademecum per difendersi da Coronavirus e fake news,41.819993600000004,12.458858087672972,Lazio,Roma,"[""Fake News"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Vademecum per difendersi da Coronavirus e fake news - over 65"", ""Descrizione"": ""Sul sito del Ministero della Salute sono a disposizioni i consigli di Senior Italia FederAnziani su come comportarsi per difendersi non solo dal rischio sanitario derivante dall\u2019infezione  ma anche da truffe."", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4308"", ""Posizione"": ""41.819993600000004 12.458858087672972 0 0""}","<pre><yamldata>
+Cosa: Vademecum per difendersi da Coronavirus e fake news - over 65
+Descrizione: Sul sito del Ministero della Salute sono a disposizioni i consigli di Senior Italia FederAnziani su come comportarsi per difendersi
+  non solo dal rischio sanitario derivante dall’infezione  ma anche da truffe.
+Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4308
+Posizione: 41.819993600000004 12.458858087672972 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1249,588306999,2020-03-26 11:47:48,2020-03-26 10:19:31,Raccolta fondi per sostenere gli Ospedali Bollini Rosa in tutta #Italia,45.4749399,9.1899873,Lombardia,Milano,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""E' possibile fare una donazione per sostenere gli Ospedali Bollini Rosa durante l'emergenza Coronavirus.\nConsulta l' elenco per identificare l\u2019ospedale o gli ospedali di interesse e le relative indicazioni per dare il tuo contributo."", ""Link"": ""https://www.bollinirosa.it/emergenza-coronavirus-aiuta-anche-tu-gli-ospedali-con-i-bollini-rosa"", ""Nome"": ""Gli Ospedali aderenti alla rete  Bollini Rosa"", ""Posizione"": ""45.4749399 9.1899873 0 0""}","<pre><yamldata>
+Descrizione: 'E'' possibile fare una donazione per sostenere gli Ospedali Bollini
+  Rosa durante l''emergenza Coronavirus.
+
+  Consulta l'' elenco per identificare l’ospedale o gli ospedali di interesse e le
+  relative indicazioni per dare il tuo contributo.'
+Link: https://www.bollinirosa.it/emergenza-coronavirus-aiuta-anche-tu-gli-ospedali-con-i-bollini-rosa
+Nome: Gli Ospedali aderenti alla rete  Bollini Rosa
+Posizione: 45.4749399 9.1899873 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1247,588198147,2020-03-26 08:44:46,2020-03-26 06:57:01,Centri Educativi #Terni - Sostegno telefonico alla genitorialità,42.564587,12.64123,Umbria,Terni,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa Sociale ACTL Terni"", ""Descrizione"": ""In questo momento cos\u00ec delicato, purtroppo i nostri educatori non possono accogliervi presso le sedi dei Centri educativi Territoriali, che resteranno chiusi almeno fino al 3 aprile.\nSiamo per\u00f2 a disposizione per colloqui telefonici per tutte quelle famiglie che volessero conoscerci, o avessero necessit\u00e0 di sostegno, consigli o indicazioni in merito alla genitorialit\u00e0 e alla gestione delle attivit\u00e0 educative in casa.\nContattateci! \u260e\ufe0f \nECCO I NUMERI DI RIFERIMENTO:\n\n\u27a1\ufe0fCET TERNI (MANDORLO) +39 338 6496839\n\u27a1\ufe0fCET TERNI  +39 3518333164"", ""Destinatari"": ""Famiglie con bambini da 0 a 6 anni"", ""Natura"": ""solidale"", ""Posizione"": ""42.564587 12.64123 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""I centro educativI territoriali al telefono per il sostegno  alla genitorialit\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Cooperativa Sociale ACTL Terni
+Descrizione: ""In questo momento così delicato, purtroppo i nostri educatori non possono\
+  \ accogliervi presso le sedi dei Centri educativi Territoriali, che resteranno chiusi\
+  \ almeno fino al 3 aprile.\nSiamo però a disposizione per colloqui telefonici per\
+  \ tutte quelle famiglie che volessero conoscerci, o avessero necessità di sostegno,\
+  \ consigli o indicazioni in merito alla genitorialità e alla gestione delle attività\
+  \ educative in casa.\nContattateci! ☎️ \nECCO I NUMERI DI RIFERIMENTO:\n\n➡️CET\
+  \ TERNI (MANDORLO) +39 338 6496839\n➡️CET TERNI  +39 3518333164""
+Destinatari: Famiglie con bambini da 0 a 6 anni
+Natura: solidale
+Posizione: 42.564587 12.64123 0 0
+Tipo_di_soggetto: pubblico
+Titolo: I centro educativI territoriali al telefono per il sostegno  alla genitorialità
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1246,588153913,2020-03-26 17:55:11,2020-03-26 04:52:17,Urgente - Prot. Civile #AcquiTerme cerca possessori maschera da snorkeling della Decathlon,44.675145,8.467546,Piemonte,Alessandria,"[""Bollettino"", ""Notizie Utili"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cerchiamo possessori maschera  da snorkeking della Decathlon"", ""Descrizione"": ""Il respiratore per snorkeling venduto da Dechlaton e' diventato un vero e proprio ventilatore per tutti i reparti degli ospedali. Il dispositivo e' gia' stato testato con successo negli ospedali civili di Brescia e Chiari diventando uno strumento utile nella prima accoglienza al pronto soccorso e per una terapia sub intensiva d'urgenza.  Se hai a disposizione questo dispositivo da donare, contattaci scrivendo una Email a protezionecivile@comuneacqui.it oppure chiamando al numero 0114.770341. Vi ringrazio fin da ora per la collaborazione"", ""Posizione"": ""44.675145 8.467546 0 0""}","<pre><yamldata>
+Cosa: Cerchiamo possessori maschera  da snorkeking della Decathlon
+Descrizione: Il respiratore per snorkeling venduto da Dechlaton e' diventato un vero
+  e proprio ventilatore per tutti i reparti degli ospedali. Il dispositivo e' gia'
+  stato testato con successo negli ospedali civili di Brescia e Chiari diventando
+  uno strumento utile nella prima accoglienza al pronto soccorso e per una terapia
+  sub intensiva d'urgenza.  Se hai a disposizione questo dispositivo da donare, contattaci
+  scrivendo una Email a protezionecivile@comuneacqui.it oppure chiamando al numero
+  0114.770341. Vi ringrazio fin da ora per la collaborazione
+Posizione: 44.675145 8.467546 0 0 
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1245,588042967,2020-03-25 23:02:54,2020-03-25 23:02:27,Nessun legame coronavirus-5G,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Nessun legame coronavirus-5G"", ""Descrizione"": ""\""Abbiamo letto con enorme stupore l'affermazione formulata da Gunter Pauli di un nesso tra la realizzazione delle reti 5G in Cina e il propagarsi della pandemia\"", lo dice Asstel - Assotelecomunicazioni, l'Associazione di categoria che, nel sistema di Confindustria, rappresenta la filiera delle telecomunicazioni, a proposito del tweet del consigliere economico di Giuseppe Conte che lascia intendere un legame tra il virus e la tecnologia.\n\""Non possiamo non esprimere grande rammarico e dissenso per una tesi fantascientifica priva di alcun fondamento - aggiunge - Tutte le tecnologie delle telecomunicazioni, incluso il 5G, sono soggette a scrupoloso scrutinio da parte della comunit\u00e0 scientifica internazionale a tutela della salute delle persone e in nessun caso \u00e8 stato neanche in ipotesi azzardato un nesso cos\u00ec grave con la pandemia. In questa fase di acuta criticit\u00e0 sanitaria e sociale per il Paese, le reti di telecomunicazioni e tutte le persone che vi lavorano stanno esprimendo il massimo sforzo possibile per venire incontro alle necessit\u00e0 di comunicazione per il lavoro, le istituzioni e le famiglie. Auspichiamo - conclude Asstel - che questo lavoro possa essere proseguito senza la turbativa di espressioni cos\u00ec palesemente infondate\""."", ""Link"": ""http://www.ansa.it/sito/notizie/tecnologia/tlc/2020/03/23/nessun-legame-coronavirus-5g_f7e4022a-c379-4ecb-a05e-ed80dc059272.html""}","<pre><yamldata>
+Cosa: Nessun legame coronavirus-5G
+Descrizione: '""Abbiamo letto con enorme stupore l''affermazione formulata da Gunter
+  Pauli di un nesso tra la realizzazione delle reti 5G in Cina e il propagarsi della
+  pandemia"", lo dice Asstel - Assotelecomunicazioni, l''Associazione di categoria
+  che, nel sistema di Confindustria, rappresenta la filiera delle telecomunicazioni,
+  a proposito del tweet del consigliere economico di Giuseppe Conte che lascia intendere
+  un legame tra il virus e la tecnologia.
+
+  ""Non possiamo non esprimere grande rammarico e dissenso per una tesi fantascientifica
+  priva di alcun fondamento - aggiunge - Tutte le tecnologie delle telecomunicazioni,
+  incluso il 5G, sono soggette a scrupoloso scrutinio da parte della comunità scientifica
+  internazionale a tutela della salute delle persone e in nessun caso è stato neanche
+  in ipotesi azzardato un nesso così grave con la pandemia. In questa fase di acuta
+  criticità sanitaria e sociale per il Paese, le reti di telecomunicazioni e tutte
+  le persone che vi lavorano stanno esprimendo il massimo sforzo possibile per venire
+  incontro alle necessità di comunicazione per il lavoro, le istituzioni e le famiglie.
+  Auspichiamo - conclude Asstel - che questo lavoro possa essere proseguito senza
+  la turbativa di espressioni così palesemente infondate"".'
+Link: http://www.ansa.it/sito/notizie/tecnologia/tlc/2020/03/23/nessun-legame-coronavirus-5g_f7e4022a-c379-4ecb-a05e-ed80dc059272.html
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1244,588041087,2020-03-25 23:03:41,2020-03-25 22:57:29,"Hantavirus, nessun allarme",,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Hantavirus, nessun allarme"", ""Descrizione"": ""Dalla Cina arriva la notizia del decesso di un uomo per Hantavirus \u00e8 in tanti hanno ripreso la vicenda, parlando di rischio concreto che un nuovo virus simile all\u2019ormai noto Coronavirus possa mettere piede in Italia. Una bufala come spiega Bufale.net. Il morto c\u2019\u00e8 stato davvero ma il virus \u00e8 noto fin dagli anni Cinquanta \u00e8, secondo gli scienziati, non c\u2019\u00e8 alcun motivo di temere Hantavirus ed il suo possibile arrivo dalla Cina all\u2019Italia."", ""Link"": ""https://www.bufale.net/segnalato-un-decesso-per-hantavirus-in-cina-nessuna-bufala-ma-in-italia-tutti-tranquilli/""}","<pre><yamldata>
+Cosa: Hantavirus, nessun allarme
+Descrizione: Dalla Cina arriva la notizia del decesso di un uomo per Hantavirus è
+  in tanti hanno ripreso la vicenda, parlando di rischio concreto che un nuovo virus
+  simile all’ormai noto Coronavirus possa mettere piede in Italia. Una bufala come
+  spiega Bufale.net. Il morto c’è stato davvero ma il virus è noto fin dagli anni
+  Cinquanta è, secondo gli scienziati, non c’è alcun motivo di temere Hantavirus ed
+  il suo possibile arrivo dalla Cina all’Italia.
+Link: https://www.bufale.net/segnalato-un-decesso-per-hantavirus-in-cina-nessuna-bufala-ma-in-italia-tutti-tranquilli/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1243,588037985,2020-03-26 11:43:18,2020-03-25 22:49:23,"In Gazzetta Ufficiale è disponibile il decreto legge 25 marzo 2020, n. 19 - Misure urgenti per fronteggiare l'emergenza in #Italia",41.8933203,12.4829321,Lazio,Roma,"[""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""DECRETO-LEGGE 25 marzo 2020, n. 19"", ""Descrizione"": ""Decreto che contiene le nuove sanzioni amministrative per coloro che violano le norme relative al contenimento dell\u2019epidemia."", ""Fonte"": ""Gazzetta Ufficiale n.79 del 25/2/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-25&atto.codiceRedazionale=20G00035&elenco30giorni=false"", ""Posizione"": ""41.8933203 12.4829321 0 0""}","<pre><yamldata>
+Cosa: DECRETO-LEGGE 25 marzo 2020, n. 19
+Descrizione: Decreto che contiene le nuove sanzioni amministrative per coloro che
+  violano le norme relative al contenimento dell’epidemia.
+Fonte: Gazzetta Ufficiale n.79 del 25/2/2020
+Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-25&atto.codiceRedazionale=20G00035&elenco30giorni=false
+Posizione: 41.8933203 12.4829321 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1242,588031035,2020-03-26 17:26:50,2020-03-25 22:31:12,"Viminale, proroga permessi di soggiorno al 15 giugno e sospesi termini procedimenti amministrativi",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Viminale, proroga permessi di soggiorno al 15 giugno e sospesi termini dei procedimenti amministrativi"", ""Descrizione"": ""Per i procedimenti amministrativi, avviati alla data del 23 febbraio 2020 o iniziati successivamente ad essa, non si tiene conto del periodo compreso tra la medesima data e quella del 15 aprile 2020. Si tratta della sospensione dei termini prevista dal decreto legge 17 marzo 2020, n.18 (cosiddetto \u201cCura Italia\u201d), richiamata nella circolare del dipartimento per le libert\u00e0 civili e l'immigrazione. In base a tali disposizioni, peraltro, viene conservata la validit\u00e0 fino al 15 giugno di certificati, attestati, permessi, concessioni, autorizzazioni e atti abilitativi comunque denominati, in scadenza tra il 31 gennaio e il 15 aprile 2020. Analoghe indicazioni sono state impartite alle questure dal dipartimento di Pubblica Sicurezza - direzione centrale dell'Immigrazione e della Polizia delle Frontiere - in merito al rilascio o rinnovo dei titoli di soggiorno. In particolare \u00e8 stato evidenziato che tutti i permessi di soggiorno in scadenza tra il 31 gennaio e il 15 aprile 2020 sono prorogati di validit\u00e0 fino al 15 giungo 2020, dando la possibilit\u00e0 ai titolari di poter effettuare la domanda di rinnovo dopo tale data."", ""Fonte"": ""Ministero degli interni"", ""Link"": ""https://www.interno.gov.it/it/notizie/cura-italia-immigrazione-e-cittadinanza-sospesi-i-termini-dei-procedimenti-amministrativi""}","<pre><yamldata>
+Cosa: Viminale, proroga permessi di soggiorno al 15 giugno e sospesi termini dei procedimenti
+  amministrativi
+Descrizione: 'Per i procedimenti amministrativi, avviati alla data del 23 febbraio
+  2020 o iniziati successivamente ad essa, non si tiene conto del periodo compreso
+  tra la medesima data e quella del 15 aprile 2020.
+  Si tratta della sospensione dei termini prevista dal decreto legge 17 marzo 2020,
+  n.18 (cosiddetto “Cura Italia”), richiamata nella circolare del dipartimento per
+  le libertà civili e l''immigrazione.
+  In base a tali disposizioni, peraltro, viene conservata la validità fino al 15 giugno
+  di certificati, attestati, permessi, concessioni, autorizzazioni e atti abilitativi
+  comunque denominati, in scadenza tra il 31 gennaio e il 15 aprile 2020.
+  Analoghe indicazioni sono state impartite alle questure dal dipartimento di Pubblica
+  Sicurezza - direzione centrale dell''Immigrazione e della Polizia delle Frontiere
+  - in merito al rilascio o rinnovo dei titoli di soggiorno.
+  In particolare è stato evidenziato che tutti i permessi di soggiorno in scadenza
+  tra il 31 gennaio e il 15 aprile 2020 sono prorogati di validità fino al 15 giungo
+  2020, dando la possibilità ai titolari di poter effettuare la domanda di rinnovo
+  dopo tale data.'
+Fonte: Ministero degli interni
+Link: https://www.interno.gov.it/it/notizie/cura-italia-immigrazione-e-cittadinanza-sospesi-i-termini-dei-procedimenti-amministrativi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1241,588028884,2020-03-26 17:27:34,2020-03-25 22:27:09,Circolare del ministero degli interni a sostegno delle donne vittime di violenza.  Prefetture in campo per garantire l'ospitalità.,41.8995278,12.4939438,Lazio,Roma,"[""Bollettino"", ""Donne"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Donne vittime di violenza, prefetture in campo per garantire l'ospitalit\u00e0"", ""Descrizione"": ""Le prefetture entrano in campo a supporto dei centri anti violenza e delle case rifugio per risolvere il delicato e grave problema dell'ospitalit\u00e0 di donne vittime di violenza che non possono essere accolte per motivi sanitari in applicazione delle misure emergenziali per il contenimento del contagio da Coronavirus (Covid19).\n\nLa circolare 21 marzo 2020 diramata dal Viminale a seguito dei contatti tra i ministri dell'Interno Luciana Lamorgese e il ministro per le Pari opportunit\u00e0 e la Famiglia Elena Bonetti invita i prefetti a  verificare sui territori, anche coinvolgendo i comuni e le associazioni, l'esistenza di soluzioni di alloggio ulteriori, anche temporanee, rispetto a quelle esistenti.\n\nI prefetti, ricorda la circolare, possono eventualmente anche avvalersi del potere attribuito loro dal recente decreto legge 17 marzo 2020, n. 18, di requisire strutture alberghiere o altri immobili idonei per ospitarvi persone in sorveglianza sanitaria e isolamento fiduciario o in permanenza domiciliare, quando queste misure non possano - come nel caso specifico - essere attuate nel domicilio della persona interessata."", ""Fonte"": ""Ministero degli interni"", ""Link"": ""https://www.interno.gov.it/it/notizie/donne-vittime-violenza-prefetture-campo-garantire-lospitalita"", ""Posizione"": ""41.8995278 12.4939438 0 0""}","<pre><yamldata>
+Cosa: Donne vittime di violenza, prefetture in campo per garantire l'ospitalità
+Descrizione: 'Le prefetture entrano in campo a supporto dei centri anti violenza e
+  delle case rifugio per risolvere il delicato e grave problema dell''ospitalità di
+  donne vittime di violenza che non possono essere accolte per motivi sanitari in
+  applicazione delle misure emergenziali per il contenimento del contagio da Coronavirus
+  (Covid19).
+
+
+  La circolare 21 marzo 2020 diramata dal Viminale a seguito dei contatti tra i ministri
+  dell''Interno Luciana Lamorgese e il ministro per le Pari opportunità e la Famiglia
+  Elena Bonetti invita i prefetti a  verificare sui territori, anche coinvolgendo
+  i comuni e le associazioni, l''esistenza di soluzioni di alloggio ulteriori, anche
+  temporanee, rispetto a quelle esistenti.
+
+
+  I prefetti, ricorda la circolare, possono eventualmente anche avvalersi del potere
+  attribuito loro dal recente decreto legge 17 marzo 2020, n. 18, di requisire strutture
+  alberghiere o altri immobili idonei per ospitarvi persone in sorveglianza sanitaria
+  e isolamento fiduciario o in permanenza domiciliare, quando queste misure non possano
+  - come nel caso specifico - essere attuate nel domicilio della persona interessata.'
+Fonte: Ministero degli interni
+Link: https://www.interno.gov.it/it/notizie/donne-vittime-violenza-prefetture-campo-garantire-lospitalita
+Posizione: 41.8995278 12.4939438 0 0 
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1240,588027920,2020-03-26 17:27:17,2020-03-25 22:25:26,Circolare Viminale ai prefetti con chiarimenti su stop alla produzione e spostamenti,,,,,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Circolare Viminale ai prefetti con chiarimenti su stop alla produzione e spostamenti"", ""Descrizione"": ""\u00c8 on line la circolare indirizzata ai prefetti  con le indicazioni sulle ulteriori restrizioni finalizzate a ridurre il rischio di contagio tra la popolazione, con particolare riferimento allo svolgimento delle attivit\u00e0 produttive e agli spostamenti fra territori comunali diversi."", ""Fonte"": ""Ministero degli interni"", ""Link"": ""https://www.interno.gov.it/it/notizie/coronavirus-i-chiarimenti-stop-alla-produzione-e-spostamenti""}","<pre><yamldata>
+Cosa: Circolare Viminale ai prefetti con chiarimenti su stop alla produzione e spostamenti
+Descrizione: È on line la circolare indirizzata ai prefetti  con le indicazioni sulle
+  ulteriori restrizioni finalizzate a ridurre il rischio di contagio tra la popolazione,
+  con particolare riferimento allo svolgimento delle attività produttive e agli spostamenti
+  fra territori comunali diversi.
+Fonte: Ministero degli interni
+Link: https://www.interno.gov.it/it/notizie/coronavirus-i-chiarimenti-stop-alla-produzione-e-spostamenti
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1239,588026127,2020-03-25 22:47:38,2020-03-25 22:21:20,​Tgr Leonardo del 2015 e coronavirus: nessun legame con l'epidemia in corso,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""\u200bTgr Leonardo del 2015 e coronavirus: nessun legame con l'epidemia in corso"", ""Descrizione"": ""Un vecchio servizio su un altro virus ingegnerizzato in un laboratorio cinese fa riesplodere sui social la teoria del complotto. La smentita di Nature: \u201cGli scienziati sono convinti che un animale sia la fonte pi\u00f9 probabile del coronavirus\u201d."", ""Link"": ""http://www.rainews.it/dl/rainews/articoli/tgr-Leonardo-del-2015-e-coronavirus-perche-non-ci-sono-legami-con-epidemia-in-corso-82c8d1c3-e9e1-46b2-aad2-e2f54a778e2a.html""}","<pre><yamldata>
+Cosa: '​Tgr Leonardo del 2015 e coronavirus: nessun legame con l''epidemia in corso'
+Descrizione: 'Un vecchio servizio su un altro virus ingegnerizzato in un laboratorio
+  cinese fa riesplodere sui social la teoria del complotto. La smentita di Nature:
+  “Gli scienziati sono convinti che un animale sia la fonte più probabile del coronavirus”.'
+Link: http://www.rainews.it/dl/rainews/articoli/tgr-Leonardo-del-2015-e-coronavirus-perche-non-ci-sono-legami-con-epidemia-in-corso-82c8d1c3-e9e1-46b2-aad2-e2f54a778e2a.html
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1238,588003724,2020-03-26 17:28:28,2020-03-25 21:31:30,Covid19 – Vedemecum legale: Il lavoro,,,,,"[""Notizie Utili"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Cosa"": ""Covid-19 \u2013 Vedemecum legale #2: Il lavoro"", ""Descrizione"": ""infografica"", ""Fonte"": ""Brigate di solidariet\u00e0 attiva"", ""Link"": ""https://brigatesolidarietaattiva.net/2020/03/25/covid-19-vedemecum-legale-2-lavoro/""}","<pre><yamldata>
+Cosa: 'Covid-19 – Vedemecum legale #2: Il lavoro'
+Descrizione: infografica
+Fonte: Brigate di solidarietà attiva
+Link: https://brigatesolidarietaattiva.net/2020/03/25/covid-19-vedemecum-legale-2-lavoro/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1237,587981816,2020-03-26 10:21:16,2020-03-25 20:48:37,"Consegne a domicilio pasta, vino, prodotti da forno, specialità #CividaleDelFriuli #Udine",46.092233,13.431451,Friuli Venezia Giulia,Udine,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alimentari: pasta, vino, prodotti da forno, specialit\u00e0."", ""Link"": ""https://it-it.facebook.com/labottegucciadeisapori"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Al Ponte"", ""Posizione"": ""46.092233 13.431451 0 0"", ""Telefono"": ""+39 3381675474""}","<pre><yamldata>
+Descrizione: 'Alimentari: pasta, vino, prodotti da forno, specialità.'
+Link: https://it-it.facebook.com/labottegucciadeisapori
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: Al Ponte
+Posizione: 46.092233 13.431451 0 0
+Telefono: +39 3381675474
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1234,587968985,2020-03-25 23:32:39,2020-03-25 20:25:41,"A Milano attivo sportello di Cantiere.org: info, supporto, consegne a domicilio, consulenza legale",,,,,"[""Consegne e commissioni"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""45.477272 9.146708 0 0"", ""Link"": ""www.cantiere.org"", ""Nome"": ""Sportello di orientamento"", ""Scopo"": ""Orientarsi in tempi di coronavirus\n\u2666 stai vivendo una situazione di emergenza, non ti senti bene fisicamente o emotivamente, casa non \u00e8 un luogo sicuro e subisci violenza, ma non sai a chi rivolgerti?\n\u2666 hai bisogno che qualcuno ti porti la spesa o medicinali?\n\u2666 hai bisogno di sapere quali sono gli sportelli e i servizi, gli ambulatori attivi in questo momento ma non riesci a orientarti?\n\u2666 cerchi informazioni o consulenza legale, sindacale, per abortire, per un familiare in carcere, per i tuoi documenti o inoltrare richiesta d\u2019asilo?"", ""Telefono"": ""+393338844166""}","<pre><yamldata>
+Indirizzo: 45.477272 9.146708 0 0
+Link: www.cantiere.org
+Nome: Sportello di orientamento
+Scopo: 'Orientarsi in tempi di coronavirus
+
+  ♦ stai vivendo una situazione di emergenza, non ti senti bene fisicamente o emotivamente,
+  casa non è un luogo sicuro e subisci violenza, ma non sai a chi rivolgerti?
+
+  ♦ hai bisogno che qualcuno ti porti la spesa o medicinali?
+
+  ♦ hai bisogno di sapere quali sono gli sportelli e i servizi, gli ambulatori attivi
+  in questo momento ma non riesci a orientarti?
+
+  ♦ cerchi informazioni o consulenza legale, sindacale, per abortire, per un familiare
+  in carcere, per i tuoi documenti o inoltrare richiesta d’asilo?'
+Telefono: '+393338844166'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1232,587962751,2020-03-26 17:35:06,2020-03-25 20:14:53,A #Roma la Pizzeria Frumento offre consegne a domicilio in sicurezza,41.8745917,12.5168784,Lazio,Roma,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Oltre a offrire prodotti e ingredienti del territorio, spesso biologici e di qualit\u00e0 altissima, la Pizzeria si \u00e8 adeguata a consegne che mettano in sicurezza sia i clienti che i fattorini (che sono in house).\nGli operatori hanno mascherina, guanti e gel sanificante. Rispettano distanza di un metro e non salgono al portone, ma aspettano nell'androne del condominio."", ""Email"": ""info@pizzeriafrumento.com"", ""Link"": ""https://pizzeriafrumento.com/"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 option_1 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Pizzeria Frumento"", ""Posizione"": ""41.8745917 12.5168784 0 0"", ""Telefono"": ""06 780 0012""}","<pre><yamldata>
+Descrizione: 'Oltre a offrire prodotti e ingredienti del territorio, spesso biologici
+  e di qualità altissima, la Pizzeria si è adeguata a consegne che mettano in sicurezza
+  sia i clienti che i fattorini (che sono in house).
+
+  Gli operatori hanno mascherina, guanti e gel sanificante. Rispettano distanza di
+  un metro e non salgono al portone, ma aspettano nell''androne del condominio.'
+Email: info@pizzeriafrumento.com
+Link: https://pizzeriafrumento.com/
+Metodi_di_pagamento_accettati: contrassegno option_2 option_1 carta_prepagat contanti
+Nome_dell_esercizio_commercial: Pizzeria Frumento
+Telefono: 06 780 0012
+Posizione: 41.8745917 12.5168784 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1231,587955361,2020-03-26 11:26:00,2020-03-25 20:00:58,Un podcast per riflettere sugli scenari futuri - Sviluppo e sostenibilità - il commento di Carlo Mochi Sismondi,41.867797,12.479546,Lazio,Roma,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""FORUM PA"", ""Descrizione"": ""Un invito a prenderci tempo di riflettere e prepararci ad alcune trappole, che potrebbero aprirsi nel dopo contagio e che vorremo evitare. Una progettualit\u00e0 per il mondo del dopo da immaginare fin d'ora. \n\nIn uno sviluppo solido dobbiamo far entrare le giuste opportunit\u00e0 per chiunque. Allora, ciascuno di noi potr\u00e0 essere quel chiunque senza dover temere di essere lasciato indietro.\n\nQuesto breve podcast - meno di 5 minuti - fa parte della serie \""Quel che vedo da casa...\"" avviata il 12 marzo da Carlo Mochi Sismondi."", ""Destinatari"": ""per tutti"", ""Link"": ""https://www.spreaker.com/user/9853799/sviluppo-o-sostenibilita"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.867797 12.479546 0 0"", ""Titolo"": ""Podcast Sviluppo o sostenibilit\u00e0? Vogliamo tutti e due""}","<pre><yamldata>
+Da_chi_offerta: FORUM PA
+Descrizione: ""Un invito a prenderci tempo di riflettere e prepararci ad alcune trappole,\
+  \ che potrebbero aprirsi nel dopo contagio e che vorremo evitare. Una progettualità\
+  \ per il mondo del dopo da immaginare fin d'ora. \n\nIn uno sviluppo solido dobbiamo\
+  \ far entrare le giuste opportunità per chiunque. Allora, ciascuno di noi potrà\
+  \ essere quel chiunque senza dover temere di essere lasciato indietro.\n\nQuesto\
+  \ breve podcast - meno di 5 minuti - fa parte della serie \""Quel che vedo da casa...\""\
+  \ avviata il 12 marzo da Carlo Mochi Sismondi.""
+Destinatari: per tutti
+Link: https://www.spreaker.com/user/9853799/sviluppo-o-sostenibilita
+Natura: culturale-ricr
+Posizione: 41.867797 12.479546 0 0
+Titolo: Podcast Sviluppo o sostenibilità? Vogliamo tutti e due
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1230,587937712,2020-03-26 11:23:11,2020-03-25 19:28:48,Comune di #Carpi mette a disposizione l'elenco degli esercenti che effettuano consegne a domicilio,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Elenco degli esercenti del comune di Carpi che effettuano consegne a domicilio"", ""Indirizzo"": ""44.7835699 10.8854523 0 0"", ""Link"": ""https://www.comune.carpi.mo.it/aree-tematiche/sicurezza-ed-emergenza/emergenza-coronavirus/13682-spesa-e-farmaci-a-domicilio/87440-consegna-spesa-a-domicilio-di-attivita-commerciali-privati"", ""Nome_dell_esercizio_commercial"": ""Negozi e farmacie""}","<pre><yamldata>
+Descrizione: Elenco degli esercenti del comune di Carpi che effettuano consegne a
+  domicilio
+Indirizzo: 44.7835699 10.8854523 0 0
+Link: https://www.comune.carpi.mo.it/aree-tematiche/sicurezza-ed-emergenza/emergenza-coronavirus/13682-spesa-e-farmaci-a-domicilio/87440-consegna-spesa-a-domicilio-di-attivita-commerciali-privati
+Nome_dell_esercizio_commercial: Negozi e farmacie
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1229,587921074,2020-03-26 14:50:54,2020-03-25 18:58:55,"Puglia, mappa guardie mediche protette con dispositivi di protezione personali",41.1187,16.852,Puglia,Bari,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Email"": ""Laricchia.antonella@consiglio.puglia.it"", ""Link"": ""http://www.pugliacinquestelle.it/2020/03/distribuiti-kit-protezione-individuale-guardie-mediche"", ""Nome"": ""Mappa dei Medici protetti in Puglia"", ""Posizione"": ""41.1187 16.852"", ""Scopo"": ""Vuoi scoprire dove fare visita medica insicurezza ?\nIn Puglia tutte le guardie mediche operano con i dispositivi di protezione\nGrazie a una donazione di oltre 4000 kit completi di tute mascherine guanti occhiali e disinfettante donati dai consiglieri regionali m5s Puglia.\nAbbiamo geolocalizzato dove operano i medici protetti grazie all\u2019associazione senza scopo di lucro OpenPuglia.""}","<pre><yamldata>
+Email: Laricchia.antonella@consiglio.puglia.it
+Link: http://www.pugliacinquestelle.it/2020/03/distribuiti-kit-protezione-individuale-guardie-mediche
+Nome: Mappa dei Medici protetti in Puglia
+Scopo: 'Vuoi scoprire dove fare visita medica insicurezza ?
+
+  In Puglia tutte le guardie mediche operano con i dispositivi di protezione
+
+  Grazie a una donazione di oltre 4000 kit completi di tute mascherine guanti occhiali
+  e disinfettante donati dai consiglieri regionali m5s Puglia.
+
+  Abbiamo geolocalizzato dove operano i medici protetti grazie all’associazione senza
+  scopo di lucro OpenPuglia.'
+Posizione: 41.1187 16.852
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1226,587912196,2020-03-26 14:54:15,2020-03-25 18:43:49,"Puglia, mappa della solidarietà con servizi offerti da volontari e associazioni",41.1187,16.852,Puglia,Bari,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Consiglieri Regionali m5s Puglia e OpenPuglia"", ""Descrizione"": ""Una vera e propria Mappa della solidariet\u00e0 in cui sono raccolte e indicate le sedi in cui attivisti e volontari prestano servizio,che si tratti di un\u2019attivit\u00e0 totalmente prodotta o che implementa il proprio ordinario lavoro. Per ogni sede, \u00e8 indicato il servizio offerto, chi, dove e quando lo offre, quali sono i contatti utili. La mappa si aggiorner\u00e0 periodicamente grazie anche a queste segnalazioni. Hashtag #LaPugliaSiamoNoi"", ""Destinatari"": ""Cittadini pugliesi"", ""Link"": ""http://www.pugliacinquestelle.it/2020/03/mappa-della-solidarieta/"", ""Natura"": ""solidale"", ""Posizione"": ""41.1187 16.852"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Mappa solidariet\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Consiglieri Regionali m5s Puglia e OpenPuglia
+Descrizione: 'Una vera e propria Mappa della solidarietà in cui sono raccolte e indicate
+  le sedi in cui attivisti e volontari prestano servizio,che si tratti di un’attività
+  totalmente prodotta o che implementa il proprio ordinario lavoro. Per ogni sede,
+  è indicato il servizio offerto, chi, dove e quando lo offre, quali sono i contatti
+  utili.
+  La mappa si aggiornerà periodicamente grazie anche a queste segnalazioni.
+  Hashtag #LaPugliaSiamoNoi'
+Destinatari: Cittadini pugliesi
+Link: http://www.pugliacinquestelle.it/2020/03/mappa-della-solidarieta/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Mappa solidarietà
+Posizione: 41.1187 16.852
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1225,587911411,2020-03-26 11:12:04,2020-03-25 18:42:29,Come eravamo ai tempi del Covid19. Raccolta di materiali audio e video per installazione in realtà aumentata.,45.4464861,9.1818415,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""BEPART"", ""Descrizione"": ""PERCHE' IL PROGETTO\nAttraversiamo un passaggio storico che sta trasformando il nostro modo di vivere e pensare, segnandoci nel profondo, a partire dalla nostra quotidianit\u00e0.\nQuando l'emergenza sar\u00e0 terminata e con essa le relative misure di contenimento ricorderemo gli aneddoti e le riflessioni fatte in questi giorni? Giornate in cui, fermi a casa, abbiamo tempo per ragionare sui nostri sogni e le nostre paure, sul valore dei gesti e delle parole, sul tempo e sul denaro, sul significato della convivenza e dei baci, su libert\u00e0 e verit\u00e0. Piccoli e grandi temi che, sino a qualche giorno fa, davamo spesso per scontati.\nVorremmo dunque coinvolgervi nella realizzazione di una grande opera collettiva: un mosaico di autoritratti che ci aiuti nel futuro a ri-guardare, ricordare e a capire questo momento.\n\nCOME PARTECIPARE\nCompila il form (trovi il link nella sezione \""biglietti\"") mandandoci:\n1_un'immagine del PRE: una foto, un disegno o un collage che rappresenti come eri PRIMA del virus\n2_un racconto del DURANTE: un video, della durata massima di 1 minuto, che rappresenti te per come stai VIVENDO QUESTO PERIODO (pu\u00f2 essere un filmato, un'intervista, un piccolo montaggio anche di foto, oppure un'animazione fatta da te).\nN.B. Ovviamente sono tutti materiali che puoi tranquillamente produrre a casa da solo/a o coinvolgendo la tua famiglia, dal pi\u00f9 piccolo al pi\u00f9 grande!\nE infine dai un titolo alla tua opera e lascia una breve descrizione.\nCarica i tuoi materiali sul seguente link https://forms.gle/6ft6kfQGPUcHavNt6\n\nLA RESTITUZIONE\nI materiali raccolti entreranno a far parte di un'opera in realt\u00e0 aumentata che, quando l'emergenza sar\u00e0 rientrata, sar\u00e0 presentata al pubblico. Per dare vita a un momento di rilettura collettivo e condiviso.\nIl progetto \u00e8 a cura di Bepart https://bepart.net/"", ""Destinatari"": ""Per tutti"", ""Link"": ""https://www.facebook.com/events/213801336399804/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.4464861 9.1818415 0 0"", ""Titolo"": ""Come eravamo ai tempi del Covid19""}","<pre><yamldata>
+Da_chi_offerta: BEPART
+Descrizione: 'PERCHE'' IL PROGETTO
+
+  Attraversiamo un passaggio storico che sta trasformando il nostro modo di vivere
+  e pensare, segnandoci nel profondo, a partire dalla nostra quotidianità.
+
+  Quando l''emergenza sarà terminata e con essa le relative misure di contenimento
+  ricorderemo gli aneddoti e le riflessioni fatte in questi giorni? Giornate in cui,
+  fermi a casa, abbiamo tempo per ragionare sui nostri sogni e le nostre paure, sul
+  valore dei gesti e delle parole, sul tempo e sul denaro, sul significato della convivenza
+  e dei baci, su libertà e verità. Piccoli e grandi temi che, sino a qualche giorno
+  fa, davamo spesso per scontati.
+
+  Vorremmo dunque coinvolgervi nella realizzazione di una grande opera collettiva:
+  un mosaico di autoritratti che ci aiuti nel futuro a ri-guardare, ricordare e a
+  capire questo momento.
+
+
+  COME PARTECIPARE
+
+  Compila il form (trovi il link nella sezione ""biglietti"") mandandoci:
+
+  1_un''immagine del PRE: una foto, un disegno o un collage che rappresenti come eri
+  PRIMA del virus
+
+  2_un racconto del DURANTE: un video, della durata massima di 1 minuto, che rappresenti
+  te per come stai VIVENDO QUESTO PERIODO (può essere un filmato, un''intervista,
+  un piccolo montaggio anche di foto, oppure un''animazione fatta da te).
+
+  N.B. Ovviamente sono tutti materiali che puoi tranquillamente produrre a casa da
+  solo/a o coinvolgendo la tua famiglia, dal più piccolo al più grande!
+
+  E infine dai un titolo alla tua opera e lascia una breve descrizione.
+
+  Carica i tuoi materiali sul seguente link https://forms.gle/6ft6kfQGPUcHavNt6
+
+
+  LA RESTITUZIONE
+
+  I materiali raccolti entreranno a far parte di un''opera in realtà aumentata che,
+  quando l''emergenza sarà rientrata, sarà presentata al pubblico. Per dare vita a
+  un momento di rilettura collettivo e condiviso.
+
+  Il progetto è a cura di Bepart https://bepart.net/'
+Destinatari: Per tutti
+Link: https://www.facebook.com/events/213801336399804/
+Natura: culturale-ricr
+Titolo: Come eravamo ai tempi del Covid19
+Posizione: 45.4464861 9.1818415 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1222,587889910,2020-03-25 18:15:07,2020-03-25 18:08:23,Vino sfuso a domicilio zona #CittaStudi #Milano,,,,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Vino sfuso a domicilio"", ""Metodi_di_pagamento_accettati"": ""option_2 contanti"", ""Nome_dell_esercizio_commercial"": ""Il Torchio"", ""Telefono"": ""02745635""}","<pre><yamldata>
 Descrizione: Vino sfuso a domicilio
 Metodi_di_pagamento_accettati: option_2 contanti
 Nome_dell_esercizio_commercial: Il Torchio
 Telefono: '02745635'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1221,587881301,2020-03-25 18:48:55,2020-03-25 17:54:57,Adottauneroe.com - L'aiuto dal tuo vicinato per l'acquisto di alimentari e medicinali,,,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Da Loud s.r.l. e Ennevolte s.r.l."", ""Descrizione"": ""Ciao a tutti.\n\nDurante lo scorso weekend abbiamo creato una piccola piattaforma per mettere in contatto telefonico persone bisognose di aiuto per fare spesa alimentare e farmaceutica con enti e giovani volontari nei loro paraggi pronti ad aiutare.\n\nSe pensi di poter dare una mano alle persone in difficolt\u00e0, a coloro che lottano in prima linea oppure tu stesso hai bisogno di aiuto, iscriviti e condividi questo link.\n\nhttps://adottauneroe.com/\n\n\u00c8 un'iniziativa senza scopo di lucro per il bene comune ed \u00e8 nata proprio per risolvere questa esigenza che abbiamo visto che sta aumentando.\n\n#adottauneroe #iorestoacasa #lontanimavicini\n\nGrazie"", ""Destinatari"": ""Enti e Persone in cerca di aiuto"", ""Link"": ""https://adottauneroe.com/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Adottauneroe.com | L'aiuto dal tuo vicinato per l'acquisto di alimentari e medicinali""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1221,587881301,2020-03-26 00:15:19,2020-03-25 17:54:57,Adottauneroe.com - Piattaforma di vicinato per la consegna a domicilio di alimentari e medicinali,,,,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Da Loud s.r.l. e Ennevolte s.r.l."", ""Descrizione"": ""Ciao a tutti.\n\nDurante lo scorso weekend abbiamo creato una piccola piattaforma per mettere in contatto telefonico persone bisognose di aiuto per fare spesa alimentare e farmaceutica con enti e giovani volontari nei loro paraggi pronti ad aiutare.\n\nSe pensi di poter dare una mano alle persone in difficolt\u00e0, a coloro che lottano in prima linea oppure tu stesso hai bisogno di aiuto, iscriviti e condividi questo link.\nhttps://adottauneroe.com/\n\u00c8 un'iniziativa senza scopo di lucro per il bene comune ed \u00e8 nata proprio per risolvere questa esigenza che abbiamo visto che sta aumentando.\nGrazie"", ""Destinatari"": ""Enti e Persone in cerca di aiuto"", ""Link"": ""https://adottauneroe.com/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Adottauneroe.com | L'aiuto dal tuo vicinato per l'acquisto di alimentari e medicinali""}","<pre><yamldata>
 Da_chi_offerta: Da Loud s.r.l. e Ennevolte s.r.l.
 Descrizione: 'Ciao a tutti.
 
@@ -19,16 +948,10 @@ Descrizione: 'Ciao a tutti.
   in prima linea oppure tu stesso hai bisogno di aiuto, iscriviti e condividi questo
   link.
 
-
   https://adottauneroe.com/
-
 
   È un''iniziativa senza scopo di lucro per il bene comune ed è nata proprio per risolvere
   questa esigenza che abbiamo visto che sta aumentando.
-
-
-  #adottauneroe #iorestoacasa #lontanimavicini
-
 
   Grazie'
 Destinatari: Enti e Persone in cerca di aiuto
@@ -365,7 +1288,7 @@ Scopo: ""Servizio di assistenza alla popolazione\n \nLe richieste di aiuto, su c
   \ richieste urgenti. \n\nLa spesa sostenuta rimarrà carico degli utenti.""
 Telefono: 335 10 79 131
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1190,587525259,2020-03-25 08:57:34,2020-03-25 08:27:15,B2YOU offre un servizio gratuito per facilitare e migliorare lo smart working da casa ,,,,,"[""Posizione mancante"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""B2YOU Srl"", ""Descrizione"": ""B2You \u00e8 a fianco delle imprese e della Pubblica Amministrazione interessate dall\u2019emergenza Coronavirus ed \u00e8 pronta a fornire gratuitamente la propria tecnologia collaudata da 20 anni di attivit\u00e0. Tecnologia che permette di fronteggiare le emergenti necessit\u00e0 di lavoro da remoto, mantenendo un alto livello di produttivit\u00e0 e collaborazione in totale sicurezza.  \n \nB2YOU, all\u2019interno dell\u2019iniziativa Solidariet\u00e0 Digitale del Ministro per l\u2019innovazione tecnologica e la digitalizzazione, mette a disposizione www.smartworking.me, un ambiente di lavoro che permette di ricreare a casa il proprio ufficio di segreteria o di reception in pochi passaggi e con le seguenti funzionalit\u00e0: \n \n\u2022 Pannello decisionale. Il software, accessibile ovunque da web, per organizzare l\u2019attivit\u00e0 dell\u2019ufficio (orari, prestazioni, calendari ecc), definire i ruoli (receptionist, segretarie, colleghi ecc) e rimanere sempre aggiornati grazie alle funzioni di mail e ricerca. \n \n\u2022 Software operativo per il lavoro da remoto. L\u2019applicativo che utilizzeranno in reception o in segreteria per gestire l\u2019attivit\u00e0, rispondere al telefono, inoltrare le chiamate, fissare appuntamenti e organizzare le agende di tutti i colleghi di lavoro. Il software consente di ricevere le chiamate da tutto il territorio nazionale, sia da rete mobile sia fissa, e analogamente di inoltrarle ovunque. \n \n\u2022 Numero di telefono dedicato con prefisso a scelta dell\u2019azienda. \n \n\u2022 Traffico telefonico incluso per inoltrare le chiamate ai cellulari e ai telefoni di casa. \n\nB2You mette inoltre a disposizione il numero verde 800.61.62.63 per fornire informazioni di dettaglio sulla soluzione e la sua attivazione. \n \nA proposito di B2You \n\nB2You, fondata nel 2001, \u00e8 un operatore di telecomunicazioni che sviluppa e vende online servizi a valore aggiunto (VAS) per le aziende e i professionisti, in particolare numeri verdi con piano tariffario ricaricabile (www.numeroverde.it). Il modello esportato anche in alcune nazioni europee. Nel 2017 \u00e8 nata www.segretaria.me, un servizio di segreteria a distanza che interpreta il nuovo metodo di lavoro in #smartworking. \n \n \nPer informazioni: pubbliche.relazioni@b2you.it"", ""Destinatari"": ""Imprese e pubblica amministrazione"", ""Link"": ""https://www.smartworking.me/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Smartworking.me""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1190,587525259,2020-03-25 22:10:41,2020-03-25 08:27:15,B2YOU offre un servizio gratuito per facilitare e migliorare lo smart working da casa ,45.464284,9.189907,Lombardia,Milano,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""B2YOU Srl"", ""Descrizione"": ""B2You \u00e8 a fianco delle imprese e della Pubblica Amministrazione interessate dall\u2019emergenza Coronavirus ed \u00e8 pronta a fornire gratuitamente la propria tecnologia collaudata da 20 anni di attivit\u00e0. Tecnologia che permette di fronteggiare le emergenti necessit\u00e0 di lavoro da remoto, mantenendo un alto livello di produttivit\u00e0 e collaborazione in totale sicurezza.  \n \nB2YOU, all\u2019interno dell\u2019iniziativa Solidariet\u00e0 Digitale del Ministro per l\u2019innovazione tecnologica e la digitalizzazione, mette a disposizione www.smartworking.me, un ambiente di lavoro che permette di ricreare a casa il proprio ufficio di segreteria o di reception in pochi passaggi e con le seguenti funzionalit\u00e0: \n \n\u2022 Pannello decisionale. Il software, accessibile ovunque da web, per organizzare l\u2019attivit\u00e0 dell\u2019ufficio (orari, prestazioni, calendari ecc), definire i ruoli (receptionist, segretarie, colleghi ecc) e rimanere sempre aggiornati grazie alle funzioni di mail e ricerca. \n \n\u2022 Software operativo per il lavoro da remoto. L\u2019applicativo che utilizzeranno in reception o in segreteria per gestire l\u2019attivit\u00e0, rispondere al telefono, inoltrare le chiamate, fissare appuntamenti e organizzare le agende di tutti i colleghi di lavoro. Il software consente di ricevere le chiamate da tutto il territorio nazionale, sia da rete mobile sia fissa, e analogamente di inoltrarle ovunque. \n \n\u2022 Numero di telefono dedicato con prefisso a scelta dell\u2019azienda. \n \n\u2022 Traffico telefonico incluso per inoltrare le chiamate ai cellulari e ai telefoni di casa. \n\nB2You mette inoltre a disposizione il numero verde 800.61.62.63 per fornire informazioni di dettaglio sulla soluzione e la sua attivazione. \n \nA proposito di B2You \n\nB2You, fondata nel 2001, \u00e8 un operatore di telecomunicazioni che sviluppa e vende online servizi a valore aggiunto (VAS) per le aziende e i professionisti, in particolare numeri verdi con piano tariffario ricaricabile (www.numeroverde.it). Il modello esportato anche in alcune nazioni europee. Nel 2017 \u00e8 nata www.segretaria.me, un servizio di segreteria a distanza che interpreta il nuovo metodo di lavoro in smartworking. \n \n \n"", ""Destinatari"": ""Imprese e pubblica amministrazione"", ""Link"": ""https://www.smartworking.me/"", ""Natura"": ""sostegno-lavoro"", ""Posizione"": ""45.464284 9.189907"", ""Titolo"": ""Smartworking.me""}","<pre><yamldata>
 Da_chi_offerta: B2YOU Srl
 Descrizione: ""B2You è a fianco delle imprese e della Pubblica Amministrazione interessate\
   \ dall’emergenza Coronavirus ed è pronta a fornire gratuitamente la propria tecnologia\
@@ -393,11 +1316,12 @@ Descrizione: ""B2You è a fianco delle imprese e della Pubblica Amministrazione 
   \ numeri verdi con piano tariffario ricaricabile (www.numeroverde.it). Il modello\
   \ esportato anche in alcune nazioni europee. Nel 2017 è nata www.segretaria.me,\
   \ un servizio di segreteria a distanza che interpreta il nuovo metodo di lavoro\
-  \ in #smartworking. \n \n \nPer informazioni: pubbliche.relazioni@b2you.it""
+  \ in smartworking. \n \n \n""
 Destinatari: Imprese e pubblica amministrazione
 Link: https://www.smartworking.me/
-Natura: sostegno-lavor
+Natura: sostegno-lavoro
 Titolo: Smartworking.me
+Posizione: 45.464284 9.189907
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1189,587362694,2020-03-25 12:17:19,2020-03-25 00:33:56,Consegne a domicilio in tutta #Italia delle Botteghe del commercio equo solidale ,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Botteghe del commercio equo solidale"", ""Descrizione"": ""Su Altreconomia elenco delle botteghe del commercio equo e solidale che in questa fase di emergenza consegnano a domicilio in molte citt\u00e0 italiane."", ""Link"": ""https://altreconomia.it/emergenza-covid19-commercio-equo/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Le Botteghe del commercio equo solidale che consegnano a domicilio nelle citt\u00e0 italiane""}","<pre><yamldata>
 Da_chi_offerta: Botteghe del commercio equo solidale
@@ -671,7 +1595,7 @@ Fonte: Ospedale Maggiore Novara
 Link: http://www.maggioreosp.novara.it/download/gestione-biancheria-paziente-istruzioni-per-la-famiglia/
 Posizione: 45.44640 8.61965
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1168,587025882,2020-03-24 21:44:17,2020-03-24 15:01:59,#Hackweagainstvirus: un hackaton per sviluppare idee - 28/29 marzo,,,,,"[""Notizie Utili"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""https://hackthealps.it/"", ""Descrizione"": ""HACKATHON \n\nLa nostra vita quotidiana \u00e8 stata stravolta in modo negativo dal Covid-19.\nCollaboriamo a trovare soluzioni insieme!\nl\u2019hackathon inizia Sabato, 28 marzo 2020, alle ore 09.00 CET"", ""Destinatari"": ""sviluppatori software"", ""Link"": ""https://hackthealps.it/weagainstvirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""weagainstvirus""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1168,587025882,2020-03-26 17:30:50,2020-03-24 15:01:59,#Hackweagainstvirus: un hackaton per sviluppare idee - 28/29 marzo '20,,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""https://hackthealps.it/"", ""Descrizione"": ""HACKATHON \n\nLa nostra vita quotidiana \u00e8 stata stravolta in modo negativo dal Covid-19.\nCollaboriamo a trovare soluzioni insieme!\nl\u2019hackathon inizia Sabato, 28 marzo 2020, alle ore 09.00 CET"", ""Destinatari"": ""sviluppatori software"", ""Link"": ""https://hackthealps.it/weagainstvirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""weagainstvirus""}","<pre><yamldata>
 Da_chi_offerta: https://hackthealps.it/
 Descrizione: ""HACKATHON \n\nLa nostra vita quotidiana è stata stravolta in modo negativo\
   \ dal Covid-19.\nCollaboriamo a trovare soluzioni insieme!\nl’hackathon inizia Sabato,\
@@ -1038,7 +1962,7 @@ Link: https://www.gofundme.com/f/Raccolta-fondi-ANLAIDS-Sicilia-pro-COVID19?utm_
 Nome: Raccolta fondi ANLAIDS Sicilia pro COVID19
 Posizione: 38.11555 13.3621 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1145,586825382,2020-03-24 09:53:25,2020-03-24 09:41:35,Regala un ebook,,,,,"[""Attivita culturali e ricreative"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il saggiatore casa editrice"", ""Descrizione"": ""La casa editrice il saggiatore regala un ebook ogni due giorni nell'ambito dell'iniziativa solidariet\u00e0 digitale"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.ilsaggiatore.com/solidarieta/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Regala un ebook""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1145,586825382,2020-03-26 05:50:31,2020-03-24 09:41:35,Casa editrice Il Saggiatore regala ebook,,,,,"[""Attivita culturali e ricreative"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il saggiatore casa editrice"", ""Descrizione"": ""La casa editrice il saggiatore regala un ebook ogni due giorni nell'ambito dell'iniziativa solidariet\u00e0 digitale"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.ilsaggiatore.com/solidarieta/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Regala un ebook""}","<pre><yamldata>
 Da_chi_offerta: Il saggiatore casa editrice
 Descrizione: La casa editrice il saggiatore regala un ebook ogni due giorni nell'ambito
   dell'iniziativa solidarietà digitale
@@ -5618,12 +6542,12 @@ Link: http://www.aslcn1.it/index.php?id=10228
 Nome: Azienda sanitaria locale Cn1
 Posizione: 44.45807 7.55814 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/809,584287893,2020-03-19 09:50:24,2020-03-19 09:49:52,#ItaliaNonProfit - Le risposte della Filantropia al COVID-19,,,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Italia non profit"", ""Descrizione"": ""Quali aziende, fondazioni e privati stanno supportando l'emergenza del coronavirus e come stanno destinando i finanziamenti."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://italianonprofit.it/aiuti-coronavirus/?fbclid=IwAR1XlQ6yfD5z2WJT4AjNTYQZzecZw5ZkFeS1qW8ZTc_zT3aru82zMTWzT0o"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#ItaliaNonProfit - Le risposte della Filantropia al COVID-19""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/809,584287893,2020-03-25 22:13:34,2020-03-19 09:49:52,#ItaliaNonProfit - Le risposte della Filantropia al COVID-19,,,,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Italia non profit"", ""Descrizione"": ""Quali aziende, fondazioni e privati stanno supportando l'emergenza del coronavirus e come stanno destinando i finanziamenti."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://italianonprofit.it/aiuti-coronavirus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#ItaliaNonProfit - Le risposte della Filantropia al COVID-19""}","<pre><yamldata>
 Da_chi_offerta: Italia non profit
 Descrizione: Quali aziende, fondazioni e privati stanno supportando l'emergenza del
   coronavirus e come stanno destinando i finanziamenti.
 Destinatari: Tutte e tutti
-Link: https://italianonprofit.it/aiuti-coronavirus/?fbclid=IwAR1XlQ6yfD5z2WJT4AjNTYQZzecZw5ZkFeS1qW8ZTc_zT3aru82zMTWzT0o
+Link: https://italianonprofit.it/aiuti-coronavirus/
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: '#ItaliaNonProfit - Le risposte della Filantropia al COVID-19'
@@ -9633,13 +10557,13 @@ Descrizione: 'Le persone senza fissa dimora, infrangendo il divieto di rimanere 
   alle persone che non hanno una casa in cui restare.'
 Link: https://www.facebook.com/groups/covid19italia/permalink/2928535307168637/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/516,581396911,2020-03-14 22:40:30,2020-03-14 22:22:14,Sportello di informazione e sostegno psicologico #Torino,,,,,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Protezione Civile e Psicologi per il Popolo Torino"", ""Descrizione"": ""Sportello di informazione e sostegno psicologico #torino. Linea diretta con gli psicologi dell'emergenza"", ""Destinatari"": ""tutti"", ""Indirizzo"": ""45.1016373 7.6341223"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928528527169315/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sportello di informazione e sostegno psicologico #torino""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/516,581396911,2020-03-26 10:45:45,2020-03-14 22:22:14,Sportello di informazione e sostegno psicologico #Torino,,,,,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Protezione Civile e Psicologi per il Popolo Torino"", ""Descrizione"": ""Sportello di informazione e sostegno psicologico #torino. Linea diretta con gli psicologi dell'emergenza"", ""Destinatari"": ""tutti"", ""Indirizzo"": ""45.1016373 7.6341223 0 0"", ""Link"": ""https://www.facebook.com/749431391738924/photos/a.749471985068198/3521845037830865/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sportello di informazione e sostegno psicologico #torino""}","<pre><yamldata>
 Da_chi_offerta: Protezione Civile e Psicologi per il Popolo Torino
 Descrizione: 'Sportello di informazione e sostegno psicologico #torino. Linea diretta
   con gli psicologi dell''emergenza'
 Destinatari: tutti
-Indirizzo: 45.1016373 7.6341223
-Link: https://www.facebook.com/groups/covid19italia/permalink/2928528527169315/
+Indirizzo: 45.1016373 7.6341223 0 0
+Link: https://www.facebook.com/749431391738924/photos/a.749471985068198/3521845037830865/?type=3&theater&ifg=1
 Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: 'Sportello di informazione e sostegno psicologico #torino'
