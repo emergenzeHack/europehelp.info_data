@@ -22,17 +22,16 @@ languages:
     navbar-links:
       REPORT: "en/reporting/"
       DISCOVER:
-        - REPORTS : "issues/"
-        - REPORTS FOR REGION : "issues/regione/"
+        - ITALIAN REPORTS : "issues/"
+        - REPORTS FOR ITALIAN REGION : "issues/regione/"
       FOLLOW:
-        - NEWS: "notizie-utili/"
-        - BLOG : "post/"
+        - ITALIAN NEWS: "notizie-utili/"
         - CONTACTS: "en/channels/"
       WHAT IS THIS?:
         - ABOUT: "en/about/"
         - FAQ: "en/faq/"
-        - OPEN DATA: "opendata/"
+        - OPEN DATA: "en/opendata/"
       CONTRIBUTE:
-        - HOW: "contribuisci/"
+        - ACTIVATE YOUR COUNTRY: "en/contribute/"
         - WIKI: "en/wiki/"
       PRIVACY: "legal"
