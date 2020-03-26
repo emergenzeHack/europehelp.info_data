@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1253,588328142,2020-03-26 12:02:22,2020-03-26 10:53:07,IoRestoACasa Games,43.528031,10.335195,Toscana,Livorno,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Di Palma Giuseppe"", ""Descrizione"": ""IoRestoACasa Games sono dedicati ai ragazzi e alle ragazze delle scuole elementari e medie. Sono sfide di logica, musica, curiosit\u00e0, cultura, che coinvolgono tutta la famiglia, perch\u00e9 ci sono delle sezioni dedicate al tempo in cui... a scuola ci andavano i vostri genitori!\nPuoi giocare con lo smartphone, con il tablet, con il computer... ma non puoi giocare senza la tua famiglia perch\u00e9 il divertimento si moltiplica soltanto quando siamo in tanti. Dillo anche ai vostri amici e vediamo chi di voi \u00e8 pi\u00f9 bravo!Ci si collega al sito https://sites.google.com/view/iorestoacasagames e all'orario prestabilito vengono pubblicati una serie di quiz, domande di cultura varia, indovinelli.\nIl primo che invia le risposte esatte vince.\n\nL'ora e il giorno del prossimo quiz sono sul sito."", ""Destinatari"": ""Bambini in et\u00e0 elementari/medie"", ""Link"": ""https://sites.google.com/view/iorestoacasagames"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""43.528031 10.335195 0 0"", ""Titolo"": ""IoRestoACasa Games""}","<pre><yamldata>
+Da_chi_offerta: Di Palma Giuseppe
+Descrizione: 'IoRestoACasa Games sono dedicati ai ragazzi e alle ragazze delle scuole elementari e medie. Sono sfide di logica, musica, curiosità, cultura, che coinvolgono tutta la famiglia, perché ci sono delle sezioni dedicate al tempo in cui... a scuola ci andavano i vostri genitori!
+
+Puoi giocare con lo smartphone, con il tablet, con il computer... ma non puoi giocare senza la tua famiglia perché il divertimento si moltiplica soltanto quando siamo in tanti. Dillo anche ai vostri amici e vediamo chi di voi è più bravo!Ci si collega al sito https://sites.google.com/view/iorestoacasagames
+  e all''orario prestabilito vengono pubblicati una serie di quiz, domande di cultura
+  varia, indovinelli.
+
+  Il primo che invia le risposte esatte vince.
+
+
+  L''ora e il giorno del prossimo quiz sono sul sito.'
+Destinatari: Bambini in età elementari/medie
+Link: https://sites.google.com/view/iorestoacasagames
+Natura: culturale-ricr
+Posizione: 43.528031 10.335195 0 0
+Titolo: IoRestoACasa Games
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1251,588319152,2020-03-26 11:57:33,2020-03-26 10:38:45,"A #Sora, provincia di #Frosinone, consegna spesa e farmaci a domicilio, telesoccorso, pagamento bollette e supporto psicologico",41.7146328,13.6057567,Lazio,Frosinone,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Numero verde attivo per sostegno a persone over75, immunodepresse, sole e fragili. Viene offerto sostegno psicologico telefonico, consegna spesa e farmaci a domicilio, telesoccorso, teleassistenza, pagamento bollette, supporto psicologico"", ""Link"": ""http://www.aipes.it/news/2020/03/10/comunicato-stampa-numero-verde-emergenza-covid-19/"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Aipes- Consorzio per i Servizi alla Persona"", ""Posizione"": ""41.7146328 13.6057567 0 0"", ""Telefono"": ""800400495""}","<pre><yamldata>
 Descrizione: Numero verde attivo per sostegno a persone over75, immunodepresse, sole e fragili. Viene offerto sostegno psicologico telefonico, consegna spesa e farmaci a domicilio, telesoccorso, teleassistenza, pagamento
   bollette, supporto psicologico
