@@ -63,6 +63,15 @@ Descrizione: È​ disponibile on line il nuovo modello di autodichiarazione per
 Fonte: Ministero degli Interni
 Link: https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_26.03.2020.pdf
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1274,588518836,2020-03-26 16:35:08,2020-03-26 15:41:58,Gelateria Pellicano #Rimini accetta prenotazioni on-line (servizio da venerdì a domenica),44.05939,12.56844,Emilia-Romagna,Rimini,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Solo venerd\u00ec, sabato e domenica, dalle 18.00 alle 22.00.\nDirettamente dalle piattaforme di Take2Me, Just Eat e FoodStation."", ""Link"": ""https://take2me.it/locali/gelateria-pellicano-rimini.html"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 option_1 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Gelateria Pellicano"", ""Posizione"": ""44.05939 12.56844""}","<pre><yamldata>
+Descrizione: 'Solo venerdì, sabato e domenica, dalle 18.00 alle 22.00.
+
+  Direttamente dalle piattaforme di Take2Me, Just Eat e FoodStation.'
+Link: https://take2me.it/locali/gelateria-pellicano-rimini.html
+Metodi_di_pagamento_accettati: contrassegno option_2 option_1 carta_prepagat contanti
+Nome_dell_esercizio_commercial: Gelateria Pellicano
+Posizione: 44.05939 12.56844
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1271,588487466,2020-03-26 16:11:23,2020-03-26 15:00:26,2gether onlus promuove un raccolta fondi per fornire mascherine e ventilatori in #ValdiSusa,45.13716,7.053888,Piemonte,Torino,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""2gether onlus, considerato l'evolversi dell'emergenza epidemiologica e per contribuire alla presa in carico sanitaria e socio-assistenziale della popolazione della Val di Susa, lancia una raccolta fondi a favore di:\n\n1. Operatori di strutture di aree periferiche dei servizi territoriali e ospedalieri, operatori socio-assistenziali, protezione civile e fasce deboli della popolazione: fornitura di circa 30.000 mascherine \n\n2. Pazienti in cura presso Ospedale di Susa: fornitura di sistemi di ventilazione e ventilatori polmonari\n\nLa raccolta fondi \u00e8 realizzata in collaborazione con ASLTO3, Unione Montana Alta Valle Susa, Unione Montana Comuni Olimpici Via Lattea e Consorzio Socio Assistenziale Con.I.S.A. Valle di Susa.\n\nIl dono di ognuno \u00e8 il bene di tutti!\nTi ringraziamo con tutto il cuore per il tuo contributo!"", ""Email"": ""info@2getheronlus.eu"", ""Link"": ""https://www.retedeldono.it/it/progetti/2gether-onlus/insieme-per-lemergenza-in-val-di-susa"", ""Nome"": ""2gether onlus"", ""Posizione"": ""45.13716 7.053888 0 0""}","<pre><yamldata>
 Descrizione: ""2gether onlus, considerato l'evolversi dell'emergenza epidemiologica\
   \ e per contribuire alla presa in carico sanitaria e socio-assistenziale della popolazione\
@@ -218,7 +227,7 @@ Tipo_di_soggetto: pubblico
 Titolo: Servizio di counseling gratuito per contrastare stress da lavoro-correlato
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1259,588354848,2020-03-26 15:37:32,2020-03-26 11:37:35,Elenco Librerie aderenti a #LibridaAsporto in tutta #Italia,42.6384261,12.674297,Umbria,Terni,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Librerie italiane"", ""Descrizione"": ""Elenco, in aggiornamento, delle librerie che aderiscono all'iniziativa #LibridaAsporto"", ""Destinatari"": ""tutti"", ""Link"": ""http://www.libridaasporto.it/elencolibrerie.html?fbclid=IwAR1482rOl0iHoA6Eto6v4KRZYow2EtNPSklYmd4EnaVCvBlyndqvz5o9nAc"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Titolo"": ""Elenco Librerie aderenti a #LibridaAsporto""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1259,588354848,2020-03-26 16:35:20,2020-03-26 11:37:35,Elenco delle librerie che in tutta Italia aderiscono a #LibridaAsporto,42.6384261,12.674297,Umbria,Terni,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Librerie italiane"", ""Descrizione"": ""Elenco, in aggiornamento, delle librerie che aderiscono all'iniziativa #LibridaAsporto"", ""Destinatari"": ""tutti"", ""Link"": ""http://www.libridaasporto.it/elencolibrerie.html?fbclid=IwAR1482rOl0iHoA6Eto6v4KRZYow2EtNPSklYmd4EnaVCvBlyndqvz5o9nAc"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""42.6384261 12.674297 0 0"", ""Titolo"": ""Elenco Librerie aderenti a #LibridaAsporto""}","<pre><yamldata>
 Da_chi_offerta: Librerie italiane
 Descrizione: 'Elenco, in aggiornamento, delle librerie che aderiscono all''iniziativa
   #LibridaAsporto'
@@ -10531,6 +10540,15 @@ Descrizione: 'Coronavirus, mascherine prodotte con le stampanti 3D: ""Il nostro 
 Destinatari: tutti
 Link: https://bari.repubblica.it/cronaca/2020/03/14/news/coronavirus_mascherine_prodotte_con_le_stampanti_3d_il_nostro_modello_e_a_disposizione_di_tutti_-251260492/?fbclid=IwAR1_4VXK02m2FHLgBjgvnO-eiKAnoJRrdfcy8fdKW_bxFl9zk8rDduYgaa0
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-22 14:41:53,2020-03-14 16:07:25,Open source Mask - Mascherine stampate in 3D: modello a disposizione di tutti,,,,,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://bari.repubblica.it/cronaca/2020/03/14/news/coronavirus_mascherine_prodotte_con_le_stampanti_3d_il_nostro_modello_e_a_disposizione_di_tutti_-251260492/?fbclid=IwAR1_4VXK02m2FHLgBjgvnO-eiKAnoJRrdfcy8fdKW_bxFl9zk8rDduYgaa0""}","<pre><yamldata>
+Cosa: 'mascherine prodotte con le stampanti 3D: modello a disposizione di tutti'
+Descrizione: 'Coronavirus, mascherine prodotte con le stampanti 3D: ""Il nostro modello
+  è a disposizione di tutti""
+
+  È il progetto pugliese-siciliano Open source mask'
+Destinatari: tutti
+Link: https://bari.repubblica.it/cronaca/2020/03/14/news/coronavirus_mascherine_prodotte_con_le_stampanti_3d_il_nostro_modello_e_a_disposizione_di_tutti_-251260492/?fbclid=IwAR1_4VXK02m2FHLgBjgvnO-eiKAnoJRrdfcy8fdKW_bxFl9zk8rDduYgaa0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/429,581266760,2020-03-16 23:10:06,2020-03-14 16:05:38,Supporto psicologico per operatori forze dell’ordine e dell’emergenza - Associazione CERCHIOBLU,43.780514,11.253805,Toscana,Firenze,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Da_chi_offerta"": ""http://www.cerchioblu.org/"", ""Descrizione"": ""Viste le ultime linee guida ministeriali e la veloce propagazione del virus COVID-19 l\u2019Associazione CERCHIOBLU offre gratuitamente sostegno psicologico on-line agli operatori di Polizia e dell\u2019emergenza che ne facciano richiesta.\n\nIn questo difficile momento per il nostro paese, tutti gli operatori di polizia delle Forze dell\u2019Ordine e tutto il personale sanitario che sta operando in emergenza, \u00e8 sotto pressione.\n\nGli operatori si trovano a fronteggiare un momento critico sia a livello professionale sia umano, confrontandosi quotidianamente con situazioni critiche in emergenza e a contenere persone spesso in ansia e con reazioni di panico.\n\nSiamo disponibili anche a fornire supporto in merito alle pi\u00f9 consone modalit\u00e0 comunicative e di gestione dei cittadini con reazioni di panico o isteriche.\n\nTutti i nostri professionisti sono iscritti ai relativi albi di appartenenza e formati sui temi dell\u2019emergenza.\n\nPer attivare i colloqui \u00e8 sufficiente mandare una mail a cristina.diloreto@cerchioblu.org coordinatrice della nostra Rete Nazionale di Psicologi."", ""Link"": ""http://www.cerchioblu.org/emergenza-covid-19-supporto-psicologico-online-agli-appartenenti-delle-forze-dellordine-e-dellemergenza-italiane/"", ""Natura"": ""solidale"", ""Posizione"": ""43.780514 11.253805 0 0"", ""Provincia"": ""Firenze"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emergenza COVID-19 Supporto psicologico online agli appartenenti delle forze dell\u2019ordine e dell\u2019emergenza italiane""}","<pre><yamldata>
 Comune: Firenze
 Da_chi_offerta: http://www.cerchioblu.org/
@@ -13400,24 +13418,6 @@ Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordi
   autore\ncasa editrice\n(se ce la fate meglio uno screenshot)\n...\nalla consegna\
   \ potete pagare in\ncontanti\ncarte di credito\nbancomat""
 Link: http://todomodo.org/
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-16 23:12:40,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,38.1112268,13.3524434,Sicilia,Palermo,"[""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Palermo"", ""Da_chi_offerta"": ""Dott.ssa Giovanna Schittino"", ""Descrizione"": ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e, volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico. Stiamo affrontando un momento di vita extra-ordinario e ci\u00f2 immancabilmente ci espone con pi\u00f9 facilit\u00e0 ad ansie e paure, tutto ci\u00f2 \u00e8 comprensibile ma \u00e8 anche superabile.\nPotete contattarmi al \u27a1\ufe0f3356952503\u2b05\ufe0f\n\nDott.ssa Giovanna Schittino tel. 3356952503"", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""38.1112268 13.3524434 0 0"", ""Provincia"": ""Palermo"", ""Regione"": ""Sicilia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sostegno psicologico telefonico""}","<pre><yamldata>
-Comune: Palermo
-Da_chi_offerta: Dott.ssa Giovanna Schittino
-Descrizione: ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e,\
-  \ volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente\
-  \ per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico.\
-  \ Stiamo affrontando un momento di vita extra-ordinario e ci\xF2 immancabilmente\
-  \ ci espone con pi\xF9 facilit\xE0 ad ansie e paure, tutto ci\xF2 \xE8 comprensibile\
-  \ ma \xE8 anche superabile.\nPotete contattarmi al \u27A1\uFE0F3356952503\u2B05\uFE0F\
-  \n\nDott.ssa Giovanna Schittino tel. 3356952503""
-Destinatari: tutti
-Natura: solidale
-Posizione: 38.1112268 13.3524434 0 0
-Provincia: Palermo
-Regione: Sicilia
-Tipo_di_soggetto: privato
-Titolo: Sostegno psicologico telefonico
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-16 23:12:40,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,38.1112268,13.3524434,Sicilia,Palermo,"[""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Palermo"", ""Da_chi_offerta"": ""Dott.ssa Giovanna Schittino"", ""Descrizione"": ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e, volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico. Stiamo affrontando un momento di vita extra-ordinario e ci\u00f2 immancabilmente ci espone con pi\u00f9 facilit\u00e0 ad ansie e paure, tutto ci\u00f2 \u00e8 comprensibile ma \u00e8 anche superabile.\nPotete contattarmi al \u27a1\ufe0f3356952503\u2b05\ufe0f\n\nDott.ssa Giovanna Schittino tel. 3356952503"", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""38.1112268 13.3524434 0 0"", ""Provincia"": ""Palermo"", ""Regione"": ""Sicilia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sostegno psicologico telefonico""}","<pre><yamldata>
 Comune: Palermo
