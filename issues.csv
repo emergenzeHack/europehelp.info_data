@@ -1,4 +1,36 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1335,589275664,2020-03-27 17:20:20,2020-03-27 17:04:43,Bioexpress consegna a domicilio prodotti agricoli biologici in #Lombardia #Veneto # AltoAdige #EmiliaRomagna #FriuliVeneziaGiulia #Piemonte #Roma,46.295936,11.237597,Trentino-Alto Adige,Bolzano,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bioexpress \u00e8 un gruppo di produttori dell\u2019Alto Adige che si dedicano alla coltivazione di frutta e verdura applicando le regole dell'agricoltura biologica. In collaborazione con altri colleghi produttori di diverse regioni d'Italia si impegnano inoltre con particolare attenzione nella commercializzazione diretta dei prodotti attraverso la consegna a domicilio.\n\nBioexpress consegna solo nelle seguenti zone:\n\n- la Valle d'Adige\n- una parte della Lombardia: MILANO, Pavia, Lodi, Cremona, Mantova, Brescia, Bergamo, Lecco, Como, Monza e Varese\n- una parte del Veneto (Verona, Vicenza, Padova, Treviso e una parte di Venezia)\n- una parte del Friuli Venezia Giulia (Pordenone, Udine, Trieste)\n- una parte del Piemonte (Novara)\n- Emilia Romagna (Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forli-Cesena)\n- Roma (solo nell'interno del grande raccordo anulare)"", ""Email"": ""info@bioexpress.it"", ""Link"": ""http://www.bioexpress.it/"", ""Nome_dell_esercizio_commercial"": ""Bioexpress"", ""Posizione"": ""46.295936 11.237597 0 0"", ""Telefono"": ""800892838""}","<pre><yamldata>
+Descrizione: 'Bioexpress è un gruppo di produttori dell’Alto Adige che si dedicano
+  alla coltivazione di frutta e verdura applicando le regole dell''agricoltura biologica.
+  In collaborazione con altri colleghi produttori di diverse regioni d''Italia si
+  impegnano inoltre con particolare attenzione nella commercializzazione diretta dei
+  prodotti attraverso la consegna a domicilio.
+
+
+  Bioexpress consegna solo nelle seguenti zone:
+
+
+  - la Valle d''Adige
+
+  - una parte della Lombardia: MILANO, Pavia, Lodi, Cremona, Mantova, Brescia, Bergamo,
+  Lecco, Como, Monza e Varese
+
+  - una parte del Veneto (Verona, Vicenza, Padova, Treviso e una parte di Venezia)
+
+  - una parte del Friuli Venezia Giulia (Pordenone, Udine, Trieste)
+
+  - una parte del Piemonte (Novara)
+
+  - Emilia Romagna (Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna,
+  Forli-Cesena)
+
+  - Roma (solo nell''interno del grande raccordo anulare)'
+Email: info@bioexpress.it
+Link: http://www.bioexpress.it/
+Nome_dell_esercizio_commercial: Bioexpress
+Posizione: 46.295936 11.237597 0 0
+Telefono: '800892838'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1334,589272718,2020-03-27 17:17:09,2020-03-27 17:00:17,Raccolta fondi per pacchi spesa per famiglie indigenti promossa dalla Cooperativa A.R.S. e l'associazione A Rezza a #CasalnuovodiNapoli in provincia di #Napoli,40.883896,14.345484,Campania,Napoli,"[""Raccolte fondi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Causale"": ""rete solidale - distribuzione dei pacchi spesa per famiglie indigenti"", ""Descrizione"": ""La cooperativa A.R.S. e l'associazione A Rezza hanno attivato una raccolta fondi per famiglie e persone in difficolt\u00e0. \n\ud83d\udd34 Raccolta fondi per pacchi spesa per famiglie e persone in difficolt\u00e0 di Volla e dintorni!\n\u2139 Clicca qui per donare \u27a1 https://gf.me/u/xtbs59\n\nSono molti i lavoratori e le lavoratrici che, non avendo alcun contratto, rischiano la miseria.\nSono tanti coloro che sono stati licenziati e che non avranno alcun tipo di sostegno.\nSono tante le famiglie gi\u00e0 in difficolt\u00e0 che soffrono, ancora di pi\u00f9, in questo momento di emergenza sanitaria.\n\ud83d\udcb0 Attiviamo questa raccolta fondi per permettere ai nostri attivisti di poter organizzare l\u2019acquisto dei pacchi spesa per supportare le fasce pi\u00f9 a rischio nella massima sicurezza e rispettando la tutela sanitaria e le disposizioni sulle distanze e i contatti per evitare il contagio.\n#diamociunamano #resistiamoinsieme #arscooperativa #unponteper #restiamoacasa"", ""Email"": ""info@arscooperativa.it"", ""IBAN"": ""IT49Q0501803400000011686540"", ""Intestazione"": ""Coop A.R.S."", ""Link"": ""https://www.facebook.com/arscooperativa/"", ""Nome"": ""Rete solidale - coop A.R.S. e \""A Rezza\"""", ""Posizione"": ""40.883896 14.345484 0 0""}","<pre><yamldata>
 Causale: rete solidale - distribuzione dei pacchi spesa per famiglie indigenti
 Descrizione: ""La cooperativa A.R.S. e l'associazione A Rezza hanno attivato una raccolta\
