@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1328,589220464,2020-03-27 16:34:02,2020-03-27 15:38:59,"#Trentino, elenco esercizi che consegnano a domicilio beni alimentari e farmaci",46.067389,11.12673,Trentino-Alto Adige,Trento,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Trentino dei bambini"", ""Descrizione"": ""Elenco di esercizi commerciali che fanno consegne a domicilio di generi alimentari e farmaceutici in Trentino"", ""Destinatari"": ""Cittadini del Trentino"", ""Link"": ""https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/?fbclid=IwAR3aOxfbyOoHbH2m8HwmK4Y8XDduIUwZtU3l6pDvA9FsLkf5r0hBn1PL1Fg"", ""Natura"": ""solidale"", ""Posizione"": ""46.067389 11.12673 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco Esercizi commerciali che fanno consegne a domiclio in #Trentino""}","<pre><yamldata>
+Da_chi_offerta: Il Trentino dei bambini
+Descrizione: Elenco di esercizi commerciali che fanno consegne a domicilio di generi
+  alimentari e farmaceutici in Trentino
+Destinatari: Cittadini del Trentino
+Link: https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/?fbclid=IwAR3aOxfbyOoHbH2m8HwmK4Y8XDduIUwZtU3l6pDvA9FsLkf5r0hBn1PL1Fg
+Natura: solidale
+Posizione: 46.067389 11.12673 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Elenco Esercizi commerciali che fanno consegne a domiclio in #Trentino'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1327,589217911,2020-03-27 16:32:47,2020-03-27 15:35:19,"Maestri del gusto, esercizi che consegnano generi alimentari a domicilio a #Torino e provincia",45.074124,7.691794,Piemonte,Torino,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Maestri del Gusto"", ""Descrizione"": ""Elenco di negozi che fanno consegna di generi alimentari a domicilio a Torino e provincia"", ""Destinatari"": ""Cittadini di Torino"", ""Link"": ""https://www.maestridelgustotorino.com/i-maestri-consegnano-a-domicilio/?fbclid=IwAR0L-cUnb8QtABpz_ERuk7r9rdrtJrkz6hfnWc5y_jM6dyO1syxKIWhXiSw"", ""Natura"": ""solidale"", ""Posizione"": ""45.074124 7.691794 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna generi alimentari a domicilio a #Torino""}","<pre><yamldata>
+Da_chi_offerta: Maestri del Gusto
+Descrizione: Elenco di negozi che fanno consegna di generi alimentari a domicilio
+  a Torino e provincia
+Destinatari: Cittadini di Torino
+Link: https://www.maestridelgustotorino.com/i-maestri-consegnano-a-domicilio/?fbclid=IwAR0L-cUnb8QtABpz_ERuk7r9rdrtJrkz6hfnWc5y_jM6dyO1syxKIWhXiSw
+Natura: solidale
+Posizione: 45.074124 7.691794 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Consegna generi alimentari a domicilio a #Torino'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1326,589213783,2020-03-27 15:34:20,2020-03-27 15:29:06,"Spesa a domicilio, motore di ricerca per #Rovigo e provincia",45.070841,11.790527,Veneto,Rovigo,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Attivisti Rovigo"", ""Descrizione"": ""Un motore di ricerca per dare informazioni su consegne a domiclio e altre informazioni utili a Rovigo e provincia"", ""Destinatari"": ""Cittadini di Rovigo e Provincia"", ""Link"": ""https://www.rovirus.it/"", ""Natura"": ""solidale"", ""Posizione"": ""45.070841 11.790527 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa a domicilio a #Rovigo e provincia""}","<pre><yamldata>
 Da_chi_offerta: Attivisti Rovigo
 Descrizione: Un motore di ricerca per dare informazioni su consegne a domiclio e altre
