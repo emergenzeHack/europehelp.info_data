@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1324,589198992,2020-03-27 15:21:42,2020-03-27 15:07:18,Azienda agricola L’Orto Magico  è a disposizione per consegne a domicilio in tutta la zona di #DonnaLucata #Ragusa,36.762713,14.640511,Sicilia,Ragusa,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'ORTO MAGICO DI DONNALUCATA si mette a disposizione per consegne a domicilio \nper tutta la zona di Donnalucata.\n\nSolamente in questo periodo  \n\nL'ORTO MAGICO risponde \ntelefonicamente e via Whatsapp al numero 3667050135\n...\nin fila e con pazienza presso il negozio stesso: Via Regina Margherita 40\n\nFornisce anche farina, pasta, acqua, formaggi e uova freschi."", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""L'ORTO MAGICO"", ""Posizione"": ""36.762713 14.640511 0 0"", ""Telefono"": ""3667050135""}","<pre><yamldata>
+Descrizione: ""L'ORTO MAGICO DI DONNALUCATA si mette a disposizione per consegne a\
+  \ domicilio \nper tutta la zona di Donnalucata.\n\nSolamente in questo periodo <\
+  \ COVID19 > \n\nL'ORTO MAGICO risponde \ntelefonicamente e via Whatsapp al numero\
+  \ 3667050135\n...\nin fila e con pazienza presso il negozio stesso: Via Regina Margherita\
+  \ 40\n\nFornisce anche farina, pasta, acqua, formaggi e uova freschi.""
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: L'ORTO MAGICO
+Posizione: 36.762713 14.640511 0 0
+Telefono: '3667050135'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1323,589198965,2020-03-27 15:17:37,2020-03-27 15:07:17,"Confesercenti #Torino, elenco esercizi commerciali che fanno consegne a domicilio",45.070941,7.685829,Piemonte,Torino,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Confeserecenti"", ""Descrizione"": ""Motore di ricerca per esercizi commerciali che fanno consegna a domicilio a Torino"", ""Destinatari"": ""Cittadini di Torino"", ""Link"": ""https://www.confesercenti-to.it/generale/iorestoacasa-riduci-al-minimo-i-tuoi-spostamenti-ai-tuoi-acquisti-ci-pensiamo-noi-consegne-a-domicilio-dal-tuo-negoziante-di-fiducia/?fbclid=IwAR2zoFe5pvR-BdJM1f59t2eMoMcaS75mHDXYuaN-iHr4Fi4BAL1N0dGoy6w"", ""Natura"": ""solidale"", ""Posizione"": ""45.070941 7.685829 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Esercizi commerciali che fanno consegne a domicilio a #Torino""}","<pre><yamldata>
 Da_chi_offerta: Confeserecenti
 Descrizione: Motore di ricerca per esercizi commerciali che fanno consegna a domicilio
@@ -4653,6 +4664,13 @@ Descrizione: ""Al momento della generazione della ricetta elettronica da  parte\
   \  del\nnumero di ricetta elettronica; \n....""
 Fonte: Gazzetta Ufficiale nº74 del 21/3/2020
 Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-21&atto.codiceRedazionale=20A01769&elenco30giorni=false
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/964,585481688,2020-03-24 18:49:10,2020-03-21 11:32:06,"Safecast, piattaforma internazionale su coronavirus creata da Citizen Science Safecast",,,,,"[""Contatti utili"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Safecast COVID platform"", ""Descrizione"": ""Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo di Citizen Science Safecast"", ""Fonte"": ""blog"", ""Link"": ""https://safecast.org/covid19/""}","<pre><yamldata>
+Cosa: Safecast COVID platform
+Descrizione: Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo
+  di Citizen Science Safecast
+Fonte: blog
+Link: https://safecast.org/covid19/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/964,585481688,2020-03-24 18:49:10,2020-03-21 11:32:06,"Safecast, piattaforma internazionale su coronavirus creata da Citizen Science Safecast",,,,,"[""Contatti utili"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Safecast COVID platform"", ""Descrizione"": ""Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo di Citizen Science Safecast"", ""Fonte"": ""blog"", ""Link"": ""https://safecast.org/covid19/""}","<pre><yamldata>
 Cosa: Safecast COVID platform
