@@ -35,18 +35,18 @@ languages:
         - ACTIVATE YOUR COUNTRY: "en/contribute/"
         - WIKI: "en/wiki/"
       PRIVACY: "legal"
-  - language: pr
+  - language: pt
     navbar-links:
-      RECOMMEND: "pr/recommend/"
+      RECOMMEND: "pt/recommend/"
       DISCOVER:
         - ITALIAN INITIATIVES : "issues/"
         - INITIATIVES FOR ITALIAN REGION : "issues/regione/"
       FOLLOW:
-        - CONTACTS: "pr/channels/"
+        - CONTACTS: "pt/channels/"
       WHAT IS THIS?:
-        - ABOUT: "pr/about/"
-        - FAQ: "pr/faq/"
-        - OPEN DATA: "pr/opendata/"
+        - ABOUT: "pt/about/"
+        - FAQ: "pt/faq/"
+        - OPEN DATA: "pt/opendata/"
       CONTRIBUTE:
-        - WIKI: "pr/wiki/"
+        - WIKI: "pt/wiki/"
       PRIVACY: "legal"
