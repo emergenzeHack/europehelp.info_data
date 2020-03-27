@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1329,589230368,2020-03-27 16:47:02,2020-03-27 15:53:45,"Anci #Toscana, online i numeri da contattare per accedere ai servizi di consegna a domicilio dei Comuni toscani",43.789716,11.253347,Toscana,Firenze,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Anci Toscana"", ""Descrizione"": ""Chi \u00e8 pi\u00f9 a rischio, ora \u00e8 pi\u00f9 sicuro. Anziani over 75 con difficolt\u00e0 a muoversi, persone affette da patologie croniche e che devono evitare luoghi affollati, non dovranno pi\u00f9 uscire di casa: basta una telefonata per prenotare la propria spesa. Questo grazie al lavoro dei nostri sindaci, al sostegno della Regione, al protocollo d'intesa tra noi, la Regione e le principali aziende della Grande distribuzione, nonch\u00e8 alla preziosa e insostituibile collaborazione del volontariato e dei tantissimi esercizi di vicinato. Al link tutti i numeri da chiamare nei Comuni che offrono il servizio di consegna a domicilio."", ""Destinatari"": ""Cittadini fragili e in difficolt\u00e0"", ""Link"": ""https://ancitoscana.it/coronavirus/2640-spesa-a-casa.html"", ""Natura"": ""solidale"", ""Posizione"": ""43.789716 11.253347 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Anci Toscana, online i numeri da contattare per accedere ai servizi di consegna a domicilio dei Comuni toscani""}","<pre><yamldata>
+Da_chi_offerta: Anci Toscana
+Descrizione: 'Chi è più a rischio, ora è più sicuro. Anziani over 75 con difficoltà
+  a muoversi, persone affette da patologie croniche e che devono evitare luoghi affollati,
+  non dovranno più uscire di casa: basta una telefonata per prenotare la propria spesa.
+  Questo grazie al lavoro dei nostri sindaci, al sostegno della Regione, al protocollo
+  d''intesa tra noi, la Regione e le principali aziende della Grande distribuzione,
+  nonchè alla preziosa e insostituibile collaborazione del volontariato e dei tantissimi
+  esercizi di vicinato. Al link tutti i numeri da chiamare nei Comuni che offrono
+  il servizio di consegna a domicilio.'
+Destinatari: Cittadini fragili e in difficoltà
+Link: https://ancitoscana.it/coronavirus/2640-spesa-a-casa.html
+Natura: solidale
+Posizione: 43.789716 11.253347 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Anci Toscana, online i numeri da contattare per accedere ai servizi di consegna
+  a domicilio dei Comuni toscani
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1328,589220464,2020-03-27 16:34:02,2020-03-27 15:38:59,"#Trentino, elenco esercizi che consegnano a domicilio beni alimentari e farmaci",46.067389,11.12673,Trentino-Alto Adige,Trento,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Trentino dei bambini"", ""Descrizione"": ""Elenco di esercizi commerciali che fanno consegne a domicilio di generi alimentari e farmaceutici in Trentino"", ""Destinatari"": ""Cittadini del Trentino"", ""Link"": ""https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/?fbclid=IwAR3aOxfbyOoHbH2m8HwmK4Y8XDduIUwZtU3l6pDvA9FsLkf5r0hBn1PL1Fg"", ""Natura"": ""solidale"", ""Posizione"": ""46.067389 11.12673 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco Esercizi commerciali che fanno consegne a domiclio in #Trentino""}","<pre><yamldata>
 Da_chi_offerta: Il Trentino dei bambini
 Descrizione: Elenco di esercizi commerciali che fanno consegne a domicilio di generi
