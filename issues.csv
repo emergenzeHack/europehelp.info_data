@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1336,589278724,2020-03-27 17:25:32,2020-03-27 17:09:42,Il servizio portaNatura per ricevere a casa la spesa zerowaste - consegne a domicilio a #Milano #Torino #Genova #NoviLigure #Alessandria,44.753545,8.802259,Piemonte,Alessandria,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Con portaNatura \u00e8 possibile ordinare online e ricevere a domicilio prodotti freschi. Alla frutta e verdura appena raccolte si possono aggiungere pasta, cereali, carne e tanti altri prodotti biologici e biodinamici da una rete di fornitori di fiducia.\n\nLe consegne a domicilio vengono effettuate a:\nMilano, Torino, Genova, Novi Ligure e Alessandria"", ""Email"": ""info@portanatura.it"", ""Link"": ""https://portanatura.it/"", ""Nome_dell_esercizio_commercial"": ""portaNatura"", ""Posizione"": ""44.753545 8.802259 0 0"", ""Telefono"": ""0143745407""}","<pre><yamldata>
+Descrizione: 'Con portaNatura è possibile ordinare online e ricevere a domicilio prodotti
+  freschi. Alla frutta e verdura appena raccolte si possono aggiungere pasta, cereali,
+  carne e tanti altri prodotti biologici e biodinamici da una rete di fornitori di
+  fiducia.
+
+
+  Le consegne a domicilio vengono effettuate a:
+
+  Milano, Torino, Genova, Novi Ligure e Alessandria'
+Email: info@portanatura.it
+Link: https://portanatura.it/
+Nome_dell_esercizio_commercial: portaNatura
+Posizione: 44.753545 8.802259 0 0
+Telefono: '0143745407'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1335,589275664,2020-03-27 17:20:20,2020-03-27 17:04:43,Bioexpress consegna a domicilio prodotti agricoli biologici in #Lombardia #Veneto # AltoAdige #EmiliaRomagna #FriuliVeneziaGiulia #Piemonte #Roma,46.295936,11.237597,Trentino-Alto Adige,Bolzano,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bioexpress \u00e8 un gruppo di produttori dell\u2019Alto Adige che si dedicano alla coltivazione di frutta e verdura applicando le regole dell'agricoltura biologica. In collaborazione con altri colleghi produttori di diverse regioni d'Italia si impegnano inoltre con particolare attenzione nella commercializzazione diretta dei prodotti attraverso la consegna a domicilio.\n\nBioexpress consegna solo nelle seguenti zone:\n\n- la Valle d'Adige\n- una parte della Lombardia: MILANO, Pavia, Lodi, Cremona, Mantova, Brescia, Bergamo, Lecco, Como, Monza e Varese\n- una parte del Veneto (Verona, Vicenza, Padova, Treviso e una parte di Venezia)\n- una parte del Friuli Venezia Giulia (Pordenone, Udine, Trieste)\n- una parte del Piemonte (Novara)\n- Emilia Romagna (Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forli-Cesena)\n- Roma (solo nell'interno del grande raccordo anulare)"", ""Email"": ""info@bioexpress.it"", ""Link"": ""http://www.bioexpress.it/"", ""Nome_dell_esercizio_commercial"": ""Bioexpress"", ""Posizione"": ""46.295936 11.237597 0 0"", ""Telefono"": ""800892838""}","<pre><yamldata>
 Descrizione: 'Bioexpress è un gruppo di produttori dell’Alto Adige che si dedicano
   alla coltivazione di frutta e verdura applicando le regole dell''agricoltura biologica.
