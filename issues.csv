@@ -1,15 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1337,589282615,2020-03-27 19:03:44,2020-03-27 17:15:53,You Farmer consegna cassette di frutta e verdura a domicilio,42.634922,12.671742,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna iscriversi al sito e verificare se You Farmer \u00e8 gi\u00e0 operativa nella propria citt\u00e0 o qual \u00e8 il punto di prelievo pi\u00f9 vicino.\n\u00c8 possibile scegliere la dimensione e tipologia della cassetta di frutta e verdura in base alle necessit\u00e0 e preferenze, consegnata freschissima una volta alla settimana.\nL\u2019abbonamento \u00e8 mensile con pagamento settimanale e si rinnova in automatico salvo disdetta.\n\nLa composizione della cassetta varia di volta in volta e sono proprio i contadini a scegliere ci\u00f2 che \u00e8 pronto per essere raccolto cercando sempre di garantire un mix vario e completo, il pi\u00f9 gustoso possibile."", ""Email"": ""info@youfarmer.bio"", ""Link"": ""https://www.youfarmer.bio/futuro-farmer-benvenuto/"", ""Nome_dell_esercizio_commercial"": ""You Farmer"", ""Posizione"": ""42.634922 12.671742 0 0"", ""Telefono"": ""+393206727110""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1337,589282615,2020-03-27 20:19:42,2020-03-27 17:15:53,YouFarmer.bio consegna cassette di frutta e verdura a domicilio,42.634922,12.671742,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna iscriversi al sito e verificare se You Farmer \u00e8 gi\u00e0 operativa nella propria citt\u00e0 o qual \u00e8 il punto di prelievo pi\u00f9 vicino. \u00c8 possibile scegliere la dimensione e tipologia della cassetta di frutta e verdura in base alle necessit\u00e0 e preferenze, consegnata freschissima una volta alla settimana. L\u2019abbonamento \u00e8 mensile con pagamento settimanale e si rinnova in automatico salvo disdetta. La composizione della cassetta varia di volta in volta e sono proprio i contadini a scegliere ci\u00f2 che \u00e8 pronto per essere raccolto cercando sempre di garantire un mix vario e completo, il pi\u00f9 gustoso possibile."", ""Email"": ""info@youfarmer.bio"", ""Link"": ""https://www.youfarmer.bio/futuro-farmer-benvenuto/"", ""Nome_dell_esercizio_commercial"": ""You Farmer"", ""Posizione"": ""42.634922 12.671742 0 0"", ""Telefono"": ""+393206727110""}","<pre><yamldata>
 Descrizione: 'Bisogna iscriversi al sito e verificare se You Farmer è già operativa
   nella propria città o qual è il punto di prelievo più vicino.
-
   È possibile scegliere la dimensione e tipologia della cassetta di frutta e verdura
   in base alle necessità e preferenze, consegnata freschissima una volta alla settimana.
-
   L’abbonamento è mensile con pagamento settimanale e si rinnova in automatico salvo
   disdetta.
-
-
   La composizione della cassetta varia di volta in volta e sono proprio i contadini
   a scegliere ciò che è pronto per essere raccolto cercando sempre di garantire un
   mix vario e completo, il più gustoso possibile.'
