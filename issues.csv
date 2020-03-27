@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1302,588782184,2020-03-27 10:07:32,2020-03-26 23:10:33,Regione #Toscana ha istituito una raccolta fondi a sostegno degli ospedali regionali,43.791915,11.256051,Toscana,Firenze,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Emergenza COVID-19"", ""Descrizione"": ""Regione Toscana ha istituito una raccolta fondi a sostegno degli ospedali della Toscana, impegnati a fronteggiare l'emergenza Coronavirus. \u00c8 possibile donare anche con carta di credito. Al link tutte le info."", ""IBAN"": ""IT89 Z 05034 02801 0000 0000 5970"", ""Intestazione"": ""ESTAR"", ""Link"": ""https://www.regione.toscana.it/-/sostieni-gli-ospedali-della-toscana"", ""Nome"": ""Regione Toscana"", ""Posizione"": ""43.791915 11.256051 0 0""}","<pre><yamldata>
+Causale: Emergenza COVID-19
+Descrizione: Regione Toscana ha istituito una raccolta fondi a sostegno degli ospedali
+  della Toscana, impegnati a fronteggiare l'emergenza Coronavirus. È possibile donare
+  anche con carta di credito. Al link tutte le info.
+IBAN: IT89 Z 05034 02801 0000 0000 5970
+Intestazione: ESTAR
+Link: https://www.regione.toscana.it/-/sostieni-gli-ospedali-della-toscana
+Nome: Regione Toscana
+Posizione: 43.791915 11.256051 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1301,588780475,2020-03-27 09:24:48,2020-03-26 23:05:35,URGENTE - Protezione civile costituisce cerca 500 infermieri per Unità infermieristica COVID19,41.8933203,12.4829321,Lazio,Roma,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Protezione civile costituisce Unit\u00e0 infermieristica per COVID-19: cercasi 500 infermieri per le zone pi\u00f9 colpite"", ""Descrizione"": ""Ordinanza della Protezione civile  n. 656 del 26 marzo 2020: si costituisce una Unit\u00e0  infermieristica a supporto delle strutture sanitarie regionali pi\u00f9 colpite da COVID-19.\nIn sintesi, 500 infermieri volontari (selezionati in base alle esperienze professionali \u201critenute necessarie\u201d tra le domande che arriveranno entro le 20 del 28 marzo) faranno parte di una task force destinata dalla protezione civile alle Regioni pi\u00f9 colpite da COVID-19. A questi infermieri, siano essi dipendenti del Ssn, di strutture anche non accreditate con questo o liberi professionisti, verranno corrisposti 200 euro al giorno oltre allo stipendio o al guadagno gi\u00e0 percepito e se non assicurati in modo specifico a questo ci penser\u00e0 la Protezione civile che gli rimborser\u00e0 anche le spese di viaggio.\nPer far parte della task force non serve l\u2019autorizzazione del servizio sanitario di appartenenza, ma per i dipendenti l\u2019assenso della struttura da cui dipendono. \nPer aderire: infermieripercovid@protezionecivile.it o compilare il format breve sul sito della Protezione Civile."", ""Link"": ""https://www.fnopi.it/2020/03/26/covid-19-unita-infermieristica-500-infermieri-compenso-200-euro-giorno/"", ""Posizione"": ""41.8933203 12.4829321 0 0""}","<pre><yamldata>
 Cosa: 'Protezione civile costituisce Unità infermieristica per COVID-19: cercasi 500
   infermieri per le zone più colpite'
@@ -6201,27 +6212,6 @@ Link: https://www.terzocentro.it/news/covid-19-supporto-al-personale-sanitario/?
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Terzocentro offre supporto psicologico al personale sanitario
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/829,584340206,2020-03-19 11:43:35,2020-03-19 11:19:59,Raccolta fondi Azienda Usl #Toscana sud est #Arezzo #Grosseto #Siena,43.27396,11.35698,Toscana,Siena,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione Emergenza Corona Virus\u201d oppure \u201cCOVID-19\u201d"", ""Descrizione"": ""Arriva da pi\u00f9 parti la richiesta di mostrare il sostegno all\u2019impegno dell\u2019Azienda Sanitaria nel fronteggiare la sfida del Coronavirus. Tante le iniziative messe in campo. Si conferma cos\u00ec l\u2019apprezzamento dei cittadini per la sanit\u00e0 del territorio ma anche la voglia di fare comunit\u00e0 e di stare insieme in ogni momento.\n\nL\u2019Azienda Usl Toscana sud est, quindi, ha istituito un conto corrente dedicato per le donazioni: IBAN IT 81T01030 14217 000001128461 nella causale va inserito \u201cDonazione Emergenza Corona Virus\u201d oppure \u201cCOVID-19\u201d\n\nLa solidariet\u00e0 e il sostegno sono d\u2019altra parte cosa nota nel nostro territorio, l\u2019AUSL Toscana sud est ringrazia tutta la comunit\u00e0 per la vicinanza agli operatori tutti della sanit\u00e0."", ""IBAN"": ""IT 81T01030 14217 000001128461"", ""Link"": ""https://www.uslsudest.toscana.it/comunicati-stampa/concorso-di-solidarieta-covid-19"", ""Nome"": ""Azienda USL Toscana sud est - Arezzo Grosseto Siena"", ""Posizione"": ""43.27396 11.35698""}","<pre><yamldata>
-Causale: Donazione Emergenza Corona Virus” oppure “COVID-19”
-Descrizione: 'Arriva da più parti la richiesta di mostrare il sostegno all’impegno
-  dell’Azienda Sanitaria nel fronteggiare la sfida del Coronavirus. Tante le iniziative
-  messe in campo. Si conferma così l’apprezzamento dei cittadini per la sanità del
-  territorio ma anche la voglia di fare comunità e di stare insieme in ogni momento.
-
-
-  L’Azienda Usl Toscana sud est, quindi, ha istituito un conto corrente dedicato per
-  le donazioni: IBAN IT 81T01030 14217 000001128461 nella causale va inserito “Donazione
-  Emergenza Corona Virus” oppure “COVID-19”
-
-
-  La solidarietà e il sostegno sono d’altra parte cosa nota nel nostro territorio,
-  l’AUSL Toscana sud est ringrazia tutta la comunità per la vicinanza agli operatori
-  tutti della sanità.'
-IBAN: IT 81T01030 14217 000001128461
-Link: https://www.uslsudest.toscana.it/comunicati-stampa/concorso-di-solidarieta-covid-19
-Nome: Azienda USL Toscana sud est - Arezzo Grosseto Siena
-Posizione: 43.27396 11.35698
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/829,584340206,2020-03-19 11:43:35,2020-03-19 11:19:59,Raccolta fondi Azienda Usl #Toscana sud est #Arezzo #Grosseto #Siena,43.27396,11.35698,Toscana,Siena,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione Emergenza Corona Virus\u201d oppure \u201cCOVID-19\u201d"", ""Descrizione"": ""Arriva da pi\u00f9 parti la richiesta di mostrare il sostegno all\u2019impegno dell\u2019Azienda Sanitaria nel fronteggiare la sfida del Coronavirus. Tante le iniziative messe in campo. Si conferma cos\u00ec l\u2019apprezzamento dei cittadini per la sanit\u00e0 del territorio ma anche la voglia di fare comunit\u00e0 e di stare insieme in ogni momento.\n\nL\u2019Azienda Usl Toscana sud est, quindi, ha istituito un conto corrente dedicato per le donazioni: IBAN IT 81T01030 14217 000001128461 nella causale va inserito \u201cDonazione Emergenza Corona Virus\u201d oppure \u201cCOVID-19\u201d\n\nLa solidariet\u00e0 e il sostegno sono d\u2019altra parte cosa nota nel nostro territorio, l\u2019AUSL Toscana sud est ringrazia tutta la comunit\u00e0 per la vicinanza agli operatori tutti della sanit\u00e0."", ""IBAN"": ""IT 81T01030 14217 000001128461"", ""Link"": ""https://www.uslsudest.toscana.it/comunicati-stampa/concorso-di-solidarieta-covid-19"", ""Nome"": ""Azienda USL Toscana sud est - Arezzo Grosseto Siena"", ""Posizione"": ""43.27396 11.35698""}","<pre><yamldata>
 Causale: Donazione Emergenza Corona Virus” oppure “COVID-19”
