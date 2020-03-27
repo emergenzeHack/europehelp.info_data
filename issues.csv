@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1325,589201442,2020-03-27 15:23:29,2020-03-27 15:10:57,"Corse gratuite in taxi per medici e infermieri, raccolta fondi di Cuore Digitale e Pronto Taxi #Roma",41.858015,12.56889,Lazio,Roma,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Campagna su Gofundme.it promossa da Cuore Digitale, in collaborazione con Printo Taxi, per dare la possibilit\u00e0 a medici ed operatori sanitari di usufruire di corse taxi gratuite. La raccolta fondi sar\u00e0 utilizzata per consegnare dei voucher prepagati a tutte le strutture ospedaliere covid-19 di Roma. L'obiettivo \u00e8 raggiungere la somma di 7.500 euro che corrisponde a 500 corse (il costo solidale  concordato, per tale emergenza, tra  l'associazione \""Cuore Digitale\"" e la cooperativa \""Pronto Taxi 6645\"" per una corsa, a km illimitato, su Roma dentro GRA \u00e8 di 15 euro). Per garantire almeno una corsa solidale chiediamo una donazione di almeno 15 euro."", ""Link"": ""https://www.gofundme.com/f/dona-una-corsa-taxi-a-medici-ed-operatori-sanitari/"", ""Nome"": ""Dona una corsa taxi solidale contro il coronavirus! Raccolta fondi di Cuore Digitale e Pronto Taxi Roma"", ""Posizione"": ""41.858015 12.56889 0 0""}","<pre><yamldata>
+Descrizione: Campagna su Gofundme.it promossa da Cuore Digitale, in collaborazione
+  con Printo Taxi, per dare la possibilità a medici ed operatori sanitari di usufruire
+  di corse taxi gratuite. La raccolta fondi sarà utilizzata per consegnare dei voucher
+  prepagati a tutte le strutture ospedaliere covid-19 di Roma. L'obiettivo è raggiungere
+  la somma di 7.500 euro che corrisponde a 500 corse (il costo solidale  concordato,
+  per tale emergenza, tra  l'associazione ""Cuore Digitale"" e la cooperativa ""Pronto
+  Taxi 6645"" per una corsa, a km illimitato, su Roma dentro GRA è di 15 euro). Per
+  garantire almeno una corsa solidale chiediamo una donazione di almeno 15 euro.
+Link: https://www.gofundme.com/f/dona-una-corsa-taxi-a-medici-ed-operatori-sanitari/
+Nome: Dona una corsa taxi solidale contro il coronavirus! Raccolta fondi di Cuore
+  Digitale e Pronto Taxi Roma
+Posizione: 41.858015 12.56889 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1324,589198992,2020-03-27 15:21:42,2020-03-27 15:07:18,Azienda agricola L’Orto Magico  è a disposizione per consegne a domicilio in tutta la zona di #DonnaLucata #Ragusa,36.762713,14.640511,Sicilia,Ragusa,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'ORTO MAGICO DI DONNALUCATA si mette a disposizione per consegne a domicilio \nper tutta la zona di Donnalucata.\n\nSolamente in questo periodo  \n\nL'ORTO MAGICO risponde \ntelefonicamente e via Whatsapp al numero 3667050135\n...\nin fila e con pazienza presso il negozio stesso: Via Regina Margherita 40\n\nFornisce anche farina, pasta, acqua, formaggi e uova freschi."", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""L'ORTO MAGICO"", ""Posizione"": ""36.762713 14.640511 0 0"", ""Telefono"": ""3667050135""}","<pre><yamldata>
 Descrizione: ""L'ORTO MAGICO DI DONNALUCATA si mette a disposizione per consegne a\
   \ domicilio \nper tutta la zona di Donnalucata.\n\nSolamente in questo periodo <\
@@ -4664,13 +4678,6 @@ Descrizione: ""Al momento della generazione della ricetta elettronica da  parte\
   \  del\nnumero di ricetta elettronica; \n....""
 Fonte: Gazzetta Ufficiale nº74 del 21/3/2020
 Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-21&atto.codiceRedazionale=20A01769&elenco30giorni=false
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/964,585481688,2020-03-24 18:49:10,2020-03-21 11:32:06,"Safecast, piattaforma internazionale su coronavirus creata da Citizen Science Safecast",,,,,"[""Contatti utili"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Safecast COVID platform"", ""Descrizione"": ""Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo di Citizen Science Safecast"", ""Fonte"": ""blog"", ""Link"": ""https://safecast.org/covid19/""}","<pre><yamldata>
-Cosa: Safecast COVID platform
-Descrizione: Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo
-  di Citizen Science Safecast
-Fonte: blog
-Link: https://safecast.org/covid19/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/964,585481688,2020-03-24 18:49:10,2020-03-21 11:32:06,"Safecast, piattaforma internazionale su coronavirus creata da Citizen Science Safecast",,,,,"[""Contatti utili"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Safecast COVID platform"", ""Descrizione"": ""Piattaforma di monitoraggio di informazioni sul virus creata dal gruppo di Citizen Science Safecast"", ""Fonte"": ""blog"", ""Link"": ""https://safecast.org/covid19/""}","<pre><yamldata>
 Cosa: Safecast COVID platform
@@ -11510,6 +11517,33 @@ Destinatari: Scuole, enti no profit, PMI
 Link: https://covid19.skillando.com/
 Natura: sostegno-lavor
 Titolo: Skillando Digital Volunteering
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/416,581226476,2020-03-16 23:02:14,2020-03-14 14:15:30,Elenco di esercizi che offrono consegne gratuite a domicilio #Monza. ,45.594299,9.336421,Lombardia,Monza e della Brianza,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Concorezzo"", ""Descrizione"": ""Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033\nSigma supermercato (generi alimentari e non) 0396040197\nIl fornaio di Vigan\u00f2 Roberto Panettiere 0396049291\nSolo natura Alimentari biologici (Freschi e confezionati)\u00a0 039647878\nGastronomia Bertoldi Gastronomia/ Piatti pronti 039648122\nFruit Garden Fruttivendolo 0396040429\nBrambilla frutta e verdura 0396040180\nSapore di Sicilia fruttivendolo 3339781266\nPescheria zermini pescivendolo 0395973939\nEnoteca Colombo di colombo Lorenzo enoteca (vini e acqua) 0396040976\nLaura e le sue torte pasticceria 0396043617\nL'edicola del centro Giornali, riviste, giochi e figurine 3336436497\nL'erboristeria di Ricci dottoressa Elisabetta 039648998\nPhotopiu studio Fotografie e non solo 039648411\nCaroleo Srl Idraulico, elettricista, impresa edile 3392793757\nIl mondo del cucito Servizi di sartoria 3203163560\nIl bouquet servizi floreali 0396040478\nOttica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743\nAvantech\u00a0di Jacopo costa pronto intervento PC 0396908210\nAvantech\u00a0di Jacopo Costa pronto intervento elettrodomestici 039 5968321\nBiffi computer di Biffi Mauro Vendita e assistenza computer 0392913578\nVivere e viaggiare Agenzia Viaggi 0396908169\nSergio e ale Parrucchieri Uomo e Donna 0396040080\nL'edicola di vale Edicola giornali 0396040466\nL'angolo del pane panettiere 0396040410\nFarmacia comunale Farmacia 0396040081"", ""Natura"": ""solidale"", ""Posizione"": ""45.594299 9.336421 0 0"", ""Provincia"": ""Monza e della Brianza"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Beni di prima necessit\u00e0, servizi e altri prodotti direttamente a casa""}","<pre><yamldata>
+Comune: Concorezzo
+Descrizione: ""Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033\n\
+  Sigma supermercato (generi alimentari e non) 0396040197\nIl fornaio di Vigan\xF2\
+  \ Roberto Panettiere 0396049291\nSolo natura Alimentari biologici (Freschi e confezionati)\_\
+  \ 039647878\nGastronomia Bertoldi Gastronomia/ Piatti pronti 039648122\nFruit Garden\
+  \ Fruttivendolo 0396040429\nBrambilla frutta e verdura 0396040180\nSapore di Sicilia\
+  \ fruttivendolo 3339781266\nPescheria zermini pescivendolo 0395973939\nEnoteca Colombo\
+  \ di colombo Lorenzo enoteca (vini e acqua) 0396040976\nLaura e le sue torte pasticceria\
+  \ 0396043617\nL'edicola del centro Giornali, riviste, giochi e figurine 3336436497\n\
+  L'erboristeria di Ricci dottoressa Elisabetta 039648998\nPhotopiu studio Fotografie\
+  \ e non solo 039648411\nCaroleo Srl Idraulico, elettricista, impresa edile 3392793757\n\
+  Il mondo del cucito Servizi di sartoria 3203163560\nIl bouquet servizi floreali\
+  \ 0396040478\nOttica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743\n\
+  Avantech\_di Jacopo costa pronto intervento PC 0396908210\nAvantech\_di Jacopo Costa\
+  \ pronto intervento elettrodomestici 039 5968321\nBiffi computer di Biffi Mauro\
+  \ Vendita e assistenza computer 0392913578\nVivere e viaggiare Agenzia Viaggi 0396908169\n\
+  Sergio e ale Parrucchieri Uomo e Donna 0396040080\nL'edicola di vale Edicola giornali\
+  \ 0396040466\nL'angolo del pane panettiere 0396040410\nFarmacia comunale Farmacia\
+  \ 0396040081""
+Natura: solidale
+Posizione: 45.594299 9.336421 0 0
+Provincia: Monza e della Brianza
+Regione: Lombardia
+Tipo_di_soggetto: privato
+Titolo: ""Beni di prima necessit\xE0, servizi e altri prodotti direttamente a casa""
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/416,581226476,2020-03-16 23:02:14,2020-03-14 14:15:30,Elenco di esercizi che offrono consegne gratuite a domicilio #Monza. ,45.594299,9.336421,Lombardia,Monza e della Brianza,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Concorezzo"", ""Descrizione"": ""Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033\nSigma supermercato (generi alimentari e non) 0396040197\nIl fornaio di Vigan\u00f2 Roberto Panettiere 0396049291\nSolo natura Alimentari biologici (Freschi e confezionati)\u00a0 039647878\nGastronomia Bertoldi Gastronomia/ Piatti pronti 039648122\nFruit Garden Fruttivendolo 0396040429\nBrambilla frutta e verdura 0396040180\nSapore di Sicilia fruttivendolo 3339781266\nPescheria zermini pescivendolo 0395973939\nEnoteca Colombo di colombo Lorenzo enoteca (vini e acqua) 0396040976\nLaura e le sue torte pasticceria 0396043617\nL'edicola del centro Giornali, riviste, giochi e figurine 3336436497\nL'erboristeria di Ricci dottoressa Elisabetta 039648998\nPhotopiu studio Fotografie e non solo 039648411\nCaroleo Srl Idraulico, elettricista, impresa edile 3392793757\nIl mondo del cucito Servizi di sartoria 3203163560\nIl bouquet servizi floreali 0396040478\nOttica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743\nAvantech\u00a0di Jacopo costa pronto intervento PC 0396908210\nAvantech\u00a0di Jacopo Costa pronto intervento elettrodomestici 039 5968321\nBiffi computer di Biffi Mauro Vendita e assistenza computer 0392913578\nVivere e viaggiare Agenzia Viaggi 0396908169\nSergio e ale Parrucchieri Uomo e Donna 0396040080\nL'edicola di vale Edicola giornali 0396040466\nL'angolo del pane panettiere 0396040410\nFarmacia comunale Farmacia 0396040081"", ""Natura"": ""solidale"", ""Posizione"": ""45.594299 9.336421 0 0"", ""Provincia"": ""Monza e della Brianza"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Beni di prima necessit\u00e0, servizi e altri prodotti direttamente a casa""}","<pre><yamldata>
 Comune: Concorezzo
