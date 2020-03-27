@@ -37,16 +37,15 @@ languages:
       PRIVACY: "legal"
   - language: pt
     navbar-links:
-      RECOMMEND: "pt/recommend/"
-      DISCOVER:
-        - ITALIAN INITIATIVES : "issues/"
-        - INITIATIVES FOR ITALIAN REGION : "issues/regione/"
-      FOLLOW:
-        - CONTACTS: "pt/channels/"
-      WHAT IS THIS?:
-        - ABOUT: "pt/about/"
+      RELATORIOS: "pt/recommend/"
+      DESCUBRA:
+        - Iniciativas italianas : "issues/"
+      SIGA-NOS:
+        - CONTATOS: "pt/contatos/"
+      O QUE É ISSO?:
+        - SOBRE: "pt/sobre/"
         - FAQ: "pt/faq/"
         - OPEN DATA: "pt/opendata/"
-      CONTRIBUTE:
+      CONTRIBUIR:
         - WIKI: "pt/wiki/"
       PRIVACY: "legal"
