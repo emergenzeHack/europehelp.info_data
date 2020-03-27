@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1317,589079027,2020-03-27 11:53:54,2020-03-27 11:49:28,"Ascolto famiglie, sostegno allo studio e animazione a#Roma",41.900357,12.503463,Lazio,Roma,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Casa delle arti e del gioco"", ""Descrizione"": ""Servizi di sostegno dell' equipe della ludoteca CEMEA del Mezzogiorno Onlus"", ""Destinatari"": ""Cittadini di Roma"", ""Link"": ""https://www.facebook.com/921094247939211/photos/a.925243690857600/3150513471663933/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.900357 12.503463 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ascolto famiglie, sostegno allo studio e animazione a#Roma""}","<pre><yamldata>
+Da_chi_offerta: Casa delle arti e del gioco
+Descrizione: Servizi di sostegno dell' equipe della ludoteca CEMEA del Mezzogiorno
+  Onlus
+Destinatari: Cittadini di Roma
+Link: https://www.facebook.com/921094247939211/photos/a.925243690857600/3150513471663933/?type=3&theater&ifg=1
+Natura: solidale
+Posizione: 41.900357 12.503463 0 0
+Tipo_di_soggetto: privato
+Titolo: Ascolto famiglie, sostegno allo studio e animazione a#Roma
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1316,589075315,2020-03-27 11:43:17,2020-03-27 11:42:13,Mappa esercizi commerciali con consegna a domicilio a #Milano,45.463989,9.188501,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form"", ""iniziativa""]",,,"{""Da_chi_offerta"": ""Comune di Milano"", ""Descrizione"": ""Mappa con gli esercizi commericali che fanno consegna a domicilio a Milano"", ""Destinatari"": ""Cittadini di Milano"", ""Link"": ""https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=8331c92136d2417eb20e9916d0d36664"", ""Posizione"": ""45.463989 9.188501 0 0"", ""Titolo"": ""Mappa esercizi commerciali con consegna a domicilio a #Milano""}","<pre><yamldata>
 Da_chi_offerta: Comune di Milano
 Descrizione: Mappa con gli esercizi commericali che fanno consegna a domicilio a Milano
