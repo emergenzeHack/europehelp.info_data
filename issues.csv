@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1322,589193711,2020-03-27 15:16:29,2020-03-27 14:59:39,Non è vero che ci sarà il click day dell’INPS,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Non \u00e8 vero che ci sar\u00e0 il click day dell\u2019INPS"", ""Descrizione"": ""L\u2019INPS \u00e8 pronto ad attuare tutte le misure previste dal decreto Cura Italia. L\u2019Istituto si trova a gestire 10 miliardi di euro, in poche settimane, per circa 11 milioni di utenti tra Cassa Integrazione e gli altri strumenti di sostegno al reddito. Uno sforzo pi\u00f9 grosso di quello che lo scorso anno lo ha visto impegnato sul Reddito di Cittadinanza e Quota 100, sia in termini di risorse economiche che in termini di utenti. Si precisa che non c\u2019\u00e8 nessun click day, inteso come finestra dentro la quale si possono fare domande di prestazioni. Le domande saranno aperte a tutti e ci sar\u00e0 un giorno di inizio, con un click. Su questa formula, che sar\u00e0 spiegata meglio a tutti gli utenti, c\u2019\u00e8 stato purtroppo un grande fraintendimento."", ""Link"": ""https://www.inps.it/nuovoportaleinps/default.aspx?itemdir=53514""}","<pre><yamldata>
+Cosa: Non è vero che ci sarà il click day dell’INPS
+Descrizione: 'L’INPS è pronto ad attuare tutte le misure previste dal decreto Cura
+  Italia. L’Istituto si trova a gestire 10 miliardi di euro, in poche settimane, per
+  circa 11 milioni di utenti tra Cassa Integrazione e gli altri strumenti di sostegno
+  al reddito. Uno sforzo più grosso di quello che lo scorso anno lo ha visto impegnato
+  sul Reddito di Cittadinanza e Quota 100, sia in termini di risorse economiche che
+  in termini di utenti.
+  Si precisa che non c’è nessun click day, inteso come finestra dentro la quale si
+  possono fare domande di prestazioni. Le domande saranno aperte a tutti e ci sarà
+  un giorno di inizio, con un click. Su questa formula, che sarà spiegata meglio a
+  tutti gli utenti, c’è stato purtroppo un grande fraintendimento.'
+Link: https://www.inps.it/nuovoportaleinps/default.aspx?itemdir=53514
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1321,589193639,2020-03-27 15:14:33,2020-03-27 14:59:33,Medici senza frontiere interviene nelle case di riposo delle #Marche a supporto di ospiti e personale,43.615572,13.518076,Marche,Ancona,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Medici senza frontiere interviene nella case di riposo delle Marche a supporto di ospiti e personale"", ""Descrizione"": ""Mdf amplia le attivit\u00e0 in risposta al Covid-19 in Italia supportando diverse strutture per anziani nelle Marche, nell\u2019area della regione che comprende le citt\u00e0 di Fabriano, Jesi, Senigallia e Ancona. Il team di MSF, composto da medici, infermieri ed esperti di igiene, tutti con esperienze pregresse in missioni umanitarie nella gestione di epidemie complesse, supporter\u00e0 i gestori, il personale delle strutture, i Comuni, rispetto alle procedure di contenimento del virus.\nAll\u2019interno delle strutture, saranno individuati circuiti interni e aree dedicate che aiuteranno a proteggere ospiti e personale, evitando l\u2019insorgere di nuovi casi che, diventando critici, richiederebbero il ricovero in ospedali gi\u00e0 a rischio di sovraffollamento."", ""Link"": ""https://www.medicisenzafrontiere.it/news-e-storie/news/coronavirus-anziani-marche/"", ""Posizione"": ""43.615572 13.518076 0 0""}","<pre><yamldata>
 Cosa: Medici senza frontiere interviene nella case di riposo delle Marche a supporto
   di ospiti e personale
