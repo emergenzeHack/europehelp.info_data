@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1333,589268600,2020-03-27 17:03:57,2020-03-27 16:55:01,Consegna a domicilio di Frutta e verdura a km 0 per gli abitanti di #Torino e provincia,44.996201,7.747056,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Azienda per l'acquisto di frutta e verdura a km 0 per gli abitanti di Torino e provincia.\nLo shop apre il luned\u00ec e il venerd\u00ec a partire dalle ore 9 e si chiude automaticamente al raggiungimento del numero massimo di ordini che possono essere gestiti nei giorni successivi.\nLe consegne degli ordini effettuati il venerd\u00ec avverranno il luned\u00ec e il marted\u00ec. \nIl gioved\u00ec e il venerd\u00ec vengono recapitate le spese acquistate il luned\u00ec. \nIl mercoled\u00ec si consegna solo nella cintura di Torino."", ""Email"": ""info@ortobio.com"", ""Link"": ""https://ortobio.com/"", ""Nome_dell_esercizio_commercial"": ""Ortobio"", ""Posizione"": ""44.996201 7.747056 0 0"", ""Telefono"": ""3393288559""}","<pre><yamldata>
+Descrizione: ""Azienda per l'acquisto di frutta e verdura a km 0 per gli abitanti di\
+  \ Torino e provincia.\nLo shop apre il lunedì e il venerdì a partire dalle ore 9\
+  \ e si chiude automaticamente al raggiungimento del numero massimo di ordini che\
+  \ possono essere gestiti nei giorni successivi.\nLe consegne degli ordini effettuati\
+  \ il venerdì avverranno il lunedì e il martedì. \nIl giovedì e il venerdì vengono\
+  \ recapitate le spese acquistate il lunedì. \nIl mercoledì si consegna solo nella\
+  \ cintura di Torino.""
+Email: info@ortobio.com
+Link: https://ortobio.com/
+Nome_dell_esercizio_commercial: Ortobio
+Posizione: 44.996201 7.747056 0 0
+Telefono: '3393288559'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1331,589260937,2020-03-27 17:00:16,2020-03-27 16:42:26,Orto e porto - spesa online direttamente dal produttore al consumatore a #Milano e in tutta #Italia,45.4668,9.1905,Lombardia,Milano,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Piattaforma di incontro domanda ed offerta per acquistare prodotti di filiera corta. Essa rende possibile selezionare i prodotti da un elenco oppure scegliere di acquistare da un singolo produttore.\n\u00c8 possibile ricevere i prodotti a casa, ritirarli dal produttore pi\u00f9 vicino o in uno dei punti di ritiro \u201cOrto e Porto\u201d."", ""Email"": ""info@ortoeporto.it"", ""Link"": ""https://www.ortoeporto.it/"", ""Nome_dell_esercizio_commercial"": ""Orto e Porto: piattaforma per la spesa a km 0"", ""Posizione"": ""45.4668 9.1905 0 0"", ""Telefono"": ""+39 0294757453""}","<pre><yamldata>
 Descrizione: 'Piattaforma di incontro domanda ed offerta per acquistare prodotti di
   filiera corta. Essa rende possibile selezionare i prodotti da un elenco oppure scegliere
