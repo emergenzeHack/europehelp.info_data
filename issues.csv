@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1342,589306361,2020-03-28 08:12:52,2020-03-27 17:56:22,Bovì consegna carne a temperatura controllata in tutta Italia,45.521458,9.592888,Lombardia,Bergamo,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bov\u00ec \u00e8 un e-commerce di carne.\nSpedisce a temperatura controllata in tutta Italia. La consegna \u00e8 gratuita sopra i \u20ac150,00."", ""Email"": ""info@carnegenuina.it"", ""Link"": ""https://www.carnegenuina.it/"", ""Nome_dell_esercizio_commercial"": ""Bov\u00ec"", ""Posizione"": ""45.521458 9.592888 0 0"", ""Telefono"": ""3289660498""}","<pre><yamldata>
+Descrizione: 'Bovì è un e-commerce di carne.
+
+  Spedisce a temperatura controllata in tutta Italia. La consegna è gratuita sopra
+  i €150,00.'
+Email: info@carnegenuina.it
+Link: https://www.carnegenuina.it/
+Nome_dell_esercizio_commercial: Bovì
+Posizione: 45.521458 9.592888 0 0
+Telefono: '3289660498'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1341,589298952,2020-03-28 08:09:29,2020-03-27 17:44:50,Pascol consegna box di carne in tutta Italia,42.634922,12.671592,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Pascol permette di prenotare box di carne. La pattaforma aggrega allevatori di bovini sul territorio italiano che rispettano elevati standard, portano i capi in alpeggio o comunque al pascolo durante la stagione calda, garantiscono altissimi livelli di benessere animale e utilizzano un tipo di alimentazione prevalentemente ad erba e fieno."", ""Email"": ""info@pascol.it"", ""Link"": ""https://www.pascol.it/"", ""Nome_dell_esercizio_commercial"": ""Pascol"", ""Posizione"": ""42.634922 12.671592 0 0""}","<pre><yamldata>
 Descrizione: Pascol permette di prenotare box di carne. La pattaforma aggrega allevatori
   di bovini sul territorio italiano che rispettano elevati standard, portano i capi
