@@ -92,12 +92,26 @@ Link: 'https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/emerge
 Regione: FVG
 Posizione: 46.25727 12.94712
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1349,589369769,2020-03-28 08:52:52,2020-03-27 19:31:02,Lista attività che effettuano il Servizio di Consegna a Domicilio #Diamante #Cosenza,39.67631,15.820817,Calabria,Cosenza,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Diamante"", ""Descrizione"": ""Speciale Coronavirus: Si pubblica la lista delle attivit\u00e0 che svolgono servizio a domicilio nel territorio comunale. Le attivit\u00e0 sono raggruppate per categoria (sanitari, alimentari, prodotti per l\u2019igiene, vari) e indicate in ordine alfabetico.\nLe informazioni sono in continuo aggiornamento."", ""Destinatari"": ""Cittadini"", ""Link"": ""https://www.comune-diamante.it/speciale-coronavirus-lista-delle-attivita-che-effettuano-il-servizio-di-consegna-a-domicilio/"", ""Natura"": ""solidale"", ""Posizione"": ""39.67631 15.820817 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Lista delle attivit\u00e0 che effettuano il Servizio di Consegna a Domicilio""}","<pre><yamldata>
+Da_chi_offerta: Comune di Diamante
+Descrizione: 'Speciale Coronavirus: Si pubblica la lista delle attività che svolgono
+  servizio a domicilio nel territorio comunale. Le attività sono raggruppate per categoria
+  (sanitari, alimentari, prodotti per l’igiene, vari) e indicate in ordine alfabetico.
+
+  Le informazioni sono in continuo aggiornamento.'
+Destinatari: Cittadini
+Link: https://www.comune-diamante.it/speciale-coronavirus-lista-delle-attivita-che-effettuano-il-servizio-di-consegna-a-domicilio/
+Natura: solidale
+Posizione: 39.67631 15.820817 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Lista delle attività che effettuano il Servizio di Consegna a Domicilio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1348,589337332,2020-03-28 08:37:43,2020-03-27 18:53:30,Consegna spesa a domicilio Despar #Trieste,45.68256,13.78092,Friuli Venezia Giulia,Trieste,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Nome_dell_esercizio_commercial"": ""Despar Trieste"", ""Posizione"": ""45.68256 13.78092"", ""Telefono"": ""04053592""}","<pre><yamldata>
 Nome_dell_esercizio_commercial: Despar Trieste
 Telefono: 04053592
 Posizione: 45.68256 13.78092
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1347,589336902,2020-03-28 08:34:10,2020-03-27 18:52:40,Consegna a domicilio Crai #Trieste,45.68256,13.78092,Friuli Venezia Giulia,Trieste,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Nome_dell_esercizio_commercial"": ""Crai Trieste"", ""Posizione"": ""45.68256 13.78092"", ""Telefono"": ""040571571""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1347,589336902,2020-03-28 08:51:41,2020-03-27 18:52:40,Consegna spesa a domicilio Crai #Trieste,45.68256,13.78092,Friuli Venezia Giulia,Trieste,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Nome_dell_esercizio_commercial"": ""Crai Trieste"", ""Posizione"": ""45.68256 13.78092"", ""Telefono"": ""040571571""}","<pre><yamldata>
 Nome_dell_esercizio_commercial: Crai Trieste
 Telefono: '040571571'
 Posizione: 45.68256 13.78092
