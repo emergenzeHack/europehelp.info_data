@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1339,589289040,2020-03-28 08:02:02,2020-03-27 17:27:03,Consegna spesa a domicilio con Cortilia,42.635016,12.671657,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna registrarsi gratuitamente alla piattaforma, specificando la citt\u00e0 in cui si desidera ricevere la spesa. Dopo selezionare i prodotti, componendo il carrello. Si pu\u00f2 scegliere tra frutta e verdura fresche di stagione, formaggi, uova, carni, salumi, pesce fresco, pasta, pane e riso, vino e molto altro ancora.\n\u00c8 possibile anche abbonarsi alle cassette, ricevendo, alla frequenza desiderata, una composizione di prodotti assortiti in base a varie tipologie predefinite."", ""Link"": ""www.cortilia.it/"", ""Nome_dell_esercizio_commercial"": ""Cortilia"", ""Posizione"": ""42.635016 12.671657 0 0"", ""Telefono"": ""0287197503""}","<pre><yamldata>
+Descrizione: 'Bisogna registrarsi gratuitamente alla piattaforma, specificando la
+  città in cui si desidera ricevere la spesa. Dopo selezionare i prodotti, componendo
+  il carrello. Si può scegliere tra frutta e verdura fresche di stagione, formaggi,
+  uova, carni, salumi, pesce fresco, pasta, pane e riso, vino e molto altro ancora.
+
+  È possibile anche abbonarsi alle cassette, ricevendo, alla frequenza desiderata,
+  una composizione di prodotti assortiti in base a varie tipologie predefinite.'
+Link: www.cortilia.it/
+Nome_dell_esercizio_commercial: Cortilia
+Posizione: 42.635016 12.671657 0 0
+Telefono: 0287197503
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1337,589282615,2020-03-27 20:19:42,2020-03-27 17:15:53,YouFarmer.bio consegna cassette di frutta e verdura a domicilio,42.634922,12.671742,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna iscriversi al sito e verificare se You Farmer \u00e8 gi\u00e0 operativa nella propria citt\u00e0 o qual \u00e8 il punto di prelievo pi\u00f9 vicino. \u00c8 possibile scegliere la dimensione e tipologia della cassetta di frutta e verdura in base alle necessit\u00e0 e preferenze, consegnata freschissima una volta alla settimana. L\u2019abbonamento \u00e8 mensile con pagamento settimanale e si rinnova in automatico salvo disdetta. La composizione della cassetta varia di volta in volta e sono proprio i contadini a scegliere ci\u00f2 che \u00e8 pronto per essere raccolto cercando sempre di garantire un mix vario e completo, il pi\u00f9 gustoso possibile."", ""Email"": ""info@youfarmer.bio"", ""Link"": ""https://www.youfarmer.bio/futuro-farmer-benvenuto/"", ""Nome_dell_esercizio_commercial"": ""You Farmer"", ""Posizione"": ""42.634922 12.671742 0 0"", ""Telefono"": ""+393206727110""}","<pre><yamldata>
 Descrizione: 'Bisogna iscriversi al sito e verificare se You Farmer è già operativa
   nella propria città o qual è il punto di prelievo più vicino.
@@ -97,6 +110,19 @@ Link: https://ortobio.com/
 Nome_dell_esercizio_commercial: Ortobio
 Posizione: 44.996201 7.747056 0 0
 Telefono: '3393288559'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1332,589260994,2020-03-27 21:33:02,2020-03-27 16:42:32,"Coronavirus, persone con disabilità possono uscire per brevi passeggiate",,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, persone con disabilit\u00e0 possono uscire per brevi passeggiate"", ""Descrizione"": ""Se strettamente necessario e non \u00e8 possibile fare diversamente, la persona che per la sua condizione di salute (fisica o psichica) o disabilit\u00e0 (cognitiva, intellettiva, relazionale) necessita di svolgere saltuariamente attivit\u00e0 all\u2019aria aperta (passeggiate, attivit\u00e0 fisica) pu\u00f2 uscire restando nei dintorni di casa, da sola o accompagnata, rispettando le regole di distanziamento sociale per prevenire il contagio del coronavirus, munita di autocertificazione, e della documentazione attestante la condizione fisica o di disabilit\u00e0. Dopo giorni di confusione, finalmente arriva un chiarimento da parte dell\u2019Ufficio per le politiche in favore delle persone con disabilit\u00e0 della Presidenza del Consiglio dei Ministri."", ""Link"": ""http://www.informareunh.it/coronavirus-fonti-governative-si-esprimono-sulle-uscite-delle-persone-con-disabilita-intellettiva/""}","<pre><yamldata>
+Cosa: Coronavirus, persone con disabilità possono uscire per brevi passeggiate
+Descrizione: Se strettamente necessario e non è possibile fare diversamente, la persona
+  che per la sua condizione di salute (fisica o psichica) o disabilità (cognitiva,
+  intellettiva, relazionale) necessita di svolgere saltuariamente attività all’aria
+  aperta (passeggiate, attività fisica) può uscire restando nei dintorni di casa,
+  da sola o accompagnata, rispettando le regole di distanziamento sociale per prevenire
+  il contagio del coronavirus, munita di autocertificazione, e della documentazione
+  attestante la condizione fisica o di disabilità. Dopo giorni di confusione, finalmente
+  arriva un chiarimento da parte dell’Ufficio per le politiche in favore delle persone
+  con disabilità della Presidenza del Consiglio dei Ministri.
+Link: http://www.informareunh.it/coronavirus-fonti-governative-si-esprimono-sulle-uscite-delle-persone-con-disabilita-intellettiva/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1331,589260937,2020-03-27 17:00:16,2020-03-27 16:42:26,Orto e porto - spesa online direttamente dal produttore al consumatore a #Milano e in tutta #Italia,45.4668,9.1905,Lombardia,Milano,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Piattaforma di incontro domanda ed offerta per acquistare prodotti di filiera corta. Essa rende possibile selezionare i prodotti da un elenco oppure scegliere di acquistare da un singolo produttore.\n\u00c8 possibile ricevere i prodotti a casa, ritirarli dal produttore pi\u00f9 vicino o in uno dei punti di ritiro \u201cOrto e Porto\u201d."", ""Email"": ""info@ortoeporto.it"", ""Link"": ""https://www.ortoeporto.it/"", ""Nome_dell_esercizio_commercial"": ""Orto e Porto: piattaforma per la spesa a km 0"", ""Posizione"": ""45.4668 9.1905 0 0"", ""Telefono"": ""+39 0294757453""}","<pre><yamldata>
 Descrizione: 'Piattaforma di incontro domanda ed offerta per acquistare prodotti di
