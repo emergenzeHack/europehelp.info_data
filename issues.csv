@@ -1,4 +1,41 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1448,589617620,2020-03-28 17:17:48,2020-03-28 17:07:19,Caritas #Siracusa attiva servizio di aiuto per persone in difficoltà,37.088015,15.283012,Sicilia,Siracusa,"[""Bollettino"", ""Consegne e commissioni"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Caritas Siracusa"", ""Descrizione"": ""Emergenza Coronavirus e servizi di sostegno. Caritas Siracusa attivo servizio per persone in comprovata condizione di difficolt\u00e0. \u00c8 possibile trasmettere richieste d\u2019aiuto attraverso il nuovo modulo online"", ""Destinatari"": ""Persone in difficolt\u00e0"", ""Link"": ""https://docs.google.com/forms/d/e/1FAIpQLSefBpyi5quTZHFG-W82Lc2AAdTg9pSAXM8cNhosWdyST69aBQ/viewform"", ""Natura"": ""solidale"", ""Posizione"": ""37.088015 15.283012 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Caritas Siracusa attiva servizio di aiuto per persone in difficolt\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Caritas Siracusa
+Descrizione: Emergenza Coronavirus e servizi di sostegno. Caritas Siracusa attivo
+  servizio per persone in comprovata condizione di difficoltà. È possibile trasmettere
+  richieste d’aiuto attraverso il nuovo modulo online
+Destinatari: Persone in difficoltà
+Link: https://docs.google.com/forms/d/e/1FAIpQLSefBpyi5quTZHFG-W82Lc2AAdTg9pSAXM8cNhosWdyST69aBQ/viewform
+Natura: solidale
+Posizione: 37.088015 15.283012 0 0
+Tipo_di_soggetto: privato
+Titolo: Caritas Siracusa attiva servizio di aiuto per persone in difficoltà
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1447,589616639,2020-03-28 17:18:25,2020-03-28 17:01:44,"Nasce il Fondo San Giuseppe, istituito da Diocesi e Comune di #Milano per sostenere chi ha perso il lavoro",45.487696,9.180965,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Sostegno lavoro e imprese"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di Milano, Diocesi"", ""Descrizione"": ""Il Fondo parte con una dotazione iniziale di 2 milioni di euro e, grazie al contributo offerto dal Comune di Milano di 2 milioni di euro, metter\u00e0 a disposizione inizialmente 4 milioni di euro. Il Fondo realizzer\u00e0 i suoi obiettivi grazie ai tanti cittadini ed enti che non faranno mancare il loro sostegno aumentandone la disponibilit\u00e0.\nLe risorse saranno ridistribuite alle fasce pi\u00f9 deboli allo scopo di disinnescare la crisi sociale che rischia di esplodere dentro l\u2019emergenza sanitaria. Il Fondo San Giuseppe \u00e8 dedicato ai disoccupati a causa della crisi CoViD-19, ai dipendenti a tempo determinato cui non \u00e8 stato rinnovato il contratto, ai lavoratori precari, ai lavoratori autonomi, alle collaboratrici familiari e altre categorie di lavoratori fragili. Possono beneficiarne coloro che hanno perso il posto di lavoro dal primo marzo 2020, residenti a Milano e nel territorio della Diocesi di Milano. \nIl Fondo San Giuseppe viene affidato a Caritas Ambrosiana che lo gestir\u00e0 grazie agli operatori e volontari dei distretti del Fondo Famiglia lavoro.\nPer accedere agli aiuti le domande dovranno essere presentate ai centri di ascolto parrocchiali e ai distretti del Fondo Famiglia lavoro in cui \u00e8 stato suddiviso il territorio della diocesi, a partire dal 25 marzo 2020. Info https://www.fondofamiglialavoro.it"", ""Destinatari"": ""Lavoratori che hanno perso il lavoro"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-nasce-il-fondo-san-giuseppe-per-aiutare-chi-perde-il-lavoro"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""45.487696 9.180965 0 0"", ""Titolo"": ""Nasce il Fondo San Giuseppe, istituito da Diocesi e Comune di Milano per sostenere chi ha perso il lavoro""}","<pre><yamldata>
+Da_chi_offerta: Comune di Milano, Diocesi
+Descrizione: ""Il Fondo parte con una dotazione iniziale di 2 milioni di euro e, grazie\
+  \ al contributo offerto dal Comune di Milano di 2 milioni di euro, metterà a disposizione\
+  \ inizialmente 4 milioni di euro. Il Fondo realizzerà i suoi obiettivi grazie ai\
+  \ tanti cittadini ed enti che non faranno mancare il loro sostegno aumentandone\
+  \ la disponibilità.\nLe risorse saranno ridistribuite alle fasce più deboli allo\
+  \ scopo di disinnescare la crisi sociale che rischia di esplodere dentro l’emergenza\
+  \ sanitaria. Il Fondo San Giuseppe è dedicato ai disoccupati a causa della crisi\
+  \ CoViD-19, ai dipendenti a tempo determinato cui non è stato rinnovato il contratto,\
+  \ ai lavoratori precari, ai lavoratori autonomi, alle collaboratrici familiari e\
+  \ altre categorie di lavoratori fragili. Possono beneficiarne coloro che hanno perso\
+  \ il posto di lavoro dal primo marzo 2020, residenti a Milano e nel territorio della\
+  \ Diocesi di Milano. \nIl Fondo San Giuseppe viene affidato a Caritas Ambrosiana\
+  \ che lo gestirà grazie agli operatori e volontari dei distretti del Fondo Famiglia\
+  \ lavoro.\nPer accedere agli aiuti le domande dovranno essere presentate ai centri\
+  \ di ascolto parrocchiali e ai distretti del Fondo Famiglia lavoro in cui è stato\
+  \ suddiviso il territorio della diocesi, a partire dal 25 marzo 2020. Info https://www.fondofamiglialavoro.it""
+Destinatari: Lavoratori che hanno perso il lavoro
+Link: https://www.comune.milano.it/-/coronavirus.-nasce-il-fondo-san-giuseppe-per-aiutare-chi-perde-il-lavoro
+Natura: sostegno-lavor
+Posizione: 45.487696 9.180965 0 0
+Titolo: Nasce il Fondo San Giuseppe, istituito da Diocesi e Comune di Milano per sostenere
+  chi ha perso il lavoro
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1445,589611171,2020-03-28 16:34:19,2020-03-28 16:31:51,#StayON: Live Club e Festival mantengono la programmazione di musica e film in streaming,,,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione di categoria live club e festival italiani"", ""Descrizione"": ""#StayON \u00e8 l'iniziativa nata insieme a Live Club e Festival, ideata per dare una continuit\u00e0 di programmazione agli spazi dove torneremo ad ascoltare musica e non solo!\nOgni Live sar\u00e0 collegato ad una raccolta fondi in favore di Ospedali, Enti e Protezione Civile."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.keeponlive.com/blog/stayon"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""#StayON: Live Club e Festival mantengono la programmazione di musica e film in streaming""}","<pre><yamldata>
 Da_chi_offerta: Associazione di categoria live club e festival italiani
 Descrizione: '#StayON è l''iniziativa nata insieme a Live Club e Festival, ideata
@@ -13875,6 +13912,15 @@ Link: http://www.eirenepsicologia.it/?fbclid=IwAR0p9hSO9fbsD8tpQImy6roaAs8dHdysp
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Servizio gratuito di supporto psicologico via e-mail
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/310,580134061,2020-03-24 21:45:08,2020-03-12 18:21:55,Vademecum per persone anziane contro truffe e fake news,,,,,"[""Bollettino"", ""Fake News"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Vademecum per"", ""Descrizione"": ""Senior Italia FederAnziani, la federazione delle associazioni della terza et\u00e0, con la collaborazione di un Advisory Board scientifico ha dato vita ad un vademecum per difendersi da fake news e truffe. \nConsultabile a questo link:\nhttps://www.ilgiornaledellaprotezionecivile.it/binary_files/articoli/Vademecum_Coronavirus_Senior_Italia_FederAnziani(16)-wdtr.pdf"", ""Link"": ""https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-un-vademecum-per-gli-anziani-contro-truffe-e-bufale""}","<pre><yamldata>
+Cosa: Vademecum per
+Descrizione: ""Senior Italia FederAnziani, la federazione delle associazioni della\
+  \ terza et\xE0, con la collaborazione di un Advisory Board scientifico ha dato vita\
+  \ ad un vademecum per difendersi da fake news e truffe. \nConsultabile a questo\
+  \ link:\nhttps://www.ilgiornaledellaprotezionecivile.it/binary_files/articoli/Vademecum_Coronavirus_Senior_Italia_FederAnziani(16)-wdtr.pdf""
+Link: https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-un-vademecum-per-gli-anziani-contro-truffe-e-bufale
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/310,580134061,2020-03-24 21:45:08,2020-03-12 18:21:55,Vademecum per persone anziane contro truffe e fake news,,,,,"[""Bollettino"", ""Fake News"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Vademecum per"", ""Descrizione"": ""Senior Italia FederAnziani, la federazione delle associazioni della terza et\u00e0, con la collaborazione di un Advisory Board scientifico ha dato vita ad un vademecum per difendersi da fake news e truffe. \nConsultabile a questo link:\nhttps://www.ilgiornaledellaprotezionecivile.it/binary_files/articoli/Vademecum_Coronavirus_Senior_Italia_FederAnziani(16)-wdtr.pdf"", ""Link"": ""https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-un-vademecum-per-gli-anziani-contro-truffe-e-bufale""}","<pre><yamldata>
