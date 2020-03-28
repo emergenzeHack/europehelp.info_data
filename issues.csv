@@ -1,5 +1,872 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1317,589079027,2020-03-27 11:53:54,2020-03-27 11:49:28,"Ascolto famiglie, sostegno allo studio e animazione a#Roma",41.900357,12.503463,Lazio,Roma,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Casa delle arti e del gioco"", ""Descrizione"": ""Servizi di sostegno dell' equipe della ludoteca CEMEA del Mezzogiorno Onlus"", ""Destinatari"": ""Cittadini di Roma"", ""Link"": ""https://www.facebook.com/921094247939211/photos/a.925243690857600/3150513471663933/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.900357 12.503463 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ascolto famiglie, sostegno allo studio e animazione a#Roma""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1409,589545504,2020-03-28 10:02:51,2020-03-28 10:00:03,"Consulenze psicologiche, sociali e supporto ostetrico Comune di #Bari",41.119875,16.881571,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Assessorato al Welfare, il Melograno e Save the Children Italia"", ""Descrizione"": ""Consulenze psicologiche, sociali  e supporto ostetrico telefonico e in videoconferenza per donne in gravidanza e neo genitori.\nProgetto realizzato dall\u2019Assessorato al Welfare, il Melograno e Save the Children Italia nell\u2019ambito del progetto Fiocchi in ospedale.\nPer info 342.7324254 / 329.1856039 \nDal luned\u00ec al gioved\u00ec dalle 10 alle 12."", ""Destinatari"": ""Donne in gravidanza e neo genitori"", ""Natura"": ""solidale"", ""Posizione"": ""41.119875 16.881571 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consulenze psicologiche, sociali  e supporto ostetrico telefonico e in videoconferenza per donne in gravidanza e neo genitori #Bari""}","<pre><yamldata>
+Da_chi_offerta: Assessorato al Welfare, il Melograno e Save the Children Italia
+Descrizione: ""Consulenze psicologiche, sociali  e supporto ostetrico telefonico e\
+  \ in videoconferenza per donne in gravidanza e neo genitori.\nProgetto realizzato\
+  \ dall’Assessorato al Welfare, il Melograno e Save the Children Italia nell’ambito\
+  \ del progetto Fiocchi in ospedale.\nPer info 342.7324254 / 329.1856039 \nDal lunedì\
+  \ al giovedì dalle 10 alle 12.""
+Destinatari: Donne in gravidanza e neo genitori
+Natura: solidale
+Posizione: 41.119875 16.881571 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Consulenze psicologiche, sociali  e supporto ostetrico telefonico e in videoconferenza
+  per donne in gravidanza e neo genitori #Bari'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1408,589544527,2020-03-28 09:55:45,2020-03-28 09:53:11,Accesso a ebook e risorse digitali Biblioteche di #Roma ,41.901603,12.49455,Lazio,Roma,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Biblioteche di Roma"", ""Descrizione"": ""Da luned\u00ec 23 marzo, attivando l'iscrizione online gratuita, si potranno prendere in prestito fino 4 titoli in contemporanea, a scelta tra ben 7.079 ebook. Disponibili anche oltre 7.100 periodici di 90 Paesi in 40 lingue diverse, 77.233 registrazioni musicali, 127 audiolibri, 93 banche dati e collezioni digitali, tra cui quotidiani e riviste di larga diffusione.\nUna risorsa unica per continuare a restare connessi con l\u2019amore per la lettura e la conoscenza!\nRegistrati sul sito: \nbit.ly/BibliotechediRomaOnlineReg"", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.bibliotechediroma.it/opac/news/laculturaincasa-uniti-dallamore-per-la-lettura-lontani-ma-connessi/24855"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.901603 12.49455 0 0"", ""Titolo"": ""Le Biblioteche Di Roma spalancano le loro porte virtuali e rendono libero per tutti i cittadini l\u2019accesso a ebook e risorse digitali.""}","<pre><yamldata>
+Da_chi_offerta: Biblioteche di Roma
+Descrizione: ""Da lunedì 23 marzo, attivando l'iscrizione online gratuita, si potranno\
+  \ prendere in prestito fino 4 titoli in contemporanea, a scelta tra ben 7.079 ebook.\
+  \ Disponibili anche oltre 7.100 periodici di 90 Paesi in 40 lingue diverse, 77.233\
+  \ registrazioni musicali, 127 audiolibri, 93 banche dati e collezioni digitali,\
+  \ tra cui quotidiani e riviste di larga diffusione.\nUna risorsa unica per continuare\
+  \ a restare connessi con l’amore per la lettura e la conoscenza!\nRegistrati sul\
+  \ sito: \nbit.ly/BibliotechediRomaOnlineReg""
+Destinatari: Tutte e tutti
+Link: https://www.bibliotechediroma.it/opac/news/laculturaincasa-uniti-dallamore-per-la-lettura-lontani-ma-connessi/24855
+Natura: culturale-ricr
+Posizione: 41.901603 12.49455 0 0
+Titolo: Le Biblioteche Di Roma spalancano le loro porte virtuali e rendono libero
+  per tutti i cittadini l’accesso a ebook e risorse digitali.
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1407,589543693,2020-03-28 09:48:34,2020-03-28 09:46:47,"TEMPO VERDE: iniziativa per persone con spettro autistico, adhd e altre disabilità Comune di #Bari",41.120513,16.868895,Puglia,Bari,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Assessorato al Welfare Comune di Bari"", ""Descrizione"": ""L\u2019Assessorato al Welfare lancia TEMPO VERDE  l\u2019iniziativa per persone con spettro autistico, adhd e disabilit\u00e0 intellettive gravi offrendo loro la possibilit\u00e0 di passeggiare, correre liberamente, giocare attraverso i percorsi sensoriali e l\u2019uliveto del parco urbano Clipper in Via Mazzitelli 43.\nUna zona verde di un ettaro e mezzo con 42 alberi di ulivo secolari, orto urbano curato dai pensionati della citt\u00e0 di Bari, un giardino sensoriale, un polmone verde nel cuore della Citt\u00e0. \nIl progetto \u00e8 realizzato in collaborazione con NPIA Asl Ba, le cooperative sociali Occupazione e Solidariet\u00e0 con l\u2019equipe del progetto comunale SEMI e Aliante, un grazie speciale anche al parco che ci ospiter\u00e0.\n\nPer accedere \u00e8 necessario prenotare telefonicamente - almeno un giorno prima  - contattando i numeri 366 1074935 (dalle 9 alle 13) e 348 6441484 (dalle 15 alle 19)."", ""Destinatari"": ""Persone con spettro autistico, adhd e disabilit\u00e0 intellettive gravi"", ""Natura"": ""solidale"", ""Posizione"": ""41.120513 16.868895 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""L\u2019Assessorato al Welfare lancia TEMPO VERDE  l\u2019iniziativa per persone con spettro autistico, adhd e disabilit\u00e0 intellettive gravi offrendo loro la possibilit\u00e0 di passeggiare, correre liberamente, giocare attraverso i percorsi sensoriali e l\u2019uliveto del parco urbano Clipper""}","<pre><yamldata>
+Da_chi_offerta: Assessorato al Welfare Comune di Bari
+Descrizione: ""L’Assessorato al Welfare lancia TEMPO VERDE  l’iniziativa per persone\
+  \ con spettro autistico, adhd e disabilità intellettive gravi offrendo loro la possibilità\
+  \ di passeggiare, correre liberamente, giocare attraverso i percorsi sensoriali\
+  \ e l’uliveto del parco urbano Clipper in Via Mazzitelli 43.\nUna zona verde di\
+  \ un ettaro e mezzo con 42 alberi di ulivo secolari, orto urbano curato dai pensionati\
+  \ della città di Bari, un giardino sensoriale, un polmone verde nel cuore della\
+  \ Città. \nIl progetto è realizzato in collaborazione con NPIA Asl Ba, le cooperative\
+  \ sociali Occupazione e Solidarietà con l’equipe del progetto comunale SEMI e Aliante,\
+  \ un grazie speciale anche al parco che ci ospiterà.\n\nPer accedere è necessario\
+  \ prenotare telefonicamente - almeno un giorno prima  - contattando i numeri 366\
+  \ 1074935 (dalle 9 alle 13) e 348 6441484 (dalle 15 alle 19).""
+Destinatari: Persone con spettro autistico, adhd e disabilità intellettive gravi
+Natura: solidale
+Posizione: 41.120513 16.868895 0 0
+Tipo_di_soggetto: pubblico
+Titolo: L’Assessorato al Welfare lancia TEMPO VERDE  l’iniziativa per persone con
+  spettro autistico, adhd e disabilità intellettive gravi offrendo loro la possibilità
+  di passeggiare, correre liberamente, giocare attraverso i percorsi sensoriali e
+  l’uliveto del parco urbano Clipper
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1405,589535965,2020-03-28 08:50:11,2020-03-28 08:47:46,Raccolta fondi per la terapia intensiva dell'Ospedale di #Pordenone,,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""RAFFORZIAMO LA TERAPIA INTENSIVA\n\nSiamo Marco e Valentino Zuzzi del Molino di Pordenone. Abbiamo deciso di organizzare questa raccolta fondi a favore dell' Ospedale di Pordenone ASFO - AZIENDA SANITARIA FRIULI OCCIDENTALE per rafforzarne la terapia intensiva. Nel nostro piccolo e nelle nostre possibilit\u00e0 possiamo fare la differenza. Donate e condividete. In questi momenti bisogna rimanere uniti. Anche un piccolo contributo pu\u00f2 fare la differenza.\n\nGrazie a tutti.\n\nNB:Da ogni donazione il sistema propone di trattenere una percentuale preimpostata pari al 15% per offrire un contributo NON OBBLIGATORIO per la gestione della piattaforma . Questo contributo pu\u00f2 essere ridotto fino a 0\u20ac (se lo si ritiene giusto) permettendo cosi di donare il 100% all'Ospedale .\nBasta inserire l'importo che si vuole donare nell'apposito spazio e successivamente cliccare sul riquadro in basso dove vi \u00e8 la percentuale 15% e cliccando su ALTRO si potr\u00e0 immettere qualsiasi importo si voglia far recapitare alla piattaforma per la gestione del sito.\nCredo sia corretto mettere in evidenza questa informazione in alto alla descrizione, visto che per esperienza personale \u00e8 facile sbagliare e che presi dai nostri mille pensieri si dona senza stare l\u00ec a leggere e pensare, perch\u00e9 in questo duro momento, credo sia importante, DONARE NEL MODO GIUSTO , per far arrivare il massimo contributo alle associazioni che stiamo cercando di aiutare"", ""Indirizzo"": ""45.969011050000006 12.653883625587156 0 0"", ""Link"": ""https://www.gofundme.com/f/covid19-ospedale-di-pordenone-terapia-intensiva/@@reset-optout"", ""Nome"": ""Ospedale Pordenone Terapia Intensiva""}","<pre><yamldata>
+Descrizione: 'RAFFORZIAMO LA TERAPIA INTENSIVA
+
+
+  Siamo Marco e Valentino Zuzzi del Molino di Pordenone. Abbiamo deciso di organizzare
+  questa raccolta fondi a favore dell'' Ospedale di Pordenone ASFO - AZIENDA SANITARIA
+  FRIULI OCCIDENTALE per rafforzarne la terapia intensiva. Nel nostro piccolo e nelle
+  nostre possibilità possiamo fare la differenza. Donate e condividete. In questi
+  momenti bisogna rimanere uniti. Anche un piccolo contributo può fare la differenza.
+
+
+  Grazie a tutti.
+
+
+  NB:Da ogni donazione il sistema propone di trattenere una percentuale preimpostata
+  pari al 15% per offrire un contributo NON OBBLIGATORIO per la gestione della piattaforma
+  . Questo contributo può essere ridotto fino a 0€ (se lo si ritiene giusto) permettendo
+  cosi di donare il 100% all''Ospedale .
+
+  Basta inserire l''importo che si vuole donare nell''apposito spazio e successivamente
+  cliccare sul riquadro in basso dove vi è la percentuale 15% e cliccando su ALTRO
+  si potrà immettere qualsiasi importo si voglia far recapitare alla piattaforma per
+  la gestione del sito.
+
+  Credo sia corretto mettere in evidenza questa informazione in alto alla descrizione,
+  visto che per esperienza personale è facile sbagliare e che presi dai nostri mille
+  pensieri si dona senza stare lì a leggere e pensare, perché in questo duro momento,
+  credo sia importante, DONARE NEL MODO GIUSTO , per far arrivare il massimo contributo
+  alle associazioni che stiamo cercando di aiutare'
+Indirizzo: 45.969011050000006 12.653883625587156 0 0
+Link: https://www.gofundme.com/f/covid19-ospedale-di-pordenone-terapia-intensiva/@@reset-optout
+Nome: Ospedale Pordenone Terapia Intensiva
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1403,589533369,2020-03-28 08:29:48,2020-03-28 08:27:46,La Bottega Delizie e Capricci consegna spesa a domicilio #Solomeo #Corciano #Perugia,43.082494,12.276755,Umbria,Perugia,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Attivo il servizio gratuito di spesa a domicilio:\n- whatsapp 3460906352\n- fisso 0755293795"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 contanti"", ""Nome_dell_esercizio_commercial"": ""La bottega Delizie e Capricci"", ""Posizione"": ""43.082494 12.276755 0 0"", ""Telefono"": ""3460906352""}","<pre><yamldata>
+Descrizione: 'Attivo il servizio gratuito di spesa a domicilio:
+
+  - whatsapp 3460906352
+
+  - fisso 0755293795'
+Metodi_di_pagamento_accettati: contrassegno option_2 contanti
+Nome_dell_esercizio_commercial: La bottega Delizie e Capricci
+Posizione: 43.082494 12.276755 0 0
+Telefono: '3460906352'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1402,589533202,2020-03-28 08:32:16,2020-03-28 08:26:21,Durante l'emergenza attiviamo la solidarietà - Raccolta fondi Jè so Pazzo per pacchi spese e DPI,40.8543652,14.2417587,Campania,Napoli,"[""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il Coronavirus pu\u00f2 contagiare chiunque, limitare il contagio \u00e8 fondamentale. C\u2019\u00e8 per\u00f2 chi pu\u00f2 attrezzarsi meglio a resistere in questi tempi difficili e chi invece sta vivendo in questi giorni una situazione drammatica.\n\nSono tantissimi infatti i lavoratori che sono stati licenziati in queste settimane, sono tantissime le altre fasce sociali che sono attualmente rimaste senza sostegno adeguato per la sopravvivenza quotidiana, come i migranti nei centri d\u2019accoglienza e nei campi, i senzatetto, le famiglie disoccupate che si rivolgevano ai servizi di supporto alla spesa alimentare. Per questo abbiamo deciso, ancora una volta, di attivarci, insieme, dal basso.\n\nDi fronte all'insufficienza delle misure istituzionali, abbiamo bisogno di sostegno e solidariet\u00e0 popolare.\n\nAttiviamo questa raccolta fondi per permettere ai volontari di poter organizzare l\u2019 acquisto dei pacchi spesa, l\u2019acquisto e la distribuzione di dispositivi di protezione minima consigliati, il supporto alle fasce sociali pi\u00f9 a rischio - come gli anziani - per limitare le uscite e i contatti.\nOgni contributo in questo momento \u00e8 fondamentale, l\u2019epidemia dovuta al virus si contrasta rispettando la quarantena e grazie al sacrificio incredibile del personale sanitario che va supportato in ogni modo, ma va scongiurata allo stesso modo l\u2019epidemia sociale che si rafforza in questo stato d\u2019emergenza: la miseria.\nLavoreremo in tal senso nella massima sicurezza per i volontari e gli assistiti, rispettando la tutela sanitaria e le disposizioni sulle distanze e i contatti per evitare il contagio.\nRestiamo uniti anche nella distanza, durante l\u2019emergenza attiviamo la solidariet\u00e0!\n#resistiamoinsieme #diamociunamano"", ""Link"": ""https://www.produzionidalbasso.com/project/durante-l-emergenza-attiviamo-la-solidarieta/"", ""Nome"": ""Ex OPG \""Je so' Pazzo\"""", ""Posizione"": ""40.8543652 14.2417587 0 0""}","<pre><yamldata>
+Descrizione: 'Il Coronavirus può contagiare chiunque, limitare il contagio è fondamentale.
+  C’è però chi può attrezzarsi meglio a resistere in questi tempi difficili e chi
+  invece sta vivendo in questi giorni una situazione drammatica.
+
+
+  Sono tantissimi infatti i lavoratori che sono stati licenziati in queste settimane,
+  sono tantissime le altre fasce sociali che sono attualmente rimaste senza sostegno
+  adeguato per la sopravvivenza quotidiana, come i migranti nei centri d’accoglienza
+  e nei campi, i senzatetto, le famiglie disoccupate che si rivolgevano ai servizi
+  di supporto alla spesa alimentare. Per questo abbiamo deciso, ancora una volta,
+  di attivarci, insieme, dal basso.
+
+
+  Di fronte all''insufficienza delle misure istituzionali, abbiamo bisogno di sostegno
+  e solidarietà popolare.
+
+
+  Attiviamo questa raccolta fondi per permettere ai volontari di poter organizzare
+  l’ acquisto dei pacchi spesa, l’acquisto e la distribuzione di dispositivi di protezione
+  minima consigliati, il supporto alle fasce sociali più a rischio - come gli anziani
+  - per limitare le uscite e i contatti.
+
+  Ogni contributo in questo momento è fondamentale, l’epidemia dovuta al virus si
+  contrasta rispettando la quarantena e grazie al sacrificio incredibile del personale
+  sanitario che va supportato in ogni modo, ma va scongiurata allo stesso modo l’epidemia
+  sociale che si rafforza in questo stato d’emergenza: la miseria.
+
+  Lavoreremo in tal senso nella massima sicurezza per i volontari e gli assistiti,
+  rispettando la tutela sanitaria e le disposizioni sulle distanze e i contatti per
+  evitare il contagio.
+
+  Restiamo uniti anche nella distanza, durante l’emergenza attiviamo la solidarietà!
+
+  #resistiamoinsieme #diamociunamano'
+Link: https://www.produzionidalbasso.com/project/durante-l-emergenza-attiviamo-la-solidarieta/
+Nome: Ex OPG ""Je so' Pazzo""
+Posizione: 40.8543652 14.2417587 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1398,589485631,2020-03-28 08:47:44,2020-03-28 01:40:03,Raccolta fondi Protezione Civile Regione Autonoma #FriuliVeneziaGiulia ,46.25727,12.94712,Friuli Venezia Giulia,Pordenone,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazioni CORONAVIRUS FVG"", ""Chi"": ""Regione Autonoma Friuli Venezia Giulia "", ""Fonte"": ""Protezione Civile Regionale"", ""IBAN"": ""IT47W0200802230000003120964 "", ""Indirizzo"": ""Via Cecilia Gradenigo Sabbadini, 31, 33100 Udine UD"", ""Link"": ""https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/emergenza-coronavirus-covid-19-al-la-raccolta-fondi-ioaiuto-il-fvg "", ""Posizione"": ""46.25727 12.94712"", ""Regione"": ""FVG""}","<pre><yamldata>
+Causale: Donazioni CORONAVIRUS FVG
+Chi: 'Regione Autonoma Friuli Venezia Giulia '
+Fonte: Protezione Civile Regionale
+IBAN: 'IT47W0200802230000003120964 '
+Indirizzo: Via Cecilia Gradenigo Sabbadini, 31, 33100 Udine UD
+Link: 'https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/emergenza-coronavirus-covid-19-al-la-raccolta-fondi-ioaiuto-il-fvg '
+Regione: FVG
+Posizione: 46.25727 12.94712
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1397,589485618,2020-03-28 09:02:48,2020-03-28 01:39:59,Raccolta fondi Azienda Sanitaria Regionale #Molise,41.5845991,14.5852337,Molise,Campobasso,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Chi"": ""Azienda Sanitaria Regionale Molise"", ""Indirizzo"": ""Viale Duca d'Aosta, 34, 86010 Campobasso CB"", ""Link"": ""https://www.asrem.gov.it/2020/03/12/raccolta-fondi-per-lemergena-coronavirus/"", ""Posizione"": ""41.5845991 14.5852337 0 0"", ""Regione"": ""Molise""}","<pre><yamldata>
+Chi: Azienda Sanitaria Regionale Molise
+Indirizzo: Viale Duca d'Aosta, 34, 86010 Campobasso CB
+Link: https://www.asrem.gov.it/2020/03/12/raccolta-fondi-per-lemergena-coronavirus/
+Posizione: 41.5845991 14.5852337 0 0
+Regione: Molise
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1396,589485614,2020-03-28 09:07:13,2020-03-28 01:39:57,Raccolta fondi per l'Ospedale Paolo Borsellino di #Marsala,37.7949299,12.498559672591977,Sicilia,Trapani,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Chi"": ""Ospedale Paolo Borsellino di Marsala"", ""Citta"": ""Marsala"", ""Fonte"": ""GoFundme"", ""Indirizzo"": ""Contrada Cardilla, 1, 91025 Marsala TP"", ""Link"": ""https://www.gofundme.com/f/1x8tv4h55c"", ""Posizione"": ""37.7949299 12.498559672591977 0 0"", ""Regione"": ""Sicilia""}","<pre><yamldata>
+Chi: Ospedale Paolo Borsellino di Marsala
+Citta: Marsala
+Fonte: GoFundme
+Indirizzo: Contrada Cardilla, 1, 91025 Marsala TP
+Posizione: 37.7949299 12.498559672591977 0 0
+Link: https://www.gofundme.com/f/1x8tv4h55c
+Regione: Sicilia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1392,589485582,2020-03-28 09:22:53,2020-03-28 01:39:44,Raccolta fondi Comune di #Capannori a favore degli ospedali della provincia di #Lucca,43.848749,10.5757536,Toscana,Lucca,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Aiutiamo gli ospedali"", ""Chi"": ""Comune di Capannori"", ""Citta"": ""Lucca"", ""Fonte"": ""GoFundme e sito del Comune"", ""IBAN"": ""IT20X0103024700000000820358 "", ""Indirizzo"": ""Piazza Aldo Moro, 1, 55012 Capannori LU"", ""Intestazione"": ""Comune di Capannori "", ""Link"": ""https://www.comune.capannori.lu.it/news/dettaglio/article/coronavirus-al-via-una-raccolta-di-fondi-per-gli-ospedali-della-provincia-di-lucca/"", ""Posizione"": ""43.848749 10.5757536 0 0"", ""Regione"": ""Toscana""}","<pre><yamldata>
+Causale: Aiutiamo gli ospedali
+Chi: Comune di Capannori
+Citta: Lucca
+Fonte: GoFundme e sito del Comune
+IBAN: 'IT20X0103024700000000820358 '
+Indirizzo: Piazza Aldo Moro, 1, 55012 Capannori LU
+Intestazione: 'Comune di Capannori '
+Link: https://www.comune.capannori.lu.it/news/dettaglio/article/coronavirus-al-via-una-raccolta-di-fondi-per-gli-ospedali-della-provincia-di-lucca/
+Posizione: 43.848749 10.5757536 0 0
+Regione: Toscana
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1389,589485567,2020-03-28 09:51:15,2020-03-28 01:39:37,Raccolta fondi ASL #Novara,45.4406374,8.6210148,Piemonte,Novara,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC SWIFT"": ""BAPPIT21N67"", ""Causale"": "" \""Covid-19 seguito codice fiscale del benefattore e da cognome, nome\"""", ""Chi"": ""ASL Novara"", ""Citta"": ""Novara"", ""Fonte"": ""Sito dell'ASL"", ""IBAN"": ""IT38U0503410109000000000222"", ""Indirizzo"": ""Viale Roma, 7, 28100 Novara NO"", ""Intestazione"": ""ASL Novara"", ""Link"": ""http://www.asl13.novara.it/intranet/L-URP/Coronavirus/donazioni.htm"", ""Posizione"": ""45.4406374 8.6210148 0 0"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+BIC SWIFT: BAPPIT21N67
+Causale: ' ""Covid-19 seguito codice fiscale del benefattore e da cognome, nome""'
+Chi: ASL Novara
+Citta: Novara
+Fonte: Sito dell'ASL
+IBAN: IT38U0503410109000000000222
+Indirizzo: Viale Roma, 7, 28100 Novara NO
+Intestazione: ASL Novara
+Link: http://www.asl13.novara.it/intranet/L-URP/Coronavirus/donazioni.htm
+Posizione: 45.4406374 8.6210148 0 0
+Regione: Piemonte
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1386,589485547,2020-03-28 10:00:34,2020-03-28 01:39:29,Raccolta fondi a favore dell'ASL di #Vercelli,45.3230969,8.4080388,Piemonte,Vercelli,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC SWIFT"": ""CRBIIT2B "", ""Causale"": "" \""Donazione Covid-19\"""", ""Chi"": ""ASL Vercelli"", ""Citta"": ""Vercelli"", ""IBAN"": ""IT09H0609022308000050505105"", ""Indirizzo"": ""Corso Marcello Prestinari, 193, 13100 Vercelli VC"", ""Link"": ""http://www.aslvc.piemonte.it/1159-donazioni-a-favore-dell-asl-per-emergenza-coronavirus"", ""Posizione"": ""45.3230969 8.4080388 0 0"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+BIC SWIFT: 'CRBIIT2B '
+Causale: ' ""Donazione Covid-19""'
+Chi: ASL Vercelli
+Citta: Vercelli
+IBAN: IT09H0609022308000050505105
+Indirizzo: Corso Marcello Prestinari, 193, 13100 Vercelli VC
+Posizione: 45.3230969 8.4080388 0 0
+Link: http://www.aslvc.piemonte.it/1159-donazioni-a-favore-dell-asl-per-emergenza-coronavirus
+Regione: Piemonte
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1385,589485543,2020-03-28 10:05:07,2020-03-28 01:39:27,Raccolta fondi promossa dalla Fondazione Valsesia a favore degli Ospedali di #Borgosesia e #Vercelli,45.3173453,8.4131621,Piemonte,Vercelli,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""\""emergenza Coronavirus\"""", ""Chi"": ""Ospedale di Borgosesia e Vercelli"", ""Citta"": ""Vercelli"", ""Fonte"": ""corriere.it e ASL di Vercelli"", ""IBAN"": ""IT29R0609044900000001001092"", ""Indirizzo"": ""Corso Mario Abbiate, 21, 13100 Vercelli VC"", ""Intestazione"": ""Fondazione Valsesia Onlus"", ""Link"": ""https://fondazionevalsesia.blogspot.com/2020/03/facciamoloinsieme-raccolta-fondi-per.html"", ""Posizione"": ""45.3173453 8.4131621 0 0"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+Causale: '""emergenza Coronavirus""'
+Chi: Ospedale di Borgosesia e Vercelli
+Citta: Vercelli
+Fonte: corriere.it e ASL di Vercelli
+IBAN: IT29R0609044900000001001092
+Indirizzo: Corso Mario Abbiate, 21, 13100 Vercelli VC
+Intestazione: Fondazione Valsesia Onlus
+Link: https://fondazionevalsesia.blogspot.com/2020/03/facciamoloinsieme-raccolta-fondi-per.html
+Posizione: 45.3173453 8.4131621 0 0
+Regione: Piemonte
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1382,589485528,2020-03-28 10:14:25,2020-03-28 01:39:18,Raccolta fondi per sostenere l'Ospedale Maggiore di #Parma,44.8063481,10.305017,Emilia-Romagna,Parma,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Anticovid 19"", ""Chi"": ""Ospedale di Parma"", ""Citta"": ""Parma"", ""Fonte"": ""Sito dell'Ospedale"", ""IBAN"": ""IT39R0306912765100000046031"", ""Indirizzo"": ""Viale Antonio Gramsci, 14, 43126 Parma PR"", ""Link"": ""https://www.ao.pr.it/emergenza-covid-19-come-sostenere-il-maggiore/"", ""Posizione"": ""44.8063481 10.305017 0 0"", ""Regione"": ""Emilia Romagna""}","<pre><yamldata>
+Causale: Anticovid 19
+Chi: Ospedale di Parma
+Citta: Parma
+Fonte: Sito dell'Ospedale
+IBAN: IT39R0306912765100000046031
+Indirizzo: Viale Antonio Gramsci, 14, 43126 Parma PR
+Link: https://www.ao.pr.it/emergenza-covid-19-come-sostenere-il-maggiore/
+Posizione: 44.8063481 10.305017 0 0
+Regione: Emilia Romagna
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1366,589484885,2020-03-28 10:27:46,2020-03-28 01:34:35,Raccolta fondi Fondazione Spedali Civili #Brescia,45.5557508,10.2333866,Lombardia,Brescia,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": "" \""contributo per emergenza coronavirus\""  "", ""Chi"": ""Fondazione Spedali Civili Brescia "", ""Fonte"": ""Sito dell'Ospedale - Banca Unicredit "", ""IBAN"": ""IT87R0200811235000105477509 "", ""Indirizzo"": ""Piazzale Spedali Civili, 1, 25123 Brescia BS"", ""Link"": ""http://www.asst-spedalicivili.it/servizi/notizie/notizie_fase02.aspx?ID=7008"", ""Posizione"": ""45.5557508 10.2333866 0 0""}","<pre><yamldata>
+Causale: ' ""contributo per emergenza coronavirus""  '
+Chi: 'Fondazione Spedali Civili Brescia '
+Fonte: 'Sito dell''Ospedale - Banca Unicredit '
+IBAN: 'IT87R0200811235000105477509 '
+Indirizzo: Piazzale Spedali Civili, 1, 25123 Brescia BS
+Link: http://www.asst-spedalicivili.it/servizi/notizie/notizie_fase02.aspx?ID=7008
+Posizione: 45.5557508 10.2333866 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1365,589484879,2020-03-28 10:20:25,2020-03-28 01:34:33,Raccolta fondi UBI Fondazione Spedali Civili #Brescia,45.55746175,10.231261014351258,Lombardia,Brescia,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": "" \""contributo per emergenza coronavirus\""  "", ""Chi"": ""Fondazione Spedali Civili #Brescia #lombardia"", ""Fonte"": ""Sito dell'Ospedale - Banca UBI "", ""IBAN"": ""IT96Y0311111224000000010000  "", ""Indirizzo"": ""Piazzale Spedali Civili, 1, 25123 Brescia BS"", ""Link"": ""http://www.asst-spedalicivili.it/servizi/notizie/notizie_fase02.aspx?ID=7008"", ""Posizione"": ""45.55746175 10.231261014351258""}","<pre><yamldata>
+Causale: ' ""contributo per emergenza coronavirus""  '
+Chi: 'Fondazione Spedali Civili #Brescia #lombardia'
+Fonte: 'Sito dell''Ospedale - Banca UBI '
+IBAN: 'IT96Y0311111224000000010000  '
+Indirizzo: Piazzale Spedali Civili, 1, 25123 Brescia BS
+Link: http://www.asst-spedalicivili.it/servizi/notizie/notizie_fase02.aspx?ID=7008
+Posizione: 45.55746175 10.231261014351258
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1364,589484869,2020-03-28 10:22:32,2020-03-28 01:34:30,"Raccolta fondi Fondazione Comunità Bresciana, Ubi Banca, Giornale di Brescia per Spedali Civili #Brescia",45.55746175,10.231261014351258,Lombardia,Brescia,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""AIUTIAMOBRESCIA  "", ""Chi"": ""Fondazione Comunit\u00e0 Bresciana, Ubi Banca, Giornale di Brescia"", ""Citta"": ""Brescia"", ""Fonte"": ""Sito dell'Ospedale"", ""IBAN"": "" IT76Z0311111238000000001390 "", ""Indirizzo"": "" Piazzale Spedali Civili 1 Brescia"", ""Intestazione"": ""Fondazione Comunita Bresciana Onlus (NB senza accento)"", ""Link"": ""http://www.asst-spedalicivili.it/servizi/notizie/notizie_fase02.aspx?ID=7008"", ""Posizione"": ""45.55746175 10.231261014351258"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Causale: 'AIUTIAMOBRESCIA  '
+Chi: 'Fondazione Comunità Bresciana, Ubi Banca, Giornale di Brescia'
+Citta: Brescia
+Fonte: Sito dell'Ospedale
+IBAN: ' IT76Z0311111238000000001390 '
+Indirizzo: ' Piazzale Spedali Civili 1 Brescia'
+Intestazione: Fondazione Comunita Bresciana Onlus (NB senza accento)
+Link: http://www.asst-spedalicivili.it/servizi/notizie/notizie_fase02.aspx?ID=7008
+Posizione: 45.55746175 10.231261014351258
+Regione: Lombardia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1362,589484854,2020-03-28 09:13:55,2020-03-28 01:34:25,Raccolta fondi Ospedale Niguarda  #Milano #Lombardia,45.5088452,9.1895473,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Interventi e investimenti per emergenza"", ""Chi"": ""Ospedale Niguarda  #Milano #Lombardia"", ""Citta"": ""Milano"", ""Fonte"": ""Sito ospedale"", ""IBAN"": ""IT84F0311101659000000038085 "", ""Indirizzo"": ""Piazza dell'Ospedale Maggiore, 3, 20162 Milano"", ""Link"": ""https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale"", ""Posizione"": ""45.5088452 9.1895473"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Causale: Interventi e investimenti per emergenza
+Chi: 'Ospedale Niguarda  #Milano #Lombardia'
+Citta: Milano
+Fonte: Sito ospedale
+IBAN: 'IT84F0311101659000000038085 '
+Indirizzo: Piazza dell'Ospedale Maggiore, 3, 20162 Milano
+Link: https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale
+Posizione: 45.5088452 9.1895473
+Regione: Lombardia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1352,589390555,2020-03-28 09:03:06,2020-03-27 20:15:59,"Progetto Diritti, Coalizione Sans Papiers e Clinica Legame Immigrazione richiedono di istituire il permesso di soggiorno per particolare situazione di emergenza",,,,,"[""Notizie Utili"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""PROGETTO DIRITTI, COALIZIONE SANS PAPIERS E CLINICA LEGALE IMMIGRAZIONE DELL\u2019UNIVERRICHIESTA A GOVERNO E PARLAMENTO DI ISTITUIRE IL PERMESSO DI SOGGIORNO PER PARTICOLARE SITUAZIONE DI EMERGENZA"", ""Descrizione"": ""PROGETTO DIRITTI, COALIZIONE SANS PAPIERS E CLINICA LEGALE IMMIGRAZIONE DELL\u2019UNIVERSITA\u2019 ROMA TRE CHIEDONO A GOVERNO E PARLAMENTO DI ISTITUIRE IL PERMESSO DI SOGGIORNO PER PARTICOLARE SITUAZIONE DI EMERGENZA\n\nL\u2019attuale emergenza sanitaria ha una rilevanza anche riguardo alla posizione di soggiorno nel nostro paese di molti migranti rifugiati e richiedenti protezione internazionale e la crisi economica generata dall\u2019attuale situazione li rende ancor pi\u00f9 vulnerabili.\n\nLa legislazione sull\u2019immigrazione stabilisce, nella maggior parte dei casi, un rapporto di interdipendenza tra lo svolgimento dell\u2019attivit\u00e0 lavorativa e l\u2019autorizzazione al soggiorno nel territorio nazionale, per cui migliaia di cittadini stranieri si ritroveranno in una condizione di irregolarit\u00e0, nel caso in cui perdano il lavoro oppure non abbiano introiti sufficienti dall\u2019attivit\u00e0 autonoma.\n\nInoltre, l\u2019estensione globale dell\u2019emergenza sanitaria non consentir\u00e0 nessuna pianificazione ed esecuzione degli eventuali provvedimenti di espulsione che saranno emessi nei confronti di soggetti non pi\u00f9 regolarmente presenti sul nostro territorio nazionale.\n\nLa situazione straordinaria che stiamo vivendo impone l\u2019adozione di provvedimenti straordinari per la tutela delle fasce pi\u00f9 deboli e al fine di evitare tensioni sul piano dell\u2019ordine pubblico ed ulteriori difficolt\u00e0 nella delicatissima fase di emergenza socio-sanitaria ed economica che ci troviamo a vivere.\n\nNon pu\u00f2 essere differito, nell\u2019ambito delle misure che Governo e Parlamento devono adottare, un provvedimento che preveda il rilascio di un permesso di soggiorno per particolare situazione di emergenza, della validit\u00e0 di almeno due anni, rinnovabile e convertibile in permesso per motivi di lavoro, destinato a coloro i quali, in conseguenza della attuale situazione socio-economica, non possono rinnovare oppure convertire il proprio titolo di soggiorno.\n\nSi pensi, ad esempio, ai titolari di permesso di soggiorno per motivi umanitari prossimo alla scadenza o in fase di conversione ai quali il D.L. 113 del 2018 impone per continuare a vivere regolarmente nel nostro paese la dimostrazione del possesso di un determinato reddito nonch\u00e9 ai titolari di permesso di soggiorno per motivi familiari che vedono il loro destino e la loro permanenza in Italia legati all\u2019attivit\u00e0 lavorativa svolta dal parente, cos\u00ec come i minori che frequentano il nostro circuito scolastico ed educativo.\n\nTra le persone a rischio di irregolarit\u00e0 che fruirebbero del provvedimento vi sono anche coloro che svolgono attivit\u00e0 lavorative senza alcun contratto di lavoro.\n\nTale peculiare permesso di soggiorno va altres\u00ec riconosciuto anche ai richiedenti protezione internazionale, categoria questa la cui vulnerabilit\u00e0 (che nasce dalle condizioni dei paesi di origine e di transito) \u00e8 aggravata dalle difficolt\u00e0 burocratiche che ne caratterizzano il rapporto con le nostre istituzioni e ci\u00f2 consentirebbe uno snellimento delle procedure ministeriali volte al riconoscimento della protezione.\n\nPeraltro in questo modo si garantirebbe il diritto all\u2019accoglienza, ora pi\u00f9 che mai reso necessario dalla gravit\u00e0 della situazione socio-sanitaria del nostro paese, che non pu\u00f2 permettersi di lasciare migliaia di persone prive di presidi alloggiativi e sanitari con le evidenti conseguenze di pericolo per tutta la popolazione residente, invertendo la rotta rispetto alle recenti politiche di taglio dei fondi e di riduzione del numero degli aventi diritto all\u2019accoglienza.\n\nNella categoria dei richiedenti asilo vanno ovviamente ricompresi coloro che sono in attesa di una decisone definitiva da parte dell\u2019autorit\u00e0 giudiziaria in merito alla richiesta di protezione internazionale, anche al fine di alleggerire il carico di un sistema giudiziario gi\u00e0 ingolfato e le cui difficolt\u00e0 sono destinate ad acuirsi nei prossimi mesi a causa dei rinvii legislativamente previsti a seguito dell\u2019emergenza coronavirus.\n\nL\u2019obiettivo dell\u2019introduzione di questo strumento normativo, finalizzato al contrasto di significative criticit\u00e0 nella situazione di emergenza che il Paese sta vivendo, impone che esso sia adeguato alla straordinariet\u00e0 del contesto ed abbia la pi\u00f9 efficace rapida ed estesa applicazione, evitando inutili preclusioni e dannose limitazioni.\n\nProgetto Diritti onlus\n\nClinica legale Immigrazione Universit\u00e0 di Roma Tre\n\nCISPM \u2013 Italia (Coalizione Internazionale Sans-Papiers, Migranti, Rifugiati e Richiedenti asilo)                  \u2026"", ""Link"": ""https://www.progettodiritti.it/permesso-di-soggiorno-per-particolare-situazione-di-emergenza-progetto-diritti-coalizione-sans-papiers-e-clinica-legale-immigrazione-delluniversita-roma-tre-chiedono-a-governo-e-pa/?fbclid=IwAR2AnAyx5259P8MmrMHJLi72ulDJ10i14Y8KhPWrxji9XoLAQHQ4Ido1B8E""}","<pre><yamldata>
+Cosa: PROGETTO DIRITTI, COALIZIONE SANS PAPIERS E CLINICA LEGALE IMMIGRAZIONE DELL’UNIVERRICHIESTA
+  A GOVERNO E PARLAMENTO DI ISTITUIRE IL PERMESSO DI SOGGIORNO PER PARTICOLARE SITUAZIONE
+  DI EMERGENZA
+Descrizione: 'PROGETTO DIRITTI, COALIZIONE SANS PAPIERS E CLINICA LEGALE IMMIGRAZIONE
+  DELL’UNIVERSITA’ ROMA TRE CHIEDONO A GOVERNO E PARLAMENTO DI ISTITUIRE IL PERMESSO
+  DI SOGGIORNO PER PARTICOLARE SITUAZIONE DI EMERGENZA
+
+
+  L’attuale emergenza sanitaria ha una rilevanza anche riguardo alla posizione di
+  soggiorno nel nostro paese di molti migranti rifugiati e richiedenti protezione
+  internazionale e la crisi economica generata dall’attuale situazione li rende ancor
+  più vulnerabili.
+
+
+  La legislazione sull’immigrazione stabilisce, nella maggior parte dei casi, un rapporto
+  di interdipendenza tra lo svolgimento dell’attività lavorativa e l’autorizzazione
+  al soggiorno nel territorio nazionale, per cui migliaia di cittadini stranieri si
+  ritroveranno in una condizione di irregolarità, nel caso in cui perdano il lavoro
+  oppure non abbiano introiti sufficienti dall’attività autonoma.
+
+
+  Inoltre, l’estensione globale dell’emergenza sanitaria non consentirà nessuna pianificazione
+  ed esecuzione degli eventuali provvedimenti di espulsione che saranno emessi nei
+  confronti di soggetti non più regolarmente presenti sul nostro territorio nazionale.
+
+
+  La situazione straordinaria che stiamo vivendo impone l’adozione di provvedimenti
+  straordinari per la tutela delle fasce più deboli e al fine di evitare tensioni
+  sul piano dell’ordine pubblico ed ulteriori difficoltà nella delicatissima fase
+  di emergenza socio-sanitaria ed economica che ci troviamo a vivere.
+
+
+  Non può essere differito, nell’ambito delle misure che Governo e Parlamento devono
+  adottare, un provvedimento che preveda il rilascio di un permesso di soggiorno per
+  particolare situazione di emergenza, della validità di almeno due anni, rinnovabile
+  e convertibile in permesso per motivi di lavoro, destinato a coloro i quali, in
+  conseguenza della attuale situazione socio-economica, non possono rinnovare oppure
+  convertire il proprio titolo di soggiorno.
+
+
+  Si pensi, ad esempio, ai titolari di permesso di soggiorno per motivi umanitari
+  prossimo alla scadenza o in fase di conversione ai quali il D.L. 113 del 2018 impone
+  per continuare a vivere regolarmente nel nostro paese la dimostrazione del possesso
+  di un determinato reddito nonché ai titolari di permesso di soggiorno per motivi
+  familiari che vedono il loro destino e la loro permanenza in Italia legati all’attività
+  lavorativa svolta dal parente, così come i minori che frequentano il nostro circuito
+  scolastico ed educativo.
+
+
+  Tra le persone a rischio di irregolarità che fruirebbero del provvedimento vi sono
+  anche coloro che svolgono attività lavorative senza alcun contratto di lavoro.
+
+
+  Tale peculiare permesso di soggiorno va altresì riconosciuto anche ai richiedenti
+  protezione internazionale, categoria questa la cui vulnerabilità (che nasce dalle
+  condizioni dei paesi di origine e di transito) è aggravata dalle difficoltà burocratiche
+  che ne caratterizzano il rapporto con le nostre istituzioni e ciò consentirebbe
+  uno snellimento delle procedure ministeriali volte al riconoscimento della protezione.
+
+
+  Peraltro in questo modo si garantirebbe il diritto all’accoglienza, ora più che
+  mai reso necessario dalla gravità della situazione socio-sanitaria del nostro paese,
+  che non può permettersi di lasciare migliaia di persone prive di presidi alloggiativi
+  e sanitari con le evidenti conseguenze di pericolo per tutta la popolazione residente,
+  invertendo la rotta rispetto alle recenti politiche di taglio dei fondi e di riduzione
+  del numero degli aventi diritto all’accoglienza.
+
+
+  Nella categoria dei richiedenti asilo vanno ovviamente ricompresi coloro che sono
+  in attesa di una decisone definitiva da parte dell’autorità giudiziaria in merito
+  alla richiesta di protezione internazionale, anche al fine di alleggerire il carico
+  di un sistema giudiziario già ingolfato e le cui difficoltà sono destinate ad acuirsi
+  nei prossimi mesi a causa dei rinvii legislativamente previsti a seguito dell’emergenza
+  coronavirus.
+
+
+  L’obiettivo dell’introduzione di questo strumento normativo, finalizzato al contrasto
+  di significative criticità nella situazione di emergenza che il Paese sta vivendo,
+  impone che esso sia adeguato alla straordinarietà del contesto ed abbia la più efficace
+  rapida ed estesa applicazione, evitando inutili preclusioni e dannose limitazioni.
+
+
+  Progetto Diritti onlus
+
+
+  Clinica legale Immigrazione Università di Roma Tre
+
+
+  CISPM – Italia (Coalizione Internazionale Sans-Papiers, Migranti, Rifugiati e Richiedenti
+  asilo)                  …'
+Link: https://www.progettodiritti.it/permesso-di-soggiorno-per-particolare-situazione-di-emergenza-progetto-diritti-coalizione-sans-papiers-e-clinica-legale-immigrazione-delluniversita-roma-tre-chiedono-a-governo-e-pa/?fbclid=IwAR2AnAyx5259P8MmrMHJLi72ulDJ10i14Y8KhPWrxji9XoLAQHQ4Ido1B8E
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1351,589383992,2020-03-28 08:56:52,2020-03-27 20:01:17,Centro Operativo Comunale #Fermo svolge servizio di trasporto spesa e medicinali a domicilio,43.16362,13.720626,Marche,Fermo,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il centro operativo comunale svolger\u00e0 servizio di trasporto spesa e di medicinali a domicilio, a beneficio in particolare delle fasce deboli come gli anziani e le persone sottoposte a isolamento preventivo.\n\nIl centro rimarr\u00e0 aperto tutti i giorni con orario al mattino dalle ore 9.00 alle 13.00 (fascia oraria durante la quale si riceveranno le richieste per spesa e medicinali) e nel pomeriggio  dalle ore 15.00 alle ore 19.00  (durante tale orario gli operatori provvederanno alla distribuzione)"", ""Link"": ""https://www.comune.fermo.it/it/notizie/art/2878-assistenza-ad-anziani-e-fasce-deboli-con-la-consegna-a-domicilio-di-spesa-e-medicinali/"", ""Nome_dell_esercizio_commercial"": ""Comune di Fermo ed il Gruppo Comunale della Protezione Civile"", ""Posizione"": ""43.16362 13.720626 0 0"", ""Telefono"": ""0734 225675""}","<pre><yamldata>
+Descrizione: 'Il centro operativo comunale svolgerà servizio di trasporto spesa e
+  di medicinali a domicilio, a beneficio in particolare delle fasce deboli come gli
+  anziani e le persone sottoposte a isolamento preventivo.
+
+
+  Il centro rimarrà aperto tutti i giorni con orario al mattino dalle ore 9.00 alle
+  13.00 (fascia oraria durante la quale si riceveranno le richieste per spesa e medicinali)
+  e nel pomeriggio  dalle ore 15.00 alle ore 19.00  (durante tale orario gli operatori
+  provvederanno alla distribuzione)'
+Link: https://www.comune.fermo.it/it/notizie/art/2878-assistenza-ad-anziani-e-fasce-deboli-con-la-consegna-a-domicilio-di-spesa-e-medicinali/
+Nome_dell_esercizio_commercial: Comune di Fermo ed il Gruppo Comunale della Protezione
+  Civile
+Posizione: 43.16362 13.720626 0 0
+Telefono: 0734 225675
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1350,589382904,2020-03-28 08:54:37,2020-03-27 19:58:58,Sportello Sostegno Psicologico On Line Gratuito #Roma,,,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sportello Sostegno Psicologico On Line Gratuito #ROMA"", ""Descrizione"": ""In questi giorni delicati, che ci confrontano con la fragilit\u00e0 e l\u2019incertezza, avere paura \u00e8 normale ed \u00e8 normale essere preoccupati. Ma potremmo avere la sensazione che qualcosa ci stia sfuggendo di mano, qualcosa che eccede la reale percezione del rischio che corriamo.\nTrovare strategie e risorse per attraversare questi momenti \u00e8 importante.\nPer questi motivi le psicologhe Mary Arduino e Patty Casillo hanno deciso di attivare uno SPORTELLO DI SOSTEGNO PSICOLOGICO ONLINE assolutamente GRATUITO per offrire sostegno emotivo e supporto psicologico in questo momento d'emergenza..\nPotrete prenotare un colloquio on line che si svolger\u00e0 nei seguenti giorni:\n\u25aa\ufe0f gioved\u00ec dalle ore 16.30 alle ore 19.00 (Mary Arduino)\n\u25aa\ufe0f venerd\u00ec dalle ore 10.00 alle ore 12.30  (Patty Casillo)\nChiamandoci o scrivendoci a:\n348.5295922 Dr.ssa Mary Arduino\n349.2879350 Dr.ssa Patty Casillo"", ""Destinatari"": ""Adulti, bambini, famiglie, adolescenti, operatori sanitari, medici e chiunque ne senta il bisogno."", ""Immagine"": ""EMERGENZA CORONAVIRUS (5)-20_53_23.png"", ""Indirizzo"": ""41.89277044 12.48366723"", ""Link"": ""https://www.facebook.com/groups/659088931514500/""}","<pre><yamldata>
+Cosa: 'Sportello Sostegno Psicologico On Line Gratuito #ROMA'
+Descrizione: 'In questi giorni delicati, che ci confrontano con la fragilità e l’incertezza,
+  avere paura è normale ed è normale essere preoccupati. Ma potremmo avere la sensazione
+  che qualcosa ci stia sfuggendo di mano, qualcosa che eccede la reale percezione
+  del rischio che corriamo.
+
+  Trovare strategie e risorse per attraversare questi momenti è importante.
+
+  Per questi motivi le psicologhe Mary Arduino e Patty Casillo hanno deciso di attivare
+  uno SPORTELLO DI SOSTEGNO PSICOLOGICO ONLINE assolutamente GRATUITO per offrire
+  sostegno emotivo e supporto psicologico in questo momento d''emergenza..
+
+  Potrete prenotare un colloquio on line che si svolgerà nei seguenti giorni:
+
+  ▪️ giovedì dalle ore 16.30 alle ore 19.00 (Mary Arduino)
+
+  ▪️ venerdì dalle ore 10.00 alle ore 12.30  (Patty Casillo)
+
+  Chiamandoci o scrivendoci a:
+
+  348.5295922 Dr.ssa Mary Arduino
+
+  349.2879350 Dr.ssa Patty Casillo'
+Destinatari: Adulti, bambini, famiglie, adolescenti, operatori sanitari, medici e
+  chiunque ne senta il bisogno.
+Immagine: EMERGENZA CORONAVIRUS (5)-20_53_23.png
+Indirizzo: 41.89277044 12.48366723
+Link: https://www.facebook.com/groups/659088931514500/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1349,589369769,2020-03-28 08:52:52,2020-03-27 19:31:02,Lista attività che effettuano il Servizio di Consegna a Domicilio #Diamante #Cosenza,39.67631,15.820817,Calabria,Cosenza,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Diamante"", ""Descrizione"": ""Speciale Coronavirus: Si pubblica la lista delle attivit\u00e0 che svolgono servizio a domicilio nel territorio comunale. Le attivit\u00e0 sono raggruppate per categoria (sanitari, alimentari, prodotti per l\u2019igiene, vari) e indicate in ordine alfabetico.\nLe informazioni sono in continuo aggiornamento."", ""Destinatari"": ""Cittadini"", ""Link"": ""https://www.comune-diamante.it/speciale-coronavirus-lista-delle-attivita-che-effettuano-il-servizio-di-consegna-a-domicilio/"", ""Natura"": ""solidale"", ""Posizione"": ""39.67631 15.820817 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Lista delle attivit\u00e0 che effettuano il Servizio di Consegna a Domicilio""}","<pre><yamldata>
+Da_chi_offerta: Comune di Diamante
+Descrizione: 'Speciale Coronavirus: Si pubblica la lista delle attività che svolgono
+  servizio a domicilio nel territorio comunale. Le attività sono raggruppate per categoria
+  (sanitari, alimentari, prodotti per l’igiene, vari) e indicate in ordine alfabetico.
+
+  Le informazioni sono in continuo aggiornamento.'
+Destinatari: Cittadini
+Link: https://www.comune-diamante.it/speciale-coronavirus-lista-delle-attivita-che-effettuano-il-servizio-di-consegna-a-domicilio/
+Natura: solidale
+Posizione: 39.67631 15.820817 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Lista delle attività che effettuano il Servizio di Consegna a Domicilio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1348,589337332,2020-03-28 08:37:43,2020-03-27 18:53:30,Consegna spesa a domicilio Despar #Trieste,45.68256,13.78092,Friuli Venezia Giulia,Trieste,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Nome_dell_esercizio_commercial"": ""Despar Trieste"", ""Posizione"": ""45.68256 13.78092"", ""Telefono"": ""04053592""}","<pre><yamldata>
+Nome_dell_esercizio_commercial: Despar Trieste
+Telefono: 04053592
+Posizione: 45.68256 13.78092
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1347,589336902,2020-03-28 08:51:41,2020-03-27 18:52:40,Consegna spesa a domicilio Crai #Trieste,45.68256,13.78092,Friuli Venezia Giulia,Trieste,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Nome_dell_esercizio_commercial"": ""Crai Trieste"", ""Posizione"": ""45.68256 13.78092"", ""Telefono"": ""040571571""}","<pre><yamldata>
+Nome_dell_esercizio_commercial: Crai Trieste
+Telefono: '040571571'
+Posizione: 45.68256 13.78092
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1346,589333923,2020-03-28 08:32:07,2020-03-27 18:46:51,Associazione Volontari del Soccorso Mont-Rose di #Donnas consegna spesa a domicilio #Aosta,45.603464,7.767473,Valle d'Aosta,Aosta,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Donnas"", ""Descrizione"": ""Emergenza Covid-19 \u2013 #iorestoacasa\n\nAl fine di agevolare le persone anziane e/o con altre fragilit\u00e0 impossibilitate a muoversi l\u2019Associazione Volontari del Soccorso Mont-Rose di Donnas si \u00e8 resa disponibile ad effettuare il servizio di consegna spesa a domicilio e/o altro materiale strettamente indispensabile.\n\nContattare il numero: 348 82 12 066"", ""Destinatari"": ""cittadini anziani o con altra fragilit\u00e0"", ""Link"": ""http://www.comune.donnas.ao.it/avviso-ai-cittadini/"", ""Posizione"": ""45.603464 7.767473 0 0"", ""Titolo"": ""Servizio di consegna spesa a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Comune di Donnas
+Descrizione: 'Emergenza Covid-19 – #iorestoacasa
+
+
+  Al fine di agevolare le persone anziane e/o con altre fragilità impossibilitate
+  a muoversi l’Associazione Volontari del Soccorso Mont-Rose di Donnas si è resa disponibile
+  ad effettuare il servizio di consegna spesa a domicilio e/o altro materiale strettamente
+  indispensabile.
+
+
+  Contattare il numero: 348 82 12 066'
+Destinatari: cittadini anziani o con altra fragilità
+Link: http://www.comune.donnas.ao.it/avviso-ai-cittadini/
+Posizione: 45.603464 7.767473 0 0
+Titolo: Servizio di consegna spesa a domicilio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1345,589327967,2020-03-28 08:21:29,2020-03-27 18:35:18,"Ascolto telefonico, consegna spesa e medicinali Comune #SantIlariodEnza #ReggioEmilia",44.76057,10.45149,Emilia-Romagna,Reggio nell'Emilia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune Sant'Ilario d'Enza"", ""Descrizione"": ""Le iniziative di Comune e associazioni per fronteggiare l'emergenza\n(numeri ed orari per telefonare)\n\nconsegna farmaci al domicilio\n\nStiamo in Ascolto - per scambiare una parola con qualcuno -\n\nconsegna spesa al domicilio"", ""Destinatari"": ""cittadini anziani, soli o fragili"", ""Link"": ""http://www.comune.santilariodenza.re.it/Sezione.jsp?&idSezione=6560"", ""Natura"": ""solidale"", ""Posizione"": ""44.76057 10.45149 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ascolto telefonico, consegna spesa e medicinali""}","<pre><yamldata>
+Da_chi_offerta: Comune Sant'Ilario d'Enza
+Descrizione: 'Le iniziative di Comune e associazioni per fronteggiare l''emergenza
+
+  (numeri ed orari per telefonare)
+
+
+  consegna farmaci al domicilio
+
+
+  Stiamo in Ascolto - per scambiare una parola con qualcuno -
+
+
+  consegna spesa al domicilio'
+Destinatari: cittadini anziani, soli o fragili
+Link: http://www.comune.santilariodenza.re.it/Sezione.jsp?&idSezione=6560
+Natura: solidale
+Posizione: 44.76057 10.45149 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Ascolto telefonico, consegna spesa e medicinali
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1344,589327737,2020-03-28 08:19:19,2020-03-27 18:34:50,Regione #Piemonte - Prontuario semplificato per ricetta medica dematerializzata,44.78866,8.00862,Piemonte,Cuneo,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""#RegionePiemonte: prontuario semplificato per ricetta dematerializzata"", ""Descrizione"": ""In occasione dell'emergenza Covid-19 il servizio on line \""Ricette dematerializzate\"" pu\u00f2 essere utilizzato in modalit\u00e0 semplificata per contribuire al contenimento del contagio e a ridurre gli assembramenti. L'ordinanza n. 651 del 19 marzo della Protezione Civile stabilisce infatti che la ricetta medica possa essere inviata dal medico curante via email o tramite messaggio telefonico, senza pi\u00f9 la necessit\u00e0 di ritirare fisicamente, e portare in farmacia, il promemoria cartaceo. L'assistito che ha necessit\u00e0 di una prescrizione pu\u00f2 quindi chiedere al medico il rilascio del promemoria dematerializzato (ci\u00f2 che serve \u00e8 il Numero di Ricetta Elettronica) tramite:\na) allegato a messaggio di posta elettronica;\nb) comunicazione del Numero di Ricetta Elettronica con SMS o con sistema di istant message (ad esempio WhatsApp, Telegram, Messanger\u2026)\nc) comunicazione telefonica"", ""Fonte"": ""Regione Piemonte"", ""Link"": ""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-03/faq_ricetta_dematerializzata.pdf"", ""Posizione"": ""44.78866 8.00862""}","<pre><yamldata>
+Cosa: '#RegionePiemonte: prontuario semplificato per ricetta dematerializzata'
+Descrizione: 'In occasione dell''emergenza Covid-19 il servizio on line ""Ricette dematerializzate""
+  può essere utilizzato in modalità semplificata per contribuire al contenimento del
+  contagio e a ridurre gli assembramenti. L''ordinanza n. 651 del 19 marzo della Protezione
+  Civile stabilisce infatti che la ricetta medica possa essere inviata dal medico
+  curante via email o tramite messaggio telefonico, senza più la necessità di ritirare
+  fisicamente, e portare in farmacia, il promemoria cartaceo. L''assistito che ha
+  necessità di una prescrizione può quindi chiedere al medico il rilascio del promemoria
+  dematerializzato (ciò che serve è il Numero di Ricetta Elettronica) tramite:
+
+  a) allegato a messaggio di posta elettronica;
+
+  b) comunicazione del Numero di Ricetta Elettronica con SMS o con sistema di istant
+  message (ad esempio WhatsApp, Telegram, Messanger…)
+
+  c) comunicazione telefonica'
+Fonte: Regione Piemonte
+Link: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-03/faq_ricetta_dematerializzata.pdf
+Posizione: 44.78866 8.00862
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1343,589308199,2020-03-28 08:16:02,2020-03-27 17:59:33,L'Agrisalumeria Luiset consegna salumi a domicilio,45.070717,7.686052,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'Agrisalumeria Luiset \u00e8 un'azienda agricola a filiera corta con allevamento suino e relativa salumeria che trasforma in carni e salumi, senza glutine, tipici del Piemonte, con budelli naturali. Si possono ordinare i salumi Luiset comodamente on-line. \nper gli ordini di Torino chiamare il punto vendita: 011 8170652\nper gli ordini di Alba chiamare il punto vendita: 0173 229134"", ""Email"": ""info@agrisalumeria.it"", ""Link"": ""https://www.agrisalumeria.it/"", ""Nome_dell_esercizio_commercial"": ""Agrisalumeria Luiset"", ""Posizione"": ""45.070717 7.686052 0 0"", ""Telefono"": ""0118170652""}","<pre><yamldata>
+Descrizione: ""L'Agrisalumeria Luiset è un'azienda agricola a filiera corta con allevamento\
+  \ suino e relativa salumeria che trasforma in carni e salumi, senza glutine, tipici\
+  \ del Piemonte, con budelli naturali. Si possono ordinare i salumi Luiset comodamente\
+  \ on-line. \nper gli ordini di Torino chiamare il punto vendita: 011 8170652\nper\
+  \ gli ordini di Alba chiamare il punto vendita: 0173 229134""
+Email: info@agrisalumeria.it
+Link: https://www.agrisalumeria.it/
+Nome_dell_esercizio_commercial: Agrisalumeria Luiset
+Posizione: 45.070717 7.686052 0 0
+Telefono: 0118170652
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1342,589306361,2020-03-28 08:12:52,2020-03-27 17:56:22,Bovì consegna carne a temperatura controllata in tutta Italia,45.521458,9.592888,Lombardia,Bergamo,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bov\u00ec \u00e8 un e-commerce di carne.\nSpedisce a temperatura controllata in tutta Italia. La consegna \u00e8 gratuita sopra i \u20ac150,00."", ""Email"": ""info@carnegenuina.it"", ""Link"": ""https://www.carnegenuina.it/"", ""Nome_dell_esercizio_commercial"": ""Bov\u00ec"", ""Posizione"": ""45.521458 9.592888 0 0"", ""Telefono"": ""3289660498""}","<pre><yamldata>
+Descrizione: 'Bovì è un e-commerce di carne.
+
+  Spedisce a temperatura controllata in tutta Italia. La consegna è gratuita sopra
+  i €150,00.'
+Email: info@carnegenuina.it
+Link: https://www.carnegenuina.it/
+Nome_dell_esercizio_commercial: Bovì
+Posizione: 45.521458 9.592888 0 0
+Telefono: '3289660498'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1341,589298952,2020-03-28 08:09:29,2020-03-27 17:44:50,Pascol consegna box di carne in tutta Italia,42.634922,12.671592,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Pascol permette di prenotare box di carne. La pattaforma aggrega allevatori di bovini sul territorio italiano che rispettano elevati standard, portano i capi in alpeggio o comunque al pascolo durante la stagione calda, garantiscono altissimi livelli di benessere animale e utilizzano un tipo di alimentazione prevalentemente ad erba e fieno."", ""Email"": ""info@pascol.it"", ""Link"": ""https://www.pascol.it/"", ""Nome_dell_esercizio_commercial"": ""Pascol"", ""Posizione"": ""42.634922 12.671592 0 0""}","<pre><yamldata>
+Descrizione: Pascol permette di prenotare box di carne. La pattaforma aggrega allevatori
+  di bovini sul territorio italiano che rispettano elevati standard, portano i capi
+  in alpeggio o comunque al pascolo durante la stagione calda, garantiscono altissimi
+  livelli di benessere animale e utilizzano un tipo di alimentazione prevalentemente
+  ad erba e fieno.
+Email: info@pascol.it
+Link: https://www.pascol.it/
+Nome_dell_esercizio_commercial: Pascol
+Posizione: 42.634922 12.671592 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1340,589295516,2020-03-28 08:04:06,2020-03-27 17:38:28,Azienda agricola Scaglia: consegna carne da allevamento sostenibile #Piemonte,45.085566,7.540655,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Carne da allevamento sostenibile.\nFino al 03/04 SPEDIZIONI GRATUITE con un ordine minimo di 30 \u20ac nei comuni di :\nAlpignano, Beinasco, Collegno, Grugliasco, Moncalieri, Nichelino, Orbassano, Pianezza, Rivalta di Torino, Rivoli, Rosta, Torino, Venaria Reale e Villarbasse.\nPer tutti gli altri comuni spedizione con le tariffe standard."", ""Email"": ""info@aziendaagricolascaglia.it"", ""Link"": ""https://www.aziendaagricolascaglia.it/"", ""Nome_dell_esercizio_commercial"": ""Azienda agricola Scaglia"", ""Posizione"": ""45.085566 7.540655 0 0"", ""Telefono"": ""+390119573808""}","<pre><yamldata>
+Descrizione: 'Carne da allevamento sostenibile.
+
+  Fino al 03/04 SPEDIZIONI GRATUITE con un ordine minimo di 30 € nei comuni di :
+
+  Alpignano, Beinasco, Collegno, Grugliasco, Moncalieri, Nichelino, Orbassano, Pianezza,
+  Rivalta di Torino, Rivoli, Rosta, Torino, Venaria Reale e Villarbasse.
+
+  Per tutti gli altri comuni spedizione con le tariffe standard.'
+Email: info@aziendaagricolascaglia.it
+Link: https://www.aziendaagricolascaglia.it/
+Nome_dell_esercizio_commercial: Azienda agricola Scaglia
+Posizione: 45.085566 7.540655 0 0
+Telefono: '+390119573808'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1339,589289040,2020-03-28 08:02:02,2020-03-27 17:27:03,Consegna spesa a domicilio con Cortilia,42.635016,12.671657,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna registrarsi gratuitamente alla piattaforma, specificando la citt\u00e0 in cui si desidera ricevere la spesa. Dopo selezionare i prodotti, componendo il carrello. Si pu\u00f2 scegliere tra frutta e verdura fresche di stagione, formaggi, uova, carni, salumi, pesce fresco, pasta, pane e riso, vino e molto altro ancora.\n\u00c8 possibile anche abbonarsi alle cassette, ricevendo, alla frequenza desiderata, una composizione di prodotti assortiti in base a varie tipologie predefinite."", ""Link"": ""www.cortilia.it/"", ""Nome_dell_esercizio_commercial"": ""Cortilia"", ""Posizione"": ""42.635016 12.671657 0 0"", ""Telefono"": ""0287197503""}","<pre><yamldata>
+Descrizione: 'Bisogna registrarsi gratuitamente alla piattaforma, specificando la
+  città in cui si desidera ricevere la spesa. Dopo selezionare i prodotti, componendo
+  il carrello. Si può scegliere tra frutta e verdura fresche di stagione, formaggi,
+  uova, carni, salumi, pesce fresco, pasta, pane e riso, vino e molto altro ancora.
+
+  È possibile anche abbonarsi alle cassette, ricevendo, alla frequenza desiderata,
+  una composizione di prodotti assortiti in base a varie tipologie predefinite.'
+Link: www.cortilia.it/
+Nome_dell_esercizio_commercial: Cortilia
+Posizione: 42.635016 12.671657 0 0
+Telefono: 0287197503
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1337,589282615,2020-03-27 20:19:42,2020-03-27 17:15:53,YouFarmer.bio consegna cassette di frutta e verdura a domicilio,42.634922,12.671742,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna iscriversi al sito e verificare se You Farmer \u00e8 gi\u00e0 operativa nella propria citt\u00e0 o qual \u00e8 il punto di prelievo pi\u00f9 vicino. \u00c8 possibile scegliere la dimensione e tipologia della cassetta di frutta e verdura in base alle necessit\u00e0 e preferenze, consegnata freschissima una volta alla settimana. L\u2019abbonamento \u00e8 mensile con pagamento settimanale e si rinnova in automatico salvo disdetta. La composizione della cassetta varia di volta in volta e sono proprio i contadini a scegliere ci\u00f2 che \u00e8 pronto per essere raccolto cercando sempre di garantire un mix vario e completo, il pi\u00f9 gustoso possibile."", ""Email"": ""info@youfarmer.bio"", ""Link"": ""https://www.youfarmer.bio/futuro-farmer-benvenuto/"", ""Nome_dell_esercizio_commercial"": ""You Farmer"", ""Posizione"": ""42.634922 12.671742 0 0"", ""Telefono"": ""+393206727110""}","<pre><yamldata>
+Descrizione: 'Bisogna iscriversi al sito e verificare se You Farmer è già operativa
+  nella propria città o qual è il punto di prelievo più vicino.
+  È possibile scegliere la dimensione e tipologia della cassetta di frutta e verdura
+  in base alle necessità e preferenze, consegnata freschissima una volta alla settimana.
+  L’abbonamento è mensile con pagamento settimanale e si rinnova in automatico salvo
+  disdetta.
+  La composizione della cassetta varia di volta in volta e sono proprio i contadini
+  a scegliere ciò che è pronto per essere raccolto cercando sempre di garantire un
+  mix vario e completo, il più gustoso possibile.'
+Email: info@youfarmer.bio
+Link: https://www.youfarmer.bio/futuro-farmer-benvenuto/
+Nome_dell_esercizio_commercial: You Farmer
+Posizione: 42.634922 12.671742 0 0
+Telefono: '+393206727110'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1336,589278724,2020-03-27 17:25:32,2020-03-27 17:09:42,Il servizio portaNatura per ricevere a casa la spesa zerowaste - consegne a domicilio a #Milano #Torino #Genova #NoviLigure #Alessandria,44.753545,8.802259,Piemonte,Alessandria,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Con portaNatura \u00e8 possibile ordinare online e ricevere a domicilio prodotti freschi. Alla frutta e verdura appena raccolte si possono aggiungere pasta, cereali, carne e tanti altri prodotti biologici e biodinamici da una rete di fornitori di fiducia.\n\nLe consegne a domicilio vengono effettuate a:\nMilano, Torino, Genova, Novi Ligure e Alessandria"", ""Email"": ""info@portanatura.it"", ""Link"": ""https://portanatura.it/"", ""Nome_dell_esercizio_commercial"": ""portaNatura"", ""Posizione"": ""44.753545 8.802259 0 0"", ""Telefono"": ""0143745407""}","<pre><yamldata>
+Descrizione: 'Con portaNatura è possibile ordinare online e ricevere a domicilio prodotti
+  freschi. Alla frutta e verdura appena raccolte si possono aggiungere pasta, cereali,
+  carne e tanti altri prodotti biologici e biodinamici da una rete di fornitori di
+  fiducia.
+
+
+  Le consegne a domicilio vengono effettuate a:
+
+  Milano, Torino, Genova, Novi Ligure e Alessandria'
+Email: info@portanatura.it
+Link: https://portanatura.it/
+Nome_dell_esercizio_commercial: portaNatura
+Posizione: 44.753545 8.802259 0 0
+Telefono: '0143745407'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1335,589275664,2020-03-27 19:03:04,2020-03-27 17:04:43,Bioexpress consegna a domicilio prodotti agricoli biologici in #Lombardia #Veneto #AltoAdige #EmiliaRomagna #FriuliVeneziaGiulia #Piemonte #Roma,46.295936,11.237597,Trentino-Alto Adige,Bolzano,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bioexpress \u00e8 un gruppo di produttori dell\u2019Alto Adige che si dedicano alla coltivazione di frutta e verdura applicando le regole dell'agricoltura biologica. In collaborazione con altri colleghi produttori di diverse regioni d'Italia si impegnano inoltre con particolare attenzione nella commercializzazione diretta dei prodotti attraverso la consegna a domicilio.\n\nBioexpress consegna solo nelle seguenti zone:\n\n- la Valle d'Adige\n- una parte della Lombardia: MILANO, Pavia, Lodi, Cremona, Mantova, Brescia, Bergamo, Lecco, Como, Monza e Varese\n- una parte del Veneto (Verona, Vicenza, Padova, Treviso e una parte di Venezia)\n- una parte del Friuli Venezia Giulia (Pordenone, Udine, Trieste)\n- una parte del Piemonte (Novara)\n- Emilia Romagna (Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forli-Cesena)\n- Roma (solo nell'interno del grande raccordo anulare)"", ""Email"": ""info@bioexpress.it"", ""Link"": ""http://www.bioexpress.it/"", ""Nome_dell_esercizio_commercial"": ""Bioexpress"", ""Posizione"": ""46.295936 11.237597 0 0"", ""Telefono"": ""800892838""}","<pre><yamldata>
+Descrizione: 'Bioexpress è un gruppo di produttori dell’Alto Adige che si dedicano
+  alla coltivazione di frutta e verdura applicando le regole dell''agricoltura biologica.
+  In collaborazione con altri colleghi produttori di diverse regioni d''Italia si
+  impegnano inoltre con particolare attenzione nella commercializzazione diretta dei
+  prodotti attraverso la consegna a domicilio.
+
+
+  Bioexpress consegna solo nelle seguenti zone:
+
+
+  - la Valle d''Adige
+
+  - una parte della Lombardia: MILANO, Pavia, Lodi, Cremona, Mantova, Brescia, Bergamo,
+  Lecco, Como, Monza e Varese
+
+  - una parte del Veneto (Verona, Vicenza, Padova, Treviso e una parte di Venezia)
+
+  - una parte del Friuli Venezia Giulia (Pordenone, Udine, Trieste)
+
+  - una parte del Piemonte (Novara)
+
+  - Emilia Romagna (Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna,
+  Forli-Cesena)
+
+  - Roma (solo nell''interno del grande raccordo anulare)'
+Email: info@bioexpress.it
+Link: http://www.bioexpress.it/
+Nome_dell_esercizio_commercial: Bioexpress
+Posizione: 46.295936 11.237597 0 0
+Telefono: '800892838'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1334,589272718,2020-03-27 17:17:09,2020-03-27 17:00:17,Raccolta fondi per pacchi spesa per famiglie indigenti promossa dalla Cooperativa A.R.S. e l'associazione A Rezza a #CasalnuovodiNapoli in provincia di #Napoli,40.883896,14.345484,Campania,Napoli,"[""Raccolte fondi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Causale"": ""rete solidale - distribuzione dei pacchi spesa per famiglie indigenti"", ""Descrizione"": ""La cooperativa A.R.S. e l'associazione A Rezza hanno attivato una raccolta fondi per famiglie e persone in difficolt\u00e0. \n\ud83d\udd34 Raccolta fondi per pacchi spesa per famiglie e persone in difficolt\u00e0 di Volla e dintorni!\n\u2139 Clicca qui per donare \u27a1 https://gf.me/u/xtbs59\n\nSono molti i lavoratori e le lavoratrici che, non avendo alcun contratto, rischiano la miseria.\nSono tanti coloro che sono stati licenziati e che non avranno alcun tipo di sostegno.\nSono tante le famiglie gi\u00e0 in difficolt\u00e0 che soffrono, ancora di pi\u00f9, in questo momento di emergenza sanitaria.\n\ud83d\udcb0 Attiviamo questa raccolta fondi per permettere ai nostri attivisti di poter organizzare l\u2019acquisto dei pacchi spesa per supportare le fasce pi\u00f9 a rischio nella massima sicurezza e rispettando la tutela sanitaria e le disposizioni sulle distanze e i contatti per evitare il contagio.\n#diamociunamano #resistiamoinsieme #arscooperativa #unponteper #restiamoacasa"", ""Email"": ""info@arscooperativa.it"", ""IBAN"": ""IT49Q0501803400000011686540"", ""Intestazione"": ""Coop A.R.S."", ""Link"": ""https://www.facebook.com/arscooperativa/"", ""Nome"": ""Rete solidale - coop A.R.S. e \""A Rezza\"""", ""Posizione"": ""40.883896 14.345484 0 0""}","<pre><yamldata>
+Causale: rete solidale - distribuzione dei pacchi spesa per famiglie indigenti
+Descrizione: ""La cooperativa A.R.S. e l'associazione A Rezza hanno attivato una raccolta\
+  \ fondi per famiglie e persone in difficoltà. \n\U0001F534 Raccolta fondi per pacchi\
+  \ spesa per famiglie e persone in difficoltà di Volla e dintorni!\nℹ Clicca qui\
+  \ per donare ➡ https://gf.me/u/xtbs59\n\nSono molti i lavoratori e le lavoratrici\
+  \ che, non avendo alcun contratto, rischiano la miseria.\nSono tanti coloro che\
+  \ sono stati licenziati e che non avranno alcun tipo di sostegno.\nSono tante le\
+  \ famiglie già in difficoltà che soffrono, ancora di più, in questo momento di emergenza\
+  \ sanitaria.\n\U0001F4B0 Attiviamo questa raccolta fondi per permettere ai nostri\
+  \ attivisti di poter organizzare l’acquisto dei pacchi spesa per supportare le fasce\
+  \ più a rischio nella massima sicurezza e rispettando la tutela sanitaria e le disposizioni\
+  \ sulle distanze e i contatti per evitare il contagio.\n#diamociunamano #resistiamoinsieme\
+  \ #arscooperativa #unponteper #restiamoacasa""
+Email: info@arscooperativa.it
+IBAN: IT49Q0501803400000011686540
+Intestazione: Coop A.R.S.
+Link: https://www.facebook.com/arscooperativa/
+Nome: Rete solidale - coop A.R.S. e ""A Rezza""
+Posizione: 40.883896 14.345484 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1333,589268600,2020-03-27 17:03:57,2020-03-27 16:55:01,Consegna a domicilio di Frutta e verdura a km 0 per gli abitanti di #Torino e provincia,44.996201,7.747056,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Azienda per l'acquisto di frutta e verdura a km 0 per gli abitanti di Torino e provincia.\nLo shop apre il luned\u00ec e il venerd\u00ec a partire dalle ore 9 e si chiude automaticamente al raggiungimento del numero massimo di ordini che possono essere gestiti nei giorni successivi.\nLe consegne degli ordini effettuati il venerd\u00ec avverranno il luned\u00ec e il marted\u00ec. \nIl gioved\u00ec e il venerd\u00ec vengono recapitate le spese acquistate il luned\u00ec. \nIl mercoled\u00ec si consegna solo nella cintura di Torino."", ""Email"": ""info@ortobio.com"", ""Link"": ""https://ortobio.com/"", ""Nome_dell_esercizio_commercial"": ""Ortobio"", ""Posizione"": ""44.996201 7.747056 0 0"", ""Telefono"": ""3393288559""}","<pre><yamldata>
+Descrizione: ""Azienda per l'acquisto di frutta e verdura a km 0 per gli abitanti di\
+  \ Torino e provincia.\nLo shop apre il lunedì e il venerdì a partire dalle ore 9\
+  \ e si chiude automaticamente al raggiungimento del numero massimo di ordini che\
+  \ possono essere gestiti nei giorni successivi.\nLe consegne degli ordini effettuati\
+  \ il venerdì avverranno il lunedì e il martedì. \nIl giovedì e il venerdì vengono\
+  \ recapitate le spese acquistate il lunedì. \nIl mercoledì si consegna solo nella\
+  \ cintura di Torino.""
+Email: info@ortobio.com
+Link: https://ortobio.com/
+Nome_dell_esercizio_commercial: Ortobio
+Posizione: 44.996201 7.747056 0 0
+Telefono: '3393288559'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1332,589260994,2020-03-27 21:33:02,2020-03-27 16:42:32,"Coronavirus, persone con disabilità possono uscire per brevi passeggiate",,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, persone con disabilit\u00e0 possono uscire per brevi passeggiate"", ""Descrizione"": ""Se strettamente necessario e non \u00e8 possibile fare diversamente, la persona che per la sua condizione di salute (fisica o psichica) o disabilit\u00e0 (cognitiva, intellettiva, relazionale) necessita di svolgere saltuariamente attivit\u00e0 all\u2019aria aperta (passeggiate, attivit\u00e0 fisica) pu\u00f2 uscire restando nei dintorni di casa, da sola o accompagnata, rispettando le regole di distanziamento sociale per prevenire il contagio del coronavirus, munita di autocertificazione, e della documentazione attestante la condizione fisica o di disabilit\u00e0. Dopo giorni di confusione, finalmente arriva un chiarimento da parte dell\u2019Ufficio per le politiche in favore delle persone con disabilit\u00e0 della Presidenza del Consiglio dei Ministri."", ""Link"": ""http://www.informareunh.it/coronavirus-fonti-governative-si-esprimono-sulle-uscite-delle-persone-con-disabilita-intellettiva/""}","<pre><yamldata>
+Cosa: Coronavirus, persone con disabilità possono uscire per brevi passeggiate
+Descrizione: Se strettamente necessario e non è possibile fare diversamente, la persona
+  che per la sua condizione di salute (fisica o psichica) o disabilità (cognitiva,
+  intellettiva, relazionale) necessita di svolgere saltuariamente attività all’aria
+  aperta (passeggiate, attività fisica) può uscire restando nei dintorni di casa,
+  da sola o accompagnata, rispettando le regole di distanziamento sociale per prevenire
+  il contagio del coronavirus, munita di autocertificazione, e della documentazione
+  attestante la condizione fisica o di disabilità. Dopo giorni di confusione, finalmente
+  arriva un chiarimento da parte dell’Ufficio per le politiche in favore delle persone
+  con disabilità della Presidenza del Consiglio dei Ministri.
+Link: http://www.informareunh.it/coronavirus-fonti-governative-si-esprimono-sulle-uscite-delle-persone-con-disabilita-intellettiva/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1331,589260937,2020-03-27 17:00:16,2020-03-27 16:42:26,Orto e porto - spesa online direttamente dal produttore al consumatore a #Milano e in tutta #Italia,45.4668,9.1905,Lombardia,Milano,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Piattaforma di incontro domanda ed offerta per acquistare prodotti di filiera corta. Essa rende possibile selezionare i prodotti da un elenco oppure scegliere di acquistare da un singolo produttore.\n\u00c8 possibile ricevere i prodotti a casa, ritirarli dal produttore pi\u00f9 vicino o in uno dei punti di ritiro \u201cOrto e Porto\u201d."", ""Email"": ""info@ortoeporto.it"", ""Link"": ""https://www.ortoeporto.it/"", ""Nome_dell_esercizio_commercial"": ""Orto e Porto: piattaforma per la spesa a km 0"", ""Posizione"": ""45.4668 9.1905 0 0"", ""Telefono"": ""+39 0294757453""}","<pre><yamldata>
+Descrizione: 'Piattaforma di incontro domanda ed offerta per acquistare prodotti di
+  filiera corta. Essa rende possibile selezionare i prodotti da un elenco oppure scegliere
+  di acquistare da un singolo produttore.
+
+  È possibile ricevere i prodotti a casa, ritirarli dal produttore più vicino o in
+  uno dei punti di ritiro “Orto e Porto”.'
+Email: info@ortoeporto.it
+Link: https://www.ortoeporto.it/
+Nome_dell_esercizio_commercial: 'Orto e Porto: piattaforma per la spesa a km 0'
+Posizione: 45.4668 9.1905 0 0
+Telefono: +39 0294757453
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1330,589235265,2020-03-27 16:55:01,2020-03-27 16:01:08,Servizi Comune de #L'Aquila per supporto psicologico e alla didattica a distanza,42.350707,13.400153,Abruzzo,L'Aquila,"[""Didattica a distanza e-learning"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune dell'Aquila"", ""Descrizione"": ""Il settore Politiche per il Benessere della Persona del Comune dell'Aquila ha implementato un servizio di supporto psicologico a beneficio dell'utenza: previe intese con il presidente dell'Ordine Regionale degli Psicologi, si \u00e8 provveduto a proporre la stipula di una convenzione con l'associazione 'Psicologi per i Popoli', che ha reso disponibili sei professionisti specializzati nella psicologia dell'emergenza che, dal luned\u00ec al venerd\u00ec, dalle ore 9,00 alle ore 12,00 e dalle ore 15,00 alle ore 18,00, provvederanno a fornire il sostegno psicologico richiesto dall'utenza, che potr\u00e0 contattare il numero verde del Comune dell'Aquila, 800 666 622, digitando l'opzione '2'.\""\n\nSempre su questa tematica che coinvolge molte famiglie anche dal punto di vista educativo, gli uffici dello stesso assessorato con il particolare coinvolgimento dello staff educativo dell'Ufficio Diritto allo Studio, hanno ideato il progetto 'Nido Amico', rivolto ai bambini frequentanti i nidi comunali 'I Maggio' e 'Viale' ed alle loro famiglie.\n\n\""Nello specifico - spiega l'assessore - si prevede l'utilizzo della linea telefonica, di applicativi come \""Telegram\"" (gi\u00e0 attivo nelle quattro sezioni degli asili) e della posta elettronica per l'invio di materiale educativo audio/video, a beneficio di bambini e genitori\"".\n\nNel consueto orario di apertura dei nidi le principali azioni rivolte ai bambini, saranno la lettura di libri e filastrocche, la presentazione di canzoni e di attivit\u00e0 di laboratorio/tutorial a distanza, mentre gli interventi a beneficio dei genitori prevedono, per tre giorni alla settimana, dalle ore 9,00 alle ore 13,00, la realizzazione di uno spazio di ascolto nell'ambito del quale si prevede l'invio di materiale informativo (articoli, consigli utili, etc.) e la disponibilit\u00e0 telefonica per uno scambio e una vicinanza rispetto alle problematiche del momento, utilizzando i numeri telefonici dei nidi 'I Maggio', 0862/315357 e 'Viale', 0862/24414, in continuit\u00e0 con quanto gi\u00e0 avveniva con lo sportello di ascolto, che le educatrici offrivano  regolarmente all'interno dei nidi comunali."", ""Destinatari"": ""abitanti comune L'Aquila"", ""Link"": ""https://www.facebook.com/comunedellaquila/photos/a.677101058989750/3130885513611280/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""42.350707 13.400153 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizi Comune dell'Aquila per supporto psicologico e alla didattica""}","<pre><yamldata>
+Da_chi_offerta: Comune dell'Aquila
+Descrizione: 'Il settore Politiche per il Benessere della Persona del Comune dell''Aquila
+  ha implementato un servizio di supporto psicologico a beneficio dell''utenza: previe
+  intese con il presidente dell''Ordine Regionale degli Psicologi, si è provveduto
+  a proporre la stipula di una convenzione con l''associazione ''Psicologi per i Popoli'',
+  che ha reso disponibili sei professionisti specializzati nella psicologia dell''emergenza
+  che, dal lunedì al venerdì, dalle ore 9,00 alle ore 12,00 e dalle ore 15,00 alle
+  ore 18,00, provvederanno a fornire il sostegno psicologico richiesto dall''utenza,
+  che potrà contattare il numero verde del Comune dell''Aquila, 800 666 622, digitando
+  l''opzione ''2''.""
+
+
+  Sempre su questa tematica che coinvolge molte famiglie anche dal punto di vista
+  educativo, gli uffici dello stesso assessorato con il particolare coinvolgimento
+  dello staff educativo dell''Ufficio Diritto allo Studio, hanno ideato il progetto
+  ''Nido Amico'', rivolto ai bambini frequentanti i nidi comunali ''I Maggio'' e ''Viale''
+  ed alle loro famiglie.
+
+
+  ""Nello specifico - spiega l''assessore - si prevede l''utilizzo della linea telefonica,
+  di applicativi come ""Telegram"" (già attivo nelle quattro sezioni degli asili) e
+  della posta elettronica per l''invio di materiale educativo audio/video, a beneficio
+  di bambini e genitori"".
+
+
+  Nel consueto orario di apertura dei nidi le principali azioni rivolte ai bambini,
+  saranno la lettura di libri e filastrocche, la presentazione di canzoni e di attività
+  di laboratorio/tutorial a distanza, mentre gli interventi a beneficio dei genitori
+  prevedono, per tre giorni alla settimana, dalle ore 9,00 alle ore 13,00, la realizzazione
+  di uno spazio di ascolto nell''ambito del quale si prevede l''invio di materiale
+  informativo (articoli, consigli utili, etc.) e la disponibilità telefonica per uno
+  scambio e una vicinanza rispetto alle problematiche del momento, utilizzando i numeri
+  telefonici dei nidi ''I Maggio'', 0862/315357 e ''Viale'', 0862/24414, in continuità
+  con quanto già avveniva con lo sportello di ascolto, che le educatrici offrivano  regolarmente
+  all''interno dei nidi comunali.'
+Destinatari: abitanti comune L'Aquila
+Natura: solidale
+Link: https://www.facebook.com/comunedellaquila/photos/a.677101058989750/3130885513611280/?type=3&theater
+Posizione: 42.350707 13.400153 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Servizi Comune dell'Aquila per supporto psicologico e alla didattica
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1329,589230368,2020-03-27 16:47:02,2020-03-27 15:53:45,"Anci #Toscana, online i numeri da contattare per accedere ai servizi di consegna a domicilio dei Comuni toscani",43.789716,11.253347,Toscana,Firenze,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Anci Toscana"", ""Descrizione"": ""Chi \u00e8 pi\u00f9 a rischio, ora \u00e8 pi\u00f9 sicuro. Anziani over 75 con difficolt\u00e0 a muoversi, persone affette da patologie croniche e che devono evitare luoghi affollati, non dovranno pi\u00f9 uscire di casa: basta una telefonata per prenotare la propria spesa. Questo grazie al lavoro dei nostri sindaci, al sostegno della Regione, al protocollo d'intesa tra noi, la Regione e le principali aziende della Grande distribuzione, nonch\u00e8 alla preziosa e insostituibile collaborazione del volontariato e dei tantissimi esercizi di vicinato. Al link tutti i numeri da chiamare nei Comuni che offrono il servizio di consegna a domicilio."", ""Destinatari"": ""Cittadini fragili e in difficolt\u00e0"", ""Link"": ""https://ancitoscana.it/coronavirus/2640-spesa-a-casa.html"", ""Natura"": ""solidale"", ""Posizione"": ""43.789716 11.253347 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Anci Toscana, online i numeri da contattare per accedere ai servizi di consegna a domicilio dei Comuni toscani""}","<pre><yamldata>
+Da_chi_offerta: Anci Toscana
+Descrizione: 'Chi è più a rischio, ora è più sicuro. Anziani over 75 con difficoltà
+  a muoversi, persone affette da patologie croniche e che devono evitare luoghi affollati,
+  non dovranno più uscire di casa: basta una telefonata per prenotare la propria spesa.
+  Questo grazie al lavoro dei nostri sindaci, al sostegno della Regione, al protocollo
+  d''intesa tra noi, la Regione e le principali aziende della Grande distribuzione,
+  nonchè alla preziosa e insostituibile collaborazione del volontariato e dei tantissimi
+  esercizi di vicinato. Al link tutti i numeri da chiamare nei Comuni che offrono
+  il servizio di consegna a domicilio.'
+Destinatari: Cittadini fragili e in difficoltà
+Link: https://ancitoscana.it/coronavirus/2640-spesa-a-casa.html
+Natura: solidale
+Posizione: 43.789716 11.253347 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Anci Toscana, online i numeri da contattare per accedere ai servizi di consegna
+  a domicilio dei Comuni toscani
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1328,589220464,2020-03-27 16:34:02,2020-03-27 15:38:59,"#Trentino, elenco esercizi che consegnano a domicilio beni alimentari e farmaci",46.067389,11.12673,Trentino-Alto Adige,Trento,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Trentino dei bambini"", ""Descrizione"": ""Elenco di esercizi commerciali che fanno consegne a domicilio di generi alimentari e farmaceutici in Trentino"", ""Destinatari"": ""Cittadini del Trentino"", ""Link"": ""https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/?fbclid=IwAR3aOxfbyOoHbH2m8HwmK4Y8XDduIUwZtU3l6pDvA9FsLkf5r0hBn1PL1Fg"", ""Natura"": ""solidale"", ""Posizione"": ""46.067389 11.12673 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco Esercizi commerciali che fanno consegne a domiclio in #Trentino""}","<pre><yamldata>
+Da_chi_offerta: Il Trentino dei bambini
+Descrizione: Elenco di esercizi commerciali che fanno consegne a domicilio di generi
+  alimentari e farmaceutici in Trentino
+Destinatari: Cittadini del Trentino
+Link: https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/?fbclid=IwAR3aOxfbyOoHbH2m8HwmK4Y8XDduIUwZtU3l6pDvA9FsLkf5r0hBn1PL1Fg
+Natura: solidale
+Posizione: 46.067389 11.12673 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Elenco Esercizi commerciali che fanno consegne a domiclio in #Trentino'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1327,589217911,2020-03-27 16:32:47,2020-03-27 15:35:19,"Maestri del gusto, esercizi che consegnano generi alimentari a domicilio a #Torino e provincia",45.074124,7.691794,Piemonte,Torino,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Maestri del Gusto"", ""Descrizione"": ""Elenco di negozi che fanno consegna di generi alimentari a domicilio a Torino e provincia"", ""Destinatari"": ""Cittadini di Torino"", ""Link"": ""https://www.maestridelgustotorino.com/i-maestri-consegnano-a-domicilio/?fbclid=IwAR0L-cUnb8QtABpz_ERuk7r9rdrtJrkz6hfnWc5y_jM6dyO1syxKIWhXiSw"", ""Natura"": ""solidale"", ""Posizione"": ""45.074124 7.691794 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna generi alimentari a domicilio a #Torino""}","<pre><yamldata>
+Da_chi_offerta: Maestri del Gusto
+Descrizione: Elenco di negozi che fanno consegna di generi alimentari a domicilio
+  a Torino e provincia
+Destinatari: Cittadini di Torino
+Link: https://www.maestridelgustotorino.com/i-maestri-consegnano-a-domicilio/?fbclid=IwAR0L-cUnb8QtABpz_ERuk7r9rdrtJrkz6hfnWc5y_jM6dyO1syxKIWhXiSw
+Natura: solidale
+Posizione: 45.074124 7.691794 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Consegna generi alimentari a domicilio a #Torino'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1326,589213783,2020-03-27 15:34:20,2020-03-27 15:29:06,"Spesa a domicilio, motore di ricerca per #Rovigo e provincia",45.070841,11.790527,Veneto,Rovigo,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Attivisti Rovigo"", ""Descrizione"": ""Un motore di ricerca per dare informazioni su consegne a domiclio e altre informazioni utili a Rovigo e provincia"", ""Destinatari"": ""Cittadini di Rovigo e Provincia"", ""Link"": ""https://www.rovirus.it/"", ""Natura"": ""solidale"", ""Posizione"": ""45.070841 11.790527 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa a domicilio a #Rovigo e provincia""}","<pre><yamldata>
+Da_chi_offerta: Attivisti Rovigo
+Descrizione: Un motore di ricerca per dare informazioni su consegne a domiclio e altre
+  informazioni utili a Rovigo e provincia
+Destinatari: Cittadini di Rovigo e Provincia
+Link: https://www.rovirus.it/
+Natura: solidale
+Posizione: 45.070841 11.790527 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Spesa a domicilio a #Rovigo e provincia'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1325,589201442,2020-03-27 15:23:29,2020-03-27 15:10:57,"Corse gratuite in taxi per medici e infermieri, raccolta fondi di Cuore Digitale e Pronto Taxi #Roma",41.858015,12.56889,Lazio,Roma,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Campagna su Gofundme.it promossa da Cuore Digitale, in collaborazione con Printo Taxi, per dare la possibilit\u00e0 a medici ed operatori sanitari di usufruire di corse taxi gratuite. La raccolta fondi sar\u00e0 utilizzata per consegnare dei voucher prepagati a tutte le strutture ospedaliere covid-19 di Roma. L'obiettivo \u00e8 raggiungere la somma di 7.500 euro che corrisponde a 500 corse (il costo solidale  concordato, per tale emergenza, tra  l'associazione \""Cuore Digitale\"" e la cooperativa \""Pronto Taxi 6645\"" per una corsa, a km illimitato, su Roma dentro GRA \u00e8 di 15 euro). Per garantire almeno una corsa solidale chiediamo una donazione di almeno 15 euro."", ""Link"": ""https://www.gofundme.com/f/dona-una-corsa-taxi-a-medici-ed-operatori-sanitari/"", ""Nome"": ""Dona una corsa taxi solidale contro il coronavirus! Raccolta fondi di Cuore Digitale e Pronto Taxi Roma"", ""Posizione"": ""41.858015 12.56889 0 0""}","<pre><yamldata>
+Descrizione: Campagna su Gofundme.it promossa da Cuore Digitale, in collaborazione
+  con Printo Taxi, per dare la possibilità a medici ed operatori sanitari di usufruire
+  di corse taxi gratuite. La raccolta fondi sarà utilizzata per consegnare dei voucher
+  prepagati a tutte le strutture ospedaliere covid-19 di Roma. L'obiettivo è raggiungere
+  la somma di 7.500 euro che corrisponde a 500 corse (il costo solidale  concordato,
+  per tale emergenza, tra  l'associazione ""Cuore Digitale"" e la cooperativa ""Pronto
+  Taxi 6645"" per una corsa, a km illimitato, su Roma dentro GRA è di 15 euro). Per
+  garantire almeno una corsa solidale chiediamo una donazione di almeno 15 euro.
+Link: https://www.gofundme.com/f/dona-una-corsa-taxi-a-medici-ed-operatori-sanitari/
+Nome: Dona una corsa taxi solidale contro il coronavirus! Raccolta fondi di Cuore
+  Digitale e Pronto Taxi Roma
+Posizione: 41.858015 12.56889 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1324,589198992,2020-03-27 15:21:42,2020-03-27 15:07:18,Azienda agricola L’Orto Magico  è a disposizione per consegne a domicilio in tutta la zona di #DonnaLucata #Ragusa,36.762713,14.640511,Sicilia,Ragusa,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'ORTO MAGICO DI DONNALUCATA si mette a disposizione per consegne a domicilio \nper tutta la zona di Donnalucata.\n\nSolamente in questo periodo  \n\nL'ORTO MAGICO risponde \ntelefonicamente e via Whatsapp al numero 3667050135\n...\nin fila e con pazienza presso il negozio stesso: Via Regina Margherita 40\n\nFornisce anche farina, pasta, acqua, formaggi e uova freschi."", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""L'ORTO MAGICO"", ""Posizione"": ""36.762713 14.640511 0 0"", ""Telefono"": ""3667050135""}","<pre><yamldata>
+Descrizione: ""L'ORTO MAGICO DI DONNALUCATA si mette a disposizione per consegne a\
+  \ domicilio \nper tutta la zona di Donnalucata.\n\nSolamente in questo periodo <\
+  \ COVID19 > \n\nL'ORTO MAGICO risponde \ntelefonicamente e via Whatsapp al numero\
+  \ 3667050135\n...\nin fila e con pazienza presso il negozio stesso: Via Regina Margherita\
+  \ 40\n\nFornisce anche farina, pasta, acqua, formaggi e uova freschi.""
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: L'ORTO MAGICO
+Posizione: 36.762713 14.640511 0 0
+Telefono: '3667050135'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1323,589198965,2020-03-27 15:17:37,2020-03-27 15:07:17,"Confesercenti #Torino, elenco esercizi commerciali che fanno consegne a domicilio",45.070941,7.685829,Piemonte,Torino,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Confeserecenti"", ""Descrizione"": ""Motore di ricerca per esercizi commerciali che fanno consegna a domicilio a Torino"", ""Destinatari"": ""Cittadini di Torino"", ""Link"": ""https://www.confesercenti-to.it/generale/iorestoacasa-riduci-al-minimo-i-tuoi-spostamenti-ai-tuoi-acquisti-ci-pensiamo-noi-consegne-a-domicilio-dal-tuo-negoziante-di-fiducia/?fbclid=IwAR2zoFe5pvR-BdJM1f59t2eMoMcaS75mHDXYuaN-iHr4Fi4BAL1N0dGoy6w"", ""Natura"": ""solidale"", ""Posizione"": ""45.070941 7.685829 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Esercizi commerciali che fanno consegne a domicilio a #Torino""}","<pre><yamldata>
+Da_chi_offerta: Confeserecenti
+Descrizione: Motore di ricerca per esercizi commerciali che fanno consegna a domicilio
+  a Torino
+Destinatari: Cittadini di Torino
+Link: https://www.confesercenti-to.it/generale/iorestoacasa-riduci-al-minimo-i-tuoi-spostamenti-ai-tuoi-acquisti-ci-pensiamo-noi-consegne-a-domicilio-dal-tuo-negoziante-di-fiducia/?fbclid=IwAR2zoFe5pvR-BdJM1f59t2eMoMcaS75mHDXYuaN-iHr4Fi4BAL1N0dGoy6w
+Natura: solidale
+Posizione: 45.070941 7.685829 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Esercizi commerciali che fanno consegne a domicilio a #Torino'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1322,589193711,2020-03-27 15:16:29,2020-03-27 14:59:39,Non è vero che ci sarà il click day dell’INPS,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Non \u00e8 vero che ci sar\u00e0 il click day dell\u2019INPS"", ""Descrizione"": ""L\u2019INPS \u00e8 pronto ad attuare tutte le misure previste dal decreto Cura Italia. L\u2019Istituto si trova a gestire 10 miliardi di euro, in poche settimane, per circa 11 milioni di utenti tra Cassa Integrazione e gli altri strumenti di sostegno al reddito. Uno sforzo pi\u00f9 grosso di quello che lo scorso anno lo ha visto impegnato sul Reddito di Cittadinanza e Quota 100, sia in termini di risorse economiche che in termini di utenti. Si precisa che non c\u2019\u00e8 nessun click day, inteso come finestra dentro la quale si possono fare domande di prestazioni. Le domande saranno aperte a tutti e ci sar\u00e0 un giorno di inizio, con un click. Su questa formula, che sar\u00e0 spiegata meglio a tutti gli utenti, c\u2019\u00e8 stato purtroppo un grande fraintendimento."", ""Link"": ""https://www.inps.it/nuovoportaleinps/default.aspx?itemdir=53514""}","<pre><yamldata>
+Cosa: Non è vero che ci sarà il click day dell’INPS
+Descrizione: 'L’INPS è pronto ad attuare tutte le misure previste dal decreto Cura
+  Italia. L’Istituto si trova a gestire 10 miliardi di euro, in poche settimane, per
+  circa 11 milioni di utenti tra Cassa Integrazione e gli altri strumenti di sostegno
+  al reddito. Uno sforzo più grosso di quello che lo scorso anno lo ha visto impegnato
+  sul Reddito di Cittadinanza e Quota 100, sia in termini di risorse economiche che
+  in termini di utenti.
+  Si precisa che non c’è nessun click day, inteso come finestra dentro la quale si
+  possono fare domande di prestazioni. Le domande saranno aperte a tutti e ci sarà
+  un giorno di inizio, con un click. Su questa formula, che sarà spiegata meglio a
+  tutti gli utenti, c’è stato purtroppo un grande fraintendimento.'
+Link: https://www.inps.it/nuovoportaleinps/default.aspx?itemdir=53514
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1321,589193639,2020-03-27 15:14:33,2020-03-27 14:59:33,Medici senza frontiere interviene nelle case di riposo delle #Marche a supporto di ospiti e personale,43.615572,13.518076,Marche,Ancona,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Medici senza frontiere interviene nella case di riposo delle Marche a supporto di ospiti e personale"", ""Descrizione"": ""Mdf amplia le attivit\u00e0 in risposta al Covid-19 in Italia supportando diverse strutture per anziani nelle Marche, nell\u2019area della regione che comprende le citt\u00e0 di Fabriano, Jesi, Senigallia e Ancona. Il team di MSF, composto da medici, infermieri ed esperti di igiene, tutti con esperienze pregresse in missioni umanitarie nella gestione di epidemie complesse, supporter\u00e0 i gestori, il personale delle strutture, i Comuni, rispetto alle procedure di contenimento del virus.\nAll\u2019interno delle strutture, saranno individuati circuiti interni e aree dedicate che aiuteranno a proteggere ospiti e personale, evitando l\u2019insorgere di nuovi casi che, diventando critici, richiederebbero il ricovero in ospedali gi\u00e0 a rischio di sovraffollamento."", ""Link"": ""https://www.medicisenzafrontiere.it/news-e-storie/news/coronavirus-anziani-marche/"", ""Posizione"": ""43.615572 13.518076 0 0""}","<pre><yamldata>
+Cosa: Medici senza frontiere interviene nella case di riposo delle Marche a supporto
+  di ospiti e personale
+Descrizione: 'Mdf amplia le attività in risposta al Covid-19 in Italia supportando
+  diverse strutture per anziani nelle Marche, nell’area della regione che comprende
+  le città di Fabriano, Jesi, Senigallia e Ancona. Il team di MSF, composto da medici,
+  infermieri ed esperti di igiene, tutti con esperienze pregresse in missioni umanitarie
+  nella gestione di epidemie complesse, supporterà i gestori, il personale delle strutture,
+  i Comuni, rispetto alle procedure di contenimento del virus.
+
+  All’interno delle strutture, saranno individuati circuiti interni e aree dedicate
+  che aiuteranno a proteggere ospiti e personale, evitando l’insorgere di nuovi casi
+  che, diventando critici, richiederebbero il ricovero in ospedali già a rischio di
+  sovraffollamento.'
+Link: https://www.medicisenzafrontiere.it/news-e-storie/news/coronavirus-anziani-marche/
+Posizione: 43.615572 13.518076 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1320,589184861,2020-03-27 15:14:01,2020-03-27 14:46:46,"Ministero dei Trasporti, proroga sospensione divieto circolazione dei mezzi pesanti nei giorni festivi",,,,,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""proroga sospensione divieto circolazione dei mezzi pesanti nei giorni festivi"", ""Descrizione"": ""La ministra delle Infrastrutture e dei Trasporti, ha firmato il decreto di proroga della sospensione dei divieti di circolazione sulle strade extraurbane nei giorni festivi del 29 marzo e del 5 aprile per i mezzi adibiti al trasporto cose, di massa complessiva massima autorizzata superiore a 7,5 tonnellate. Per i servizi di trasporto merci internazionale resta, invece, la sospensione del calendario dei divieti, fino a nuove disposizioni del governo. La proroga del provvedimento \u00e8 necessaria per far fronte all\u2019emergenza Coronavirus e superare un ulteriore elemento di criticit\u00e0 del sistema dei trasporti non pi\u00f9 giustificato dall\u2019attuale riduzione dei flussi di traffico."", ""Fonte"": ""Ministero delle Infrastrutture e dei Trasporti"", ""Link"": ""http://www.mit.gov.it/sites/default/files/media/notizia/2020-03/Decreto%20129%20del%2026-03-2020.pdf""}","<pre><yamldata>
+Cosa: proroga sospensione divieto circolazione dei mezzi pesanti nei giorni festivi
+Descrizione: La ministra delle Infrastrutture e dei Trasporti, ha firmato il decreto
+  di proroga della sospensione dei divieti di circolazione sulle strade extraurbane
+  nei giorni festivi del 29 marzo e del 5 aprile per i mezzi adibiti al trasporto
+  cose, di massa complessiva massima autorizzata superiore a 7,5 tonnellate. Per i
+  servizi di trasporto merci internazionale resta, invece, la sospensione del calendario
+  dei divieti, fino a nuove disposizioni del governo. La proroga del provvedimento
+  è necessaria per far fronte all’emergenza Coronavirus e superare un ulteriore elemento
+  di criticità del sistema dei trasporti non più giustificato dall’attuale riduzione
+  dei flussi di traffico.
+Fonte: Ministero delle Infrastrutture e dei Trasporti
+Link: http://www.mit.gov.it/sites/default/files/media/notizia/2020-03/Decreto%20129%20del%2026-03-2020.pdf
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1319,589174213,2020-03-27 15:25:09,2020-03-27 14:30:39,Richiesta di aiuto per promuovere la consegna a domicilio di fiori e produzione locale,,,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""fiori e produzione locale"", ""Descrizione"": ""Salve, vi scrivo in questo momento complicato per tutti, per capire se fosse possibile collaborare insieme.\nSono una fiorista e stiamo pensando nella nostra categoria di provare a sostenere le consegne a domicilio di fiori. Le aziende laziali e romane stanno perdendo tantissimo prodotto perch\u00e9 non riescono a smaltirlo e venderlo. i fiori che erano destinati alla primavera stanno venendo buttati a quantit\u00e0 inimmaginabili. Ci potrebbe essere una rete di consegne per sponsorizzare questo prodotto e far s\u00ec che le aziende possano in qualche modo vendere il loro prodotto invece di buttarlo? Pensate che potrebbe essere una cosa fattibile, creare qualcosa insieme per Poter sostenere queste piccole/medie aziende locali che hanno tantissimo prodotto e non riescono a smaltirlo? Purtroppo i fiori sono stagionali e non potranno essere venduti tra due mesi, il problema \u00e8 ora \u00e8 servirebbe una catena sostenibile che possa aiutarle loro ed i fioristi a creare una catena per sponsorizzarli! Si potrebbero pensare delle consegne a domicilio di fiori stagionali."", ""Destinatari"": ""tutti"", ""Email"": ""agostinoemanuela@gmail.com"", ""Nome"": ""Emanuela Agostino"", ""Telefono"": ""3332749951""}","<pre><yamldata>
+Cosa: fiori e produzione locale
+Descrizione: 'Salve, vi scrivo in questo momento complicato per tutti, per capire
+  se fosse possibile collaborare insieme.
+
+  Sono una fiorista e stiamo pensando nella nostra categoria di provare a sostenere
+  le consegne a domicilio di fiori. Le aziende laziali e romane stanno perdendo tantissimo
+  prodotto perché non riescono a smaltirlo e venderlo. i fiori che erano destinati
+  alla primavera stanno venendo buttati a quantità inimmaginabili. Ci potrebbe essere
+  una rete di consegne per sponsorizzare questo prodotto e far sì che le aziende possano
+  in qualche modo vendere il loro prodotto invece di buttarlo? Pensate che potrebbe
+  essere una cosa fattibile, creare qualcosa insieme per Poter sostenere queste piccole/medie
+  aziende locali che hanno tantissimo prodotto e non riescono a smaltirlo? Purtroppo
+  i fiori sono stagionali e non potranno essere venduti tra due mesi, il problema
+  è ora è servirebbe una catena sostenibile che possa aiutarle loro ed i fioristi
+  a creare una catena per sponsorizzarli! Si potrebbero pensare delle consegne a domicilio
+  di fiori stagionali.'
+Destinatari: tutti
+Email: agostinoemanuela@gmail.com
+Nome: Emanuela Agostino
+Telefono: '3332749951'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1317,589079027,2020-03-27 15:15:09,2020-03-27 11:49:28,"Ascolto famiglie, sostegno allo studio e animazione #Roma",41.900357,12.503463,Lazio,Roma,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Casa delle arti e del gioco"", ""Descrizione"": ""Servizi di sostegno dell' equipe della ludoteca CEMEA del Mezzogiorno Onlus"", ""Destinatari"": ""Cittadini di Roma"", ""Link"": ""https://www.facebook.com/921094247939211/photos/a.925243690857600/3150513471663933/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.900357 12.503463 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ascolto famiglie, sostegno allo studio e animazione a#Roma""}","<pre><yamldata>
 Da_chi_offerta: Casa delle arti e del gioco
 Descrizione: Servizi di sostegno dell' equipe della ludoteca CEMEA del Mezzogiorno
   Onlus
@@ -10,7 +877,7 @@ Posizione: 41.900357 12.503463 0 0
 Tipo_di_soggetto: privato
 Titolo: Ascolto famiglie, sostegno allo studio e animazione a#Roma
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1316,589075315,2020-03-27 11:43:17,2020-03-27 11:42:13,Mappa esercizi commerciali con consegna a domicilio a #Milano,45.463989,9.188501,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form"", ""iniziativa""]",,,"{""Da_chi_offerta"": ""Comune di Milano"", ""Descrizione"": ""Mappa con gli esercizi commericali che fanno consegna a domicilio a Milano"", ""Destinatari"": ""Cittadini di Milano"", ""Link"": ""https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=8331c92136d2417eb20e9916d0d36664"", ""Posizione"": ""45.463989 9.188501 0 0"", ""Titolo"": ""Mappa esercizi commerciali con consegna a domicilio a #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1316,589075315,2020-03-27 15:15:42,2020-03-27 11:42:13,"Mappa esercizi commerciali con consegna a domicilio, Comune di #Milano",45.463989,9.188501,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form"", ""iniziativa""]",,,"{""Da_chi_offerta"": ""Comune di Milano"", ""Descrizione"": ""Mappa con gli esercizi commericali che fanno consegna a domicilio a Milano"", ""Destinatari"": ""Cittadini di Milano"", ""Link"": ""https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id=8331c92136d2417eb20e9916d0d36664"", ""Posizione"": ""45.463989 9.188501 0 0"", ""Titolo"": ""Mappa esercizi commerciali con consegna a domicilio a #Milano""}","<pre><yamldata>
 Da_chi_offerta: Comune di Milano
 Descrizione: Mappa con gli esercizi commericali che fanno consegna a domicilio a Milano
 Destinatari: Cittadini di Milano
@@ -18,26 +885,19 @@ Link: https://geoportale.comune.milano.it/portal/apps/webappviewer/index.html?id
 Posizione: 45.463989 9.188501 0 0
 Titolo: 'Mappa esercizi commerciali con consegna a domicilio a #Milano'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1315,589069440,2020-03-27 11:48:28,2020-03-27 11:30:32,URGENTE: FabLab #Messina cerca stampanti 3D e makers per adattare maschere EasyBreath e donarle all’ospedale della città,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Chiamata alla stampa"", ""Descrizione"": ""In sinergia con il dipartimento di Ingegneria dell'Universit\u00e0 di Messina stiamo provvedendo a fornire la prima tranche di 50 adattatori Charlotte 1 per il policlinico \""G. Martino\"" di Messina.\n\nL'adattatore Charlotte 1, progettato da Isinnova, serve a convertire le maschere EasyBreath di Decathlon in maschere CPAP (ventilazione meccanica a pressione positiva continua).\n\nChiediamo a chiunque sia in possesso di una stampante 3D (soprattutto nell'area del comune di Messina o limitrofi) di contribuire alla stampa!\nSe non puoi contribuire stampando in 3D puoi farlo condividendo questo post in modo da raggiungere il maggior numero di persone!\n\nPer aderire visitate questo link: bit.ly/MC_CHARLOTTE1"", ""Destinatari"": ""Makers Messina"", ""Email"": ""info@fablabmessina.it"", ""Indirizzo"": ""38.194552 15.550859 0 0"", ""Link"": ""https://www.facebook.com/photo/?fbid=1811767752289508&set=a.547987792000850"", ""Nome"": ""FabLab Messina""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1315,589069440,2020-03-27 16:00:47,2020-03-27 11:30:32,URGENTE: FabLab #Messina cerca stampanti 3D e makers per adattare maschere EasyBreath e donarle all’ospedale della città,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Chiamata alla stampa"", ""Descrizione"": ""In sinergia con il dipartimento di Ingegneria dell'Universit\u00e0 di Messina stiamo provvedendo a fornire la prima tranche di 50 adattatori Charlotte 1 per il policlinico \""G. Martino\"" di Messina. L'adattatore Charlotte 1, progettato da Isinnova, serve a convertire le maschere EasyBreath di Decathlon in maschere CPAP (ventilazione meccanica a pressione positiva continua). Chiediamo a chiunque sia in possesso di una stampante 3D (soprattutto nell'area del comune di Messina o limitrofi) di contribuire alla stampa! Se non puoi contribuire stampando in 3D puoi farlo condividendo questo post in modo da raggiungere il maggior numero di persone! Per aderire visitate questo link: [bit.ly/MC_CHARLOTTE1](http://fablabmessina.it/sub/forum/viewtopic.php?f=28&t=31)"", ""Destinatari"": ""Makers Messina"", ""Email"": ""info@fablabmessina.it"", ""Indirizzo"": ""38.194552 15.550859 0 0"", ""Link"": ""https://www.facebook.com/photo/?fbid=1811767752289508&set=a.547987792000850"", ""Nome"": ""FabLab Messina""}","<pre><yamldata>
 Cosa: Chiamata alla stampa
 Descrizione: 'In sinergia con il dipartimento di Ingegneria dell''Università di Messina
   stiamo provvedendo a fornire la prima tranche di 50 adattatori Charlotte 1 per il
   policlinico ""G. Martino"" di Messina.
-
-
   L''adattatore Charlotte 1, progettato da Isinnova, serve a convertire le maschere
   EasyBreath di Decathlon in maschere CPAP (ventilazione meccanica a pressione positiva
   continua).
-
-
   Chiediamo a chiunque sia in possesso di una stampante 3D (soprattutto nell''area
   del comune di Messina o limitrofi) di contribuire alla stampa!
-
   Se non puoi contribuire stampando in 3D puoi farlo condividendo questo post in modo
   da raggiungere il maggior numero di persone!
-
-
-  Per aderire visitate questo link: bit.ly/MC_CHARLOTTE1'
+  Per aderire visitate questo link: [bit.ly/MC_CHARLOTTE1](http://fablabmessina.it/sub/forum/viewtopic.php?f=28&t=31)'
 Destinatari: Makers Messina
 Email: info@fablabmessina.it
 Indirizzo: 38.194552 15.550859 0 0
@@ -910,7 +1770,7 @@ Tipo_di_soggetto: privato
 Titolo: DoveFila
 Posizione: 42.6384261 12.674297 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1256,588348341,2020-03-27 11:13:35,2020-03-26 11:26:12,Maschera Easybreath da snorkeling modificata: modalità di raccolta stampe 3D #Brescia,45.5255987,10.2145664,Lombardia,Brescia,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""FabLab Brescia"", ""Descrizione"": ""La Protezione Civile ha richiesto la realizzazione di 500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza, sul progetto sviluppato e reso disponibile dalla bresciana Isinnova. MODALIT\u00c0 DI RACCOLTA DELLE STAMPE Il punto di raccolta \u00e8 il seguente: \ud83d\udccd Isinnova Via Cefalonia n. 55, Brescia - Palazzo Symbol - 6\u00b0 Piano - Tel. 030 2425514. Sar\u00e0 possibile effettuare la consegna da luned\u00ec 23 marzo, dalle ore 9:00 alle 17:30 segnalando eventuali esigenze telefonicamente. Si invita ad informare tramite una mail a info@bresciafablab.it (tel. 030 30 99 039) del numero pezzi realizzati, della data di consegna, delle modalit\u00e0 di spedizione adottate, considerando le restrizioni in vigore. Per ulteriori aggiornamenti https://www.facebook.com/fablabbrescia/"", ""Destinatari"": ""Maker ed associati del FabLab Brescia"", ""Link"": ""https://www.isinnova.it/easy-covid19/?fbclid=IwAR0EiYUjEDP8cMkmcOhAhB0zVWmj8alxgxI8F2fJKp8mgnFZIYgusaKAhj0"", ""Natura"": ""solidale"", ""Posizione"": ""45.5255987 10.2145664"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""500kit per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1256,588348341,2020-03-28 09:59:57,2020-03-26 11:26:12,Maschera Easybreath da snorkeling modificata: modalità di raccolta stampe 3D #Brescia,45.5255987,10.2145664,Lombardia,Brescia,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""FabLab Brescia"", ""Descrizione"": ""La Protezione Civile ha richiesto la realizzazione di 500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza, sul progetto sviluppato e reso disponibile dalla bresciana Isinnova. MODALIT\u00c0 DI RACCOLTA DELLE STAMPE Il punto di raccolta \u00e8 il seguente: \ud83d\udccd Isinnova Via Cefalonia n. 55, Brescia - Palazzo Symbol - 6\u00b0 Piano - Tel. 030 2425514. Sar\u00e0 possibile effettuare la consegna da luned\u00ec 23 marzo, dalle ore 9:00 alle 17:30 segnalando eventuali esigenze telefonicamente. Si invita ad informare tramite una mail a info@bresciafablab.it (tel. 030 30 99 039) del numero pezzi realizzati, della data di consegna, delle modalit\u00e0 di spedizione adottate, considerando le restrizioni in vigore. Per ulteriori aggiornamenti https://www.facebook.com/fablabbrescia/"", ""Destinatari"": ""Maker ed associati del FabLab Brescia"", ""Link"": ""https://www.isinnova.it/easy-covid19/?fbclid=IwAR0EiYUjEDP8cMkmcOhAhB0zVWmj8alxgxI8F2fJKp8mgnFZIYgusaKAhj0"", ""Natura"": ""solidale"", ""Posizione"": ""45.5255987 10.2145664"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""500kit per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza""}","<pre><yamldata>
 Da_chi_offerta: FabLab Brescia
 Descrizione: 'La Protezione Civile ha richiesto la realizzazione di 500kit di per convertire la maschera Easybreath da snorkeling di Decathlon in maschera respiratore di emergenza, sul progetto sviluppato e reso disponibile dalla bresciana Isinnova.
 MODALITÀ DI RACCOLTA DELLE STAMPE
@@ -6204,11 +7064,6 @@ Posizione: 44.22785 12.073442 0 0
 Tipo_di_soggetto: pubblico
 Titolo: Servizi domiciliari
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/846,584371823,2020-03-19 12:39:07,2020-03-19 12:18:57,Raccolta fondi a favore dell'Ospedale Niguarda di #Milano,45.509870750000005,9.186030699233626,Lombardia,Milano,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale"", ""Nome"": ""Ospedale Niguarda"", ""Posizione"": ""45.509870750000005 9.186030699233626 0 0""}","<pre><yamldata>
-Link: https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale
-Nome: Ospedale Niguarda
-Posizione: 45.509870750000005 9.186030699233626 0 0
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/845,584371201,2020-03-19 12:37:39,2020-03-19 12:17:47,Raccolta fondi a sostegno dell'ASL di #Pescara,42.460479,14.213176,Abruzzo,Pescara,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""erogazione liberale emergenza Covid-19"", ""Descrizione"": ""Per supportare l\u2019ASL di Pescara in questa fase di emergenza sanitaria, si pu\u00f2 fare attraverso la donazione di una somma di denaro oppure la donazione di specifici beni.\n \nIn entrambi i casi va compilato questo modulo e va restituito all\u2019indirizzo mail: segreteria_da@ausl.pe.it\n \nLe donazioni di denaro dovranno essere effettuate mediante bonifico sul seguente c/c:\nAzienda Sanitaria Locale di Pescara\nBanca Popolare di Bari Spa\nIBAN: IT 29 I 05424 04297 000050000410\nCausale: erogazione liberale emergenza Covid-19\n \nLa proposta di donazione di beni dovr\u00e0 essere corredata dalla documentazione riportata nella modulistica specifica.\n \nLa Direzione ringrazia, a nome di tutta l\u2019Azienda, chiunque volesse fornire il proprio contributo."", ""IBAN"": ""IT 29 I 05424 04297 000050000410"", ""Intestazione"": ""Azienda Sanitaria Locale di Pescara"", ""Link"": ""https://www.ausl.pe.it/Sezione.jsp?titolo=emergenza-epidemiologica-covid-19---donazioni&idSezione=1341"", ""Nome"": ""ASL Pescara"", ""Posizione"": ""42.460479 14.213176 0 0""}","<pre><yamldata>
 Causale: erogazione liberale emergenza Covid-19
 Descrizione: ""Per supportare l’ASL di Pescara in questa fase di emergenza sanitaria,\
@@ -7513,7 +8368,7 @@ Posizione: 38.113135 13.36225 0 0
 Titolo: Non vi lasciamo senza musica
 Link: http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/763,583645570,2020-03-18 12:26:38,2020-03-18 11:01:12,#Bari - ARCI offre supporto psicosociale multilingue - Contatti utili,41.1257843,16.8620293,Puglia,Bari,"[""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.facebook.com/arci.bari/photos/pb.445731925570750.-2207520000../1936998286444099/?type=3&theater"", ""Nome"": ""ARCI BARI - supporto psicosociale con sportello di ascolto attivo e mutlilungue (anche su whatsapp e skype)"", ""Posizione"": ""41.1257843 16.8620293 0 0"", ""Scopo"": ""sportello di ascolto psicosociale in italiano, inglese, francese, spagnolo, portoghese, tedesco, arabo, albanese.\ndalle 16.00 alle 19.00\nanche su whatsapp e skype"", ""Telefono"": ""3248886873  - 3938393197""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/763,583645570,2020-03-28 09:16:40,2020-03-18 11:01:12,#Bari - ARCI offre supporto psicosociale multilingue - Contatti utili,41.1257843,16.8620293,Puglia,Bari,"[""Contatti utili"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.facebook.com/arci.bari/photos/pb.445731925570750.-2207520000../1936998286444099/?type=3&theater"", ""Nome"": ""ARCI BARI - supporto psicosociale con sportello di ascolto attivo e mutlilungue (anche su whatsapp e skype)"", ""Posizione"": ""41.1257843 16.8620293 0 0"", ""Scopo"": ""sportello di ascolto psicosociale in italiano, inglese, francese, spagnolo, portoghese, tedesco, arabo, albanese.\ndalle 16.00 alle 19.00\nanche su whatsapp e skype"", ""Telefono"": ""3248886873  - 3938393197""}","<pre><yamldata>
 Link: https://www.facebook.com/arci.bari/photos/pb.445731925570750.-2207520000../1936998286444099/?type=3&theater
 Nome: ARCI BARI - supporto psicosociale con sportello di ascolto attivo e mutlilungue
   (anche su whatsapp e skype)
@@ -11355,7 +12210,7 @@ Regione: Puglia
 Tipo_di_soggetto: pubblico
 Titolo: 'Ricerca volontari commissioni a domicilio Comune di #Bari'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/421,581242389,2020-03-16 23:10:17,2020-03-14 14:59:25,Consegne e commissioni a domicilio Comune di #Bari,41.125255,16.86199,Puglia,Bari,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""L\u2019assessorato al Welfare ha istituto un piano di sostegno per le persone sole e over 70 in isolamento domiciliare, soggetti vulnerabili asintomatici e i cittadini non autosufficienti e con disabilit\u00e0.\nCon il supporto di una rete di volontari, saranno effettuate consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta.\n\nPer quanto riguarda la richiesta di spesa e farmaci domicilio, bisogna contattare:\n- il Segretariato sociale comunale dal luned\u00ec al venerd\u00ec, dalle ore 9.30 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17 (080 5772508)\n- la segreteria dell\u2019assessorato al Welfare dal luned\u00ec al venerd\u00ec, dalle ore 9 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17\n(segreteriawelfarebari@comune.bari.it. - 0805772523/2503).\n\nPer quanto riguarda le segnalazioni in merito a situazioni di forte isolamento e grave disagio, contattare:\n- il numero verde del Pronto Intervento Sociale - P.I.S. attivo h24 (800 093 470)\n- il Segretariato sociale comunale\n- il numero per l\u2019ascolto sociale in rete con Arci Bari, anche in lingua inglese e francese, dalle ore 16 alle 19 (393 8393197)."", ""Destinatari"": ""Cittadine e cittadini"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR2McKee_-6mK1VIwp1MhHV17HbjEVS-3LyCg4O9kjfvvutd5fyMQIBwe3I"", ""Natura"": ""solidale"", ""Posizione"": ""41.125255 16.86199 0 0"", ""Provincia"": ""Bari"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Commissini Comune di #Bari""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/421,581242389,2020-03-28 09:17:40,2020-03-14 14:59:25,Consegne e commissioni a domicilio Comune di #Bari,41.125255,16.86199,Puglia,Bari,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""L\u2019assessorato al Welfare ha istituto un piano di sostegno per le persone sole e over 70 in isolamento domiciliare, soggetti vulnerabili asintomatici e i cittadini non autosufficienti e con disabilit\u00e0.\nCon il supporto di una rete di volontari, saranno effettuate consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta.\n\nPer quanto riguarda la richiesta di spesa e farmaci domicilio, bisogna contattare:\n- il Segretariato sociale comunale dal luned\u00ec al venerd\u00ec, dalle ore 9.30 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17 (080 5772508)\n- la segreteria dell\u2019assessorato al Welfare dal luned\u00ec al venerd\u00ec, dalle ore 9 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17\n(segreteriawelfarebari@comune.bari.it. - 0805772523/2503).\n\nPer quanto riguarda le segnalazioni in merito a situazioni di forte isolamento e grave disagio, contattare:\n- il numero verde del Pronto Intervento Sociale - P.I.S. attivo h24 (800 093 470)\n- il Segretariato sociale comunale\n- il numero per l\u2019ascolto sociale in rete con Arci Bari, anche in lingua inglese e francese, dalle ore 16 alle 19 (393 8393197)."", ""Destinatari"": ""Cittadine e cittadini"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR2McKee_-6mK1VIwp1MhHV17HbjEVS-3LyCg4O9kjfvvutd5fyMQIBwe3I"", ""Natura"": ""solidale"", ""Posizione"": ""41.125255 16.86199 0 0"", ""Provincia"": ""Bari"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Commissioni Comune di #Bari""}","<pre><yamldata>
 Comune: Bari
 Da_chi_offerta: Comune di Bari
 Descrizione: ""L\u2019assessorato al Welfare ha istituto un piano di sostegno per le\
@@ -11381,7 +12236,7 @@ Posizione: 41.125255 16.86199 0 0
 Provincia: Bari
 Regione: Puglia
 Tipo_di_soggetto: pubblico
-Titolo: 'Commissini Comune di #Bari'
+Titolo: 'Commissioni Comune di #Bari'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/420,581237674,2020-03-14 22:15:23,2020-03-14 14:46:58,Avviso pubblico manifestazione di interesse Medici Regione #Calabria,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Avviso Pubblico Manifestazione di Interesse per Medici Regione #Calabria"", ""Descrizione"": ""Avviso Pubblico Manifestazione di Interesse per Medici Specialisti, Medici Specializzandi e Medici Laureati disponibili a prestare attivit\u00e0 Clinico Assistenziale nelle Aziende Sanitarie e Ospedaliere del S.S.R. della Regione Calabria necessaria a garantire l\u2019erogazione delle prestazioni di assistenza sanitaria in ragione delle esigenze straordinarie ed urgenze derivati dalla diffusione del COVID-19."", ""Destinatari"": ""Medici Specialisti, Medici Specializzandi e Medici Laureati"", ""Indirizzo"": ""38.105943 15.659821 0 0"", ""Link"": ""https://portale.regione.calabria.it/website/portaltemplates/view/view.cfm?17056""}","<pre><yamldata>
 Cosa: 'Avviso Pubblico Manifestazione di Interesse per Medici Regione #Calabria'
