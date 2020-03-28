@@ -219,6 +219,20 @@ Link: https://www.ao.pr.it/emergenza-covid-19-come-sostenere-il-maggiore/
 Posizione: 44.8063481 10.305017 0 0
 Regione: Emilia Romagna
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1369,589485441,2020-03-28 10:51:35,2020-03-28 01:38:47,Raccolta fondi ASST #Crema,45.36474,9.68427,Lombardia,Cremona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC SWIFT"": ""BAPPIT21R01  "", ""Causale"": ""donazione: emergenza COVID 19 (nome e cognome/azienda/associazione, CF, indirizzo) "", ""Chi"": ""ASST Crema"", ""Citta"": ""Crema"", ""Fonte"": ""Sito Ospedale"", ""IBAN"": ""IT82H0503456841000000005802 "", ""Indirizzo"": ""Largo Ugo Dossena, 2, 26013 Crema CR"", ""Intestazione"": ""ASST di Crema"", ""Link"": ""https://www.asst-crema.it/donazioni"", ""Posizione"": ""45.36474 9.68427"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+BIC SWIFT: 'BAPPIT21R01  '
+Causale: 'donazione: emergenza COVID 19 (nome e cognome/azienda/associazione, CF,
+  indirizzo) '
+Chi: ASST Crema
+Citta: Crema
+Fonte: Sito Ospedale
+IBAN: 'IT82H0503456841000000005802 '
+Indirizzo: Largo Ugo Dossena, 2, 26013 Crema CR
+Intestazione: ASST di Crema
+Link: https://www.asst-crema.it/donazioni
+Regione: Lombardia
+Posizione: 45.36474 9.68427
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1368,589484902,2020-03-28 10:43:19,2020-03-28 01:34:39,Raccolta fondi Ospedale Sant'Anna #Como,45.7928915,9.0467485,Lombardia,Como,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Chi"": ""Ospedale Sant'Anna di Como"", ""Citta"": ""Como"", ""Fonte"": ""Sito dell'Ospedale"", ""Indirizzo"": ""Via Ravona, 20, 22042 San fermo della battaglia CO"", ""Link"": ""http://asst-lariana.it/v2/1/?p=243"", ""Posizione"": ""45.7928915 9.0467485"", ""Regione"": ""Lombardia""}","<pre><yamldata>
 Chi: Ospedale Sant'Anna di Como
 Citta: Como
