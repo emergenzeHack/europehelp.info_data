@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1345,589327967,2020-03-28 08:21:29,2020-03-27 18:35:18,"Ascolto telefonico, consegna spesa e medicinali Comune #SantIlariodEnza #ReggioEmilia",44.76057,10.45149,Emilia-Romagna,Reggio nell'Emilia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune Sant'Ilario d'Enza"", ""Descrizione"": ""Le iniziative di Comune e associazioni per fronteggiare l'emergenza\n(numeri ed orari per telefonare)\n\nconsegna farmaci al domicilio\n\nStiamo in Ascolto - per scambiare una parola con qualcuno -\n\nconsegna spesa al domicilio"", ""Destinatari"": ""cittadini anziani, soli o fragili"", ""Link"": ""http://www.comune.santilariodenza.re.it/Sezione.jsp?&idSezione=6560"", ""Natura"": ""solidale"", ""Posizione"": ""44.76057 10.45149 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ascolto telefonico, consegna spesa e medicinali""}","<pre><yamldata>
+Da_chi_offerta: Comune Sant'Ilario d'Enza
+Descrizione: 'Le iniziative di Comune e associazioni per fronteggiare l''emergenza
+
+  (numeri ed orari per telefonare)
+
+
+  consegna farmaci al domicilio
+
+
+  Stiamo in Ascolto - per scambiare una parola con qualcuno -
+
+
+  consegna spesa al domicilio'
+Destinatari: cittadini anziani, soli o fragili
+Link: http://www.comune.santilariodenza.re.it/Sezione.jsp?&idSezione=6560
+Natura: solidale
+Posizione: 44.76057 10.45149 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Ascolto telefonico, consegna spesa e medicinali
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1344,589327737,2020-03-28 08:19:19,2020-03-27 18:34:50,Regione #Piemonte - Prontuario semplificato per ricetta medica dematerializzata,44.78866,8.00862,Piemonte,Cuneo,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""#RegionePiemonte: prontuario semplificato per ricetta dematerializzata"", ""Descrizione"": ""In occasione dell'emergenza Covid-19 il servizio on line \""Ricette dematerializzate\"" pu\u00f2 essere utilizzato in modalit\u00e0 semplificata per contribuire al contenimento del contagio e a ridurre gli assembramenti. L'ordinanza n. 651 del 19 marzo della Protezione Civile stabilisce infatti che la ricetta medica possa essere inviata dal medico curante via email o tramite messaggio telefonico, senza pi\u00f9 la necessit\u00e0 di ritirare fisicamente, e portare in farmacia, il promemoria cartaceo. L'assistito che ha necessit\u00e0 di una prescrizione pu\u00f2 quindi chiedere al medico il rilascio del promemoria dematerializzato (ci\u00f2 che serve \u00e8 il Numero di Ricetta Elettronica) tramite:\na) allegato a messaggio di posta elettronica;\nb) comunicazione del Numero di Ricetta Elettronica con SMS o con sistema di istant message (ad esempio WhatsApp, Telegram, Messanger\u2026)\nc) comunicazione telefonica"", ""Fonte"": ""Regione Piemonte"", ""Link"": ""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-03/faq_ricetta_dematerializzata.pdf"", ""Posizione"": ""44.78866 8.00862""}","<pre><yamldata>
 Cosa: '#RegionePiemonte: prontuario semplificato per ricetta dematerializzata'
 Descrizione: 'In occasione dell''emergenza Covid-19 il servizio on line ""Ricette dematerializzate""
