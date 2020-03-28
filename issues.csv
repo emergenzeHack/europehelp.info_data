@@ -196,6 +196,18 @@ Posizione: 45.3230969 8.4080388 0 0
 Link: http://www.aslvc.piemonte.it/1159-donazioni-a-favore-dell-asl-per-emergenza-coronavirus
 Regione: Piemonte
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1385,589485543,2020-03-28 10:05:07,2020-03-28 01:39:27,Raccolta fondi promossa dalla Fondazione Valsesia a favore degli Ospedali di #Borgosesia e #Vercelli,45.3173453,8.4131621,Piemonte,Vercelli,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""\""emergenza Coronavirus\"""", ""Chi"": ""Ospedale di Borgosesia e Vercelli"", ""Citta"": ""Vercelli"", ""Fonte"": ""corriere.it e ASL di Vercelli"", ""IBAN"": ""IT29R0609044900000001001092"", ""Indirizzo"": ""Corso Mario Abbiate, 21, 13100 Vercelli VC"", ""Intestazione"": ""Fondazione Valsesia Onlus"", ""Link"": ""https://fondazionevalsesia.blogspot.com/2020/03/facciamoloinsieme-raccolta-fondi-per.html"", ""Posizione"": ""45.3173453 8.4131621 0 0"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+Causale: '""emergenza Coronavirus""'
+Chi: Ospedale di Borgosesia e Vercelli
+Citta: Vercelli
+Fonte: corriere.it e ASL di Vercelli
+IBAN: IT29R0609044900000001001092
+Indirizzo: Corso Mario Abbiate, 21, 13100 Vercelli VC
+Intestazione: Fondazione Valsesia Onlus
+Link: https://fondazionevalsesia.blogspot.com/2020/03/facciamoloinsieme-raccolta-fondi-per.html
+Posizione: 45.3173453 8.4131621 0 0
+Regione: Piemonte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1362,589484854,2020-03-28 09:13:55,2020-03-28 01:34:25,Raccolta fondi Ospedale Niguarda  #Milano #Lombardia,45.5088452,9.1895473,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Interventi e investimenti per emergenza"", ""Chi"": ""Ospedale Niguarda  #Milano #Lombardia"", ""Citta"": ""Milano"", ""Fonte"": ""Sito ospedale"", ""IBAN"": ""IT84F0311101659000000038085 "", ""Indirizzo"": ""Piazza dell'Ospedale Maggiore, 3, 20162 Milano"", ""Link"": ""https://www.ospedaleniguarda.it/news/leggi/emergenza-coronavirus-donazioni-allospedale"", ""Posizione"": ""45.5088452 9.1895473"", ""Regione"": ""Lombardia""}","<pre><yamldata>
 Causale: Interventi e investimenti per emergenza
 Chi: 'Ospedale Niguarda  #Milano #Lombardia'
