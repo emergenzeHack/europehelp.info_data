@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1403,589533369,2020-03-28 08:29:48,2020-03-28 08:27:46,La Bottega Delizie e Capricci consegna spesa a domicilio #Solomeo #Corciano #Perugia,43.082494,12.276755,Umbria,Perugia,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Attivo il servizio gratuito di spesa a domicilio:\n- whatsapp 3460906352\n- fisso 0755293795"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 contanti"", ""Nome_dell_esercizio_commercial"": ""La bottega Delizie e Capricci"", ""Posizione"": ""43.082494 12.276755 0 0"", ""Telefono"": ""3460906352""}","<pre><yamldata>
+Descrizione: 'Attivo il servizio gratuito di spesa a domicilio:
+
+  - whatsapp 3460906352
+
+  - fisso 0755293795'
+Metodi_di_pagamento_accettati: contrassegno option_2 contanti
+Nome_dell_esercizio_commercial: La bottega Delizie e Capricci
+Posizione: 43.082494 12.276755 0 0
+Telefono: '3460906352'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1345,589327967,2020-03-28 08:21:29,2020-03-27 18:35:18,"Ascolto telefonico, consegna spesa e medicinali Comune #SantIlariodEnza #ReggioEmilia",44.76057,10.45149,Emilia-Romagna,Reggio nell'Emilia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune Sant'Ilario d'Enza"", ""Descrizione"": ""Le iniziative di Comune e associazioni per fronteggiare l'emergenza\n(numeri ed orari per telefonare)\n\nconsegna farmaci al domicilio\n\nStiamo in Ascolto - per scambiare una parola con qualcuno -\n\nconsegna spesa al domicilio"", ""Destinatari"": ""cittadini anziani, soli o fragili"", ""Link"": ""http://www.comune.santilariodenza.re.it/Sezione.jsp?&idSezione=6560"", ""Natura"": ""solidale"", ""Posizione"": ""44.76057 10.45149 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ascolto telefonico, consegna spesa e medicinali""}","<pre><yamldata>
 Da_chi_offerta: Comune Sant'Ilario d'Enza
 Descrizione: 'Le iniziative di Comune e associazioni per fronteggiare l''emergenza
