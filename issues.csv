@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1340,589295516,2020-03-28 08:04:06,2020-03-27 17:38:28,Azienda agricola Scaglia: consegna carne da allevamento sostenibile #Piemonte,45.085566,7.540655,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Carne da allevamento sostenibile.\nFino al 03/04 SPEDIZIONI GRATUITE con un ordine minimo di 30 \u20ac nei comuni di :\nAlpignano, Beinasco, Collegno, Grugliasco, Moncalieri, Nichelino, Orbassano, Pianezza, Rivalta di Torino, Rivoli, Rosta, Torino, Venaria Reale e Villarbasse.\nPer tutti gli altri comuni spedizione con le tariffe standard."", ""Email"": ""info@aziendaagricolascaglia.it"", ""Link"": ""https://www.aziendaagricolascaglia.it/"", ""Nome_dell_esercizio_commercial"": ""Azienda agricola Scaglia"", ""Posizione"": ""45.085566 7.540655 0 0"", ""Telefono"": ""+390119573808""}","<pre><yamldata>
+Descrizione: 'Carne da allevamento sostenibile.
+
+  Fino al 03/04 SPEDIZIONI GRATUITE con un ordine minimo di 30 € nei comuni di :
+
+  Alpignano, Beinasco, Collegno, Grugliasco, Moncalieri, Nichelino, Orbassano, Pianezza,
+  Rivalta di Torino, Rivoli, Rosta, Torino, Venaria Reale e Villarbasse.
+
+  Per tutti gli altri comuni spedizione con le tariffe standard.'
+Email: info@aziendaagricolascaglia.it
+Link: https://www.aziendaagricolascaglia.it/
+Nome_dell_esercizio_commercial: Azienda agricola Scaglia
+Posizione: 45.085566 7.540655 0 0
+Telefono: '+390119573808'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1339,589289040,2020-03-28 08:02:02,2020-03-27 17:27:03,Consegna spesa a domicilio con Cortilia,42.635016,12.671657,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bisogna registrarsi gratuitamente alla piattaforma, specificando la citt\u00e0 in cui si desidera ricevere la spesa. Dopo selezionare i prodotti, componendo il carrello. Si pu\u00f2 scegliere tra frutta e verdura fresche di stagione, formaggi, uova, carni, salumi, pesce fresco, pasta, pane e riso, vino e molto altro ancora.\n\u00c8 possibile anche abbonarsi alle cassette, ricevendo, alla frequenza desiderata, una composizione di prodotti assortiti in base a varie tipologie predefinite."", ""Link"": ""www.cortilia.it/"", ""Nome_dell_esercizio_commercial"": ""Cortilia"", ""Posizione"": ""42.635016 12.671657 0 0"", ""Telefono"": ""0287197503""}","<pre><yamldata>
 Descrizione: 'Bisogna registrarsi gratuitamente alla piattaforma, specificando la
   città in cui si desidera ricevere la spesa. Dopo selezionare i prodotti, componendo
