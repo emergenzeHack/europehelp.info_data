@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1343,589308199,2020-03-28 08:16:02,2020-03-27 17:59:33,L'Agrisalumeria Luiset consegna salumi a domicilio,45.070717,7.686052,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'Agrisalumeria Luiset \u00e8 un'azienda agricola a filiera corta con allevamento suino e relativa salumeria che trasforma in carni e salumi, senza glutine, tipici del Piemonte, con budelli naturali. Si possono ordinare i salumi Luiset comodamente on-line. \nper gli ordini di Torino chiamare il punto vendita: 011 8170652\nper gli ordini di Alba chiamare il punto vendita: 0173 229134"", ""Email"": ""info@agrisalumeria.it"", ""Link"": ""https://www.agrisalumeria.it/"", ""Nome_dell_esercizio_commercial"": ""Agrisalumeria Luiset"", ""Posizione"": ""45.070717 7.686052 0 0"", ""Telefono"": ""0118170652""}","<pre><yamldata>
+Descrizione: ""L'Agrisalumeria Luiset è un'azienda agricola a filiera corta con allevamento\
+  \ suino e relativa salumeria che trasforma in carni e salumi, senza glutine, tipici\
+  \ del Piemonte, con budelli naturali. Si possono ordinare i salumi Luiset comodamente\
+  \ on-line. \nper gli ordini di Torino chiamare il punto vendita: 011 8170652\nper\
+  \ gli ordini di Alba chiamare il punto vendita: 0173 229134""
+Email: info@agrisalumeria.it
+Link: https://www.agrisalumeria.it/
+Nome_dell_esercizio_commercial: Agrisalumeria Luiset
+Posizione: 45.070717 7.686052 0 0
+Telefono: 0118170652
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1342,589306361,2020-03-28 08:12:52,2020-03-27 17:56:22,Bovì consegna carne a temperatura controllata in tutta Italia,45.521458,9.592888,Lombardia,Bergamo,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bov\u00ec \u00e8 un e-commerce di carne.\nSpedisce a temperatura controllata in tutta Italia. La consegna \u00e8 gratuita sopra i \u20ac150,00."", ""Email"": ""info@carnegenuina.it"", ""Link"": ""https://www.carnegenuina.it/"", ""Nome_dell_esercizio_commercial"": ""Bov\u00ec"", ""Posizione"": ""45.521458 9.592888 0 0"", ""Telefono"": ""3289660498""}","<pre><yamldata>
 Descrizione: 'Bovì è un e-commerce di carne.
 
