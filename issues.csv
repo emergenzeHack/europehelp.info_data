@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1344,589327737,2020-03-28 08:19:19,2020-03-27 18:34:50,Regione #Piemonte - Prontuario semplificato per ricetta medica dematerializzata,44.78866,8.00862,Piemonte,Cuneo,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""#RegionePiemonte: prontuario semplificato per ricetta dematerializzata"", ""Descrizione"": ""In occasione dell'emergenza Covid-19 il servizio on line \""Ricette dematerializzate\"" pu\u00f2 essere utilizzato in modalit\u00e0 semplificata per contribuire al contenimento del contagio e a ridurre gli assembramenti. L'ordinanza n. 651 del 19 marzo della Protezione Civile stabilisce infatti che la ricetta medica possa essere inviata dal medico curante via email o tramite messaggio telefonico, senza pi\u00f9 la necessit\u00e0 di ritirare fisicamente, e portare in farmacia, il promemoria cartaceo. L'assistito che ha necessit\u00e0 di una prescrizione pu\u00f2 quindi chiedere al medico il rilascio del promemoria dematerializzato (ci\u00f2 che serve \u00e8 il Numero di Ricetta Elettronica) tramite:\na) allegato a messaggio di posta elettronica;\nb) comunicazione del Numero di Ricetta Elettronica con SMS o con sistema di istant message (ad esempio WhatsApp, Telegram, Messanger\u2026)\nc) comunicazione telefonica"", ""Fonte"": ""Regione Piemonte"", ""Link"": ""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-03/faq_ricetta_dematerializzata.pdf"", ""Posizione"": ""44.78866 8.00862""}","<pre><yamldata>
+Cosa: '#RegionePiemonte: prontuario semplificato per ricetta dematerializzata'
+Descrizione: 'In occasione dell''emergenza Covid-19 il servizio on line ""Ricette dematerializzate""
+  può essere utilizzato in modalità semplificata per contribuire al contenimento del
+  contagio e a ridurre gli assembramenti. L''ordinanza n. 651 del 19 marzo della Protezione
+  Civile stabilisce infatti che la ricetta medica possa essere inviata dal medico
+  curante via email o tramite messaggio telefonico, senza più la necessità di ritirare
+  fisicamente, e portare in farmacia, il promemoria cartaceo. L''assistito che ha
+  necessità di una prescrizione può quindi chiedere al medico il rilascio del promemoria
+  dematerializzato (ciò che serve è il Numero di Ricetta Elettronica) tramite:
+
+  a) allegato a messaggio di posta elettronica;
+
+  b) comunicazione del Numero di Ricetta Elettronica con SMS o con sistema di istant
+  message (ad esempio WhatsApp, Telegram, Messanger…)
+
+  c) comunicazione telefonica'
+Fonte: Regione Piemonte
+Link: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-03/faq_ricetta_dematerializzata.pdf
+Posizione: 44.78866 8.00862
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1343,589308199,2020-03-28 08:16:02,2020-03-27 17:59:33,L'Agrisalumeria Luiset consegna salumi a domicilio,45.070717,7.686052,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'Agrisalumeria Luiset \u00e8 un'azienda agricola a filiera corta con allevamento suino e relativa salumeria che trasforma in carni e salumi, senza glutine, tipici del Piemonte, con budelli naturali. Si possono ordinare i salumi Luiset comodamente on-line. \nper gli ordini di Torino chiamare il punto vendita: 011 8170652\nper gli ordini di Alba chiamare il punto vendita: 0173 229134"", ""Email"": ""info@agrisalumeria.it"", ""Link"": ""https://www.agrisalumeria.it/"", ""Nome_dell_esercizio_commercial"": ""Agrisalumeria Luiset"", ""Posizione"": ""45.070717 7.686052 0 0"", ""Telefono"": ""0118170652""}","<pre><yamldata>
 Descrizione: ""L'Agrisalumeria Luiset è un'azienda agricola a filiera corta con allevamento\
   \ suino e relativa salumeria che trasforma in carni e salumi, senza glutine, tipici\
