@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1449,589624644,2020-03-28 18:02:07,2020-03-28 17:46:27,"Ministero della Salute, servizi di aiuto psicologico regione per regione",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Ministero della Salute"", ""Descrizione"": ""In ogni regione molti professionisti e organizzazioni qualificate offrono ascolto, conforto, sostegno e consigli.\n\nAffrontare le ansie, l'abbattimento, la tristezza e la solitudine legate al contagio ed alle esperienze che stiamo attraversando \u00e8 davvero faticoso. A volte troppo. Possiamo aver bisogno d'aiuto. \n\nNella pagina redatta dal Ministero della Salute ci sono indicazioni per trovare l'aiuto che serve rivolgendoci ai recapiti raccolti dal Consiglio Nazionale dell\u2019Ordine degli Psicologi, dalla Societ\u00e0 Psicanalitica Italiana, dalla Croce Rossa, dalla Societ\u00e0 Italiana di Psicologia dell\u2019Emergenza e da molti altri."", ""Destinatari"": ""per tutti"", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?&id=4335"", ""Titolo"": ""Aiuto psicologico regione per regione""}","<pre><yamldata>
+Da_chi_offerta: Ministero della Salute
+Descrizione: ""In ogni regione molti professionisti e organizzazioni qualificate offrono\
+  \ ascolto, conforto, sostegno e consigli.\n\nAffrontare le ansie, l'abbattimento,\
+  \ la tristezza e la solitudine legate al contagio ed alle esperienze che stiamo\
+  \ attraversando è davvero faticoso. A volte troppo. Possiamo aver bisogno d'aiuto.\
+  \ \n\nNella pagina redatta dal Ministero della Salute ci sono indicazioni per trovare\
+  \ l'aiuto che serve rivolgendoci ai recapiti raccolti dal Consiglio Nazionale dell’Ordine\
+  \ degli Psicologi, dalla Società Psicanalitica Italiana, dalla Croce Rossa, dalla\
+  \ Società Italiana di Psicologia dell’Emergenza e da molti altri.""
+Destinatari: per tutti
+Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?&id=4335
+Titolo: Aiuto psicologico regione per regione
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1448,589617620,2020-03-28 17:17:48,2020-03-28 17:07:19,Caritas #Siracusa attiva servizio di aiuto per persone in difficoltà,37.088015,15.283012,Sicilia,Siracusa,"[""Bollettino"", ""Consegne e commissioni"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Caritas Siracusa"", ""Descrizione"": ""Emergenza Coronavirus e servizi di sostegno. Caritas Siracusa attivo servizio per persone in comprovata condizione di difficolt\u00e0. \u00c8 possibile trasmettere richieste d\u2019aiuto attraverso il nuovo modulo online"", ""Destinatari"": ""Persone in difficolt\u00e0"", ""Link"": ""https://docs.google.com/forms/d/e/1FAIpQLSefBpyi5quTZHFG-W82Lc2AAdTg9pSAXM8cNhosWdyST69aBQ/viewform"", ""Natura"": ""solidale"", ""Posizione"": ""37.088015 15.283012 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Caritas Siracusa attiva servizio di aiuto per persone in difficolt\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Caritas Siracusa
 Descrizione: Emergenza Coronavirus e servizi di sostegno. Caritas Siracusa attivo
@@ -4001,25 +4015,6 @@ Abbiamo però bisogno del tuo aiuto, perchè ognuno, anche con un piccolo contri
 Link: https://www.gofundme.com/f/emergenza-covid19-raccolta-fondi-cri-magliolo?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet
 Nome: Croce Rossa Italiana - Comitato di Magliolo
 Posizione: 44.191805 8.249359 0 0
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1137,586754402,2020-03-24 08:57:19,2020-03-24 07:34:29,AICU - attiva raccolta fondi per terapia intensiva Ospedale Carlo Urbani #Jesi,43.531003,13.222904,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l\u2019emergenza COVID-19\nattraverso il seguente riferimento\nIBAN: IT97O0501802600000012494936\nIl ricavato della raccolta fondi sar\u00e0 destinato all\u2019acquisto di materiale sanitario per l\u2019ospedale Carlo Urbani di Jesi.\nUn gesto per ricordare il contributo del dottor Carlo Urbani nella lotta contro la Sars che possiamo tradurre oggi nell\u2019aiuto ai pazienti e nel sostegno al personale sanitario impegnato in prima linea in questa difficile emergenza."", ""IBAN"": ""IT97O0501802600000012494936"", ""Link"": ""http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/"", ""Nome"": ""Associazione Italiana Carlo Urbani"", ""Posizione"": ""43.531003 13.222904 0 0""}","<pre><yamldata>
-Descrizione: 'L’AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l’emergenza
-  COVID-19
-
-  attraverso il seguente riferimento
-
-  IBAN: IT97O0501802600000012494936
-
-  Il ricavato della raccolta fondi sarà destinato all’acquisto di materiale sanitario
-  per l’ospedale Carlo Urbani di Jesi.
-
-  Un gesto per ricordare il contributo del dottor Carlo Urbani nella lotta contro
-  la Sars che possiamo tradurre oggi nell’aiuto ai pazienti e nel sostegno al personale
-  sanitario impegnato in prima linea in questa difficile emergenza.'
-IBAN: IT97O0501802600000012494936
-Link: http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/
-Nome: Associazione Italiana Carlo Urbani
-Posizione: 43.531003 13.222904 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1137,586754402,2020-03-24 08:57:19,2020-03-24 07:34:29,AICU - attiva raccolta fondi per terapia intensiva Ospedale Carlo Urbani #Jesi,43.531003,13.222904,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l\u2019emergenza COVID-19\nattraverso il seguente riferimento\nIBAN: IT97O0501802600000012494936\nIl ricavato della raccolta fondi sar\u00e0 destinato all\u2019acquisto di materiale sanitario per l\u2019ospedale Carlo Urbani di Jesi.\nUn gesto per ricordare il contributo del dottor Carlo Urbani nella lotta contro la Sars che possiamo tradurre oggi nell\u2019aiuto ai pazienti e nel sostegno al personale sanitario impegnato in prima linea in questa difficile emergenza."", ""IBAN"": ""IT97O0501802600000012494936"", ""Link"": ""http://www.aicu.it/2020/03/22/22-03-20-laicu-per-emergenza-covid-19/"", ""Nome"": ""Associazione Italiana Carlo Urbani"", ""Posizione"": ""43.531003 13.222904 0 0""}","<pre><yamldata>
 Descrizione: 'L’AICU ha attivato da oggi, 22 marzo, una raccolta fondi per l’emergenza
