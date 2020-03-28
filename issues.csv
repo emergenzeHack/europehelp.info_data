@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1341,589298952,2020-03-28 08:09:29,2020-03-27 17:44:50,Pascol consegna box di carne in tutta Italia,42.634922,12.671592,Umbria,Terni,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Pascol permette di prenotare box di carne. La pattaforma aggrega allevatori di bovini sul territorio italiano che rispettano elevati standard, portano i capi in alpeggio o comunque al pascolo durante la stagione calda, garantiscono altissimi livelli di benessere animale e utilizzano un tipo di alimentazione prevalentemente ad erba e fieno."", ""Email"": ""info@pascol.it"", ""Link"": ""https://www.pascol.it/"", ""Nome_dell_esercizio_commercial"": ""Pascol"", ""Posizione"": ""42.634922 12.671592 0 0""}","<pre><yamldata>
+Descrizione: Pascol permette di prenotare box di carne. La pattaforma aggrega allevatori
+  di bovini sul territorio italiano che rispettano elevati standard, portano i capi
+  in alpeggio o comunque al pascolo durante la stagione calda, garantiscono altissimi
+  livelli di benessere animale e utilizzano un tipo di alimentazione prevalentemente
+  ad erba e fieno.
+Email: info@pascol.it
+Link: https://www.pascol.it/
+Nome_dell_esercizio_commercial: Pascol
+Posizione: 42.634922 12.671592 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1340,589295516,2020-03-28 08:04:06,2020-03-27 17:38:28,Azienda agricola Scaglia: consegna carne da allevamento sostenibile #Piemonte,45.085566,7.540655,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Carne da allevamento sostenibile.\nFino al 03/04 SPEDIZIONI GRATUITE con un ordine minimo di 30 \u20ac nei comuni di :\nAlpignano, Beinasco, Collegno, Grugliasco, Moncalieri, Nichelino, Orbassano, Pianezza, Rivalta di Torino, Rivoli, Rosta, Torino, Venaria Reale e Villarbasse.\nPer tutti gli altri comuni spedizione con le tariffe standard."", ""Email"": ""info@aziendaagricolascaglia.it"", ""Link"": ""https://www.aziendaagricolascaglia.it/"", ""Nome_dell_esercizio_commercial"": ""Azienda agricola Scaglia"", ""Posizione"": ""45.085566 7.540655 0 0"", ""Telefono"": ""+390119573808""}","<pre><yamldata>
 Descrizione: 'Carne da allevamento sostenibile.
 
