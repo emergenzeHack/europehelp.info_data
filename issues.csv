@@ -219,6 +219,15 @@ Link: https://www.ao.pr.it/emergenza-covid-19-come-sostenere-il-maggiore/
 Posizione: 44.8063481 10.305017 0 0
 Regione: Emilia Romagna
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1368,589484902,2020-03-28 10:43:19,2020-03-28 01:34:39,Raccolta fondi Ospedale Sant'Anna #Como,45.7928915,9.0467485,Lombardia,Como,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Chi"": ""Ospedale Sant'Anna di Como"", ""Citta"": ""Como"", ""Fonte"": ""Sito dell'Ospedale"", ""Indirizzo"": ""Via Ravona, 20, 22042 San fermo della battaglia CO"", ""Link"": ""http://asst-lariana.it/v2/1/?p=243"", ""Posizione"": ""45.7928915 9.0467485"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Chi: Ospedale Sant'Anna di Como
+Citta: Como
+Fonte: Sito dell'Ospedale
+Indirizzo: Via Ravona, 20, 22042 San fermo della battaglia CO
+Link: http://asst-lariana.it/v2/1/?p=243
+Posizione: 45.7928915 9.0467485
+Regione: Lombardia
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1367,589484890,2020-03-28 10:38:05,2020-03-28 01:34:37,Raccolta fondi della Regione #Lombardia,45.4860424,9.1959558,Lombardia,Milano,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""\""Regione Lombardia-Sostegno emergenza Coronavirus\"""", ""Chi"": ""Regione Lombardia"", ""Fonte"": ""Sito regione Lombardia"", ""IBAN"": ""IT76P0306909790100000300089"", ""Indirizzo"": ""Piazza Citt\u00e0 di Lombardia 1 - 20124 Milano"", ""Link"": ""https://regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/coronavirus/coronavirus-raccolta-fondi"", ""Posizione"": ""45.4860424 9.1959558"", ""Regione"": ""Lombardia""}","<pre><yamldata>
 Causale: '""Regione Lombardia-Sostegno emergenza Coronavirus""'
 Chi: Regione Lombardia
