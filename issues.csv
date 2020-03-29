@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1494,589765146,2020-03-29 10:52:52,2020-03-29 10:52:00,Consegna a domicilio della spesa Casa del Popolo di #Marano #Napoli,40.890777,14.165631,Campania,Napoli,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Casa del Popolo di Marano"", ""Descrizione"": ""Vuoi ricevere il pacco alimentare? Hai bisogno che ti venga consegnata la spesa a domicilio? \nVuoi diventare anche tu volontario e darci una mano?\n\nChiama o invia un messaggio whatsapp a uno di questi due numeri: \n338 184 2653 / 339 629 6351"", ""Destinatari"": ""Abitanti di Marano Napoli"", ""Natura"": ""solidale"", ""Posizione"": ""40.890777 14.165631 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio della spesa Casa del Popolo di #Marano #Napoli""}","<pre><yamldata>
+Da_chi_offerta: Casa del Popolo di Marano
+Descrizione: ""Vuoi ricevere il pacco alimentare? Hai bisogno che ti venga consegnata\
+  \ la spesa a domicilio? \nVuoi diventare anche tu volontario e darci una mano?\n\
+  \nChiama o invia un messaggio whatsapp a uno di questi due numeri: \n338 184 2653\
+  \ / 339 629 6351""
+Destinatari: Abitanti di Marano Napoli
+Natura: solidale
+Posizione: 40.890777 14.165631 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Consegna a domicilio della spesa Casa del Popolo di #Marano #Napoli'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1492,589764043,2020-03-29 10:46:44,2020-03-29 10:44:21,Raccolta fondi per La Casa del Popolo di #Marano #Napoli ,40.891365,14.171553,Campania,Napoli,"[""Raccolte fondi"", ""accettato""]",,,"{""Causale"": ""Spesa solidale CoVid19"", ""Descrizione"": ""La Casa del Popolo di Marano di Napoli ha lanciato una Raccolta Fondi per l'acquisto di beni di prima necessit\u00e0 per donare pacchi alimentari a chi in questo particolare momento \u00e8 maggiormente in difficolt\u00e0. \n\nVuoi sostenere anche tu la raccolta fondi? \nPer donare:\n- PayPal: https://paypal.me/pools/c/8nKCbF65Q1\n- Bonifico:\nIBAN IT86J0303239950010000006697\nCausale: Spesa solidale CoVid19"", ""IBAN"": ""IT86J0303239950010000006697"", ""Intestazione"": ""Casa del Popolo di Marano"", ""Nome"": ""Casa del Popolo di Marano"", ""Posizione"": ""40.891365 14.171553 0 0""}","<pre><yamldata>
 Causale: Spesa solidale CoVid19
 Descrizione: ""La Casa del Popolo di Marano di Napoli ha lanciato una Raccolta Fondi\
@@ -32,6 +44,32 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: You Pol – dalla Polizia di Stato un nuovo strumento di aiuto alle vittime
   di violenza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1483,589751013,2020-03-29 10:51:49,2020-03-29 09:12:30,Dal 13 marzo ogni giorno Ausl Bologna mette in rete il report dei casi positivi e in sorveglianza,44.446332,11.41531,Emilia-Romagna,Bologna,"[""Notizie Utili"", ""accettato""]",,,"{""Cosa"": ""Dal 13 marzo ogni giorno Bologna mette in rete il report dei casi positivi e in sorveglianza"", ""Descrizione"": ""Raccolta di aggiornamenti quotidiani relativi al territorio dell'Azienda Unit\u00e0 Sanitaria Locale di Bologna Distretti: Appennino bolognese, Citt\u00e0 di Bologna, Pianura Est, Pianura Ovest, Reno Lavino e Samoggia, San Lazzaro di Savena."", ""Link"": ""http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza"", ""Posizione"": ""44.446332 11.41531 0 0""}","<pre><yamldata>
+Cosa: Dal 13 marzo ogni giorno Bologna mette in rete il report dei casi positivi e
+  in sorveglianza
+Descrizione: 'Raccolta di aggiornamenti quotidiani relativi al territorio dell''Azienda
+  Unità Sanitaria Locale di Bologna
+  Distretti: Appennino bolognese, Città di Bologna, Pianura Est, Pianura Ovest, Reno
+  Lavino e Samoggia, San Lazzaro di Savena.'
+Link: http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza
+Posizione: 44.446332 11.41531 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1482,589748423,2020-03-29 10:51:05,2020-03-29 08:55:08,Supporto psicologico offerto dalla AUSL #Bologna ,44.49304,11.330252,Emilia-Romagna,Bologna,"[""Bollettino"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Azienda Unit\u00e0 Sanitaria Locale Bologna"", ""Descrizione"": ""Questo progetto unisce le forze degli Psicologi del Dipartimento di Salute Mentale, delle associazioni aderenti al Coordinamento Utenti Familiari e Operatori e dell'Universit\u00e0 di Bologna\n\nPer dar aiuto a chiunque sia consapevole dell'esigenza di rimediare a difficolt\u00e0 relazionali ed emotive che possono sorgere nel restare a casa per ridurre il contagio da covid-19. Seppure in solitudine possiamo non essere isolati.\n\nCanali di contatto:\n\nun sistema di supporto telefonico con un numero dedicato: lunerd\u00ec- venerd\u00ec dalle 10 alle 17 allo 051 659 7234\n\nla mail info@sogniebisogni.it\n\nil Sito www.sogniebisogni.it \n \ngruppi facebook: Coronavirus stare bene a casa"", ""Destinatari"": ""chiunque lo richieda"", ""Link"": ""http://www.ausl.bologna.it/news/current/auslnews.2020-03-25.2407000234"", ""Posizione"": ""44.49304 11.330252 0 0"", ""Titolo"": ""Aiuto Psicologico: Parla con noi, comunit\u00e0 in connessione""}","<pre><yamldata>
+Da_chi_offerta: Azienda Unità Sanitaria Locale Bologna
+Descrizione: ""Questo progetto unisce le forze degli Psicologi del Dipartimento di\
+  \ Salute Mentale, delle associazioni aderenti al Coordinamento Utenti Familiari\
+  \ e Operatori e dell'Università di Bologna\n\nPer dar aiuto a chiunque sia consapevole\
+  \ dell'esigenza di rimediare a difficoltà relazionali ed emotive che possono sorgere\
+  \ nel restare a casa per ridurre il contagio da covid-19. Seppure in solitudine\
+  \ possiamo non essere isolati.\n\nCanali di contatto:\n\nun sistema di supporto\
+  \ telefonico con un numero dedicato: lunerdì- venerdì dalle 10 alle 17 allo 051\
+  \ 659 7234\n\nla mail info@sogniebisogni.it\n\nil Sito www.sogniebisogni.it \n \n\
+  gruppi facebook: Coronavirus stare bene a casa""
+Destinatari: chiunque lo richieda
+Link: http://www.ausl.bologna.it/news/current/auslnews.2020-03-25.2407000234
+Posizione: 44.49304 11.330252 0 0
+Titolo: 'Aiuto Psicologico: Parla con noi, comunità in connessione'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1478,589732489,2020-03-29 10:42:36,2020-03-29 06:51:09,"Alimenti e articoli per uccelli, piccoli roditori e animali da cortile #Torino",45.065343,7.618107,Piemonte,Torino,"[""Consegne e commissioni"", ""accettato""]",,,"{""Descrizione"": ""negozio specializzato \nalimenti ed articoli per uccelli , piccoli roditori e animali da cortile\nconsegne a domicilio in Torino e provincia"", ""Email"": ""lavoliera@gmail.com"", ""Link"": ""https://www.facebook.com/Lavoliera/"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""La Voliera"", ""Posizione"": ""45.065343 7.618107 0 0"", ""Telefono"": ""3317716889""}","<pre><yamldata>
 Descrizione: ""negozio specializzato \nalimenti ed articoli per uccelli , piccoli roditori\
