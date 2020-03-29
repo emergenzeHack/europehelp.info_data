@@ -16,7 +16,7 @@ Posizione: 43.522847 13.243881 0 0
 Tipo_di_soggetto: pubblico
 Titolo: Supporto Sociale
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1507,589778542,2020-03-29 13:36:15,2020-03-29 12:14:50,Si tratta di un servizio per over 65 che provvede a consegne gratuite di generi di prima necessità e,45.3570822,9.3226748,Lombardia,Milano,"[""Consegne e commissioni"", ""Raccolte fondi"", ""accettato""]",,,"{""Descrizione"": ""Si tratta di un servizio per over 65 che provvede a consegne gratuite di generi di prima necessit\u00e0 e prodotti per la cura degli animali e (dalla settimana prossima) un servizio gratuito di dog sitting. \n\nGrazie alla collaborazione con Coop Lombardia e Energie Sociali Jesurum, l'iniziativa porter\u00e0 nelle case di anziane e anziani un massimo di 25 prodotti alimentari ma non solo, anche prodotti per gli animali da compagnia, dalla sabbia alla pappa, per aiutare cittadine e cittadini a prendersi cura non solo di s\u00e9, ma anche dei propri amici animali."", ""Link"": ""https://www.retedeldono.it/it/progetti/associazione-energie-sociali-jesurum/mai-solo-se-resta-a-casa"", ""Nome_dell_esercizio_commercial"": ""Mai solo, se resti a casa"", ""Posizione"": ""45.3570822 9.3226748 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1507,589778542,2020-03-29 13:46:35,2020-03-29 12:14:50,Raccolta fondi per offrire a over 65 con animali domestici consegne gratuite di generi di prima necessità per animali,45.3570822,9.3226748,Lombardia,Milano,"[""Consegne e commissioni"", ""Raccolte fondi"", ""accettato""]",,,"{""Descrizione"": ""Si tratta di un servizio per over 65 che provvede a consegne gratuite di generi di prima necessit\u00e0 e prodotti per la cura degli animali e (dalla settimana prossima) un servizio gratuito di dog sitting. \n\nGrazie alla collaborazione con Coop Lombardia e Energie Sociali Jesurum, l'iniziativa porter\u00e0 nelle case di anziane e anziani un massimo di 25 prodotti alimentari ma non solo, anche prodotti per gli animali da compagnia, dalla sabbia alla pappa, per aiutare cittadine e cittadini a prendersi cura non solo di s\u00e9, ma anche dei propri amici animali."", ""Link"": ""https://www.retedeldono.it/it/progetti/associazione-energie-sociali-jesurum/mai-solo-se-resta-a-casa"", ""Nome_dell_esercizio_commercial"": ""Mai solo, se resti a casa"", ""Posizione"": ""45.3570822 9.3226748 0 0""}","<pre><yamldata>
 Descrizione: ""Si tratta di un servizio per over 65 che provvede a consegne gratuite\
   \ di generi di prima necessità e prodotti per la cura degli animali e (dalla settimana\
   \ prossima) un servizio gratuito di dog sitting. \n\nGrazie alla collaborazione\
@@ -34,6 +34,159 @@ Descrizione: Ecco la lista dei negozi che consegnano a domicilio nei quartieri d
 Indirizzo: 45.5017713 9.1755188 00
 Link: https://docs.google.com/spreadsheets/d/1E-2c3yOdhL-5hVCR7ui15f_E9qJkbr_Jk9KEsxPs3m0/htmlview
 Nome_dell_esercizio_commercial: Negozi in Zona 9 - Milano
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1503,589768968,2020-03-29 13:45:16,2020-03-29 11:16:26,Elenco unico di negozi che consegnano a domicilio #quartierispagnoli #Napoli,40.853099,14.265093,Campania,Napoli,"[""Bollettino"", ""Consegne e commissioni"", ""accettato""]",,,"{""Descrizione"": ""QUARTIERI SPAGNOLI\nAlimentari Sabatino (fratelli russo) via Speranzella 127 - tel.081.422644\nPescheria del mare di Pozzuoli (Gennaro) via Speranzella 119 - tel.081.400156\nSalumeria Medici : via de deo 85 - tel.081.414761\nSalumeria Egidio , via de deo 12 - tel.081.407547\nFruttivendolo Improta Mario via Speranzella 146 - tel.081.411783\nPolleria Lello corso Vittorio Emanuele 226 - tel.081.401109\nDetersivi fratelli Mazzocca - Corso V. E. 607 - tel.081.497643\nDetersivi proshop (Corrado) - Vico tofa 79 - tel.081.410352\nFruttivendolo Cozzolino via Emanuele de deo - tel.081.407722\nAlimentari cascella (Patrizia) vicoletto III Politi - tel.081.4207008\nSalumeria Balsamo Via Girardi - tel.081.19575782\nZONA P.zza MAZZINI/C.so V.EMANUELE/Via S.ROSA/Via B.CARACCIOLO\n\u202dLa fattoria dei Sapori, Via Ges\u00f9 e Maria tel.081.0332759\u202c \u202c\u202c\u202c\u202c\nAlimentari Via S. Rosa 85 - tel.081.5498534\nSisa Minimarket Corso Vitt.Emanuele - \u202dtel.081.5493386\u202c\u202c\u202c\u202c\nCiro Salumeria, Vico San Mandato \u202d- tel.081.5493425\nFruttivendolo Massimo, S.Rosa - tel.081.459998\nFruttivendolo Genny, S.Rosa \u202d- tel.081.19138840\u202c \u202c\u202c\u202c\u202c\nPescheria Sapori del mare Atteo, Via S.Rosa - tel.081.5493376\u202c \u202c\u202c\u202c\u202c\nMacelleria La Vecchia Napoli, C.so Vitt. Emanuele - tel.081.5441668\nSalumeria Malinconico C.so Vitt. Emanuele 453 - tel.081.5491919\nMacelleria Esposito, S.Rosa \u202d- tel.081.5493376\u202c \u202c\u202c\u202c\u202c\nMacelleria Mario Schiattarella, S.Rosa - tel.081.5493408\nFrutteria Campoli, Vico Corigliano alla Salute 7b - tel.0815444662\nNon solo frutta , Via Salvator Rosa 450 - tel.081.5448508\nFruttivendolo altezza G.B. Vico - tel.081.5499483\nFarmacia Maggiore \u202d- tel.081.5498528\u202c \u202c\u202c\u202c\u202c\nFarmacia Ges\u00f9 e Maria - tel.\u202d081.5493369\u202c\u202c\u202c\u202c\nFarmacia Sollo via S. Rosa - tel.081.3794737\nBoutique della frutta - via B.llo Caracciolo 36 - tel.081.19510968\nCRAI Dal Fornaio di A.Settembre Via B.llo Caracciolo 89 - tel.081.5641066\nLa Panino Macelleria di Nunzia Via B.llo Caracciolo 95 - tel.081.5449429\nIl Salumaio di Uva Vincenzo Via Rosa Salvator, 170 - tel.081.5448958\nPIGNASECCA-MONTESANTO-TARSIA\nAi Monti Lattari \u2013 Alimentari - tel.081.5519554\nLa Genuina \u2013alimentari - tel.081.19912002\nLa Nuova Casearia- alimentari - tel.081.5518485\nFuncillo Frutta e Verdura - tel.081.5510319\nFungillo G.ppe Frutta e Verdura - tel.081.5516574\nAli Olivella\u2019s Delivery- alimentari - tel.081.187400668\nPascheria Azzurra - tel.081.5513733\nMacelleria Avolio 081.5527371, - tel.081.5510291\nMolisso frutta e verdura Salita Tarsia - tel.081.5524110\nAlimentari Ferrara piazza Pignasecca - tel.081.5514323\nSalumeria Russo piazza Pignasecca - tel.081.5515042 - 3272176312\nCiro Amodio - minimarket - Piazza Montesanto - tel.081.18165617\nFORCELLA - CORSO UMBERTO\nAlimentari D\u2019Antonio \u2013 tel.081.287948\nMacelleria Lubrano - via Forcella 73 - tel.081.282709\nSalumeria Macelleria Lubrano - p.zza Portanova - tel.081.204360\nConad Sapori e dintorni - tel.081.5635323\nSalumeria Testa - tel.081.5545142\nAmodio - tel.081.202784\nConad - tel.081.5543579\nPro shop - tel.081.19370833\nZONA DANTE-GESU\u2019\nPane e Muzzarella alimentari - Tel.081.5515030\nMATERDEI - MUSEO\nFrutteria Campoli, Vico Corigliano 7b - tel.081.5444662\nAl frizzante (alimentari), Vico Corigliano 3 - tel.081.0123633\nFarmacie Del Mare, Via Matteo Renato IMBRIANI 89-90 - tel.081.5441414\nSpendimeglio, Via duca Ferrante della marra - tel.081.19915599\nSupermercato Bianca Muscariello - tel.081.5441394\nMacelleria Ciotola - tel.081.5441342\nCasalinghi Oreste - tel.081.5491576\nCasalinghi il Filo di Arianana - tel.081.0332799\nPet Fashion Via Pessina 42 Napoli - tel.081.18963617\nCiro Amodio - minimarket - via Capocelatro - tel.081.18165617\nZONA PIAZZA MERCATO \u2013 CORSO GARIBALDI\nAlimentari Lucia - tel.081.290729\nMini market Alessio De Martino - tel.081.0734187\nSalumeria Scarciello tel. 3382797523\nAlimentari Testa Carmela Via Silvio Spaventa - tel.081.5545142"", ""Metodi_di_pagamento_accettati"": ""contrassegno contanti"", ""Nome_dell_esercizio_commercial"": ""Elenco delle attivit\u00e0 commerciali che effettuano consegne a domicilio Municipalit\u00e0 2 #Napoli"", ""Posizione"": ""40.853099 14.265093 0 0""}","<pre><yamldata>
+Descrizione: 'QUARTIERI SPAGNOLI
+
+  Alimentari Sabatino (fratelli russo) via Speranzella 127 - tel.081.422644
+
+  Pescheria del mare di Pozzuoli (Gennaro) via Speranzella 119 - tel.081.400156
+
+  Salumeria Medici : via de deo 85 - tel.081.414761
+
+  Salumeria Egidio , via de deo 12 - tel.081.407547
+
+  Fruttivendolo Improta Mario via Speranzella 146 - tel.081.411783
+
+  Polleria Lello corso Vittorio Emanuele 226 - tel.081.401109
+
+  Detersivi fratelli Mazzocca - Corso V. E. 607 - tel.081.497643
+
+  Detersivi proshop (Corrado) - Vico tofa 79 - tel.081.410352
+
+  Fruttivendolo Cozzolino via Emanuele de deo - tel.081.407722
+
+  Alimentari cascella (Patrizia) vicoletto III Politi - tel.081.4207008
+
+  Salumeria Balsamo Via Girardi - tel.081.19575782
+
+  ZONA P.zza MAZZINI/C.so V.EMANUELE/Via S.ROSA/Via B.CARACCIOLO
+
+  ‭La fattoria dei Sapori, Via Gesù e Maria tel.081.0332759‬ ‬‬‬‬
+
+  Alimentari Via S. Rosa 85 - tel.081.5498534
+
+  Sisa Minimarket Corso Vitt.Emanuele - ‭tel.081.5493386‬‬‬‬
+
+  Ciro Salumeria, Vico San Mandato ‭- tel.081.5493425
+
+  Fruttivendolo Massimo, S.Rosa - tel.081.459998
+
+  Fruttivendolo Genny, S.Rosa ‭- tel.081.19138840‬ ‬‬‬‬
+
+  Pescheria Sapori del mare Atteo, Via S.Rosa - tel.081.5493376‬ ‬‬‬‬
+
+  Macelleria La Vecchia Napoli, C.so Vitt. Emanuele - tel.081.5441668
+
+  Salumeria Malinconico C.so Vitt. Emanuele 453 - tel.081.5491919
+
+  Macelleria Esposito, S.Rosa ‭- tel.081.5493376‬ ‬‬‬‬
+
+  Macelleria Mario Schiattarella, S.Rosa - tel.081.5493408
+
+  Frutteria Campoli, Vico Corigliano alla Salute 7b - tel.0815444662
+
+  Non solo frutta , Via Salvator Rosa 450 - tel.081.5448508
+
+  Fruttivendolo altezza G.B. Vico - tel.081.5499483
+
+  Farmacia Maggiore ‭- tel.081.5498528‬ ‬‬‬‬
+
+  Farmacia Gesù e Maria - tel.‭081.5493369‬‬‬‬
+
+  Farmacia Sollo via S. Rosa - tel.081.3794737
+
+  Boutique della frutta - via B.llo Caracciolo 36 - tel.081.19510968
+
+  CRAI Dal Fornaio di A.Settembre Via B.llo Caracciolo 89 - tel.081.5641066
+
+  La Panino Macelleria di Nunzia Via B.llo Caracciolo 95 - tel.081.5449429
+
+  Il Salumaio di Uva Vincenzo Via Rosa Salvator, 170 - tel.081.5448958
+
+  PIGNASECCA-MONTESANTO-TARSIA
+
+  Ai Monti Lattari – Alimentari - tel.081.5519554
+
+  La Genuina –alimentari - tel.081.19912002
+
+  La Nuova Casearia- alimentari - tel.081.5518485
+
+  Funcillo Frutta e Verdura - tel.081.5510319
+
+  Fungillo G.ppe Frutta e Verdura - tel.081.5516574
+
+  Ali Olivella’s Delivery- alimentari - tel.081.187400668
+
+  Pascheria Azzurra - tel.081.5513733
+
+  Macelleria Avolio 081.5527371, - tel.081.5510291
+
+  Molisso frutta e verdura Salita Tarsia - tel.081.5524110
+
+  Alimentari Ferrara piazza Pignasecca - tel.081.5514323
+
+  Salumeria Russo piazza Pignasecca - tel.081.5515042 - 3272176312
+
+  Ciro Amodio - minimarket - Piazza Montesanto - tel.081.18165617
+
+  FORCELLA - CORSO UMBERTO
+
+  Alimentari D’Antonio – tel.081.287948
+
+  Macelleria Lubrano - via Forcella 73 - tel.081.282709
+
+  Salumeria Macelleria Lubrano - p.zza Portanova - tel.081.204360
+
+  Conad Sapori e dintorni - tel.081.5635323
+
+  Salumeria Testa - tel.081.5545142
+
+  Amodio - tel.081.202784
+
+  Conad - tel.081.5543579
+
+  Pro shop - tel.081.19370833
+
+  ZONA DANTE-GESU’
+
+  Pane e Muzzarella alimentari - Tel.081.5515030
+
+  MATERDEI - MUSEO
+
+  Frutteria Campoli, Vico Corigliano 7b - tel.081.5444662
+
+  Al frizzante (alimentari), Vico Corigliano 3 - tel.081.0123633
+
+  Farmacie Del Mare, Via Matteo Renato IMBRIANI 89-90 - tel.081.5441414
+
+  Spendimeglio, Via duca Ferrante della marra - tel.081.19915599
+
+  Supermercato Bianca Muscariello - tel.081.5441394
+
+  Macelleria Ciotola - tel.081.5441342
+
+  Casalinghi Oreste - tel.081.5491576
+
+  Casalinghi il Filo di Arianana - tel.081.0332799
+
+  Pet Fashion Via Pessina 42 Napoli - tel.081.18963617
+
+  Ciro Amodio - minimarket - via Capocelatro - tel.081.18165617
+
+  ZONA PIAZZA MERCATO – CORSO GARIBALDI
+
+  Alimentari Lucia - tel.081.290729
+
+  Mini market Alessio De Martino - tel.081.0734187
+
+  Salumeria Scarciello tel. 3382797523
+
+  Alimentari Testa Carmela Via Silvio Spaventa - tel.081.5545142'
+Metodi_di_pagamento_accettati: contrassegno contanti
+Nome_dell_esercizio_commercial: 'Elenco delle attività commerciali che effettuano
+  consegne a domicilio Municipalità 2 #Napoli'
+Posizione: 40.853099 14.265093 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1502,589768632,2020-03-29 11:17:02,2020-03-29 11:14:22,Spesa sospesa Municipalità 2 Comune di #Napoli,40.851932,14.248715,Campania,Napoli,"[""Bollettino"", ""Consegne e commissioni"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Descrizione"": ""Modalit\u00e0 di donazione (fiscalmente detraibile) \nIniziativa della Municipalit\u00e0 2 in soccorso di coloro che, a causa dell\u2019emergenza sanitaria, si trovano in difficolt\u00e0 economica, basato su due principi indissolubili: RESTARE A CASA ed aiutare gli altri.\nDopo che hai ordinato la spesa a domicilio dal tuo commerciante di fiducia, puoi lasciargli un credito (dei soldi) in favore della spesa sospesa, oppure puoi effettuare un bonifico al seguente IBAN\nIT78B0326503401000010127819 \nintestato a Fondazione di Comunit\u00e0 del Centro Storico di Napoli \ncausale \""spesa sospesa\""\nDopo averlo fatto comunica della tua donazione al nr della Municipalit\u00e0 2 - 0817950260 /61 /65 per i Quartieri Avoocata-Montecalvario-S.G.ppe-Porto, oppure 0817950863/ 64 /60 per i Quartieri Mercato e Pendino, attivi dalle ore 9 alle ore 12 dal luned\u00ec al venerd\u00ec, oppure invia una e-mail a css.avvocata.montecalvario@comune.napoli.it indicando la cifra donata e a quale esercizio commerciale.\nPERCHE\u2019 FARLO \nLa somma raccolta sar\u00e0 utilizzata per donare la spesa a chiunque sia in difficolt\u00e0 e necessiti di aiuto.\nPer avere la spesa donata chiama i Servizi Sociali della Municipalit\u00e0 ai numeri 0817950260 /61 /65 per i Quartieri Avoocata-Montecalvario-S.G.ppe-Porto, oppure 0817950863 /64 /60 per i Quartieri Mercato e Pendino, attivi dalle ore 9 alle ore 12 dal luned\u00ec al venerd\u00ec.\u00ec, oppure rivolgiti ad associazioni del territorio.\nLa Municipalit\u00e0 provveder\u00e0 a contattare il negozio per organizzare la consegna della spesa."", ""Destinatari"": ""Cittadine e cittadini Municipalit\u00e0 2 Napoli"", ""Natura"": ""solidale"", ""Posizione"": ""40.851932 14.248715 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa sospesa Municipalit\u00e0 2 Comune di #Napoli""}","<pre><yamldata>
 Descrizione: ""Modalità di donazione (fiscalmente detraibile) \nIniziativa della Municipalità\
@@ -14674,19 +14827,6 @@ Descrizione: La Regione Marche ha predisposto una check list utile alle imprese 
 Fonte: Regione Marche
 Link: http://www.regione.marche.it/News-ed-Eventi/Post/60846/Coronavirus-check-list-per-le-imprese-per-il-rispetto-della-sicurezza-dei-lavoratori
 
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-16 23:11:05,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
-Comune: Milano
-Da_chi_offerta: Libreria Verso
-Descrizione: '#versopedala - libreria con servizio di consegna libri a domicilio'
-Destinatari: adulti e bambini
-Informativa: OK
-Link: http://www.libreriaverso.com/novita/versopedala/
-Natura: culturale-ricr
-Posizione: 45.458403 9.181154 0 0
-Provincia: Milano
-Regione: Lombardia
-Titolo: 'Consegna Libri a Domicilio #Milano'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-16 23:11:05,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
 Comune: Milano
