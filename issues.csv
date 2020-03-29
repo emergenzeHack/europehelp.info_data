@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1593,589809218,2020-03-29 15:36:43,2020-03-29 14:50:56,"Resta attivo servizio di supporto psico-oncologico DH Oncologico di #Giulianova, #Teramo",42.75349,13.96670,Abruzzo,Teramo,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato""]",,,"{""Comune"": ""Giulianova"", ""Da_chi_offerta"": ""Associazione per la Lotta Contro i Tumori \u201cGiovanna Savini\u201d"", ""Descrizione"": ""Nel rispetto delle misure di contenimento COVID-19 il servizio di supporto psico-oncologico offerto dall\u2019Associazione per la Lotta Contro i Tumori \u201cGiovanna Savini\u201d rivolto ai pazienti del DH Oncologico di Giulianova ed ai loro familiari RESTA ATTIVO CON COLLOQUI A DISTANZA (attraverso telefono o videochiamate)\ncome fortemente raccomandato anche dal Consiglio Nazionale dell\u2019Ordine degli Psicologi e sempre nel rispetto della privacy degli utenti.\nLA PSICO-ONCOLOGA DOTT.SSA ROSA LO STERZO RESTA A DISPOSIZIONE AL NUMERO 3480452488"", ""Destinatari"": ""Pazienti oncologici e loro familiari"", ""Natura"": ""solidale"", ""Posizione"": ""42.75349 13.96670"", ""Provincia"": ""Teramo"", ""Regione"": ""Abruzzo"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Resta attivo servizio di supporto psico-oncologico DH Oncologico di Giulianova""}","<pre><yamldata>
+Da_chi_offerta: Associazione per la Lotta Contro i Tumori “Giovanna Savini”
+Descrizione: 'Nel rispetto delle misure di contenimento COVID-19 il servizio di supporto
+  psico-oncologico offerto dall’Associazione per la Lotta Contro i Tumori “Giovanna
+  Savini” rivolto ai pazienti del DH Oncologico di Giulianova ed ai loro familiari
+  RESTA ATTIVO CON COLLOQUI A DISTANZA (attraverso telefono o videochiamate)
+
+  come fortemente raccomandato anche dal Consiglio Nazionale dell’Ordine degli Psicologi
+  e sempre nel rispetto della privacy degli utenti.
+
+  LA PSICO-ONCOLOGA DOTT.SSA ROSA LO STERZO RESTA A DISPOSIZIONE AL NUMERO 3480452488'
+Destinatari: Pazienti oncologici e loro familiari
+Natura: solidale
+Comune: Giulianova
+Provincia: Teramo
+Regione: Abruzzo
+Posizione: 42.75349 13.96670
+Tipo_di_soggetto: privato
+Titolo: Resta attivo servizio di supporto psico-oncologico DH Oncologico di Giulianova
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1592,589801217,2020-03-29 14:25:28,2020-03-29 14:12:30,"Servizio Caritas e Comune #Senigallia #Ancona per spesa e farmaci a domicilio, sostegno psicologico",43.717548,13.214699,Marche,Ancona,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di Senigallia"", ""Descrizione"": ""Firmato un protocollo tra Caritas e Comune di Senigallia per aiutare la popolazione anziana, sola o in quarantena, nelle prime necessit\u00e0 come fare la spesa, acquistare farmaci e ritirare ricette mediche. Si ricorda che tale servizio, attivo dalle ore 8 alle ore 20 per i residenti nella Diocesi di Senigallia, pu\u00f2 essere richiesto chiamando il numero verde 800 76 80 20. Ora, grazie alla preziosa collaborazione degli psicologi volontari della Societ\u00e0 Nazionale di Salvamento di Senigallia, chiamando allo stesso numero e negli stessi orari \u00e8 possibile richiedere anche un servizio gratuito di sostegno psicologico per affrontare al meglio le ansie e le paure che emergono in seno alla comunit\u00e0, prodotte dalla grave crisi sanitaria."", ""Destinatari"": ""popolazione anziana o in quarantena"", ""Link"": ""https://www.facebook.com/comune.senigallia/"", ""Natura"": ""solidale"", ""Posizione"": ""43.717548 13.214699 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Fare la spesa, acquistare farmaci e ricette mediche; sostegno psicologico""}","<pre><yamldata>
 Da_chi_offerta: Comune di Senigallia
 Descrizione: 'Firmato un protocollo tra Caritas e Comune di Senigallia per aiutare
@@ -83,6 +103,13 @@ https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1567,58979449
 Link: https://www.giornatapsicologiastudiaperti.it/
 Titolo: '#psicologionline - Ordine Nazionale degli Psicologi'
 Descrizione: Trova il Professionista più adatto alle tue esigenze
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1561,589794441,2020-03-29 15:36:59,2020-03-29 13:40:06,Associazione Argilla e Associazione Italiana di Psicogeriatria attivano linea telefonica d’ascolto rivolta alle persone sole,,,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""LINEA DI ASCOLTO SOLITUDINE"", ""EMERGENZA CORONAVIRUS. Associazione Argilla e AIP (Associazione Italiana di Psicogeriatria), considerata la situazione di emergenza sociale associata a quella sanitaria causata dalla pandemia del Coronavirus (COVID-19), hanno attivato una linea telefonica rivolta alle persone sole, con limitati contatti sociali che in questo momento di forzato isolamento si trovano a sperimentare ancora di pi\u00f9 la condizione di solitudine. Chi chiama il numero 351 5834933, attivo tutti i giorni dalle ore 17 alle 19, trover\u00e0 una persona gentile e competente pronta ad accogliere le domande, i dubbi o anche solo scambiare parole di conforto. Fasce orarie"": ""15:00 - 19:00 \u2022 tutti i giorni."", ""Link"": ""https://www.facebook.com/argillaassociazionepromozionesociale/photos/a.699864313549119/1413875238814686"", ""Telefono"": ""3515834933"", ""Titolo"": ""Associazione Promozione Sociale Argilla""}","<pre><yamldata>
+Descrizione: LINEA DI ASCOLTO SOLITUDINE
+EMERGENZA CORONAVIRUS. Associazione Argilla e AIP (Associazione Italiana di Psicogeriatria), considerata la situazione di emergenza sociale associata a quella sanitaria causata dalla pandemia del Coronavirus (COVID-19), hanno attivato una linea telefonica rivolta alle persone sole, con limitati contatti sociali che in questo momento di forzato isolamento si trovano a sperimentare ancora di più la condizione di solitudine. Chi chiama il numero 351 5834933, attivo tutti i giorni dalle ore 17 alle 19, troverà una persona gentile e competente pronta ad accogliere le domande, i dubbi o anche solo scambiare parole di conforto. Fasce orarie: 15:00 - 19:00 • tutti i giorni.
+Link: https://www.facebook.com/argillaassociazionepromozionesociale/photos/a.699864313549119/1413875238814686
+Telefono: '3515834933'
+Titolo: Associazione Promozione Sociale Argilla
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1556,589794416,2020-03-29 14:33:28,2020-03-29 13:39:58,ETNA – Progetto di ETNopsicologia Analitica offre psicoterapia gratuita a #migranti adulti e minori,,,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""ETNA offre psicoterapia gratuita a migranti adulti e minori, attivit\u00e0 di supervisione, formazione e progetti."", ""Fasce orarie"": ""dipende dai numeri, vedi descrizione"", ""Link"": ""https://www.etnopsicologianalitica.com/"", ""Telefono"": ""3404202345"", ""Titolo"": ""ETNA \u2013 Progetto di ETNopsicologia Analitica"", ""tel2"": ""3202662274""}","<pre><yamldata>
 Descrizione: ETNA offre psicoterapia gratuita a migranti adulti e minori, attività di supervisione, formazione e progetti.
