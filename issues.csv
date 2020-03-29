@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1492,589764043,2020-03-29 10:46:44,2020-03-29 10:44:21,Raccolta fondi per La Casa del Popolo di #Marano #Napoli ,40.891365,14.171553,Campania,Napoli,"[""Raccolte fondi"", ""accettato""]",,,"{""Causale"": ""Spesa solidale CoVid19"", ""Descrizione"": ""La Casa del Popolo di Marano di Napoli ha lanciato una Raccolta Fondi per l'acquisto di beni di prima necessit\u00e0 per donare pacchi alimentari a chi in questo particolare momento \u00e8 maggiormente in difficolt\u00e0. \n\nVuoi sostenere anche tu la raccolta fondi? \nPer donare:\n- PayPal: https://paypal.me/pools/c/8nKCbF65Q1\n- Bonifico:\nIBAN IT86J0303239950010000006697\nCausale: Spesa solidale CoVid19"", ""IBAN"": ""IT86J0303239950010000006697"", ""Intestazione"": ""Casa del Popolo di Marano"", ""Nome"": ""Casa del Popolo di Marano"", ""Posizione"": ""40.891365 14.171553 0 0""}","<pre><yamldata>
+Causale: Spesa solidale CoVid19
+Descrizione: ""La Casa del Popolo di Marano di Napoli ha lanciato una Raccolta Fondi\
+  \ per l'acquisto di beni di prima necessità per donare pacchi alimentari a chi in\
+  \ questo particolare momento è maggiormente in difficoltà. \n\nVuoi sostenere anche\
+  \ tu la raccolta fondi? \nPer donare:\n- PayPal: https://paypal.me/pools/c/8nKCbF65Q1\n\
+  - Bonifico:\nIBAN IT86J0303239950010000006697\nCausale: Spesa solidale CoVid19""
+IBAN: IT86J0303239950010000006697
+Intestazione: Casa del Popolo di Marano
+Nome: Casa del Popolo di Marano
+Posizione: 40.891365 14.171553 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1489,589760820,2020-03-29 10:23:11,2020-03-29 10:22:04,#YouPol – dalla Polizia di Stato un nuovo strumento di aiuto alle vittime di #violenza,,,,,"[""Bollettino"", ""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Polizia di Stato"", ""Descrizione"": ""Seguendo la descrizione del video \u00e8 facile utilizzare l\u2019app che dovrebbe avere anche un sistema di geolocalizzazione per poter aiutare le forze dell\u2019ordine ad intervenire tempestivamente.\n\nLe disposizioni emanate per il contenimento del contagio derivante dal virus Covid-19, determinano una convivenza prolungata dei nuclei familiari, che potrebbe incidere negativamente sui contesti familiari pi\u00f9 problematici, potendo portare, in casi estremi, alla commissione di atti di violenza di genere e domestica.\nla Polizia di Stato ha esteso la possibilit\u00e0 di segnalare la propria condizione, anche in forma anonima, utilizzando la nostra App YouPol, da scaricare sul proprio smartphone."", ""Destinatari"": ""Donne vittime di violenza"", ""Link"": ""http://www.fimminatv.it/you-pol-dalla-polizia-di-stato-un-nuovo-strumento-di-aiuto-alle-vittime-di-violenza/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""You Pol \u2013 dalla Polizia di Stato un nuovo strumento di aiuto alle vittime di violenza""}","<pre><yamldata>
 Da_chi_offerta: Polizia di Stato
 Descrizione: 'Seguendo la descrizione del video è facile utilizzare l’app che dovrebbe
