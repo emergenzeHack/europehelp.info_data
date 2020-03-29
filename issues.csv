@@ -28,6 +28,13 @@ Link: https://www.retedeldono.it/it/progetti/associazione-energie-sociali-jesuru
 Nome_dell_esercizio_commercial: Mai solo, se resti a casa
 Posizione: 45.3570822 9.3226748 0 0
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1505,589777092,2020-03-29 13:44:18,2020-03-29 12:06:34,Lista dei negozi che consegnano a domicilio nei quartieri del #municipio 9 #Milano,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""accettato""]",,,"{""Descrizione"": ""Ecco la lista dei negozi che consegnano a domicilio nei quartieri del Municipio 9 del Comune di Milano"", ""Indirizzo"": ""45.5017713 9.1755188 00"", ""Link"": ""https://docs.google.com/spreadsheets/d/1E-2c3yOdhL-5hVCR7ui15f_E9qJkbr_Jk9KEsxPs3m0/htmlview"", ""Nome_dell_esercizio_commercial"": ""Negozi in Zona 9 - Milano""}","<pre><yamldata>
+Descrizione: Ecco la lista dei negozi che consegnano a domicilio nei quartieri del
+  Municipio 9 del Comune di Milano
+Indirizzo: 45.5017713 9.1755188 00
+Link: https://docs.google.com/spreadsheets/d/1E-2c3yOdhL-5hVCR7ui15f_E9qJkbr_Jk9KEsxPs3m0/htmlview
+Nome_dell_esercizio_commercial: Negozi in Zona 9 - Milano
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1502,589768632,2020-03-29 11:17:02,2020-03-29 11:14:22,Spesa sospesa Municipalità 2 Comune di #Napoli,40.851932,14.248715,Campania,Napoli,"[""Bollettino"", ""Consegne e commissioni"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Descrizione"": ""Modalit\u00e0 di donazione (fiscalmente detraibile) \nIniziativa della Municipalit\u00e0 2 in soccorso di coloro che, a causa dell\u2019emergenza sanitaria, si trovano in difficolt\u00e0 economica, basato su due principi indissolubili: RESTARE A CASA ed aiutare gli altri.\nDopo che hai ordinato la spesa a domicilio dal tuo commerciante di fiducia, puoi lasciargli un credito (dei soldi) in favore della spesa sospesa, oppure puoi effettuare un bonifico al seguente IBAN\nIT78B0326503401000010127819 \nintestato a Fondazione di Comunit\u00e0 del Centro Storico di Napoli \ncausale \""spesa sospesa\""\nDopo averlo fatto comunica della tua donazione al nr della Municipalit\u00e0 2 - 0817950260 /61 /65 per i Quartieri Avoocata-Montecalvario-S.G.ppe-Porto, oppure 0817950863/ 64 /60 per i Quartieri Mercato e Pendino, attivi dalle ore 9 alle ore 12 dal luned\u00ec al venerd\u00ec, oppure invia una e-mail a css.avvocata.montecalvario@comune.napoli.it indicando la cifra donata e a quale esercizio commerciale.\nPERCHE\u2019 FARLO \nLa somma raccolta sar\u00e0 utilizzata per donare la spesa a chiunque sia in difficolt\u00e0 e necessiti di aiuto.\nPer avere la spesa donata chiama i Servizi Sociali della Municipalit\u00e0 ai numeri 0817950260 /61 /65 per i Quartieri Avoocata-Montecalvario-S.G.ppe-Porto, oppure 0817950863 /64 /60 per i Quartieri Mercato e Pendino, attivi dalle ore 9 alle ore 12 dal luned\u00ec al venerd\u00ec.\u00ec, oppure rivolgiti ad associazioni del territorio.\nLa Municipalit\u00e0 provveder\u00e0 a contattare il negozio per organizzare la consegna della spesa."", ""Destinatari"": ""Cittadine e cittadini Municipalit\u00e0 2 Napoli"", ""Natura"": ""solidale"", ""Posizione"": ""40.851932 14.248715 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa sospesa Municipalit\u00e0 2 Comune di #Napoli""}","<pre><yamldata>
 Descrizione: ""Modalità di donazione (fiscalmente detraibile) \nIniziativa della Municipalità\
   \ 2 in soccorso di coloro che, a causa dell’emergenza sanitaria, si trovano in difficoltà\
@@ -14667,6 +14674,19 @@ Descrizione: La Regione Marche ha predisposto una check list utile alle imprese 
 Fonte: Regione Marche
 Link: http://www.regione.marche.it/News-ed-Eventi/Post/60846/Coronavirus-check-list-per-le-imprese-per-il-rispetto-della-sicurezza-dei-lavoratori
 
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-16 23:11:05,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
+Comune: Milano
+Da_chi_offerta: Libreria Verso
+Descrizione: '#versopedala - libreria con servizio di consegna libri a domicilio'
+Destinatari: adulti e bambini
+Informativa: OK
+Link: http://www.libreriaverso.com/novita/versopedala/
+Natura: culturale-ricr
+Posizione: 45.458403 9.181154 0 0
+Provincia: Milano
+Regione: Lombardia
+Titolo: 'Consegna Libri a Domicilio #Milano'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-16 23:11:05,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
 Comune: Milano
