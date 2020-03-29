@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1601,589839533,2020-03-29 17:19:47,2020-03-29 17:18:16,"Cura Italia, Mef pubblica le risposte alle domande più frequenti",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""Posizione mancante"", ""accettato""]",,,"{""Cosa"": ""Cura Italia, Mef pubblica le risposte alle domande pi\u00f9 frequenti"", ""Descrizione"": ""MEF pubblica le risposte alle domande pi\u00f9 frequenti che riguardano le misure adottate dal decreto \u201cCura Italia\u201d in tema di sanit\u00e0, lavoro, liquidit\u00e0 a imprese e famiglie, fisco. Le FAQ sono in costante aggiornamento."", ""Fonte"": ""Mef"", ""Link"": ""http://www.mef.gov.it/covid-19/faq.html""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1601,589839533,2020-03-29 17:25:25,2020-03-29 17:18:16,"Cura Italia, Mef pubblica le risposte alle domande più frequenti",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato""]",,,"{""Cosa"": ""Cura Italia, Mef pubblica le risposte alle domande pi\u00f9 frequenti"", ""Descrizione"": ""MEF pubblica le risposte alle domande pi\u00f9 frequenti che riguardano le misure adottate dal decreto \u201cCura Italia\u201d in tema di sanit\u00e0, lavoro, liquidit\u00e0 a imprese e famiglie, fisco. Le FAQ sono in costante aggiornamento."", ""Fonte"": ""Mef"", ""Link"": ""http://www.mef.gov.it/covid-19/faq.html""}","<pre><yamldata>
 Cosa: Cura Italia, Mef pubblica le risposte alle domande più frequenti
 Descrizione: MEF pubblica le risposte alle domande più frequenti che riguardano le
   misure adottate dal decreto “Cura Italia” in tema di sanità, lavoro, liquidità a
@@ -46,6 +46,15 @@ Natura: solidale
 Posizione: 44.535063 11.34613 0 0
 Tipo_di_soggetto: pubblico
 Titolo: A Bologna strutture per le persone senza dimora aperte 24h su 24h
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1597,589817033,2020-03-29 17:25:13,2020-03-29 15:27:50,Telefono Rosso per la tutela della salute dei lavoratori,,,,,"[""Bollettino"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Potere al Popolo"", ""Descrizione"": ""Telefono Rosso per la tutela della salute dei lavoratori"", ""Destinatari"": ""Lavoratori, disoccupati, precari"", ""Link"": ""https://poterealpopolo.org/il-telefono-rosso-a-tutela-dei-lavoratori-un-primo-report/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Telefono Rosso per la tutela della salute dei lavoratori""}","<pre><yamldata>
+Da_chi_offerta: Potere al Popolo
+Descrizione: Telefono Rosso per la tutela della salute dei lavoratori
+Destinatari: Lavoratori, disoccupati, precari
+Link: https://poterealpopolo.org/il-telefono-rosso-a-tutela-dei-lavoratori-un-primo-report/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Telefono Rosso per la tutela della salute dei lavoratori
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1593,589809218,2020-03-29 15:36:43,2020-03-29 14:50:56,"Resta attivo servizio di supporto psico-oncologico DH Oncologico di #Giulianova, #Teramo",42.75349,13.96670,Abruzzo,Teramo,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato""]",,,"{""Comune"": ""Giulianova"", ""Da_chi_offerta"": ""Associazione per la Lotta Contro i Tumori \u201cGiovanna Savini\u201d"", ""Descrizione"": ""Nel rispetto delle misure di contenimento COVID-19 il servizio di supporto psico-oncologico offerto dall\u2019Associazione per la Lotta Contro i Tumori \u201cGiovanna Savini\u201d rivolto ai pazienti del DH Oncologico di Giulianova ed ai loro familiari RESTA ATTIVO CON COLLOQUI A DISTANZA (attraverso telefono o videochiamate)\ncome fortemente raccomandato anche dal Consiglio Nazionale dell\u2019Ordine degli Psicologi e sempre nel rispetto della privacy degli utenti.\nLA PSICO-ONCOLOGA DOTT.SSA ROSA LO STERZO RESTA A DISPOSIZIONE AL NUMERO 3480452488"", ""Destinatari"": ""Pazienti oncologici e loro familiari"", ""Natura"": ""solidale"", ""Posizione"": ""42.75349 13.96670"", ""Provincia"": ""Teramo"", ""Regione"": ""Abruzzo"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Resta attivo servizio di supporto psico-oncologico DH Oncologico di Giulianova""}","<pre><yamldata>
 Da_chi_offerta: Associazione per la Lotta Contro i Tumori “Giovanna Savini”
