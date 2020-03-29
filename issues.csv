@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1592,589801217,2020-03-29 14:25:28,2020-03-29 14:12:30,"Servizio Caritas e Comune #Senigallia #Ancona per spesa e farmaci a domicilio, sostegno psicologico",43.717548,13.214699,Marche,Ancona,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di Senigallia"", ""Descrizione"": ""Firmato un protocollo tra Caritas e Comune di Senigallia per aiutare la popolazione anziana, sola o in quarantena, nelle prime necessit\u00e0 come fare la spesa, acquistare farmaci e ritirare ricette mediche. Si ricorda che tale servizio, attivo dalle ore 8 alle ore 20 per i residenti nella Diocesi di Senigallia, pu\u00f2 essere richiesto chiamando il numero verde 800 76 80 20. Ora, grazie alla preziosa collaborazione degli psicologi volontari della Societ\u00e0 Nazionale di Salvamento di Senigallia, chiamando allo stesso numero e negli stessi orari \u00e8 possibile richiedere anche un servizio gratuito di sostegno psicologico per affrontare al meglio le ansie e le paure che emergono in seno alla comunit\u00e0, prodotte dalla grave crisi sanitaria."", ""Destinatari"": ""popolazione anziana o in quarantena"", ""Link"": ""https://www.facebook.com/comune.senigallia/"", ""Natura"": ""solidale"", ""Posizione"": ""43.717548 13.214699 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Fare la spesa, acquistare farmaci e ricette mediche; sostegno psicologico""}","<pre><yamldata>
+Da_chi_offerta: Comune di Senigallia
+Descrizione: 'Firmato un protocollo tra Caritas e Comune di Senigallia per aiutare
+  la popolazione anziana, sola o in quarantena, nelle prime necessità come fare la
+  spesa, acquistare farmaci e ritirare ricette mediche. Si ricorda che tale servizio,
+  attivo dalle ore 8 alle ore 20 per i residenti nella Diocesi di Senigallia, può
+  essere richiesto chiamando il numero verde 800 76 80 20.
+  Ora, grazie alla preziosa collaborazione degli psicologi volontari della Società
+  Nazionale di Salvamento di Senigallia, chiamando allo stesso numero e negli stessi
+  orari è possibile richiedere anche un servizio gratuito di sostegno psicologico
+  per affrontare al meglio le ansie e le paure che emergono in seno alla comunità,
+  prodotte dalla grave crisi sanitaria.'
+Destinatari: popolazione anziana o in quarantena
+Link: https://www.facebook.com/comune.senigallia/
+Natura: solidale
+Posizione: 43.717548 13.214699 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Fare la spesa, acquistare farmaci e ricette mediche; sostegno psicologico
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1591,589798943,2020-03-29 14:03:54,2020-03-29 14:01:08,Beni di prima necessità per persone e animali del circo Orfei #Ancona,43.480120400000004,13.218790609151764,Marche,Ancona,"[""Bollettino"", ""Richiesta aiuto"", ""accettato""]",,,"{""Cosa"": ""Beni di prima necessit\u00e0"", ""Descrizione"": ""Buongiorno, divulghiamo la richiesta di aiuti che ci giunge dalla Protezione Civile regionale per il circo Orfei che attualmente si trova fermo in Ancona senza ovviamente la possibilit\u00e0 di fare spettacoli e quindi di autosostenersi. Servono beni di prima necessit\u00e0 sia per gli artisti e i lavoratori del circo che per gli animali. Acqua, pasta, pelati e altre derrate alimentari anche prossime alla scadenza, ma anche frutta e verdura troppo mature e scarti di carne per gli animali. Se volete contribuire contattateci."", ""Destinatari"": ""Persone e animali del Circo Orferi"", ""Email"": ""protezionecivile.monsano@gmail.com"", ""Indirizzo"": ""43.611965 13.504034 0 0"", ""Link"": ""https://www.facebook.com/search/top/?q=comune%20di%20monsano&epa=SEARCH_BOX"", ""Nome"": ""Gruppo Comunale di Protezione Civile Monsano"", ""Posizione"": ""43.480120400000004 13.218790609151764 0 0"", ""Telefono"": ""340 401 4433""}","<pre><yamldata>
 Cosa: Beni di prima necessità
 Descrizione: Buongiorno, divulghiamo la richiesta di aiuti che ci giunge dalla Protezione
@@ -64,6 +83,15 @@ https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1567,58979449
 Link: https://www.giornatapsicologiastudiaperti.it/
 Titolo: '#psicologionline - Ordine Nazionale degli Psicologi'
 Descrizione: Trova il Professionista più adatto alle tue esigenze
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1554,589794400,2020-03-29 14:25:14,2020-03-29 13:39:54,Attivo PRONTO PSY - Covid-19 di SIPEM SOS #Lombardia,45.4668,9.1905,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Contatti SIPEM SOS LOMBARDIA"", ""Link"": ""https://www.sipemsos.org/lombardia.html"", ""Posizione"": ""45.4668 9.1905"", ""Titolo"": ""PRONTO PSY - Covid-19"", ""email"": ""sipemsoslombardia@gmail.com"", ""sms"": ""3791898986"", ""whatsapp"": ""3791898986""}","<pre><yamldata>
+Descrizione: Contatti SIPEM SOS LOMBARDIA
+Link: https://www.sipemsos.org/lombardia.html
+Posizione: 45.4668 9.1905
+Titolo: PRONTO PSY - Covid-19
+email: sipemsoslombardia@gmail.com
+sms: '3791898986'
+whatsapp: '3791898986'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1513,589783243,2020-03-29 13:12:40,2020-03-29 12:42:22,Servizio di Supporto Sociale  per persone in difficoltà - Comune di #Jesi,43.522847,13.243881,Marche,Ancona,"[""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di Jesi"", ""Descrizione"": ""Da domani 30.03 \u00e8 attivo un servizio telefonico di supporto sociale\nper le persone in difficolt\u00e0 che necessitano di sostegno.\nIl numero \u00e8  379 1834886 ed \u00e8 attivo ogni mattina\ndal luned\u00ec al venerd\u00ec dalle ore 9 alle ore 13 e nei pomeriggi di marted\u00ec e gioved\u00ec dalle 15 alle 17"", ""Destinatari"": ""Per le persone in difficolt\u00e0"", ""Link"": ""https://www.comune.jesi.an.it/"", ""Natura"": ""solidale"", ""Posizione"": ""43.522847 13.243881 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Supporto Sociale""}","<pre><yamldata>
 Da_chi_offerta: Comune di Jesi
