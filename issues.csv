@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1601,589839533,2020-03-29 17:19:47,2020-03-29 17:18:16,"Cura Italia, Mef pubblica le risposte alle domande più frequenti",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""Posizione mancante"", ""accettato""]",,,"{""Cosa"": ""Cura Italia, Mef pubblica le risposte alle domande pi\u00f9 frequenti"", ""Descrizione"": ""MEF pubblica le risposte alle domande pi\u00f9 frequenti che riguardano le misure adottate dal decreto \u201cCura Italia\u201d in tema di sanit\u00e0, lavoro, liquidit\u00e0 a imprese e famiglie, fisco. Le FAQ sono in costante aggiornamento."", ""Fonte"": ""Mef"", ""Link"": ""http://www.mef.gov.it/covid-19/faq.html""}","<pre><yamldata>
+Cosa: Cura Italia, Mef pubblica le risposte alle domande più frequenti
+Descrizione: MEF pubblica le risposte alle domande più frequenti che riguardano le
+  misure adottate dal decreto “Cura Italia” in tema di sanità, lavoro, liquidità a
+  imprese e famiglie, fisco. Le FAQ sono in costante aggiornamento.
+Fonte: Mef
+Link: http://www.mef.gov.it/covid-19/faq.html
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1600,589838659,2020-03-29 17:20:42,2020-03-29 17:14:09,"Coronavirus, vademecum Regione #EmiliaRomagna per le imprese che vogliono produrre mascherine",44.533288,11.345015,Emilia-Romagna,Bologna,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Cosa"": ""Coronavirus, vademecum Regione Emilia Romagna per le imprese che vogliano produrre"", ""Descrizione"": ""Un vademecun per supportare le imprese manifatturiere dell\u2019Emilia-Romagna che vogliano produrre mascherine chirurgiche, in deroga alla normativa vigente come previsto dal Decreto del Governo \u2018Cura Italia\u2019. Il documento, frutto del coordinamento dell\u2019 Assessore allo Sviluppo Economico Vincenzo Colla  con i colleghi della Sanit\u00e0 Raffaele Donini e della Protezione Civile Irene Priolo, \u00e8 stato messo a punto da Arter per conto della Regione, e sar\u00e0 a supporto delle imprese manifatturiere emiliano-romagnole interessate a produrre questi dispositivi."", ""Link"": ""http://www.regione.emilia-romagna.it/notizie/attualita/coronavirus-pronto-un-vademecum-della-regione-per-le-imprese-che-vogliano-produrre-mascherine-chirurgiche"", ""Posizione"": ""44.533288 11.345015 0 0""}","<pre><yamldata>
+Cosa: Coronavirus, vademecum Regione Emilia Romagna per le imprese che vogliano produrre
+Descrizione: Un vademecun per supportare le imprese manifatturiere dell’Emilia-Romagna
+  che vogliano produrre mascherine chirurgiche, in deroga alla normativa vigente come
+  previsto dal Decreto del Governo ‘Cura Italia’. Il documento, frutto del coordinamento
+  dell’ Assessore allo Sviluppo Economico Vincenzo Colla  con i colleghi della Sanità
+  Raffaele Donini e della Protezione Civile Irene Priolo, è stato messo a punto da
+  Arter per conto della Regione, e sarà a supporto delle imprese manifatturiere emiliano-romagnole
+  interessate a produrre questi dispositivi.
+Link: http://www.regione.emilia-romagna.it/notizie/attualita/coronavirus-pronto-un-vademecum-della-regione-per-le-imprese-che-vogliano-produrre-mascherine-chirurgiche
+Posizione: 44.533288 11.345015 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1599,589838128,2020-03-29 17:21:09,2020-03-29 17:11:35,A Bologna strutture per le persone senza dimora aperte 24h su 24h,44.535063,11.34613,Emilia-Romagna,Bologna,"[""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di Bologna"", ""Descrizione"": ""Il Piano Freddo del Comune di Bologna viene prorogato al 30 aprile, un mese in pi\u00f9 rispetto alla scadenza tradizionale del 31 marzo: una decisione assunta per permettere alle persone senza dimora di poter affrontare l\u2019emergenza coronavirus in linea con le misure disposte dai decreti del Governo.\nLe strutture saranno quindi aperte per ventiquattro ore al giorno e anche le parrocchie che partecipano al Piano Freddo hanno deciso di proseguire l\u2019accoglienza.\nNelle strutture \u00e8 prevista la consegna dei pasti sia a pranzo che a cena. Per il pranzo la consegna avviene in raccordo con Camst e le mense di Antoniano Onlus e Santa Caterina, per la cena sono attivi i volontari delle varie realt\u00e0 che collaborano normalmente con il Piano Freddo. L'Arcivescovo di Bologna, cardinale Matteo Maria Zuppi, ha dato mandato che tutti i pasti siano offerti dalla Caritas Diocesana.\nDue tensostrutture attrezzate con tende e tavoli sono state montate in via Pallavicini e via del Lazzaretto e altre due tensostrutture verranno montate a Villa Serena e davanti al dormitorio Beltrame. Questo permette alle persone di avere un luogo dove rimanere anche durante gli interventi di pulizia delle strutture e in generale durante la giornata, nel rispetto della distanza interpersonale di un metro."", ""Destinatari"": ""Persone senza dimora"", ""Link"": ""http://comune.bologna.it/news/coronavirus-strutture-piano-freddo-aperte-di-giorno"", ""Natura"": ""solidale"", ""Posizione"": ""44.535063 11.34613 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""A Bologna strutture per le persone senza dimora aperte 24h su 24h""}","<pre><yamldata>
+Da_chi_offerta: Comune di Bologna
+Descrizione: 'Il Piano Freddo del Comune di Bologna viene prorogato al 30 aprile,
+  un mese in più rispetto alla scadenza tradizionale del 31 marzo: una decisione assunta
+  per permettere alle persone senza dimora di poter affrontare l’emergenza coronavirus
+  in linea con le misure disposte dai decreti del Governo.
+
+  Le strutture saranno quindi aperte per ventiquattro ore al giorno e anche le parrocchie
+  che partecipano al Piano Freddo hanno deciso di proseguire l’accoglienza.
+
+  Nelle strutture è prevista la consegna dei pasti sia a pranzo che a cena. Per il
+  pranzo la consegna avviene in raccordo con Camst e le mense di Antoniano Onlus e
+  Santa Caterina, per la cena sono attivi i volontari delle varie realtà che collaborano
+  normalmente con il Piano Freddo. L''Arcivescovo di Bologna, cardinale Matteo Maria
+  Zuppi, ha dato mandato che tutti i pasti siano offerti dalla Caritas Diocesana.
+
+  Due tensostrutture attrezzate con tende e tavoli sono state montate in via Pallavicini
+  e via del Lazzaretto e altre due tensostrutture verranno montate a Villa Serena
+  e davanti al dormitorio Beltrame. Questo permette alle persone di avere un luogo
+  dove rimanere anche durante gli interventi di pulizia delle strutture e in generale
+  durante la giornata, nel rispetto della distanza interpersonale di un metro.'
+Destinatari: Persone senza dimora
+Link: http://comune.bologna.it/news/coronavirus-strutture-piano-freddo-aperte-di-giorno
+Natura: solidale
+Posizione: 44.535063 11.34613 0 0
+Tipo_di_soggetto: pubblico
+Titolo: A Bologna strutture per le persone senza dimora aperte 24h su 24h
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1593,589809218,2020-03-29 15:36:43,2020-03-29 14:50:56,"Resta attivo servizio di supporto psico-oncologico DH Oncologico di #Giulianova, #Teramo",42.75349,13.96670,Abruzzo,Teramo,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato""]",,,"{""Comune"": ""Giulianova"", ""Da_chi_offerta"": ""Associazione per la Lotta Contro i Tumori \u201cGiovanna Savini\u201d"", ""Descrizione"": ""Nel rispetto delle misure di contenimento COVID-19 il servizio di supporto psico-oncologico offerto dall\u2019Associazione per la Lotta Contro i Tumori \u201cGiovanna Savini\u201d rivolto ai pazienti del DH Oncologico di Giulianova ed ai loro familiari RESTA ATTIVO CON COLLOQUI A DISTANZA (attraverso telefono o videochiamate)\ncome fortemente raccomandato anche dal Consiglio Nazionale dell\u2019Ordine degli Psicologi e sempre nel rispetto della privacy degli utenti.\nLA PSICO-ONCOLOGA DOTT.SSA ROSA LO STERZO RESTA A DISPOSIZIONE AL NUMERO 3480452488"", ""Destinatari"": ""Pazienti oncologici e loro familiari"", ""Natura"": ""solidale"", ""Posizione"": ""42.75349 13.96670"", ""Provincia"": ""Teramo"", ""Regione"": ""Abruzzo"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Resta attivo servizio di supporto psico-oncologico DH Oncologico di Giulianova""}","<pre><yamldata>
 Da_chi_offerta: Associazione per la Lotta Contro i Tumori “Giovanna Savini”
 Descrizione: 'Nel rispetto delle misure di contenimento COVID-19 il servizio di supporto
