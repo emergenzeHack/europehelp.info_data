@@ -337,6 +337,15 @@ Fasce orarie: 11:00 - 15:00 • lunedì - venerdì
 Località: Roma
 Posizione: 41.89332 12.48293
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1564,589794459,2020-03-29 23:50:07,2020-03-29 13:40:12,Servizio di supporto psicologico - Centro Psicologia #Torino (in italiano e inglese),45.06776,7.68249,Piemonte,Torino,"[""Bollettino"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da chi \u00e8 offerto"": ""Centro Psicologia Torino"", ""Descrizione"": ""In occasione di questa grave emergenza in atto a livello nazionale e internazionale, il team di Psicologia Torino si mette a disposizione per dare supporto psicologico individuale e familiare alla popolazione. Psicologia Torino offre due colloqui online o telefonici gratuiti in italiano o in inglese. Fasce orarie: 8.00-24.00 tutti i giorni."", ""Link"": ""https://www.centroclinicopsicologiatorino.it"", ""Posizione"": ""45.06776 7.68249"", ""Telefono"": ""3807704182"", ""email"": ""info@centroclinicopsicologiatorino.it"", ""sms"": ""3807704182""}","<pre><yamldata>
+Da chi è offerto: Centro Psicologia Torino
+Descrizione: ""In occasione di questa grave emergenza in atto a livello nazionale e internazionale, il team di Psicologia Torino si mette a disposizione per dare supporto psicologico individuale e familiare alla popolazione. Psicologia Torino offre due colloqui online o telefonici gratuiti in italiano o in inglese. Fasce orarie: 8.00-24.00 tutti i giorni.""
+Telefono: '3807704182'
+sms: '3807704182'
+email: info@centroclinicopsicologiatorino.it
+Link: https://www.centroclinicopsicologiatorino.it
+Posizione: 45.06776 7.68249
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1563,589794452,2020-03-29 21:23:06,2020-03-29 13:40:10,Servizio di Ascolto e Supporto Psicologico-Società Italiana di Psicoterapia Psicoanalitica,,,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da chi \u00e8 offerto"": ""Societ\u00e0 Italiana di Psicoterapia Psicoanalitica"", ""Descrizione"": ""Anche in questo momento di grande emergenza, i Centri di Consultazione della Sipp""}","<pre><yamldata>
 Da chi è offerto: Società Italiana di Psicoterapia Psicoanalitica
 Descrizione: Anche in questo momento di grande emergenza, i Centri di Consultazione della Sipp<br/>collocati nei diversi territori nazionali sono attivi per offrire un servizio alla cittadinanza.<br/>I colloqui potranno essere svolti gratuitamente in questi giorni in modalità online o telefonica.<br/> E' possibile contattare i singoli Centri ai contatti riportati nel sito web.
@@ -13708,29 +13717,6 @@ Email: Info@youelements.com
 Immagine: 7987CA06-4604-48D5-8BE8-F903BE2C6C69-12_38_26.jpeg
 Link: www.youelements.com/community
 Telefono: '3494997789'
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/542,581637038,2020-03-16 23:20:44,2020-03-15 11:38:15,Sportello Telematico SOS Autismo #TorVergata #Roma,41.848753,12.619514,Lazio,Roma,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Personale medico gruppo Autismo Tor Vergata"", ""Descrizione"": ""Al via a Tor Vergata ad uno sportello di supporto telematico al fine di cercare di sopperire, per quanto possibile, allo stravolgimento delle routine quotidiane dei bambini e ragazzi, all\u2019interruzione della frequenza scolastica oltre a quello degli interventi abilitativi di supporto. \nCosa si potr\u00e0 fare: colloqui via Skype della durata di 15 minuti con uno o entrambi i genitori al fine di: dare suggerimenti per la gestione della giornata e delle attivit\u00e0 quotidiane; dare supporto per la gestione di eventuali crisi comportamentali o comportamenti problema.\nQuando \u00e8 disponibile il Servizio: a partire dal 12/03/2020 fino a copertura dell\u2019emergenza sanitaria in corso.\nIl servizio \u00e8 attivo per tre giorni a settimana, il marted\u00ec, gioved\u00ec e venerd\u00ec dalle ore 09.30 alle 12.30.\nCome si prenota: inviare una mail all\u2019indirizzo torvergataautismo@gmail.com"", ""Destinatari"": ""Famiglie con persone autistiche"", ""Link"": ""http://www.pernoiautistici.com/2020/03/a-tor-vergata-uno-sportello-on-line-sos-autismo/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+PerNoiAutistici+%28Per+Noi+Autistici%29"", ""Natura"": ""solidale"", ""Posizione"": ""41.848753 12.619514 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A Tor Vergata (Roma) attivato lo sportello Telematico SOS Autismo""}","<pre><yamldata>
-Comune: Roma
-Da_chi_offerta: Personale medico gruppo Autismo Tor Vergata
-Descrizione: ""Al via a Tor Vergata ad uno sportello di supporto telematico al fine\
-  \ di cercare di sopperire, per quanto possibile, allo stravolgimento delle routine\
-  \ quotidiane dei bambini e ragazzi, all\u2019interruzione della frequenza scolastica\
-  \ oltre a quello degli interventi abilitativi di supporto. \nCosa si potr\xE0 fare:\
-  \ colloqui via Skype della durata di 15 minuti con uno o entrambi i genitori al\
-  \ fine di: dare suggerimenti per la gestione della giornata e delle attivit\xE0\
-  \ quotidiane; dare supporto per la gestione di eventuali crisi comportamentali o\
-  \ comportamenti problema.\nQuando \xE8 disponibile il Servizio: a partire dal 12/03/2020\
-  \ fino a copertura dell\u2019emergenza sanitaria in corso.\nIl servizio \xE8 attivo\
-  \ per tre giorni a settimana, il marted\xEC, gioved\xEC e venerd\xEC dalle ore 09.30\
-  \ alle 12.30.\nCome si prenota: inviare una mail all\u2019indirizzo torvergataautismo@gmail.com""
-Destinatari: Famiglie con persone autistiche
-Link: http://www.pernoiautistici.com/2020/03/a-tor-vergata-uno-sportello-on-line-sos-autismo/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+PerNoiAutistici+%28Per+Noi+Autistici%29
-Natura: solidale
-Posizione: 41.848753 12.619514 0 0
-Provincia: Roma
-Regione: Lazio
-Tipo_di_soggetto: privato
-Titolo: A Tor Vergata (Roma) attivato lo sportello Telematico SOS Autismo
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/542,581637038,2020-03-16 23:20:44,2020-03-15 11:38:15,Sportello Telematico SOS Autismo #TorVergata #Roma,41.848753,12.619514,Lazio,Roma,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Personale medico gruppo Autismo Tor Vergata"", ""Descrizione"": ""Al via a Tor Vergata ad uno sportello di supporto telematico al fine di cercare di sopperire, per quanto possibile, allo stravolgimento delle routine quotidiane dei bambini e ragazzi, all\u2019interruzione della frequenza scolastica oltre a quello degli interventi abilitativi di supporto. \nCosa si potr\u00e0 fare: colloqui via Skype della durata di 15 minuti con uno o entrambi i genitori al fine di: dare suggerimenti per la gestione della giornata e delle attivit\u00e0 quotidiane; dare supporto per la gestione di eventuali crisi comportamentali o comportamenti problema.\nQuando \u00e8 disponibile il Servizio: a partire dal 12/03/2020 fino a copertura dell\u2019emergenza sanitaria in corso.\nIl servizio \u00e8 attivo per tre giorni a settimana, il marted\u00ec, gioved\u00ec e venerd\u00ec dalle ore 09.30 alle 12.30.\nCome si prenota: inviare una mail all\u2019indirizzo torvergataautismo@gmail.com"", ""Destinatari"": ""Famiglie con persone autistiche"", ""Link"": ""http://www.pernoiautistici.com/2020/03/a-tor-vergata-uno-sportello-on-line-sos-autismo/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+PerNoiAutistici+%28Per+Noi+Autistici%29"", ""Natura"": ""solidale"", ""Posizione"": ""41.848753 12.619514 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A Tor Vergata (Roma) attivato lo sportello Telematico SOS Autismo""}","<pre><yamldata>
 Comune: Roma
