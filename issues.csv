@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1973,590322720,2020-03-30 14:39:06,2020-03-30 14:10:10,Contatti utili per servizi ai cittadini di #Bergamo,45.67548,9.66507,Lombardia,Bergamo,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""http://bergamoaiuta.it/"", ""Nome"": ""Bergamoaiuta.it"", ""Posizione"": ""45.67548 9.66507 0 0"", ""Scopo"": ""Servizi ai cittadini di Bergamo\nAssistenza\nSpesa a domicilio\nPasti a domicilio\nFarmaci a domicilio\nServizi infanzia\nSostegno psicologico""}","<pre><yamldata>
+Nome: Bergamoaiuta.it
+Scopo: 'Servizi ai cittadini di Bergamo
+
+  Assistenza
+
+  Spesa a domicilio
+
+  Pasti a domicilio
+
+  Farmaci a domicilio
+
+  Servizi infanzia
+
+  Sostegno psicologico'
+Link: http://bergamoaiuta.it/
+Posizione: 45.67548 9.66507 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1970,590299662,2020-03-30 13:59:53,2020-03-30 13:40:01,Istituto Superiore di Sanità #ISS nuove indicazioni per operatori sanitari ,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mascherine e altri dpi, nuove indicazioni per gli operatori sanitari"", ""Descrizione"": ""L\u2019Istituto Superiore di Sanit\u00e0 (ISS) ha pubblicato nuove indicazioni \u201cad interim\u201d per un utilizzo razionale delle protezioni per infezione da Sars-Cov-2 nelle attivit\u00e0 sanitarie e sociosanitarie (assistenza a soggetti affetti da Covid-19) nell\u2019attuale scenario emergenziale Sars-Cov-2. Info e documento (formato pdf) sono disponibili qui: http://www.sicurezzaelavoro.org/archives/2329"", ""Fonte"": ""Sicurezza e Lavoro e Istituto Superiore di Sanit\u00e0 (ISS)"", ""Link"": ""http://www.sicurezzaelavoro.org/wp-content/uploads/2020/03/ISS_covid19_28mar20.pdf""}","<pre><yamldata>
 Cosa: Mascherine e altri dpi, nuove indicazioni per gli operatori sanitari
 Descrizione: 'L’Istituto Superiore di Sanità (ISS) ha pubblicato nuove indicazioni
@@ -308,6 +326,14 @@ Posizione: 41.91723 12.36911
 Telefono: Nonspecificata/Italiana
 Titolo: Negozio a Roma Galline Felici
 Zona di Consegna: Casalotti
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1828,589886827,2020-03-30 14:39:29,2020-03-29 21:13:04,Frozen Service colnsegna a domicilio surgelati a #Roma e città limitrofe ,41.9006915,12.6073933,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""Frozen Service, distributore di alimentari e pesce surgelati, svolge servizio di consegna a domicilio dal luned\u00ec al sabato in tutta Roma e citt\u00e0 limitrofe."", ""Indirizzo"": ""Via del Maggiolino 61, Roma"", ""Link"": ""https://www.deliveryroma.it/esercente/frozen-service/"", ""Posizione"": ""41.9006915 12.6073933"", ""Telefono"": ""069196601"", ""Zona di Consegna"": ""Anzio, Castelli Romani, Fiumicino, Guidonia, Ostia Antica, Pomezia e tutta Roma""}","<pre><yamldata>
+Indirizzo: Via del Maggiolino 61, Roma
+Descrizione: Frozen Service, distributore di alimentari e pesce surgelati, svolge servizio di consegna a domicilio dal lunedì al sabato in tutta Roma e città limitrofe.
+Link: https://www.deliveryroma.it/esercente/frozen-service/
+Posizione: 41.9006915 12.6073933
+Telefono: 069196601
+Zona di Consegna: Anzio, Castelli Romani, Fiumicino, Guidonia, Ostia Antica, Pomezia e tutta Roma
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1799,589886573,2020-03-30 10:57:20,2020-03-29 21:11:50,Servizio di consegna a domicilio #Roma-  Divingustare Wine Experience,41.83294,12.58153,Lazio,Roma,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da chi \u00e8 offerto"": ""Divingustare Wine Experience"", ""Descrizione"": ""Servizio di consegna a domicilio dei prodotti enologici di cui sono Brand Ambassador"", ""Indirizzo"": ""Via Enzo Benedetto, 21, 00173 Roma RM, Italia"", ""Link"": ""https://www.deliveryroma.it/esercente/divingustare-wine-experience/"", ""Posizione"": ""41.83294 12.58153"", ""Telefono"": ""3922079722"", ""Zona di Consegna"": ""Capannelle""}","<pre><yamldata>
 Da chi è offerto: Divingustare Wine Experience
