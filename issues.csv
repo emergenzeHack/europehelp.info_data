@@ -74,7 +74,7 @@ Tipo_di_soggetto: privato
 Titolo: Spesa, farmaci e piccole commissioni a domicilio
 Posizione: 45.48676 9.24285
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1959,590196179,2020-03-30 13:57:43,2020-03-30 10:58:27,"Consegna spesa, farmaci e piccoli servizi a domicilio quartiere Forlanini #Milano",,,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comitato Sicurezza e Vivibilit\u00e0 Forlanini e altri volontari"", ""Descrizione"": ""Spesa a domicilio, farmaci a domicilio, piccoli servizi (es. Poste..)\nPer usufruire del servizio chiamare il numero: 3356518206 (Giovanni) e sarete richiamati dai membri del gruppo disponibili a fare la commissione concordando come, quando e saldando il costo sostenuto."", ""Destinatari"": ""Tutti, soprattutto anziani"", ""Link"": ""https://www.facebook.com/spaziosalomone/photos/pb.283709915862919.-2207520000../535749933992248/?type=3&theater"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""IO TI AIUTO - spesa, farmaci e piccoli servizi a domicilio""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1959,590196179,2020-03-30 14:01:56,2020-03-30 10:58:27,"Consegna spesa, farmaci e piccoli servizi a domicilio quartiere Forlanini #Milano",45.44421,9.22435,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comitato Sicurezza e Vivibilit\u00e0 Forlanini e altri volontari"", ""Descrizione"": ""Spesa a domicilio, farmaci a domicilio, piccoli servizi (es. Poste..)\nPer usufruire del servizio chiamare il numero: 3356518206 (Giovanni) e sarete richiamati dai membri del gruppo disponibili a fare la commissione concordando come, quando e saldando il costo sostenuto."", ""Destinatari"": ""Tutti, soprattutto anziani"", ""Link"": ""https://www.facebook.com/spaziosalomone/photos/pb.283709915862919.-2207520000../535749933992248/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.44421 9.22435 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""IO TI AIUTO - spesa, farmaci e piccoli servizi a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Comitato Sicurezza e Vivibilità Forlanini e altri volontari
 Descrizione: 'Spesa a domicilio, farmaci a domicilio, piccoli servizi (es. Poste..)
 
@@ -84,6 +84,7 @@ Descrizione: 'Spesa a domicilio, farmaci a domicilio, piccoli servizi (es. Poste
 Destinatari: Tutti, soprattutto anziani
 Link: https://www.facebook.com/spaziosalomone/photos/pb.283709915862919.-2207520000../535749933992248/?type=3&theater
 Natura: solidale
+Posizione: 45.44421 9.22435 0 0
 Tipo_di_soggetto: privato
 Titolo: IO TI AIUTO - spesa, farmaci e piccoli servizi a domicilio
 </yamldata></pre>",open
