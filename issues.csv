@@ -9,6 +9,16 @@ Descrizione: 'L’Istituto Superiore di Sanità (ISS) ha pubblicato nuove indica
 Fonte: Sicurezza e Lavoro e Istituto Superiore di Sanità (ISS)
 Link: http://www.sicurezzaelavoro.org/wp-content/uploads/2020/03/ISS_covid19_28mar20.pdf
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1969,590272124,2020-03-30 14:28:11,2020-03-30 13:02:04,Distribuzione pasti Mensa di Sant’Antonio #Messina,38.19376,15.55421,Sicilia,Messina,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Antoniano, Congregazione dei Padri Rogazionisti"", ""Descrizione"": ""Cena in sacchetto da portar via; tutti i giorni dalle 17 alle 18"", ""Destinatari"": ""Chi ha necessit\u00e0"", ""Link"": ""https://www.basilicaantoniana.it/associazione-di-volontariato"", ""Natura"": ""solidale"", ""Posizione"": ""38.19376 15.55421 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Mensa di Sant\u2019Antonio""}","<pre><yamldata>
+Da_chi_offerta: Istituto Antoniano, Congregazione dei Padri Rogazionisti
+Descrizione: Cena in sacchetto da portar via; tutti i giorni dalle 17 alle 18
+Destinatari: Chi ha necessità
+Link: https://www.basilicaantoniana.it/associazione-di-volontariato
+Natura: solidale
+Tipo_di_soggetto: privato
+Posizione: 38.19376 15.55421 0 0
+Titolo: Mensa di Sant’Antonio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1968,590270407,2020-03-30 14:24:00,2020-03-30 12:59:27,Distribuzione pasti #Messina,38.118352,15.578613,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Cristo Re, Congregazione Dei Padri Rogazionisti"", ""Descrizione"": ""Pranzo in sacchetto da portar via; tutti i giorni alle 11.30"", ""Destinatari"": ""Chi ha necessit\u00e0"", ""Link"": ""https://cristore.rcj.org/mensa-poveri"", ""Natura"": ""solidale"", ""Posizione"": ""38.118352 15.578613 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Mensa di Cristo Re""}","<pre><yamldata>
 Da_chi_offerta: Istituto Cristo Re, Congregazione Dei Padri Rogazionisti
 Descrizione: Pranzo in sacchetto da portar via; tutti i giorni alle 11.30
@@ -267,6 +277,15 @@ Telefono: 06-5742352
 Titolo: Negozio a Roma Volpetti Salumeria – Store di qualità, gastronomia italiana
   e internazionale
 Zona di Consegna: Tutta Roma
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1833,589886870,2020-03-30 14:26:59,2020-03-29 21:13:16,Gelateria Il Pellicano consegna a domicilio gelati e dolci a #Roma,41.90764,12.51833,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""Gelateria Il Pellicano a Roma consegna a domicilio Vaschette di gelato da 500gr 750gr 1000gr, Cheesecake monoporzione, Tiramis\u00f9, Trabucos, Torte su Ordinazione, Praline, Frozen Yogurt, Crepes. Consegne in zona Nomentano, Parioli, Piazza bologna, San lorenzo, Tiburtina, Trieste."", ""Indirizzo"": ""Viale Ippocrate, 20, 00161 Roma RM, Italia"", ""Link"": ""https://www.deliveryroma.it/esercente/gelateria-il-pellicano/"", ""Posizione"": ""41.90764 12.51833 0 0"", ""Telefono"": ""0644252440"", ""Titolo"": ""Negozio a Roma Gelateria il Pellicano"", ""Zona di Consegna"": ""Nomentano, Parioli, Piazza bologna, San lorenzo, Tiburtina, Trieste""}","<pre><yamldata>
+Indirizzo: Viale Ippocrate, 20, 00161 Roma RM, Italia
+Descrizione: Gelateria Il Pellicano a Roma consegna a domicilio Vaschette di gelato da 500gr 750gr 1000gr, Cheesecake monoporzione, Tiramisù, Trabucos, Torte su Ordinazione, Praline, Frozen Yogurt, Crepes. Consegne in zona Nomentano, Parioli, Piazza bologna, San lorenzo, Tiburtina, Trieste. 
+Link: https://www.deliveryroma.it/esercente/gelateria-il-pellicano/
+Posizione: 41.90764 12.51833 0 0
+Telefono: '0644252440'
+Titolo: Negozio a Roma Gelateria il Pellicano
+Zona di Consegna: Nomentano, Parioli, Piazza bologna, San lorenzo, Tiburtina, Trieste
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1832,589886866,2020-03-30 11:22:44,2020-03-29 21:13:14,Gelateria Fabbri consegna a domicilio a #LidoDiOstia #Roma,41.73567,12.28806,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""Gelateria artigianale tradizionale consegna in zona Lido di Ostia."", ""Indirizzo"": ""Piazza Francesco Conteduca, 10, Lido di Ostia, RM, Italia"", ""Link"": ""https://www.deliveryroma.it/esercente/gelateria-fabbri/"", ""Posizione"": ""41.73567 12.28806"", ""Telefono"": ""3476344791"", ""Titolo"": ""Negozio a Roma Gelateria Fabbri"", ""Zona di Consegna"": ""Lido di Ostia""}","<pre><yamldata>
 Indirizzo: Piazza Francesco Conteduca, 10, Lido di Ostia, RM, Italia
