@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2017,590374192,2020-03-30 15:42:19,2020-03-30 15:17:42,"FABLAB e MAKERS#Belluno offre disponibilità  per produrre DPI, Soluzioni tecnologiche emergenza covid19",,,,,"[""Bollettino"", ""Donazioni"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Cosa"": ""FABLAB e MAKERS: DPI, Soluzioni tecnologiche"", ""Descrizione"": ""Anche noi ci siamo! \nVogliamo avvisare che come FABLAB e Makers del territorio siamo a disposizione per ideare, prototipare, testare e produrre qualcosa di utile per questo periodo per combattere insieme il COVID19.\n\nAbbiamo postato qui di seguito e nel nostro gruppo FABLAB IMPRESA BELLUNO\nhttps://www.facebook.com/groups/265016363833416\nalcune idee delle cose che si potrebbero fare."", ""Destinatari"": ""Tutti coloro che collaborano e lavorano presso gli Ospedali e le strutture Sanitarie, Protezione Civile ed Ass.ni Volontariato, cos\u00ec come le Pubbliche Amministrazioni."", ""Email"": ""fablab@centroconsorzi.it"", ""Immagine"": ""FabLab-17_17_34.jpg"", ""Indirizzo"": ""46.11098 12.0971545 0 0"", ""Link"": ""https://www.facebook.com/FabLabBelluno"", ""Telefono"": ""3346646162""}","<pre><yamldata>
+Cosa: 'FABLAB e MAKERS: DPI, Soluzioni tecnologiche'
+Descrizione: ""Anche noi ci siamo! \nVogliamo avvisare che come FABLAB e Makers del\
+  \ territorio siamo a disposizione per ideare, prototipare, testare e produrre qualcosa\
+  \ di utile per questo periodo per combattere insieme il COVID19.\n\nAbbiamo postato\
+  \ qui di seguito e nel nostro gruppo FABLAB IMPRESA BELLUNO\nhttps://www.facebook.com/groups/265016363833416\n\
+  alcune idee delle cose che si potrebbero fare.""
+Destinatari: Tutti coloro che collaborano e lavorano presso gli Ospedali e le strutture
+  Sanitarie, Protezione Civile ed Ass.ni Volontariato, così come le Pubbliche Amministrazioni.
+Email: fablab@centroconsorzi.it
+Immagine: FabLab-17_17_34.jpg
+Indirizzo: 46.11098 12.0971545 0 0
+Link: https://www.facebook.com/FabLabBelluno
+Telefono: '3346646162'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1973,590322720,2020-03-30 14:39:06,2020-03-30 14:10:10,Contatti utili per servizi ai cittadini di #Bergamo,45.67548,9.66507,Lombardia,Bergamo,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""http://bergamoaiuta.it/"", ""Nome"": ""Bergamoaiuta.it"", ""Posizione"": ""45.67548 9.66507 0 0"", ""Scopo"": ""Servizi ai cittadini di Bergamo\nAssistenza\nSpesa a domicilio\nPasti a domicilio\nFarmaci a domicilio\nServizi infanzia\nSostegno psicologico""}","<pre><yamldata>
 Nome: Bergamoaiuta.it
 Scopo: 'Servizi ai cittadini di Bergamo
@@ -4977,7 +4992,7 @@ Posizione: 42.564587 12.64123 0 0
 Tipo_di_soggetto: pubblico
 Titolo: I centro educativI territoriali al telefono per il sostegno  alla genitorialità
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1246,588153913,2020-03-26 17:55:11,2020-03-26 04:52:17,Urgente - Prot. Civile #AcquiTerme cerca possessori maschera da snorkeling della Decathlon,44.675145,8.467546,Piemonte,Alessandria,"[""Bollettino"", ""Notizie Utili"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cerchiamo possessori maschera  da snorkeking della Decathlon"", ""Descrizione"": ""Il respiratore per snorkeling venduto da Dechlaton e' diventato un vero e proprio ventilatore per tutti i reparti degli ospedali. Il dispositivo e' gia' stato testato con successo negli ospedali civili di Brescia e Chiari diventando uno strumento utile nella prima accoglienza al pronto soccorso e per una terapia sub intensiva d'urgenza.  Se hai a disposizione questo dispositivo da donare, contattaci scrivendo una Email a protezionecivile@comuneacqui.it oppure chiamando al numero 0114.770341. Vi ringrazio fin da ora per la collaborazione"", ""Posizione"": ""44.675145 8.467546 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1246,588153913,2020-03-30 15:29:02,2020-03-26 04:52:17,Urgente - Prot. Civile #AcquiTerme cerca possessori maschera da snorkeling della Decathlon,44.675145,8.467546,Piemonte,Alessandria,"[""Bollettino"", ""Notizie Utili"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cerchiamo possessori maschera  da snorkeking della Decathlon"", ""Descrizione"": ""Il respiratore per snorkeling venduto da Dechlaton e' diventato un vero e proprio ventilatore per tutti i reparti degli ospedali. Il dispositivo e' gia' stato testato con successo negli ospedali civili di Brescia e Chiari diventando uno strumento utile nella prima accoglienza al pronto soccorso e per una terapia sub intensiva d'urgenza.  Se hai a disposizione questo dispositivo da donare, contattaci scrivendo una Email a protezionecivile@comuneacqui.it oppure chiamando al numero 0114.770341. Vi ringrazio fin da ora per la collaborazione"", ""Posizione"": ""44.675145 8.467546 0 0""}","<pre><yamldata>
 Cosa: Cerchiamo possessori maschera  da snorkeking della Decathlon
 Descrizione: Il respiratore per snorkeling venduto da Dechlaton e' diventato un vero
   e proprio ventilatore per tutti i reparti degli ospedali. Il dispositivo e' gia'
