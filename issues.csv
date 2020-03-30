@@ -25,6 +25,15 @@ Telefono: '3500672142'
 Titolo: Negozio a Roma A tutto farro
 Zona di Consegna: Tuscolano
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1754,589886155,2020-03-30 09:49:28,2020-03-29 21:09:45,"Negozio ""A Mà"" consegna a domicilio #Balduina #Flaminio #Parioli #Prati #Roma",41.9529167,12.4846962,Lazio,Roma,"[""Consegne e commissioni"", ""Posizione da verificare"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""Via Flaminia, 660, 00191 Roma RM, Italia"", ""Link"": ""https://www.deliveryroma.it/esercente/a-ma/"", ""Posizione"": ""41.9529167 12.4846962"", ""Telefono"": ""3488583485"", ""Titolo"": ""Negozio a Roma A M\u00e0"", ""Zona di Consegna"": ""Balduina, Flaminio, Fleming, Parioli, Prati, Tor di quinto, Trionfale, Vigna clara""}","<pre><yamldata>
+Indirizzo: Via Flaminia, 660, 00191 Roma RM, Italia
+Link: https://www.deliveryroma.it/esercente/a-ma/
+Posizione: 41.9529167 12.4846962
+Telefono: '3488583485'
+Titolo: Negozio a Roma A Mà
+Zona di Consegna: Balduina, Flaminio, Fleming, Parioli, Prati, Tor di quinto, Trionfale,
+  Vigna clara
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1753,589886152,2020-03-30 09:47:00,2020-03-29 21:09:43,"Negozio ""A casa mia – pizzhoria"" consegna a domicilio #DonBosco #Roma",41.8576182,12.5637988,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""Viale Marco Fulvio Nobiliore, 15, 00175 Roma RM, Italia"", ""Link"": ""https://www.deliveryroma.it/esercente/a-casa-mia-pizzhoria/"", ""Posizione"": ""41.8576182 12.5637988"", ""Telefono"": ""3393687563"", ""Titolo"": ""Negozio a Roma A casa mia \u2013 pizzhoria"", ""Zona di Consegna"": ""Don Bosco""}","<pre><yamldata>
 Indirizzo: Viale Marco Fulvio Nobiliore, 15, 00175 Roma RM, Italia
 Link: https://www.deliveryroma.it/esercente/a-casa-mia-pizzhoria/
@@ -8650,17 +8659,6 @@ Descrizione: 'Cos’è questa storia dei tamponi inviati negli Stati Uniti da Br
   problema è la capacità dei laboratori di analizzare così tanti campioni in poco tempo'
 Indirizzo: 45.53993052 10.21910323
 Link: https://www.ilpost.it/2020/03/20/mezzo-milione-tamponi-italia-stati-uniti/?fbclid=IwAR0lEe9B-IBPzeax-xPCalbROz8b99ZdvYH48sJttBBPwDrVZYQgdJ6A10E
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/900,585038489,2020-03-20 14:31:21,2020-03-20 12:30:46,Serve un mediatore interculturale cinese #Lodi,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""Serve un mediatore interculturale cinese #Lodi"", ""Descrizione"": ""Serve un mediatore interculturale cinese in zona LODI per accompagnare un team di medici arrivati dalla Cina che porta la loro expertise nella gestione Covid-19"", ""Destinatari"": ""Mediatori culturali"", ""Email"": ""direttivo@mediatoreinterculturale.it"", ""Indirizzo"": ""45.311256 9.502178 0 0"", ""Link"": ""https://www.mediatoreinterculturale.it/"", ""Telefono"": ""320 44 66 490""}","<pre><yamldata>
-Cosa: 'Serve un mediatore interculturale cinese #Lodi'
-Descrizione: Serve un mediatore interculturale cinese in zona LODI per accompagnare
-  un team di medici arrivati dalla Cina che porta la loro expertise nella gestione
-  Covid-19
-Destinatari: Mediatori culturali
-Email: direttivo@mediatoreinterculturale.it
-Indirizzo: 45.311256 9.502178 0 0
-Link: https://www.mediatoreinterculturale.it/
-Telefono: 320 44 66 490
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/900,585038489,2020-03-20 14:31:21,2020-03-20 12:30:46,Serve un mediatore interculturale cinese #Lodi,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""Serve un mediatore interculturale cinese #Lodi"", ""Descrizione"": ""Serve un mediatore interculturale cinese in zona LODI per accompagnare un team di medici arrivati dalla Cina che porta la loro expertise nella gestione Covid-19"", ""Destinatari"": ""Mediatori culturali"", ""Email"": ""direttivo@mediatoreinterculturale.it"", ""Indirizzo"": ""45.311256 9.502178 0 0"", ""Link"": ""https://www.mediatoreinterculturale.it/"", ""Telefono"": ""320 44 66 490""}","<pre><yamldata>
 Cosa: 'Serve un mediatore interculturale cinese #Lodi'
