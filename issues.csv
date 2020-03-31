@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2038,591029575,2020-03-31 14:35:41,2020-03-31 11:30:36,Online il Dashboard informativo con i dati sulla distribuzione dei DPI e dei presidi sanitari,,,,,"[""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dashboard distribuzione materiali prociv"", ""Descrizione"": ""Arcuri:  \""cosa \u00e8 stato distribuito dal commissario per l'emergenza e dalla protezione civile e da chi e quando questi prodotti sono stati consegnati. Ed \u00e8 importante che i dati siano aggiornati in tempo reale per evitare che si possano insinuare dubbi\"". Il sistema \u00e8 da oggi online sui siti della protezione civile e del ministero della Salute."", ""Fonte"": ""https://www.adnkronos.com/fatti/cronaca/2020/03/31/coronavirus-arcuri-online-sistema-informatico-analisi-degli-aiuti_BJ5fjoJwEqZM8OYaMX32ZO.html"", ""Link"": ""https://app.powerbi.com/view?r=eyJrIjoiNTE2NWM3ZjktZGFlNi00MzYxLWJlMzEtYThmOWEzYjA1MGNhIiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9""}","<pre><yamldata>
+Cosa: Dashboard distribuzione materiali prociv
+Descrizione: 'Arcuri:  ""cosa è stato distribuito dal commissario per l''emergenza
+  e dalla protezione civile e da chi e quando questi prodotti sono stati consegnati.
+  Ed è importante che i dati siano aggiornati in tempo reale per evitare che si possano
+  insinuare dubbi"". Il sistema è da oggi online sui siti della protezione civile e
+  del ministero della Salute.'
+Fonte: https://www.adnkronos.com/fatti/cronaca/2020/03/31/coronavirus-arcuri-online-sistema-informatico-analisi-degli-aiuti_BJ5fjoJwEqZM8OYaMX32ZO.html
+Link: https://app.powerbi.com/view?r=eyJrIjoiNTE2NWM3ZjktZGFlNi00MzYxLWJlMzEtYThmOWEzYjA1MGNhIiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2037,591012929,2020-03-31 13:54:43,2020-03-31 11:07:04,"Autodichiarazione per gli spostamenti, attenzione ai fake",,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Autodichiarazione, attenzione ai fake"", ""Descrizione"": ""Circola in rete un falso modello di autodichiarazione per gli spostamenti, con logo della Repubblica e intestazione \""Ministero dell'Interno-Dipartimento della Pubblica Sicurezza\"". Si tratta di un modello falso, di un fake.Il modello di autodichiarazione valido va scaricato soltanto dai siti istituzionali ufficiali, oppure pu\u00f2 essere compilato al momento dei controlli."", ""Link"": ""https://www.interno.gov.it/it/notizie/autodichiarazione-attenzione-fake""}","<pre><yamldata>
 Cosa: Autodichiarazione, attenzione ai fake
 Descrizione: Circola in rete un falso modello di autodichiarazione per gli spostamenti,
