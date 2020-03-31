@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2044,591173939,2020-03-31 15:10:25,2020-03-31 14:50:58,Ricerca prodotti freschi (frutta e verdura) per il banco alimentare di #ReggioCalabria,38.1035389,15.6397556,Calabria,Reggio di Calabria,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ricerca prodotti freschi (frutta e verdura) per il banco alimentare di Reggio Calabria"", ""Descrizione"": ""Il Banco Alimentare a Reggio Calabria cerca prodotti freschi, frutta e ortaggi. Si invitano i produttori e i rivenditori che volessero donare le eccedenze a contattare questo numero: 0965-373675 o la mail bancalrf@gmail.com"", ""Destinatari"": ""Utenti banco alimentare"", ""Email"": ""eleonora.scrivo@actionaid.org"", ""Nome"": ""Eleonora Scrivo"", ""Posizione"": ""38.1035389 15.6397556 0 0""}","<pre><yamldata>
+Cosa: Ricerca prodotti freschi (frutta e verdura) per il banco alimentare di Reggio
+  Calabria
+Descrizione: 'Il Banco Alimentare a Reggio Calabria cerca prodotti freschi, frutta
+  e ortaggi. Si invitano i produttori e i rivenditori che volessero donare le eccedenze
+  a contattare questo numero: 0965-373675 o la mail bancalrf@gmail.com'
+Destinatari: Utenti banco alimentare
+Email: eleonora.scrivo@actionaid.org
+Nome: Eleonora Scrivo
+Posizione: 38.1035389 15.6397556 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2042,591102655,2020-03-31 14:59:31,2020-03-31 13:19:29,Agenzia delle Entrate: attenzione alle false email sui rimborsi del fisco,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attenzione alle false email sui rimborsi del Fisco"", ""Descrizione"": ""In questi giorni l\u2019Agenzia delle Entrate ha ricevuto diverse segnalazioni relative a nuove email di phishing che notificano ai destinatari rimborsi fiscali inesistenti con l\u2019obiettivo di raccogliere informazioni riservate. Le email in questione presentano come oggetto la dicitura \u201cNotifica per il rimborso fiscale del 2019\u201d e provengono da indirizzi email non riconducibili all\u2019Agenzia delle Entrate."", ""Link"": ""https://www.agenziaentrate.gov.it/portale/cs-31-marzo-2020""}","<pre><yamldata>
 Cosa: Attenzione alle false email sui rimborsi del Fisco
 Descrizione: In questi giorni l’Agenzia delle Entrate ha ricevuto diverse segnalazioni
