@@ -1,9 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2080,591817755,2020-04-01 11:13:30,2020-04-01 10:46:18,Servizio di ascolto psicologico e assistenza sociale attivato ad #OrioAlSerio in provincia di #Bergamo,45.6762274,9.6929555,Lombardia,Bergamo,"[""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""ad Orio al Serio \u00e8 attivo un servizio psicologico per i senza fissa dimora e un servizio di assistenza sociale per richieste e segnalazioni"", ""Nome"": ""Assistente sociale"", ""Posizione"": ""45.6762274 9.6929555 0 0"", ""Scopo"": ""sostegno psicologico"", ""Telefono"": ""035 4203244""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2081,591820307,2020-04-01 11:16:41,2020-04-01 10:50:10,Attivato il numero unico di emergenza a #Ponteranica in provincia di #Bergamo ,45.7320767,9.651987,Lombardia,Bergamo,"[""Consegne e commissioni"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf"", ""Nome"": ""Numero unico emergenza  Ponteranica Bergamo"", ""Posizione"": ""45.7320767 9.651987 0 0"", ""Scopo"": ""Da luned\u00ec a sabato dalle 9.00 alle 18.00\nRichieste intervento da parte di cittadini (assistenza, custodia sociale, spesa, farmaci) informazione e orientamento.\nLa linea telefonica \u00e8 in via potenziamento"", ""Telefono"": ""342 0099675""}","<pre><yamldata>
+Nome: Numero unico emergenza  Ponteranica Bergamo
+Scopo: 'Da lunedì a sabato dalle 9.00 alle 18.00
+
+  Richieste intervento da parte di cittadini (assistenza, custodia sociale, spesa,
+  farmaci) informazione e orientamento.
+
+  La linea telefonica è in via potenziamento'
+Link: https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf
+Telefono: 342 0099675
+Posizione: 45.7320767 9.651987 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2080,591817755,2020-04-01 11:17:04,2020-04-01 10:46:18,Servizio di ascolto psicologico e assistenza sociale attivato ad #OrioAlSerio in provincia di #Bergamo,45.6762274,9.6929555,Lombardia,Bergamo,"[""Contatti utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Descrizione"": ""ad Orio al Serio \u00e8 attivo un servizio psicologico per i senza fissa dimora e un servizio di assistenza sociale per richieste e segnalazioni"", ""Link"": ""https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf"", ""Nome"": ""Assistente sociale"", ""Posizione"": ""45.6762274 9.6929555 0 0"", ""Scopo"": ""sostegno psicologico"", ""Telefono"": ""035 4203244""}","<pre><yamldata>
 Nome: Assistente sociale
 Descrizione: ad Orio al Serio è attivo un servizio psicologico per i senza fissa dimora e un servizio di assistenza sociale per richieste e segnalazioni
 Scopo: sostegno psicologico
 Telefono: 035 4203244
+Link: https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf
 Posizione: 45.6762274 9.6929555 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2079,591815948,2020-04-01 11:09:31,2020-04-01 10:43:33,Sala operativa intercomunale della Protezione civile per spesa e farmaci  Attivo 24 ore su 24 #Dalmine #Zingonia #Bergamo,45.5989949,9.601036,Lombardia,Bergamo,"[""Consegne e commissioni"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Sala operativa intercomunale della Protezione civile per spesa e farmaci  Attivo 24 ore su 24 e altri servizi elencati qui https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf"", ""Email"": ""salaoperativa@pcdalminezingonia.it"", ""Link"": ""https://www.facebook.com/pcdalminezingonia/"", ""Nome_dell_esercizio_commercial"": ""Sala operativa intercomunale della Protezione civile per spesa e farmaci"", ""Posizione"": ""45.5989949 9.601036 0 0"", ""Telefono"": ""035 5627""}","<pre><yamldata>
