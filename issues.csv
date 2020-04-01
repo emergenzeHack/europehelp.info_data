@@ -128,13 +128,14 @@ Email: k.scorzelli@coopcrinali.it
 Link: www.crinali.org
 Nome: Karina Scorzelli - Presidente Cooperativa CRINALI
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2099,591882331,2020-04-01 16:38:53,2020-04-01 12:36:25,Pronto soccorso psicologico gratuito per residenti delle province di #Bergamo #Brescia,,,,,"[""Contatti utili"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Email"": ""info@prontosoccorsopsicologicobergamo.it"", ""Link"": ""www.prontosoccorsopsicologicobergamo.it"", ""Nome"": ""Pronto soccorso psicologico bergamo"", ""Scopo"": ""servizio on line gratuito emergenza covid 19 riservato ai residenti delle provincie di bergamo e brescia"", ""Telefono"": ""3351307889""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2099,591882331,2020-04-01 16:40:47,2020-04-01 12:36:25,Pronto soccorso psicologico gratuito per residenti delle province di #Bergamo #Brescia,45.61284,9.91227,Lombardia,Brescia,"[""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Email"": ""info@prontosoccorsopsicologicobergamo.it"", ""Link"": ""www.prontosoccorsopsicologicobergamo.it"", ""Nome"": ""Pronto soccorso psicologico bergamo"", ""Posizione"": ""45.61284 9.91227"", ""Scopo"": ""servizio on line gratuito emergenza covid 19 riservato ai residenti delle provincie di bergamo e brescia"", ""Telefono"": ""3351307889""}","<pre><yamldata>
 Email: info@prontosoccorsopsicologicobergamo.it
 Link: www.prontosoccorsopsicologicobergamo.it
 Nome: Pronto soccorso psicologico bergamo
 Scopo: servizio on line gratuito emergenza covid 19 riservato ai residenti delle provincie
   di bergamo e brescia
 Telefono: '3351307889'
+Posizione: 45.61284 9.91227
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2098,591870827,2020-04-01 16:36:30,2020-04-01 12:17:11,Avviso pubblico per erogazione buoni spesa - comune #ReggioCalabria,38.10354,15.63976,Calabria,Reggio di Calabria,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Bando buoni spesa comune di Rc"", ""Descrizione"": ""avviso pubblico per l'individuazione delle famiglie destinatarie dei buoni spesa"", ""Fonte"": ""Comune di Reggio Calabria"", ""Link"": ""http://www.reggiocal.it/on-line/Home/Notizie/articolo110749.html"", ""Posizione"": ""38.10354 15.63976""}","<pre><yamldata>
 Cosa: Bando buoni spesa comune di Rc
@@ -15067,6 +15068,21 @@ Posizione: 46.49833 11.354767 0 0
 Provincia: Bolzano
 Regione: Trentino-Alto Adige
 Titolo: Didattica d'emergenza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/604,582148526,2020-03-16 23:00:32,2020-03-16 09:49:14,"Servizio psicologico, consulenze telefoniche #Bolzano #ProvinciaBolzano",46.498286,11.310199,Trentino-Alto Adige,Bolzano,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Azienda Sanitaria dell'Alto Adige"", ""Descrizione"": ""Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici per richieste di sostegno psicologico in generale o relative alla sofferenza psichica e insicurezza rispetto al COVID-19."", ""Destinatari"": ""popolazione"", ""Link"": ""http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335"", ""Natura"": ""solidale"", ""Posizione"": ""46.498286 11.310199 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio psicologico, consulenze telefoniche""}","<pre><yamldata>
+Comune: Bolzano
+Da_chi_offerta: Azienda Sanitaria dell'Alto Adige
+Descrizione: Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici
+  per richieste di sostegno psicologico in generale o relative alla sofferenza psichica
+  e insicurezza rispetto al COVID-19.
+Destinatari: popolazione
+Link: http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335
+Natura: solidale
+Posizione: 46.498286 11.310199 0 0
+Provincia: Bolzano
+Regione: Trentino-Alto Adige
+Tipo_di_soggetto: pubblico
+Titolo: Servizio psicologico, consulenze telefoniche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/604,582148526,2020-03-16 23:00:32,2020-03-16 09:49:14,"Servizio psicologico, consulenze telefoniche #Bolzano #ProvinciaBolzano",46.498286,11.310199,Trentino-Alto Adige,Bolzano,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Azienda Sanitaria dell'Alto Adige"", ""Descrizione"": ""Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici per richieste di sostegno psicologico in generale o relative alla sofferenza psichica e insicurezza rispetto al COVID-19."", ""Destinatari"": ""popolazione"", ""Link"": ""http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335"", ""Natura"": ""solidale"", ""Posizione"": ""46.498286 11.310199 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio psicologico, consulenze telefoniche""}","<pre><yamldata>
 Comune: Bolzano
