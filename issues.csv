@@ -38,6 +38,28 @@ Link: https://www.facebook.com/superbergamo/posts/108479694130014
 Nome: Associazione MAITE - Bergamo Social Club
 Posizione: 45.705055 9.661392 0 0
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2073,591746372,2020-04-01 09:20:21,2020-04-01 08:56:16,Supporto alla ASP (Azienda pubblica di Servizi alla Persona) per l'assistenza agli anziani #Bologna,44.496934,11.346924,Emilia-Romagna,Bologna,"[""Raccolte fondi"", ""accettato""]",,,"{""Causale"": ""EMERGENZA CORONAVIRUS"", ""Descrizione"": ""Abbiamo bisogno dell\u2019aiuto di tutti per proteggere le persone anziane della nostra citt\u00e0, quelle che vivono nelle strutture residenziali e quelle che sono sole nel proprio domicilio.\nChiunque pu\u00f2 aiutare, con una donazione grande o piccola, a sostenere l\u2019impegno quotidiano di ASP, l\u2019Azienda pubblica di Servizi alla Persona della Citt\u00e0 di Bologna, che assiste quotidianamente nelle proprie strutture residenziali pi\u00f9 di 550 anziani, ed \u00e8 responsabile dell\u2019assistenza di pi\u00f9 di 3.000 anziani a domicilio. Tutte persone con patologie croniche ed estremamente vulnerabili. E stiamo parlando solo di quelli attualmente in carico ai servizi, i bisognosi da raggiungere sono in questi giorni molti di pi\u00f9. Siamo a conoscenza di anziani soli a casa, con patologie invalidanti e con badante assente perch\u00e9 in quarantena e figli ricoverati in rianimazione che stanno combattendo con la polmonite da coronavirus."", ""Email"": ""direzione@aspbologna.it"", ""IBAN"": ""IT95X0200802461000103016973"", ""Intestazione"": ""ASP Citt\u00e0 di Bologna"", ""Link"": ""http://www.aspbologna.it/comunicati-stampa/asp-citta-di-bologna/comunicato-stampa/a-sostegno-delle-persone-anziane-della-citta-di-bologna-fai-una-donazione-anche-tu"", ""Nome"": ""ASP Citt\u00e0 di Bologna"", ""Posizione"": ""44.496934 11.346924 0 0""}","<pre><yamldata>
+Causale: EMERGENZA CORONAVIRUS
+Descrizione: 'Abbiamo bisogno dell’aiuto di tutti per proteggere le persone anziane
+  della nostra città, quelle che vivono nelle strutture residenziali e quelle che
+  sono sole nel proprio domicilio.
+
+  Chiunque può aiutare, con una donazione grande o piccola, a sostenere l’impegno
+  quotidiano di ASP, l’Azienda pubblica di Servizi alla Persona della Città di Bologna,
+  che assiste quotidianamente nelle proprie strutture residenziali più di 550 anziani,
+  ed è responsabile dell’assistenza di più di 3.000 anziani a domicilio. Tutte persone
+  con patologie croniche ed estremamente vulnerabili. E stiamo parlando solo di quelli
+  attualmente in carico ai servizi, i bisognosi da raggiungere sono in questi giorni
+  molti di più. Siamo a conoscenza di anziani soli a casa, con patologie invalidanti
+  e con badante assente perché in quarantena e figli ricoverati in rianimazione che
+  stanno combattendo con la polmonite da coronavirus.'
+Email: direzione@aspbologna.it
+IBAN: IT95X0200802461000103016973
+Intestazione: ASP Città di Bologna
+Link: http://www.aspbologna.it/comunicati-stampa/asp-citta-di-bologna/comunicato-stampa/a-sostegno-delle-persone-anziane-della-citta-di-bologna-fai-una-donazione-anche-tu
+Nome: ASP Città di Bologna
+Posizione: 44.496934 11.346924 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2072,591735420,2020-04-01 08:51:52,2020-04-01 08:41:41,"Mappa delle attività che effettuano consegne a domicilio - alimentari, farmaci e altro #Bologna",44.494225,11.347053,Emilia-Romagna,Bologna,"[""Consegne e commissioni"", ""accettato""]",,,"{""Descrizione"": ""Il Comune di Bologna ha realizzato la mappa georeferenziata che permette a tutti i cittadini di conoscere le attivit\u00e0 commerciali vicino a casa che vendono alimentari, parafarmaci, farmaci e prodotti di altre tipologie, ed effettuano consegne a domicilio in questo periodo di emergenza sanitaria in cui sono in vigore le misure di contenimento della diffusione del contagio del coronavirus. La mappa \u00e8 in continuo aggiornamento ed \u00e8 stata realizzata in collaborazione con i sei Quartieri della citt\u00e0. Le informazioni inserite sono state fornite sia da singole attivit\u00e0 e sia da associazioni di categoria.\nSe in questo periodo di emergenza sanitaria la tua attivit\u00e0 effettua consegne a domicilio come quelle gi\u00e0 elencate e vuoi aggiungerla alla mappa, scrivi una email cittadinanzaattiva@comune.bologna.it indicando: nome, indirizzo, quartiere, telefono, tipologia commerciale, note (per esempio orari, modalit\u00e0 di consegna, ecc.)."", ""Link"": ""https://sitbologna.maps.arcgis.com/apps/Nearby/index.html?appid=0f4e7e64655146deb1782a6c46d0e950"", ""Nome_dell_esercizio_commercial"": ""tutti gli esercizi di Bologna raccolti dal Comune in una mappa georeferenziata"", ""Posizione"": ""44.494225 11.347053 0 0""}","<pre><yamldata>
 Descrizione: 'Il Comune di Bologna ha realizzato la mappa georeferenziata che permette
   a tutti i cittadini di conoscere le attività commerciali vicino a casa che vendono
@@ -2938,16 +2960,6 @@ Descrizione: Il decreto attua  le   necessarie disposizioni   per consentire l'a
   abitazione principale.
 Fonte: Gazzetta Ufficiale n. 82
 Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-03-28&atto.codiceRedazionale=20A01918&elenco30giorni=false
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1462,589636737,2020-03-29 09:07:45,2020-03-28 18:52:30,"Elenco negozi, bar e ristoranti che effettuano il servizio a domicilio #Cremona",45.22086405,10.037037979628856,Lombardia,Cremona,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""accettato""]",,,"{""Link"": ""https://www.comune.cremona.it/node/494689"", ""Nome"": ""Negozi, bar e ristoranti che effettuano servizi a domicilio a Cremona"", ""Posizione"": ""45.22086405 10.037037979628856 0 0"", ""Scopo"": ""Il Comune, in collaborazione con le associazioni i categoria, commercianti e artigiani, ha compilato un primo elenco di negozi di vicinato, ristoranti e gastronomie che possono effettuare il servizio a domicilio.\nQuesto elenco verr\u00e0 sempre aggiornato.""}","<pre><yamldata>
-Link: https://www.comune.cremona.it/node/494689
-Nome: Negozi, bar e ristoranti che effettuano servizi a domicilio a Cremona
-Scopo: 'Il Comune, in collaborazione con le associazioni i categoria, commercianti
-  e artigiani, ha compilato un primo elenco di negozi di vicinato, ristoranti e gastronomie
-  che possono effettuare il servizio a domicilio.
-
-  Questo elenco verrà sempre aggiornato.'
-Posizione: 45.22086405 10.037037979628856 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1462,589636737,2020-03-29 09:07:45,2020-03-28 18:52:30,"Elenco negozi, bar e ristoranti che effettuano il servizio a domicilio #Cremona",45.22086405,10.037037979628856,Lombardia,Cremona,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""accettato""]",,,"{""Link"": ""https://www.comune.cremona.it/node/494689"", ""Nome"": ""Negozi, bar e ristoranti che effettuano servizi a domicilio a Cremona"", ""Posizione"": ""45.22086405 10.037037979628856 0 0"", ""Scopo"": ""Il Comune, in collaborazione con le associazioni i categoria, commercianti e artigiani, ha compilato un primo elenco di negozi di vicinato, ristoranti e gastronomie che possono effettuare il servizio a domicilio.\nQuesto elenco verr\u00e0 sempre aggiornato.""}","<pre><yamldata>
 Link: https://www.comune.cremona.it/node/494689
