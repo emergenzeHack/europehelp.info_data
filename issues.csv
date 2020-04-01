@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2082,591821156,2020-04-01 11:21:42,2020-04-01 10:51:28,"Servono letti, materassi, frigo, cucina e lavatrice per famiglia senza reddito a #Milano quartiere #Giambellino.",,,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Servono letti, materassi, frigo, cucina e lavatrice per famiglia senza reddito."", ""Descrizione"": ""Alla Milano che si muove.\n\nServono letti, materassi, frigo, cucina e lavatrice per famiglia senza reddito. 6 figli, tutti minorenni. Ricevono il pacco alimentare ma non possono cucinare quello che contiene. Dormono per terra.\nScrivete a giambellinolorenteggio@gmail.com"", ""Destinatari"": ""famiglia senza reddito"", ""Email"": ""giambellinolorenteggio@gmail.com"", ""Indirizzo"": ""45.44696905 9.137870756854172 0 0"", ""Link"": ""https://www.facebook.com/LaboratoriodiQuartiereGiambellinoLorenteggio/"", ""Nome"": ""Laboratorio di Quartiere Giambellino-Lorenteggio""}","<pre><yamldata>
+Cosa: Servono letti, materassi, frigo, cucina e lavatrice per famiglia senza reddito.
+Descrizione: 'Alla Milano che si muove.
+
+
+  Servono letti, materassi, frigo, cucina e lavatrice per famiglia senza reddito.
+  6 figli, tutti minorenni. Ricevono il pacco alimentare ma non possono cucinare quello
+  che contiene. Dormono per terra.
+
+  Scrivete a giambellinolorenteggio@gmail.com'
+Destinatari: famiglia senza reddito
+Email: giambellinolorenteggio@gmail.com
+Indirizzo:  45.44696905 9.137870756854172 0 0
+Link: https://www.facebook.com/LaboratoriodiQuartiereGiambellinoLorenteggio/
+Nome: Laboratorio di Quartiere Giambellino-Lorenteggio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2081,591820307,2020-04-01 11:16:41,2020-04-01 10:50:10,Attivato il numero unico di emergenza a #Ponteranica in provincia di #Bergamo ,45.7320767,9.651987,Lombardia,Bergamo,"[""Consegne e commissioni"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf"", ""Nome"": ""Numero unico emergenza  Ponteranica Bergamo"", ""Posizione"": ""45.7320767 9.651987 0 0"", ""Scopo"": ""Da luned\u00ec a sabato dalle 9.00 alle 18.00\nRichieste intervento da parte di cittadini (assistenza, custodia sociale, spesa, farmaci) informazione e orientamento.\nLa linea telefonica \u00e8 in via potenziamento"", ""Telefono"": ""342 0099675""}","<pre><yamldata>
 Nome: Numero unico emergenza  Ponteranica Bergamo
 Scopo: 'Da lunedì a sabato dalle 9.00 alle 18.00
