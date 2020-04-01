@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2072,591735420,2020-04-01 08:51:52,2020-04-01 08:41:41,"Mappa delle attività che effettuano consegne a domicilio - alimentari, farmaci e altro #Bologna",44.494225,11.347053,Emilia-Romagna,Bologna,"[""Consegne e commissioni"", ""accettato""]",,,"{""Descrizione"": ""Il Comune di Bologna ha realizzato la mappa georeferenziata che permette a tutti i cittadini di conoscere le attivit\u00e0 commerciali vicino a casa che vendono alimentari, parafarmaci, farmaci e prodotti di altre tipologie, ed effettuano consegne a domicilio in questo periodo di emergenza sanitaria in cui sono in vigore le misure di contenimento della diffusione del contagio del coronavirus. La mappa \u00e8 in continuo aggiornamento ed \u00e8 stata realizzata in collaborazione con i sei Quartieri della citt\u00e0. Le informazioni inserite sono state fornite sia da singole attivit\u00e0 e sia da associazioni di categoria.\nSe in questo periodo di emergenza sanitaria la tua attivit\u00e0 effettua consegne a domicilio come quelle gi\u00e0 elencate e vuoi aggiungerla alla mappa, scrivi una email cittadinanzaattiva@comune.bologna.it indicando: nome, indirizzo, quartiere, telefono, tipologia commerciale, note (per esempio orari, modalit\u00e0 di consegna, ecc.)."", ""Link"": ""https://sitbologna.maps.arcgis.com/apps/Nearby/index.html?appid=0f4e7e64655146deb1782a6c46d0e950"", ""Nome_dell_esercizio_commercial"": ""tutti gli esercizi di Bologna raccolti dal Comune in una mappa georeferenziata"", ""Posizione"": ""44.494225 11.347053 0 0""}","<pre><yamldata>
+Descrizione: 'Il Comune di Bologna ha realizzato la mappa georeferenziata che permette
+  a tutti i cittadini di conoscere le attività commerciali vicino a casa che vendono
+  alimentari, parafarmaci, farmaci e prodotti di altre tipologie, ed effettuano consegne
+  a domicilio in questo periodo di emergenza sanitaria in cui sono in vigore le misure
+  di contenimento della diffusione del contagio del coronavirus. La mappa è in continuo
+  aggiornamento ed è stata realizzata in collaborazione con i sei Quartieri della
+  città. Le informazioni inserite sono state fornite sia da singole attività e sia
+  da associazioni di categoria.
+
+  Se in questo periodo di emergenza sanitaria la tua attività effettua consegne a
+  domicilio come quelle già elencate e vuoi aggiungerla alla mappa, scrivi una email
+  cittadinanzaattiva@comune.bologna.it indicando: nome, indirizzo, quartiere, telefono,
+  tipologia commerciale, note (per esempio orari, modalità di consegna, ecc.).'
+Link: https://sitbologna.maps.arcgis.com/apps/Nearby/index.html?appid=0f4e7e64655146deb1782a6c46d0e950
+Nome_dell_esercizio_commercial: tutti gli esercizi di Bologna raccolti dal Comune
+  in una mappa georeferenziata
+Posizione: 44.494225 11.347053 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2071,591727188,2020-04-01 08:47:48,2020-04-01 08:29:44,Donazioni per la cooperativa Locanda Centimetro Zero #Spinetoli,42.864342,13.772451,Marche,Ascoli Piceno,"[""Raccolte fondi"", ""accettato""]",,,"{""Descrizione"": ""Donazioni per contribuire all'acquisto di computer per ogni ragazzo della locanda, in modo da darci la possibilit\u00e0 di creare per loro uno spazio virtuale in cui continuare la loro formazione personale e professionale.\nLa Locanda Centrimetro Zero coinvolge la disabilit\u00e0, l\u2019autoproduzione e il recupero creativo: tutto ci\u00f2 che si mangia proviene dall'orto o da una rete di cooperative sociali e aziende locali; le sedie o le lampade sono state restaurate e dipinte a mano dallo staff, che comprende un gran numero di giovani con disabilit\u00e0 fisica e mentale. Questi ragazzi, infatti, sono il cuore pulsante della Locanda: coltivano i suoi prodotti, hanno arredato il ristorante, lavorano come personale di sala e si impegnano in tutte le attivit\u00e0 che la Locanda promuove."", ""Email"": ""locandaterzosettore@gmail.com"", ""IBAN"": ""IT66T0306909606100000131665"", ""Intestazione"": ""Centimetro zero Doc. Coop. Sociale ONLUS"", ""Link"": ""https://www.facebook.com/locandaterzosettorecentimetrozero/posts/3364962576850386?__tn__=H-R"", ""Nome"": ""Locanda Centimetro Zero di Spinetoli"", ""Posizione"": ""42.864342 13.772451 0 0""}","<pre><yamldata>
 Descrizione: 'Donazioni per contribuire all''acquisto di computer per ogni ragazzo
   della locanda, in modo da darci la possibilità di creare per loro uno spazio virtuale
