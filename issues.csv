@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2064,591695649,2020-04-01 07:44:07,2020-04-01 07:39:03,Raccolta di beni di prima necessità per le persone in difficoltà economica #GioiadelColle,40.797356,16.923022,Puglia,Bari,"[""Richiesta aiuto"", ""Servizi e iniziative solidali"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Protezione Civile di Goia del Colle (BA)"", ""Descrizione"": ""Si potranno donare i seguenti beni: olio, scatolame, salsa, pomodori, pelati, pasta, riso sottovuoto, alimenti a lunga conservazione, farina, zucchero, latte a lunga conservazione, caff\u00e8, biscotti e prodotti per la colazione, dentifricio, sapone neutro, lavamani, bagnoschiuma, shampoo, prodotti per l'igiene personale, detersivi per il bucato e per l'igiene della casa, carta igienica e pannolini per i bambini.\nLa raccolta avverr\u00e0:\n- all'ingresso dei supermercati: luned\u00ec, mercoled\u00ec, sabato ore 10-12, 16-18\n- presso la sede del C.O.C. di Protezione Civile (via Einaudi, c/o Palasport): marted\u00ec, venerd\u00ec ore 16-18"", ""Destinatari"": ""Cittadini individuati dai locali servizi sociali"", ""Link"": ""http://www.comune.gioiadelcolle.ba.it/emergenza-covid-19-lunedi-30-marzo-parte-la-campagna-di-solidarieta-un-aiuto-per-tutti/?fbclid=IwAR2YzqY0x8bpuB6Vkxi5ZUP5n1t-x0GnrcYFDUGcaJVWvq3dngesqqpJWks"", ""Natura"": ""solidale"", ""Posizione"": ""40.797356 16.923022 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Raccolta di beni di prima necessit\u00e0 per le persone in difficolt\u00e0 economica""}","<pre><yamldata>
+Da_chi_offerta: Protezione Civile di Goia del Colle (BA)
+Descrizione: 'Si potranno donare i seguenti beni: olio, scatolame, salsa, pomodori,
+  pelati, pasta, riso sottovuoto, alimenti a lunga conservazione, farina, zucchero,
+  latte a lunga conservazione, caffè, biscotti e prodotti per la colazione, dentifricio,
+  sapone neutro, lavamani, bagnoschiuma, shampoo, prodotti per l''igiene personale,
+  detersivi per il bucato e per l''igiene della casa, carta igienica e pannolini per
+  i bambini.
+
+  La raccolta avverrà:
+
+  - all''ingresso dei supermercati: lunedì, mercoledì, sabato ore 10-12, 16-18
+
+  - presso la sede del C.O.C. di Protezione Civile (via Einaudi, c/o Palasport): martedì,
+  venerdì ore 16-18'
+Destinatari: Cittadini individuati dai locali servizi sociali
+Link: http://www.comune.gioiadelcolle.ba.it/emergenza-covid-19-lunedi-30-marzo-parte-la-campagna-di-solidarieta-un-aiuto-per-tutti/?fbclid=IwAR2YzqY0x8bpuB6Vkxi5ZUP5n1t-x0GnrcYFDUGcaJVWvq3dngesqqpJWks
+Natura: solidale
+Posizione: 40.797356 16.923022 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Raccolta di beni di prima necessità per le persone in difficoltà economica
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2060,591478727,2020-04-01 07:18:40,2020-03-31 22:34:42,La Giunta regionale autorizza taxi e noleggio con conducente per consegne a domicilio #Toscana,43.811769,11.253519,Toscana,Firenze,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""Taxi e Ncc potranno fare servizio di consegna a domicilio di beni di prima necessit\u00e0. L'autorizzazione \u00e8 arrivata dalla Giunta regionale toscana che nel corso della sua ultima seduta ha approvato una delibera, proposta dall'assessore regionale ai trasporti Vincenzo Ceccarelli, che stabilisce la possibilit\u00e0 - in via temporanea e solo per il periodo dell'emergenza da Coronavirus - di fare da vettore per la consegna a domicilio, prelevando i beni di prima necessit\u00e0 direttamente dai produttori, dai commercianti o dagli altri operatori abilitati e recapitandoli presso il portone o l'accesso carrabile o pedonale della casa del destinatario."", ""Destinatari"": ""Commercianti, produttori"", ""Link"": ""https://ift.tt/2UwTq7E"", ""Natura"": ""solidale"", ""Posizione"": ""43.811769 11.253519 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Regione Toscana autorizza taxi e Ncc per consegne a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Regione Toscana
 Descrizione: Taxi e Ncc potranno fare servizio di consegna a domicilio di beni di
