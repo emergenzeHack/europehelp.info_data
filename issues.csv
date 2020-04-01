@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2084,591822441,2020-04-01 11:30:34,2020-04-01 10:53:39,Contatti utili per manutenzioni domestiche urgenti - servizio a pagamento - #Ponteranica #Bergamo,45.7320767,9.651987,Lombardia,Bergamo,"[""Contatti utili"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf"", ""Nome"": ""MANUTENZIONI DOMESTICHE URGENTI"", ""Posizione"": ""45.7320767 9.651987 0 0"", ""Scopo"": ""Da luned\u00ec a venerd\u00ec dalle 9.00 alle 14.00\nServizio a pagamento, promosso da CAIB, Consorzio Artigiani Idraulici Bergamaschi. Solo per emergenze"", ""Telefono"": ""344 2712530""}","<pre><yamldata>
+Link: https://www.ambitodibergamo.it/sites/default/files/allegatinews/INTERLOCUTORE%20IL%20CITTADINO_Ambito1_0.pdf
+Nome: MANUTENZIONI DOMESTICHE URGENTI
+Scopo: 'Da lunedì a venerdì dalle 9.00 alle 14.00
+
+  Servizio a pagamento, promosso da CAIB, Consorzio Artigiani Idraulici Bergamaschi.
+  Solo per emergenze'
+Telefono: 344 2712530
+Posizione: 45.7320767 9.651987 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2083,591821817,2020-04-01 11:27:30,2020-04-01 10:52:31,Spesa sospesa - lista degli esercizi commerciali che hanno attivato la raccolta alimentare nel comune di #Giulianova in provincia di #Teramo,42.753457,13.965361,Abruzzo,Teramo,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Giulianova"", ""Descrizione"": ""Presso le attivit\u00e0 commerciali aderenti, si potr\u00e0 contribuire ad una raccolta alimentare straordinaria \u2013 che durer\u00e0 per l\u2019intero periodo dell\u2019emergenza epidemiologica- a beneficio delle famiglie meno abbienti della citt\u00e0.\n\nTutti gli esercizi commerciali che intendono contribuire all\u2019iniziativa possono inoltrare una mail con oggetto \"" Spesa Sospesa Adesione\"" all\u2019indirizzo: li.albani@comune.giulianova.te.it."", ""Destinatari"": ""Famiglie meno abbienti"", ""Link"": ""https://www.comune.giulianova.te.it/archivio10_notizie-e-comunicati_0_2703.html"", ""Natura"": ""solidale"", ""Posizione"": ""42.753457 13.965361 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa sospesa""}","<pre><yamldata>
 Da_chi_offerta: Comune di Giulianova
 Descrizione: 'Presso le attività commerciali aderenti, si potrà contribuire ad una
