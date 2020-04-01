@@ -1,4 +1,27 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2113,591969512,2020-04-01 14:50:37,2020-04-01 14:41:03,URGENTE Ricerca tablet da donare a strutture ospedaliere di #Lombardia #EmiliaRomagna #Veneto,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Associazione I Folletti di Parma cerca tablet da donare alle strutture ospedaliere Covid19 di Emilia Romagna, Lombardia e Piemonte"", ""Descrizione"": ""L\u2019associazione \u201cI Folletti\u201d di Parma e MF Labs hanno creato un gruppo di lavoro per donare tablet agli ospedali Covid19 di Lombardia, Emilia Romagna e Veneto. Si chiama #OPERAZIONETABLET e punta a raccogliere donazioni di tablet da parte di privati e aziende. Ognuno potr\u00e0 donare il proprio tablet, usato e in buone condizioni, inviandolo a proprie spese al centro di raccolta indicato. Il donatore dovr\u00e0 solamente effettuare il reset del dispositivo, seguendo delle semplici istruzioni.\nIl progetto mira a una capillare distribuzione dei device, in linea con l\u2019evolversi dell\u2019emergenza in tutto il Paese, grazie al contributo di quante pi\u00f9 persone possibile. \u201cI Folletti\u201d ODV sta lavorando a stretto contatto con le aziende sanitarie e le associazioni interessate per diffondere l\u2019iniziativa. \u00c8 inoltre gi\u00e0 previsto un piano di utilizzo dei device a conclusione dell\u2019epidemia: saranno restituiti all\u2019associazione che provveder\u00e0 a donarli a reparti di pediatria. Tutte le info per donare al link."", ""Destinatari"": ""Pazienti ricoverati in isolamento"", ""Email"": ""operazionetablet@ifollettionlus.it"", ""Indirizzo"": ""44.694346 10.293846 0 0"", ""Link"": ""http://www.ifollettionlus.it/operazione-tablet/"", ""Nome"": ""Associazione I Folletti"", ""Telefono"": ""348 492 6754""}","<pre><yamldata>
+Cosa: Associazione I Folletti di Parma cerca tablet da donare alle strutture ospedaliere
+  Covid19 di Emilia Romagna, Lombardia e Piemonte
+Descrizione: 'L’associazione “I Folletti” di Parma e MF Labs hanno creato un gruppo
+  di lavoro per donare tablet agli ospedali Covid19 di Lombardia, Emilia Romagna e
+  Veneto. Si chiama #OPERAZIONETABLET e punta a raccogliere donazioni di tablet da
+  parte di privati e aziende. Ognuno potrà donare il proprio tablet, usato e in buone
+  condizioni, inviandolo a proprie spese al centro di raccolta indicato. Il donatore
+  dovrà solamente effettuare il reset del dispositivo, seguendo delle semplici istruzioni.
+
+  Il progetto mira a una capillare distribuzione dei device, in linea con l’evolversi
+  dell’emergenza in tutto il Paese, grazie al contributo di quante più persone possibile.
+  “I Folletti” ODV sta lavorando a stretto contatto con le aziende sanitarie e le
+  associazioni interessate per diffondere l’iniziativa. È inoltre già previsto un
+  piano di utilizzo dei device a conclusione dell’epidemia: saranno restituiti all’associazione
+  che provvederà a donarli a reparti di pediatria. Tutte le info per donare al link.'
+Destinatari: Pazienti ricoverati in isolamento
+Email: operazionetablet@ifollettionlus.it
+Indirizzo: 44.694346 10.293846 0 0
+Link: http://www.ifollettionlus.it/operazione-tablet/
+Nome: Associazione I Folletti
+Telefono: 348 492 6754
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2090,591840853,2020-04-01 11:32:57,2020-04-01 11:25:36,Raccolta per il fondo di comunità del quartiere #Giambellino e #Lorenteggio di #Milano a sostegno di famiglie e abitanti in difficoltà,45.451521,9.142277,Lombardia,Milano,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Fondo Giambellino \u2013 Emergenza Covid19"", ""Descrizione"": ""La rete di quartiere ha pensato di attivare una raccolta fondi per sostenere famiglie, persone sole, giovani e anziani in questa situazione cos\u00ec difficile, istituendo un fondo di comunit\u00e0 destinato alle famiglie e agli abitanti che non possono accedere ad altri contributi pubblici e istituzionali. Quello che raccoglieremo sar\u00e0 destinato unicamente ad un aiuto diretto degli abitanti in difficolt\u00e0, quindi non per pagare o finanziare servizi gestiti dalle varie organizzazioni."", ""IBAN"": ""IT57I0623001658000043828723"", ""Intestazione"": ""Laboratorio di Quartiere Giambellino Lorenteggio"", ""Link"": ""http://www.laboratoriodiquartieregiambellinolorenteggio.org/?fbclid=IwAR3OXifSbsZY17gjJCAsyxgPeEW20lpeRHVPxepF4atV9EyGu1TWpuFFbfg"", ""Nome"": ""Fondo Comunit\u00e0 Quartiere Giambellino"", ""Posizione"": ""45.451521 9.142277 0 0""}","<pre><yamldata>
 Causale: Fondo Giambellino – Emergenza Covid19
 Descrizione: La rete di quartiere ha pensato di attivare una raccolta fondi per sostenere
