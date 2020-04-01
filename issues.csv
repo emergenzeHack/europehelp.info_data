@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2119,592109453,2020-04-01 18:16:25,2020-04-01 18:14:23,Protezione Civile #CiniselloBalsamo #Milano cerca attrezzature per la respirazione per ospedale Bassini,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attrezzature per la respirazione"", ""Descrizione"": ""L\u2019ospedale Bassini di Cinisello Balsamo (Mi) ha bisogno di attrezzature per la respirazione. La Protezione civile chiede a cittadini, organizzazioni e aziende che ne abbiamo disponibilit\u00e0 di contattare il numero: 331.5321787.\nIn particolare c\u2019\u00e8 bisogno di Nasal Mask Ultra Mirage II e  \ntubi per circuiti respiratori Rusch. Grazie."", ""Destinatari"": ""Cittadini e imprese"", ""Email"": ""segnalazioni@protezionecivilecinisellobalsamo.it"", ""Indirizzo"": ""45.619696 9.208624 0 0"", ""Link"": ""https://twitter.com/cvpc_cinisello/status/1245364267991404544?s=21"", ""Nome"": ""Protezione Civile Cinisello Balsamo (Mi)"", ""Telefono"": ""3315321787""}","<pre><yamldata>
+Cosa: Attrezzature per la respirazione
+Descrizione: ""L’ospedale Bassini di Cinisello Balsamo (Mi) ha bisogno di attrezzature\
+  \ per la respirazione. La Protezione civile chiede a cittadini, organizzazioni e\
+  \ aziende che ne abbiamo disponibilità di contattare il numero: 331.5321787.\nIn\
+  \ particolare c’è bisogno di Nasal Mask Ultra Mirage II e  \ntubi per circuiti respiratori\
+  \ Rusch. Grazie.""
+Destinatari: Cittadini e imprese
+Email: segnalazioni@protezionecivilecinisellobalsamo.it
+Indirizzo: 45.619696 9.208624 0 0
+Link: https://twitter.com/cvpc_cinisello/status/1245364267991404544?s=21
+Nome: Protezione Civile Cinisello Balsamo (Mi)
+Telefono: '3315321787'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2114,592000645,2020-04-01 15:39:53,2020-04-01 15:22:57,Istituto superiore di sanità: procedure per produrre mascherine,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Istituto superiore di sanit\u00e0: procedure per produrre mascherine"", ""Descrizione"": ""In ragione dell\u2019attuale stato di emergenza, l'art. 15 D.L. 17 Marzo 2020 n. 18 \""Cura Italia\"", consente il celere avvio di produzioni e di importazioni di mascherine chirurgiche e DPI rispetto alle quali il produttore certifica i requisiti di sicurezza.\nPer la presentazione delle Istanze inviare una PEC a:\nmascherinecovid-19@pec.iss.it\nPer la richiesta di informazioni inviare una mail a\nmascherinecovid-19@iss.it"", ""Fonte"": ""Istituto superiore di sanit\u00e0"", ""Link"": ""http://www.iss.it/procedure-per-richiesta-produzione-mascherine""}","<pre><yamldata>
 Cosa: 'Istituto superiore di sanità: procedure per produrre mascherine'
 Descrizione: 'In ragione dell’attuale stato di emergenza, l''art. 15 D.L. 17 Marzo
