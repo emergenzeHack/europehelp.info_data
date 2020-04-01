@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2078,591812047,2020-04-01 10:59:42,2020-04-01 10:37:28,Sportello psicologico telefonico attivato dal Comune di #Scoppito (provincia de #LAquila),42.373368,13.255155,Abruzzo,L'Aquila,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Scoppito"", ""Descrizione"": ""Sportello psicologico, erogato in convenzione con il Centro di Psicoterapia Atanor-Syncr\u00f2nia Onlus, \u00e8 a disposizione di tutta la popolazione anche in modalit\u00e0 telefonica per effettuare una consulenza psicologica completa (fino a tre colloqui) totalmente a costo zero.\n\nTel. 0862.717425 oppure tramite whatsapp al 392.7599777"", ""Destinatari"": ""tutti i cittadini"", ""Link"": ""https://www.comune.scoppito.aq.it/archivio10_notizie-e-comunicati_0_558.html"", ""Natura"": ""solidale"", ""Posizione"": ""42.373368 13.255155 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sportello psicologico telefonico""}","<pre><yamldata>
+Da_chi_offerta: Comune di Scoppito
+Descrizione: 'Sportello psicologico, erogato in convenzione con il Centro di Psicoterapia
+  Atanor-Syncrònia Onlus, è a disposizione di tutta la popolazione anche in modalità
+  telefonica per effettuare una consulenza psicologica completa (fino a tre colloqui)
+  totalmente a costo zero.
+
+
+  Tel. 0862.717425 oppure tramite whatsapp al 392.7599777'
+Destinatari: tutti i cittadini
+Link: https://www.comune.scoppito.aq.it/archivio10_notizie-e-comunicati_0_558.html
+Natura: solidale
+Posizione: 42.373368 13.255155 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Sportello psicologico telefonico
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2077,591809064,2020-04-01 10:56:43,2020-04-01 10:32:30,Il Comune di #Scoppito (in provincia de #LAquila) ha attivato il servizio di Pronto spesa e pronto farmaco,42.3734343,13.2545983,Abruzzo,L'Aquila,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Scoppito"", ""Descrizione"": ""Il Comune di Scoppito ha attivato anche un servizio Pronto farmaco e Pronto spesa per le situazioni di emergenza e per le persone indigenti: chiamando il numero 338-9356894 si pu\u00f2 chiedere di cosa si ha bisogno."", ""Destinatari"": ""persone indigenti"", ""Link"": ""https://www.virtuquotidiane.it/cronaca/a-scoppito-spesa-a-domicilio-per-gli-indigenti.html?fbclid=IwAR0QZX8YRR1RzkX_6XspqQF66RD_wMcDOt8XXjosqMbBXv_7xSG2srsjjYE"", ""Natura"": ""solidale"", ""Posizione"": ""42.3734343 13.2545983 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pronto spesa e pronto farmaco""}","<pre><yamldata>
 Da_chi_offerta: Comune di Scoppito
 Descrizione: 'Il Comune di Scoppito ha attivato anche un servizio Pronto farmaco e
