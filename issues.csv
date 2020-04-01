@@ -1,5 +1,58 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2066,591705408,2020-04-01 08:19:22,2020-04-01 07:56:50,Centro Ascolto Donne Immigrate #Milano,45.504054,9.13746,Lombardia,Milano,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Romeni in Italia"", ""Descrizione"": ""Supporto psicologico per donne straniere: operatrici sanitarie, operatrici a cura della persona, pazienti covid positive, parenti di pazienti covid positivi, parenti delle vittime covid, donne straniere anziane, incinte o adolescenti.\nIl servizio \u00e8 attivo da luned\u00ec a domenica, ore 17-19\nScrivere messaggio e-mail: ascoltodonneimmigrate@gmail.com\no su skype:\nSkype: live:.cid.952816e9708a4276"", ""Destinatari"": ""donne immigrate, in particolare dall'Est Europa"", ""Link"": ""https://www.facebook.com/permalink.php?story_fbid=1315746468625298&id=196930660506890"", ""Natura"": ""solidale"", ""Posizione"": ""45.504054 9.13746 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centro Ascolto Donne Immigrate""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2068,591711489,2020-04-01 08:37:53,2020-04-01 08:07:32,Servizio gratuito di consegna farmaci e spesa #SanStinodiLivenza,45.730432,12.679926,Veneto,Venezia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di San Stino di Livenza"", ""Descrizione"": ""Medicinali:\nFarmacia Zago La Salute di Livenza \u2013 0421/80334\nFarmacia Moretto San Stino di Livenza \u2013 0421/310140\nFarmacia Fedrizzi Corbolone \u2013 0421/461711\nOppure contattando il n.verde nazionale CRI per le Persone 800 065510 attivo h24\n\nGeneri alimentari:\nMacelleria Battistella San Stino di Livenza - 333/1509000 329/2240460\nMaxi San Stino di Livenza \u2013 0421/460084\nMaxi San Giorgio di Livenza \u2013 0421/649773\nPanificio Forno al Bivio \u2013 0421/311848\nMarket A&O San Stino di Livenza \u2013 0421/310778\nMacelleria Da Aroldo San Stino di Livenza \u2013 3404094447\nPanificio Dolce Salato San Stino di Livenza \u2013 392/6319413\nIl Pesce San Stino di Livenza - 3927467654\nPanificio El forner /Stanchina San Stino di Livenza - 3454411953\nOrtofrutta da Nino San Giorgio di Livenza - 3384670899\nSupermercato Crai San Giorgio di Livenza - 0421 80237\nSerre Battistella San Stino di Livenza - 3285827916\nPanificio Panzarin Biverone - 3388156260\nSpaccio del Pesce San Stino di Livenza - 0421/312534\nPanificio Calvi La Salute di Livenza - 0421/80141\nGastronomia Andrea San Stino di Livenza - 0421/31202"", ""Destinatari"": ""Anziani, persone fragili e immunodepressi"", ""Link"": ""https://www.sanstino.it/index.php?area=19&menu=378&page=2273"", ""Natura"": ""solidale"", ""Posizione"": ""45.730432 12.679926 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio gratuito di consegna farmaci e spesa""}","<pre><yamldata>
+Da_chi_offerta: Comune di San Stino di Livenza
+Descrizione: 'Medicinali:
+
+  Farmacia Zago La Salute di Livenza – 0421/80334
+
+  Farmacia Moretto San Stino di Livenza – 0421/310140
+
+  Farmacia Fedrizzi Corbolone – 0421/461711
+
+  Oppure contattando il n.verde nazionale CRI per le Persone 800 065510 attivo h24
+
+
+  Generi alimentari:
+
+  Macelleria Battistella San Stino di Livenza - 333/1509000 329/2240460
+
+  Maxi San Stino di Livenza – 0421/460084
+
+  Maxi San Giorgio di Livenza – 0421/649773
+
+  Panificio Forno al Bivio – 0421/311848
+
+  Market A&O San Stino di Livenza – 0421/310778
+
+  Macelleria Da Aroldo San Stino di Livenza – 3404094447
+
+  Panificio Dolce Salato San Stino di Livenza – 392/6319413
+
+  Il Pesce San Stino di Livenza - 3927467654
+
+  Panificio El forner /Stanchina San Stino di Livenza - 3454411953
+
+  Ortofrutta da Nino San Giorgio di Livenza - 3384670899
+
+  Supermercato Crai San Giorgio di Livenza - 0421 80237
+
+  Serre Battistella San Stino di Livenza - 3285827916
+
+  Panificio Panzarin Biverone - 3388156260
+
+  Spaccio del Pesce San Stino di Livenza - 0421/312534
+
+  Panificio Calvi La Salute di Livenza - 0421/80141
+
+  Gastronomia Andrea San Stino di Livenza - 0421/31202'
+Destinatari: Anziani, persone fragili e immunodepressi
+Link: https://www.sanstino.it/index.php?area=19&menu=378&page=2273
+Natura: solidale
+Posizione: 45.730432 12.679926 0 0
+Tipo_di_soggetto: privato
+Titolo: Servizio gratuito di consegna farmaci e spesa
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2066,591705408,2020-04-01 08:37:38,2020-04-01 07:56:50,Centro Ascolto Donne di origine straniera #Milano,45.504054,9.13746,Lombardia,Milano,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""Supporto psicologico"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Romeni in Italia"", ""Descrizione"": ""Supporto psicologico per donne straniere: operatrici sanitarie, operatrici a cura della persona, pazienti covid positive, parenti di pazienti covid positivi, parenti delle vittime covid, donne straniere anziane, incinte o adolescenti.\nIl servizio \u00e8 attivo da luned\u00ec a domenica, ore 17-19\nScrivere messaggio e-mail: ascoltodonneimmigrate@gmail.com\no su skype:\nSkype: live:.cid.952816e9708a4276"", ""Destinatari"": ""donne immigrate, in particolare dall'Est Europa"", ""Link"": ""https://www.facebook.com/permalink.php?story_fbid=1315746468625298&id=196930660506890"", ""Natura"": ""solidale"", ""Posizione"": ""45.504054 9.13746 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centro Ascolto Donne Immigrate""}","<pre><yamldata>
 Da_chi_offerta: Associazione Romeni in Italia
 Descrizione: 'Supporto psicologico per donne straniere: operatrici sanitarie, operatrici
   a cura della persona, pazienti covid positive, parenti di pazienti covid positivi,
