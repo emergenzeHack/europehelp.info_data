@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2077,591809064,2020-04-01 10:56:43,2020-04-01 10:32:30,Il Comune di #Scoppito (in provincia de #LAquila) ha attivato il servizio di Pronto spesa e pronto farmaco,42.3734343,13.2545983,Abruzzo,L'Aquila,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Scoppito"", ""Descrizione"": ""Il Comune di Scoppito ha attivato anche un servizio Pronto farmaco e Pronto spesa per le situazioni di emergenza e per le persone indigenti: chiamando il numero 338-9356894 si pu\u00f2 chiedere di cosa si ha bisogno."", ""Destinatari"": ""persone indigenti"", ""Link"": ""https://www.virtuquotidiane.it/cronaca/a-scoppito-spesa-a-domicilio-per-gli-indigenti.html?fbclid=IwAR0QZX8YRR1RzkX_6XspqQF66RD_wMcDOt8XXjosqMbBXv_7xSG2srsjjYE"", ""Natura"": ""solidale"", ""Posizione"": ""42.3734343 13.2545983 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pronto spesa e pronto farmaco""}","<pre><yamldata>
+Da_chi_offerta: Comune di Scoppito
+Descrizione: 'Il Comune di Scoppito ha attivato anche un servizio Pronto farmaco e
+  Pronto spesa per le situazioni di emergenza e per le persone indigenti: chiamando
+  il numero 338-9356894 si può chiedere di cosa si ha bisogno.'
+Destinatari: persone indigenti
+Link: https://www.virtuquotidiane.it/cronaca/a-scoppito-spesa-a-domicilio-per-gli-indigenti.html?fbclid=IwAR0QZX8YRR1RzkX_6XspqQF66RD_wMcDOt8XXjosqMbBXv_7xSG2srsjjYE
+Natura: solidale
+Posizione: 42.3734343 13.2545983 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Pronto spesa e pronto farmaco
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2076,591806980,2020-04-01 10:48:06,2020-04-01 10:29:01,Servizio di Pronto farmaco e pronto spesa con consegna a domicilio a #Lucoli in provincia de #LAquila,42.2515538,13.3768818,Abruzzo,L'Aquila,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Lucoli"", ""Descrizione"": ""Servizio a tutela delle fasce pi\u00f9 deboli per la consegna a domicilio di prodotti farmaceutici e beni di prima necessit\u00e0. \n\nPer il servizio \u201cpronto farmaco\u201d\ni farmaci che possono essere richiesti sono principalmente quelli salvavita, appartenenti alla fascia a, che non prevedono quota a carico dell\u2019utente. Lassociazione di protezione civile \u201cVolontari Lucoli onlus\u201d provveder\u00e0 al ritiro dei farmaci presso la farmacia ed alla consegna a domicilio nei seguenti orari:\nmartedi\u2019 dalle ore 18.00 alle 20.00\nsabato dalle ore 18.00 alle 20.00\n\nPer il servizio di consegna dei beni alimentari a domicilio a soggetti fragili contattando i negozi aderenti che si occuperanno direttamente della consegna delle merci a domic"", ""Destinatari"": ""Ultra sessantacinquenni con nucleo monofamiliare e con con patologie croniche"", ""Link"": ""http://www.comune.lucoli.aq.it/"", ""Natura"": ""solidale"", ""Posizione"": ""42.2515538 13.3768818 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pronto farmaco e pronto spesa""}","<pre><yamldata>
 Da_chi_offerta: Comune di Lucoli
 Descrizione: ""Servizio a tutela delle fasce più deboli per la consegna a domicilio\
@@ -19723,21 +19735,6 @@ destinatari: persone senza dimora, anziani
 fonte: https://www.facebook.com/donate/503579490301582/10221812290241438/
 provincia: Roma
 regione: Lazio
-tag: Raccolta fondi
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-16 23:05:21,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,45.6872029,9.638849222162662,Lombardia,Bergamo,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Comune"": ""Bergamo"", ""Posizione"": ""45.6872029 9.638849222162662 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
-Comune: Bergamo
-Posizione: 45.6872029 9.638849222162662 0 0
-Provincia: Bergamo
-Regione: Lombardia
-chi: Tifosi dell'Atalanta
-comune: Bergamo
-contatti: ''
-descrizione: Raccolta fondi per l'ospedale di Bergamo
-destinatari: ''
-fonte: https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/
-provincia: Bergamo
-regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-16 23:05:21,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,45.6872029,9.638849222162662,Lombardia,Bergamo,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Comune"": ""Bergamo"", ""Posizione"": ""45.6872029 9.638849222162662 0 0"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
