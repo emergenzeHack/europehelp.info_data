@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2142,592501154,2020-04-02 10:08:17,2020-04-02 09:51:08,Numero per assistenza spesa e consegna farmici attivato da CRI per #Bologna e provincia,,,,,"[""Consegne e commissioni"", ""Contatti utili"", ""Notizie Utili"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""44.494898 11.339114 0 0"", ""Link"": ""http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/"", ""Nome"": ""Croce Rossa Italiana - Bologna"", ""Scopo"": ""La Croce Rossa Italiana ha attivato su Bologna e provincia un numero dedicato per assistenza spesa a consegna farmaci per le persone anziane, fragili e immunodepresse: tel. 051 311541 - cel. 334 6379923"", ""Telefono"": ""051 311541 - 334 6379923""}","<pre><yamldata>
+Indirizzo: 44.494898 11.339114 0 0
+Link: http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/
+Nome: Croce Rossa Italiana - Bologna
+Scopo: 'La Croce Rossa Italiana ha attivato su Bologna e provincia un numero dedicato
+  per assistenza spesa a consegna farmaci per le persone anziane, fragili e immunodepresse:
+  tel. 051 311541 - cel. 334 6379923'
+Telefono: 051 311541 - 334 6379923
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2140,592464433,2020-04-02 09:03:30,2020-04-02 08:50:43,Decreto di proroga misure contenimento Covid 19,,,,,"[""Dati utili"", ""Fonti istituzionali"", ""Posizione mancante"", ""accettato""]",,,"{""Cosa"": ""Decreto di proroga misure contenimento Covid 19"", ""Descrizione"": ""Il Presidente del Consiglio ha firmato il decreto che proroga sino al 13 aprile le misure di contenimento gi\u00e0 in vigore."", ""Fonte"": ""Governo Italiano"", ""Link"": ""http://www.governo.it/sites/new.governo.it/files/DPCM_20200401.pdf""}","<pre><yamldata>
 Cosa: Decreto di proroga misure contenimento Covid 19
 Descrizione: Il Presidente del Consiglio ha firmato il decreto che proroga sino al
@@ -20011,7 +20020,7 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-11 11:20:41,2020-03-10 23:53:39,Lettura giornaliera di tutto il Decamerone,,,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-04-02 09:28:04,2020-03-10 23:53:39,Lettura giornaliera di tutto il Decamerone,,,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
 comune: Italia
 contatti: https://www.facebook.com/decamerone2020/
 descrizione: Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo.
@@ -20020,7 +20029,7 @@ fonte: https://www.facebook.com/decamerone2020/
 provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
-</yamldata></pre>",open
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/127,578926006,2020-03-16 23:12:58,2020-03-10 23:53:38,Supporto alla comunità della Social Street Baia del Re #Milano,45.435307,9.1781905,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Comune"": ""Milano"", ""Posizione"": ""45.435307 9.1781905 0 0"", ""Provincia"": ""Milano"", ""Regione"": ""Lombardia"", ""chi"": ""social street - baia del re "", ""comune"": ""Milano "", ""contatti"": ""social baia del re "", ""descrizione"": ""La social street aiuta la comunit\u00e0 per spesa, medicine e beni prima necessit\u00e0"", ""destinatari"": ""tutti "", ""fonte"": ""https://www.facebook.com/pages/category/Community-Organization/Baia-del-Re-121969331146757/"", ""provincia"": ""Milano"", ""regione"": ""lombardia "", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>
 Comune: Milano
 Posizione: 45.435307 9.1781905 0 0
