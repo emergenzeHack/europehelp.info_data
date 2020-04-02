@@ -356,6 +356,12 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Buoni spesa
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2153,592682490,2020-04-02 22:34:46,2020-04-02 14:37:00,"Comune di #Alzano #Bergamo: numeri utili per sostegno psicologico, supporto anziani e persone in isolamento",45.730869,9.738693,Lombardia,Bergamo,"[""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""http://www.comune.alzano.bg.it/news-e-iniziative/dettaglio/Emergenza-sanitaria-00002/"", ""Nome"": ""Comune di Alzano"", ""Posizione"": ""45.730869 9.738693 0 0"", ""Scopo"": ""Pagina web del Comune di Alzano (Bg) con numeri utili per sostegno psicologico, supporto ad anziani e persone in isolamento.""}","<pre><yamldata>
+Posizione: 45.730869 9.738693 0 0
+Link: http://www.comune.alzano.bg.it/news-e-iniziative/dettaglio/Emergenza-sanitaria-00002/
+Nome: Comune di Alzano
+Scopo: Pagina web del Comune di Alzano (Bg) con numeri utili per sostegno psicologico, supporto ad anziani e persone in isolamento.
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2151,592674771,2020-04-02 15:38:05,2020-04-02 14:26:17,"#CuriamoChiCura: supporto per medici, infermieri e personale non sanitario Azienda USL #Toscana sud est",,,,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Quavio Onlus"", ""Descrizione"": ""Quavio insieme all'Unit\u00e0 Funzionale Cure Palliative dell'Azienda Usl Toscana sud est sta affrontando l\u2019emergenza COVID-19, al fianco degli Operatori Sanitari attivi in Hospice e a domicilio. \n\nCon l'obiettivo di garantire il supporto psicologico a medici, infermieri e personale non sanitario che si dedicano ogni giorno nella cura dei malati oncologici nel fine vita.\n\nDal giorno 23 marzo 2020 l'operatore sanitario pu\u00f2 contattare la dr.ssa Debora Niccolini via email (deboraniccolini@libero.it) o WhatsApp (338 636 01 61), per prendere un appuntamento per un colloquio gratuito via Skype (preferibile) o in videochiamata o se non fosse possibile solo telefonico.\n\nOltre al supporto psicologico per gli operatori sanitari Quavio attiva un servizio telefonico di vicinanza ai malati di tumore e ai familiari che ne sentano il bisogno. E' possibile avere un colloquio telefonico con la Presidente dell'organizzazione, Vanna Galli (393 900 15 54), il luned\u00ec e il gioved\u00ec dalle 9 alle 11 e con la psicologa dr.ssa Agnese Belardi (333 131 94 04) il marted\u00ec e il venerd\u00ec dalle 14 alle 16."", ""Destinatari"": ""Operatori sanitari e famiglie dei malati oncologici"", ""Link"": ""https://www.facebook.com/quavio.onlus"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""#CuriamoChiCura""}","<pre><yamldata>
 Da_chi_offerta: Quavio Onlus
 Descrizione: ""Quavio insieme all'Unità Funzionale Cure Palliative dell'Azienda Usl\
@@ -21044,6 +21050,16 @@ destinatari: tutti
 fonte: https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A
 provincia: Catanzaro
 regione: Calabria
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/86,578924978,2020-03-11 12:23:07,2020-03-10 23:50:05,Raccolta fondi online per sostenere Città della Salute di #Torino,,,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Francesco Pecco Bagnaia"", ""comune"": ""Chivasso"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per sostenere Citt\\xE0 della Salute di Torino"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Francesco Pecco Bagnaia
+comune: Chivasso
+contatti: ''
+descrizione: Raccolta fondi per sostenere Citt\xE0 della Salute di Torino
+destinatari: ""tutti""
+fonte: https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+provincia: Torino
+regione: Piemonte
 tag: Raccolta fondi
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/86,578924978,2020-03-11 12:23:07,2020-03-10 23:50:05,Raccolta fondi online per sostenere Città della Salute di #Torino,,,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Francesco Pecco Bagnaia"", ""comune"": ""Chivasso"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per sostenere Citt\\xE0 della Salute di Torino"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Francesco Pecco Bagnaia
