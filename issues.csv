@@ -1,5 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2142,592501154,2020-04-02 10:08:17,2020-04-02 09:51:08,Numero per assistenza spesa e consegna farmici attivato da CRI per #Bologna e provincia,,,,,"[""Consegne e commissioni"", ""Contatti utili"", ""Notizie Utili"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""44.494898 11.339114 0 0"", ""Link"": ""http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/"", ""Nome"": ""Croce Rossa Italiana - Bologna"", ""Scopo"": ""La Croce Rossa Italiana ha attivato su Bologna e provincia un numero dedicato per assistenza spesa a consegna farmaci per le persone anziane, fragili e immunodepresse: tel. 051 311541 - cel. 334 6379923"", ""Telefono"": ""051 311541 - 334 6379923""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2143,592502047,2020-04-02 10:12:30,2020-04-02 09:52:38,Servizio gratuito consegne a domicilio attivato da Pubblica Assistenza Città #Bologna ,,,,,"[""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""44.496735 11.347353 0 0"", ""Link"": ""http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/"", ""Nome"": ""Pubblica assistenza Citt\u00e0 di Bologna"", ""Scopo"": ""La Pubblica Assistenza Citt\u00e0 di Bologna ha attivato un servizio gratuito di consegna a domicilio di spesa e farmaci per le persone anziane, fragili e immunodepresse. Il servizio risponde al numero 051 535353 da luned\u00ec al venerd\u00ec dalle 8 alle 12 e dalle 14 alle 17."", ""Telefono"": ""051 535353""}","<pre><yamldata>
+Indirizzo: 44.496735 11.347353 0 0
+Link: http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/
+Nome: Pubblica assistenza Città di Bologna
+Scopo: La Pubblica Assistenza Città di Bologna ha attivato un servizio gratuito di
+  consegna a domicilio di spesa e farmaci per le persone anziane, fragili e immunodepresse.
+  Il servizio risponde al numero 051 535353 da lunedì al venerdì dalle 8 alle 12 e
+  dalle 14 alle 17.
+Telefono: 051 535353
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2142,592501154,2020-04-02 10:12:53,2020-04-02 09:51:08,Numero per assistenza spesa e consegna farmici attivato da CRI per #Bologna e provincia,,,,,"[""Consegne e commissioni"", ""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""44.494898 11.339114 0 0"", ""Link"": ""http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/"", ""Nome"": ""Croce Rossa Italiana - Bologna"", ""Scopo"": ""La Croce Rossa Italiana ha attivato su Bologna e provincia un numero dedicato per assistenza spesa a consegna farmaci per le persone anziane, fragili e immunodepresse: tel. 051 311541 - cel. 334 6379923"", ""Telefono"": ""051 311541 - 334 6379923""}","<pre><yamldata>
 Indirizzo: 44.494898 11.339114 0 0
 Link: http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/
 Nome: Croce Rossa Italiana - Bologna
