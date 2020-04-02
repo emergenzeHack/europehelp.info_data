@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2181,592922428,2020-04-02 21:27:31,2020-04-02 21:19:23,Raccolta e distribuzione gratuita di beni di prima necessità a #Formigine #Modena,44.58006,10.85150,Emilia-Romagna,Modena,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Biblioteca del Gufo, Formigine (MO)"", ""Descrizione"": ""La biblioteca del gufo a Formigine (MO) raccoglie e mette a disposizione gratuitamente beni di prima necessit\u00e0 per chi non ha mezzi per acquistarli."", ""Destinatari"": ""Abitanti di Formigine"", ""Link"": ""https://www.facebook.com/bibliotecadelgufo/"", ""Natura"": ""solidale"", ""Posizione"": ""44.58006 10.85150 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta e distribuzione gratuita di beni di prima necessit\u00e0 a \u00b7Formigine (MO)""}","<pre><yamldata>
+Da_chi_offerta: Biblioteca del Gufo, Formigine (MO)
+Descrizione: La biblioteca del gufo a Formigine (MO) raccoglie e mette a disposizione
+  gratuitamente beni di prima necessità per chi non ha mezzi per acquistarli.
+Destinatari: Abitanti di Formigine
+Link: https://www.facebook.com/bibliotecadelgufo/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Raccolta e distribuzione gratuita di beni di prima necessità a ·Formigine
+  (MO)
+Posizione: 44.58006 10.85150 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2179,592865649,2020-04-02 20:08:53,2020-04-02 19:13:52,Raccolta fondi Mastini Varese Hockey per acquisto materiale sanitario Ospedale #Varese,45.463212,9.234302,Lombardia,Milano,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La societ\u00e0 di hockey su ghiaccio di Varese ha avviato una raccolta fondi per acquistare mascherine e materiale protettivo da donare all\u2019ospedale di Varese"", ""Link"": ""https://www.gofundme.com/f/5keq9s-sd"", ""Nome"": ""Mastini Varese Hockey"", ""Posizione"": ""45.463212 9.234302 106.42764282226562 65""}","<pre><yamldata>
 Descrizione: La società di hockey su ghiaccio di Varese ha avviato una raccolta fondi
   per acquistare mascherine e materiale protettivo da donare all’ospedale di Varese
@@ -11468,20 +11480,6 @@ Destinatari: Isnellesi, Amici degli Isnellesi, Isnellesi nel mondo
 Link: https://www.facebook.com/Iorestoacasaecucino-108509274106624/
 Natura: culturale-ricr
 Titolo: Io resto a casa e cucino
-Posizione: 37.943953 14.005761 0 0
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/897,585028056,2020-03-20 15:06:45,2020-03-20 12:10:37,#Isnello Io resto a casa e leggo - il comune propone la lettura condivisa con modalità virtuali,37.943953,14.005761,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Isnello"", ""Descrizione"": ""Per rendere pi\u00f9 piacevole la permanenza domiciliare, dovuta alla emergenza COVID-19, cui siamo obbligati in questi giorni e che ci riguarder\u00e0 fino al 3 Aprile prossimo e al fine di sperimentare una nuova forma di \u201csocialit\u00e0\u201d, questa Amministrazione con l\u2019iniziativa \u201cIoRestoAcasaEleggo\u201d, ha l\u2019intento di promuovere tra gli isnellesi (e non solo), fino al 3 Aprile prossimo, la lettura condivisa di un libro con modalit\u00e0 virtuali \u201ca distanza\u201d."", ""Destinatari"": ""Cittadini di Isnello, Isnellesi nel mondo, amici degli Isnellesi"", ""Link"": ""https://www.facebook.com/Iorestoacasaeleggo-101592468142302/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""37.943953 14.005761 0 0"", ""Titolo"": ""Io resto a casa e leggo""}","<pre><yamldata>
-Da_chi_offerta: Comune di Isnello
-Descrizione: Per rendere più piacevole la permanenza domiciliare, dovuta alla emergenza
-  COVID-19, cui siamo obbligati in questi giorni e che ci riguarderà fino al 3 Aprile
-  prossimo e al fine di sperimentare una nuova forma di “socialità”, questa Amministrazione
-  con l’iniziativa “IoRestoAcasaEleggo”, ha l’intento di promuovere tra gli isnellesi
-  (e non solo), fino al 3 Aprile prossimo, la lettura condivisa di un libro con modalità
-  virtuali “a distanza”.
-Destinatari: Cittadini di Isnello, Isnellesi nel mondo, amici degli Isnellesi
-Link: https://www.facebook.com/Iorestoacasaeleggo-101592468142302/
-Natura: culturale-ricr
-Titolo: Io resto a casa e leggo
 Posizione: 37.943953 14.005761 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/897,585028056,2020-03-20 15:06:45,2020-03-20 12:10:37,#Isnello Io resto a casa e leggo - il comune propone la lettura condivisa con modalità virtuali,37.943953,14.005761,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Isnello"", ""Descrizione"": ""Per rendere pi\u00f9 piacevole la permanenza domiciliare, dovuta alla emergenza COVID-19, cui siamo obbligati in questi giorni e che ci riguarder\u00e0 fino al 3 Aprile prossimo e al fine di sperimentare una nuova forma di \u201csocialit\u00e0\u201d, questa Amministrazione con l\u2019iniziativa \u201cIoRestoAcasaEleggo\u201d, ha l\u2019intento di promuovere tra gli isnellesi (e non solo), fino al 3 Aprile prossimo, la lettura condivisa di un libro con modalit\u00e0 virtuali \u201ca distanza\u201d."", ""Destinatari"": ""Cittadini di Isnello, Isnellesi nel mondo, amici degli Isnellesi"", ""Link"": ""https://www.facebook.com/Iorestoacasaeleggo-101592468142302/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""37.943953 14.005761 0 0"", ""Titolo"": ""Io resto a casa e leggo""}","<pre><yamldata>
