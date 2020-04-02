@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2149,592666044,2020-04-02 14:21:07,2020-04-02 14:14:27,Associazione Cielo e terra Onlus ricerca 3 tablet da donare per didattica a distanza,,,,,"[""Posizione mancante"", ""Richiesta aiuto"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""Tablet per didattica a distanza"", ""Descrizione"": ""Per attivit\u00e0 scolastica di didattica a distanza si cercano 3 tablet da fornire a famiglie di richiedenti asilo politico o titolari di protezione internazionale"", ""Email"": ""PROFUGHI@CIELOETERRAONLUS.ORG"", ""Indirizzo"": ""45.599176 8.909998 0 0"", ""Link"": ""http://www.cieloeterraonlus.org/"", ""Nome"": ""Associazione Cielo e terra Onlus"", ""Telefono"": ""3488553097""}","<pre><yamldata>
+Cosa: Tablet per didattica a distanza
+Descrizione: Per attività scolastica di didattica a distanza si cercano 3 tablet da
+  fornire a famiglie di richiedenti asilo politico o titolari di protezione internazionale
+Email: PROFUGHI@CIELOETERRAONLUS.ORG
+Indirizzo: 45.599176 8.909998 0 0
+Link: http://www.cieloeterraonlus.org/
+Nome: Associazione Cielo e terra Onlus
+Telefono: '3488553097'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2143,592502047,2020-04-02 10:12:30,2020-04-02 09:52:38,Servizio gratuito consegne a domicilio attivato da Pubblica Assistenza Città #Bologna ,,,,,"[""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""44.496735 11.347353 0 0"", ""Link"": ""http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/"", ""Nome"": ""Pubblica assistenza Citt\u00e0 di Bologna"", ""Scopo"": ""La Pubblica Assistenza Citt\u00e0 di Bologna ha attivato un servizio gratuito di consegna a domicilio di spesa e farmaci per le persone anziane, fragili e immunodepresse. Il servizio risponde al numero 051 535353 da luned\u00ec al venerd\u00ec dalle 8 alle 12 e dalle 14 alle 17."", ""Telefono"": ""051 535353""}","<pre><yamldata>
 Indirizzo: 44.496735 11.347353 0 0
 Link: http://www.iperbole.bologna.it/sportellosociale/servizi/672/2640/
@@ -11021,19 +11031,6 @@ Link: https://public.flourish.studio/visualisation/1584883
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: 'Spesa a casa a #Bergamo e in 46 comuni della provincia'
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/911,585128270,2020-03-20 15:51:25,2020-03-20 15:01:41,#Sondrio Raccolta fondi Fondazione Pro Valtellina Onlus,46.1701616,9.8769776,Lombardia,Sondrio,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""POPSOIT22XXX"", ""Causale"": ""#PERINOSTRIOSPEDALI"", ""Descrizione"": ""Aiutare chi ci aiuta. E sostenere il territorio attraverso una raccolta fondi a favore dei nostri ospedali, quelli che stanno gestendo, non senza difficolt\u00e0, l\u2019emergenza delle emergenze: la lotta contro il Covid-19."", ""Email"": ""info@provaltellina.org"", ""IBAN"": ""IT89L0569611000000033000X20"", ""Intestazione"": ""FONDAZIONE PRO VALTELLINA ONLUS"", ""Link"": ""https://www.provaltellina.org/news/perinostriospedali-lotta-contro-il-covid-19/"", ""Nome"": ""FONDAZIONE PRO VALTELLINA Onlus"", ""Posizione"": ""46.1701616 9.8769776 0 0""}","<pre><yamldata>
-BIC_SWIFT: POPSOIT22XXX
-Causale: '#PERINOSTRIOSPEDALI'
-Descrizione: 'Aiutare chi ci aiuta. E sostenere il territorio attraverso una raccolta
-  fondi a favore dei nostri ospedali, quelli che stanno gestendo, non senza difficoltà,
-  l’emergenza delle emergenze: la lotta contro il Covid-19.'
-Email: info@provaltellina.org
-IBAN: IT89L0569611000000033000X20
-Intestazione: FONDAZIONE PRO VALTELLINA ONLUS
-Link: https://www.provaltellina.org/news/perinostriospedali-lotta-contro-il-covid-19/
-Nome: FONDAZIONE PRO VALTELLINA Onlus
-Posizione: 46.1701616 9.8769776 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/911,585128270,2020-03-20 15:51:25,2020-03-20 15:01:41,#Sondrio Raccolta fondi Fondazione Pro Valtellina Onlus,46.1701616,9.8769776,Lombardia,Sondrio,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""POPSOIT22XXX"", ""Causale"": ""#PERINOSTRIOSPEDALI"", ""Descrizione"": ""Aiutare chi ci aiuta. E sostenere il territorio attraverso una raccolta fondi a favore dei nostri ospedali, quelli che stanno gestendo, non senza difficolt\u00e0, l\u2019emergenza delle emergenze: la lotta contro il Covid-19."", ""Email"": ""info@provaltellina.org"", ""IBAN"": ""IT89L0569611000000033000X20"", ""Intestazione"": ""FONDAZIONE PRO VALTELLINA ONLUS"", ""Link"": ""https://www.provaltellina.org/news/perinostriospedali-lotta-contro-il-covid-19/"", ""Nome"": ""FONDAZIONE PRO VALTELLINA Onlus"", ""Posizione"": ""46.1701616 9.8769776 0 0""}","<pre><yamldata>
 BIC_SWIFT: POPSOIT22XXX
