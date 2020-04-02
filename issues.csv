@@ -1,4 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2140,592464433,2020-04-02 09:03:30,2020-04-02 08:50:43,Decreto di proroga misure contenimento Covid 19,,,,,"[""Dati utili"", ""Fonti istituzionali"", ""Posizione mancante"", ""accettato""]",,,"{""Cosa"": ""Decreto di proroga misure contenimento Covid 19"", ""Descrizione"": ""Il Presidente del Consiglio ha firmato il decreto che proroga sino al 13 aprile le misure di contenimento gi\u00e0 in vigore."", ""Fonte"": ""Governo Italiano"", ""Link"": ""http://www.governo.it/sites/new.governo.it/files/DPCM_20200401.pdf""}","<pre><yamldata>
+Cosa: Decreto di proroga misure contenimento Covid 19
+Descrizione: Il Presidente del Consiglio ha firmato il decreto che proroga sino al
+  13 aprile le misure di contenimento già in vigore.
+Fonte: Governo Italiano
+Link: http://www.governo.it/sites/new.governo.it/files/DPCM_20200401.pdf
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2139,592440161,2020-04-02 08:16:33,2020-04-02 08:10:43,Fondazione AIRC mette a disposizione online contenuti didattici scientifici per gli studenti,,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""FONDAZIONE AIRC"", ""Descrizione"": ""Una serie di contenuti scientifici e attivit\u00e0 online utili per la didattica a distanza."", ""Destinatari"": ""Per studenti, genitori e insegnanti"", ""Link"": ""http://www.vita.it/it/article/2020/03/27/fondazione-airc-a-supporto-di-scuole-e-famiglie/154709/"", ""Natura"": ""didattica"", ""Titolo"": ""Webinar, video, giochi e schede didattiche disponibili sul web""}","<pre><yamldata>
 Da_chi_offerta: FONDAZIONE AIRC
 Descrizione: Una serie di contenuti scientifici e attività online utili per la didattica
