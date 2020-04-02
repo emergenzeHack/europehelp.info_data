@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2136,592251995,2020-04-02 07:32:04,2020-04-01 22:58:05,Numero Verde AISM per aiutare le persone con sclerosi multipla,,,,,"[""Bollettino"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Aism onlus"", ""Descrizione"": ""Potenziato il numero verde Aism per rispondere all\u2019emergenza coronavirus. Al Numero Verde AISM 800-803028 una vera e propria task force di operatori, assistenti sociali, neurologi specializzati in sclerosi multipla, avvocati e altri consulenti risponde  agli interrogativi delle persone con SM, e anche a persone con patologie in generale."", ""Destinatari"": ""Malati di sclerosi multipla"", ""Link"": ""https://www.aism.it/emergenza_coronavirus_la_task_force_del_numero_verde_aism_aiutare_le_persone_con_sclerosi_multipla"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emergenza coronavirus, Numero Verde AISM per aiutare le persone con sclerosi multipla""}","<pre><yamldata>
+Da_chi_offerta: Aism onlus
+Descrizione: Potenziato il numero verde Aism per rispondere all’emergenza coronavirus.
+  Al Numero Verde AISM 800-803028 una vera e propria task force di operatori, assistenti
+  sociali, neurologi specializzati in sclerosi multipla, avvocati e altri consulenti
+  risponde  agli interrogativi delle persone con SM, e anche a persone con patologie
+  in generale.
+Destinatari: Malati di sclerosi multipla
+Link: https://www.aism.it/emergenza_coronavirus_la_task_force_del_numero_verde_aism_aiutare_le_persone_con_sclerosi_multipla
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Emergenza coronavirus, Numero Verde AISM per aiutare le persone con sclerosi
+  multipla
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2135,592249337,2020-04-02 07:30:09,2020-04-01 22:50:06,COVID-19: online le schede informative AIFA sui farmaci utilizzati per l’emergenza,,,,,"[""Bollettino"", ""Dati utili"", ""Fonti istituzionali"", ""Notizie Utili"", ""Posizione mancante"", ""accettato""]",,,"{""Cosa"": ""COVID-19: online le schede informative AIFA sui farmaci utilizzati per l\u2019emergenza"", ""Descrizione"": ""Sono online le schede informative AIFA sui farmaci utilizzati per l\u2019emergenza Covid19 e sulle relative modalit\u00e0 di prescrizione."", ""Fonte"": ""Aifa"", ""Link"": ""https://www.aifa.gov.it/web/guest/-/schede-informative-sui-farmaci-utilizzati-per-emergenza-covid-19-e-relative-modalita-di-prescrizione""}","<pre><yamldata>
 Cosa: 'COVID-19: online le schede informative AIFA sui farmaci utilizzati per l’emergenza'
 Descrizione: Sono online le schede informative AIFA sui farmaci utilizzati per l’emergenza
@@ -6872,57 +6886,6 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Mappa solidarietà
 Posizione: 41.1187 16.852
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1225,587911411,2020-03-26 11:12:04,2020-03-25 18:42:29,Come eravamo ai tempi del Covid19. Raccolta di materiali audio e video per installazione in realtà aumentata.,45.4464861,9.1818415,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""BEPART"", ""Descrizione"": ""PERCHE' IL PROGETTO\nAttraversiamo un passaggio storico che sta trasformando il nostro modo di vivere e pensare, segnandoci nel profondo, a partire dalla nostra quotidianit\u00e0.\nQuando l'emergenza sar\u00e0 terminata e con essa le relative misure di contenimento ricorderemo gli aneddoti e le riflessioni fatte in questi giorni? Giornate in cui, fermi a casa, abbiamo tempo per ragionare sui nostri sogni e le nostre paure, sul valore dei gesti e delle parole, sul tempo e sul denaro, sul significato della convivenza e dei baci, su libert\u00e0 e verit\u00e0. Piccoli e grandi temi che, sino a qualche giorno fa, davamo spesso per scontati.\nVorremmo dunque coinvolgervi nella realizzazione di una grande opera collettiva: un mosaico di autoritratti che ci aiuti nel futuro a ri-guardare, ricordare e a capire questo momento.\n\nCOME PARTECIPARE\nCompila il form (trovi il link nella sezione \""biglietti\"") mandandoci:\n1_un'immagine del PRE: una foto, un disegno o un collage che rappresenti come eri PRIMA del virus\n2_un racconto del DURANTE: un video, della durata massima di 1 minuto, che rappresenti te per come stai VIVENDO QUESTO PERIODO (pu\u00f2 essere un filmato, un'intervista, un piccolo montaggio anche di foto, oppure un'animazione fatta da te).\nN.B. Ovviamente sono tutti materiali che puoi tranquillamente produrre a casa da solo/a o coinvolgendo la tua famiglia, dal pi\u00f9 piccolo al pi\u00f9 grande!\nE infine dai un titolo alla tua opera e lascia una breve descrizione.\nCarica i tuoi materiali sul seguente link https://forms.gle/6ft6kfQGPUcHavNt6\n\nLA RESTITUZIONE\nI materiali raccolti entreranno a far parte di un'opera in realt\u00e0 aumentata che, quando l'emergenza sar\u00e0 rientrata, sar\u00e0 presentata al pubblico. Per dare vita a un momento di rilettura collettivo e condiviso.\nIl progetto \u00e8 a cura di Bepart https://bepart.net/"", ""Destinatari"": ""Per tutti"", ""Link"": ""https://www.facebook.com/events/213801336399804/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.4464861 9.1818415 0 0"", ""Titolo"": ""Come eravamo ai tempi del Covid19""}","<pre><yamldata>
-Da_chi_offerta: BEPART
-Descrizione: 'PERCHE'' IL PROGETTO
-
-  Attraversiamo un passaggio storico che sta trasformando il nostro modo di vivere
-  e pensare, segnandoci nel profondo, a partire dalla nostra quotidianità.
-
-  Quando l''emergenza sarà terminata e con essa le relative misure di contenimento
-  ricorderemo gli aneddoti e le riflessioni fatte in questi giorni? Giornate in cui,
-  fermi a casa, abbiamo tempo per ragionare sui nostri sogni e le nostre paure, sul
-  valore dei gesti e delle parole, sul tempo e sul denaro, sul significato della convivenza
-  e dei baci, su libertà e verità. Piccoli e grandi temi che, sino a qualche giorno
-  fa, davamo spesso per scontati.
-
-  Vorremmo dunque coinvolgervi nella realizzazione di una grande opera collettiva:
-  un mosaico di autoritratti che ci aiuti nel futuro a ri-guardare, ricordare e a
-  capire questo momento.
-
-
-  COME PARTECIPARE
-
-  Compila il form (trovi il link nella sezione ""biglietti"") mandandoci:
-
-  1_un''immagine del PRE: una foto, un disegno o un collage che rappresenti come eri
-  PRIMA del virus
-
-  2_un racconto del DURANTE: un video, della durata massima di 1 minuto, che rappresenti
-  te per come stai VIVENDO QUESTO PERIODO (può essere un filmato, un''intervista,
-  un piccolo montaggio anche di foto, oppure un''animazione fatta da te).
-
-  N.B. Ovviamente sono tutti materiali che puoi tranquillamente produrre a casa da
-  solo/a o coinvolgendo la tua famiglia, dal più piccolo al più grande!
-
-  E infine dai un titolo alla tua opera e lascia una breve descrizione.
-
-  Carica i tuoi materiali sul seguente link https://forms.gle/6ft6kfQGPUcHavNt6
-
-
-  LA RESTITUZIONE
-
-  I materiali raccolti entreranno a far parte di un''opera in realtà aumentata che,
-  quando l''emergenza sarà rientrata, sarà presentata al pubblico. Per dare vita a
-  un momento di rilettura collettivo e condiviso.
-
-  Il progetto è a cura di Bepart https://bepart.net/'
-Destinatari: Per tutti
-Link: https://www.facebook.com/events/213801336399804/
-Natura: culturale-ricr
-Titolo: Come eravamo ai tempi del Covid19
-Posizione: 45.4464861 9.1818415 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1225,587911411,2020-03-26 11:12:04,2020-03-25 18:42:29,Come eravamo ai tempi del Covid19. Raccolta di materiali audio e video per installazione in realtà aumentata.,45.4464861,9.1818415,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""BEPART"", ""Descrizione"": ""PERCHE' IL PROGETTO\nAttraversiamo un passaggio storico che sta trasformando il nostro modo di vivere e pensare, segnandoci nel profondo, a partire dalla nostra quotidianit\u00e0.\nQuando l'emergenza sar\u00e0 terminata e con essa le relative misure di contenimento ricorderemo gli aneddoti e le riflessioni fatte in questi giorni? Giornate in cui, fermi a casa, abbiamo tempo per ragionare sui nostri sogni e le nostre paure, sul valore dei gesti e delle parole, sul tempo e sul denaro, sul significato della convivenza e dei baci, su libert\u00e0 e verit\u00e0. Piccoli e grandi temi che, sino a qualche giorno fa, davamo spesso per scontati.\nVorremmo dunque coinvolgervi nella realizzazione di una grande opera collettiva: un mosaico di autoritratti che ci aiuti nel futuro a ri-guardare, ricordare e a capire questo momento.\n\nCOME PARTECIPARE\nCompila il form (trovi il link nella sezione \""biglietti\"") mandandoci:\n1_un'immagine del PRE: una foto, un disegno o un collage che rappresenti come eri PRIMA del virus\n2_un racconto del DURANTE: un video, della durata massima di 1 minuto, che rappresenti te per come stai VIVENDO QUESTO PERIODO (pu\u00f2 essere un filmato, un'intervista, un piccolo montaggio anche di foto, oppure un'animazione fatta da te).\nN.B. Ovviamente sono tutti materiali che puoi tranquillamente produrre a casa da solo/a o coinvolgendo la tua famiglia, dal pi\u00f9 piccolo al pi\u00f9 grande!\nE infine dai un titolo alla tua opera e lascia una breve descrizione.\nCarica i tuoi materiali sul seguente link https://forms.gle/6ft6kfQGPUcHavNt6\n\nLA RESTITUZIONE\nI materiali raccolti entreranno a far parte di un'opera in realt\u00e0 aumentata che, quando l'emergenza sar\u00e0 rientrata, sar\u00e0 presentata al pubblico. Per dare vita a un momento di rilettura collettivo e condiviso.\nIl progetto \u00e8 a cura di Bepart https://bepart.net/"", ""Destinatari"": ""Per tutti"", ""Link"": ""https://www.facebook.com/events/213801336399804/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.4464861 9.1818415 0 0"", ""Titolo"": ""Come eravamo ai tempi del Covid19""}","<pre><yamldata>
 Da_chi_offerta: BEPART
