@@ -1,7 +1,7 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2181,592922428,2020-04-02 21:27:31,2020-04-02 21:19:23,Raccolta e distribuzione gratuita di beni di prima necessità a #Formigine #Modena,44.58006,10.85150,Emilia-Romagna,Modena,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Biblioteca del Gufo, Formigine (MO)"", ""Descrizione"": ""La biblioteca del gufo a Formigine (MO) raccoglie e mette a disposizione gratuitamente beni di prima necessit\u00e0 per chi non ha mezzi per acquistarli."", ""Destinatari"": ""Abitanti di Formigine"", ""Link"": ""https://www.facebook.com/bibliotecadelgufo/"", ""Natura"": ""solidale"", ""Posizione"": ""44.58006 10.85150 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta e distribuzione gratuita di beni di prima necessit\u00e0 a \u00b7Formigine (MO)""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2181,592922428,2020-04-02 22:11:09,2020-04-02 21:19:23,Raccolta e distribuzione gratuita di beni di prima necessità a #Formigine #Modena,44.58006,10.85150,Emilia-Romagna,Modena,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Biblioteca del Gufo, Formigine (MO)"", ""Descrizione"": ""La biblioteca del Gufo a Formigine (MO) raccoglie e mette a disposizione gratuitamente beni di prima necessit\u00e0 per chi non ha mezzi per acquistarli."", ""Destinatari"": ""Abitanti di Formigine"", ""Link"": ""https://www.facebook.com/bibliotecadelgufo/"", ""Natura"": ""solidale"", ""Posizione"": ""44.58006 10.85150 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta e distribuzione gratuita di beni di prima necessit\u00e0 a \u00b7Formigine (MO)""}","<pre><yamldata>
 Da_chi_offerta: Biblioteca del Gufo, Formigine (MO)
-Descrizione: La biblioteca del gufo a Formigine (MO) raccoglie e mette a disposizione
+Descrizione: La biblioteca del Gufo a Formigine (MO) raccoglie e mette a disposizione
   gratuitamente beni di prima necessità per chi non ha mezzi per acquistarli.
 Destinatari: Abitanti di Formigine
 Link: https://www.facebook.com/bibliotecadelgufo/
@@ -34,6 +34,25 @@ Email: ""ufficio.disabilita@governo.it
 ufficio.disabilita@pec.governo.it""
 Posizione: 41.90141 12.48002
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2177,592780606,2020-04-02 22:00:18,2020-04-02 16:58:00,Ottica Corti offre lenti a contatto per chi è impegnato in prima linea nella lotta al Covid #PonteSanPietro #Bergamo,45.69782,9.58786,Lombardia,Bergamo,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Comune"": ""Ponte San Pietro"", ""Cosa"": ""Ottica Corti ha deciso di aderire all'iniziativa di #Safilens che prevede la FORNITURA GRATUITA di lenti a contatto per le categorie professionali impegnate in prima linea nella lotta al #COVID19"", ""Descrizione"": ""Ottica Corti ha deciso di aderire all'iniziativa di #Safilens che prevede la FORNITURA GRATUITA di lenti a contatto per le categorie professionali impegnate in prima linea nella lotta al #COVID19 ( Personale sanitario, Forze dell'Ordine e volontari Protezione Civile e Croce Rossa). \nL'iniziativa \u00e8 valida fino al 15 Aprile per lenti a contatto giornaliere. Sono previste 4 confezioni da 30 per ogni operatore. \nPer prenotazioni:\ninfo@otticacorti.it\nWhatsApp 3783013230"", ""Destinatari"": ""Personale sanitario, Forze dell'Ordine e volontari Protezione Civile e Croce Rossa)"", ""Email"": ""info@otticacorti.it"", ""Posizione"": ""45.69782 9.58786"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""Telefono"": ""3783013230""}","<pre><yamldata>
+Cosa: 'Ottica Corti ha deciso di aderire all''iniziativa di #Safilens che prevede
+  la FORNITURA GRATUITA di lenti a contatto per le categorie professionali impegnate
+  in prima linea nella lotta al #COVID19'
+Descrizione: ""Ottica Corti ha deciso di aderire all'iniziativa di #Safilens che prevede\
+  \ la FORNITURA GRATUITA di lenti a contatto per le categorie professionali impegnate\
+  \ in prima linea nella lotta al #COVID19 ( Personale sanitario, Forze dell'Ordine\
+  \ e volontari Protezione Civile e Croce Rossa). \nL'iniziativa è valida fino al\
+  \ 15 Aprile per lenti a contatto giornaliere. Sono previste 4 confezioni da 30 per\
+  \ ogni operatore. \nPer prenotazioni:\ninfo@otticacorti.it\nWhatsApp 3783013230""
+Destinatari: Personale sanitario, Forze dell'Ordine e volontari Protezione Civile
+  e Croce Rossa)
+Email: info@otticacorti.it
+Posizione: 45.69782 9.58786
+Telefono: '3783013230'
+Comune: Ponte San Pietro
+Provincia: Bergamo
+Regione: Lombardia
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2176,592774687,2020-04-02 21:33:05,2020-04-02 16:48:18,Quarantena - proposta per un documentario collettivo,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Cosa"": ""Quarantena - documentario collettivo"", ""Descrizione"": ""QUARANTENA \u00e8 un progetto collettivo che intende descrivere, con la partecipazione attiva del maggior numero di persone, la situazione di distanziamento fisico/sociale che noi italiani stiamo vivendo durante la diffusione del covid19 (coronavirus).\nIl progetto riprende l'idea sviluppata inizialmente da Ridley Scott con \""Life in a Day\"".\n\nVorremmo raccogliere le vostre esperienze in questo periodo di isolamento. Mandateci un video che possa esprimere la vostra quotidianit\u00e0: azioni, pensieri, sensazioni, emozioni, idee, flash mob.\n\nCi piacerebbe dare spazio anche a chi sta trovando nella segregazione forzata un incentivo a sviluppare la propria creativit\u00e0, inerente a qualunque ambito artistico: ad esempio, le vostre produzioni musicali create in questi giorni, che potranno diventare parte della colonna sonora, oppure i vostri dipinti, che potranno far parte della locandina del film. Alcune opere, video e canzoni, verranno inoltre caricate sui canali social del progetto (Instagram @quarantena.doc e Facebook).\n\n\n\n COME PARTECIPARE \n\u25cf Inviateci i vostri video o le vostre opere attraverso WeTransfer a quarantena.doc@gmail.com e il nostro team lavorer\u00e0 al montaggio del film.\n\u25cf Compilate, firmate e mandateci alla mail il modulo per l'autorizzazione ai diritti d'immagine (per tutti i soggetti che compaiono nel video) e ai diritti d\u2019autore che troverete a questo link:\nhttps://drive.google.com/file/d/1o7lBOb5wmtmD4ERwjNobbzDuNdGc6suX/view?fbclid=IwAR1SzsIMJZ5EnrnN53JHbgnm9sHbo1slJk5Dla4ghGbTtwGzQdbtsBUqmms"", ""Link"": ""https://www.facebook.com/events/140460247367816/""}","<pre><yamldata>
 Cosa: Quarantena - documentario collettivo
 Descrizione: ""QUARANTENA è un progetto collettivo che intende descrivere, con la partecipazione\
@@ -55,34 +74,24 @@ Descrizione: ""QUARANTENA è un progetto collettivo che intende descrivere, con 
   \ compaiono nel video) e ai diritti d’autore che troverete a questo link:\nhttps://drive.google.com/file/d/1o7lBOb5wmtmD4ERwjNobbzDuNdGc6suX/view?fbclid=IwAR1SzsIMJZ5EnrnN53JHbgnm9sHbo1slJk5Dla4ghGbTtwGzQdbtsBUqmms""
 Link: https://www.facebook.com/events/140460247367816/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2175,592773571,2020-04-02 21:34:09,2020-04-02 16:46:24,ceffè sospeso: piattaforma gratuita a sostegno delle piccole realtà commerciali danneggiate dall'Emergenza COVID-19,,,,,"[""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Prenditi cura del tuo negozio di fiducia.\nNasce oggi Un caff\u00e8 sospeso, la piattaforma gratuita a sostegno delle piccole realt\u00e0 commerciali danneggiate dall'Emergenza COVID-19.\n\u200d\nScopri tutte le attivit\u00e0 presenti sul nostro sito e aiuta la tua comunit\u00e0."", ""Link"": ""https://www.uncaffesospeso.it/?fbclid=IwAR2-dHvMDXkXN5TBXUeM9SmuClxdhcMdRCESCXcXUUaNRDYrpyCRxLiTc0g"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""ceff\u00e8 sospeso""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2175,592773571,2020-04-02 22:04:45,2020-04-02 16:46:24,Caffè sospeso: piattaforma gratuita a sostegno delle piccole realtà commerciali danneggiate dall'Emergenza COVID-19,,,,,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Prenditi cura del tuo negozio di fiducia. Nasce oggi Un caff\u00e8 sospeso, la piattaforma gratuita a sostegno delle piccole realt\u00e0 commerciali danneggiate dall'Emergenza COVID-19. Scopri tutte le attivit\u00e0 presenti sul nostro sito e aiuta la tua comunit\u00e0."", ""Link"": ""https://www.uncaffesospeso.it/?fbclid=IwAR2-dHvMDXkXN5TBXUeM9SmuClxdhcMdRCESCXcXUUaNRDYrpyCRxLiTc0g"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""ceff\u00e8 sospeso""}","<pre><yamldata>
 Descrizione: 'Prenditi cura del tuo negozio di fiducia.
-
   Nasce oggi Un caffè sospeso, la piattaforma gratuita a sostegno delle piccole realtà
   commerciali danneggiate dall''Emergenza COVID-19.
-
-  ‍
-
   Scopri tutte le attività presenti sul nostro sito e aiuta la tua comunità.'
 Link: https://www.uncaffesospeso.it/?fbclid=IwAR2-dHvMDXkXN5TBXUeM9SmuClxdhcMdRCESCXcXUUaNRDYrpyCRxLiTc0g
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: ceffè sospeso
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2174,592771881,2020-04-02 21:35:29,2020-04-02 16:43:35,Guida multilingue alla sicurezza informatica dedicata alle donne,,,,,"[""Donne"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lucha y Siesta"", ""Descrizione"": ""La sicurezza informatica in questo momento \u00e8 fondamentale per molte donne, per questo abbiamo preparato una guida chiara e basic per poter usare il telefono (mail, social, app) in modo sicuro. Ricorda: NON SEI SOLA!\n\nUn GRAZIE enorme a Frad per averci aiutato a renderla anche bellissima \ud83d\udc9c\u270a\n\nAnche questa guida, oltre all\u2019italiano, \u00e8 stata tradotta in inglese, francese, arabo, bangla, rumeno e cinese. Potete scaricare i pdf qui sotto.\n\nGrazie a tutte le compagne che ci hanno dato voce in altre lingue. Condividetela con tutt* coloro che ne possono beneficiare."", ""Destinatari"": ""Donne vittima di violenza"", ""Link"": ""https://luchaysiesta.wordpress.com/2020/04/02/guida-multilingue-alla-sicurezza-informatica/?fbclid=IwAR1LkrdzzOA5rixbwdZz3ntgo_kdQQj51HrhVUCkfKJQIQPpPzgHLgnfrVQ"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Guida multilingue alla sicurezza informatica""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2174,592771881,2020-04-02 22:03:34,2020-04-02 16:43:35,Lucha y Siesta - Guida multilingue alla sicurezza informatica dedicata alle donne,,,,,"[""Bollettino"", ""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lucha y Siesta"", ""Descrizione"": ""La sicurezza informatica in questo momento \u00e8 fondamentale per molte donne, per questo abbiamo preparato una guida chiara e basic per poter usare il telefono (mail, social, app) in modo sicuro. Ricorda: NON SEI SOLA! Un GRAZIE enorme a Frad per averci aiutato a renderla anche bellissima \ud83d\udc9c\u270a Anche questa guida, oltre all\u2019italiano, \u00e8 stata tradotta in inglese, francese, arabo, bangla, rumeno e cinese. Potete scaricare i pdf qui sotto. Grazie a tutte le compagne che ci hanno dato voce in altre lingue. Condividetela con tutt* coloro che ne possono beneficiare."", ""Destinatari"": ""Donne vittima di violenza"", ""Link"": ""https://luchaysiesta.wordpress.com/2020/04/02/guida-multilingue-alla-sicurezza-informatica/?fbclid=IwAR1LkrdzzOA5rixbwdZz3ntgo_kdQQj51HrhVUCkfKJQIQPpPzgHLgnfrVQ"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Guida multilingue alla sicurezza informatica""}","<pre><yamldata>
 Da_chi_offerta: Lucha y Siesta
 Descrizione: 'La sicurezza informatica in questo momento è fondamentale per molte
   donne, per questo abbiamo preparato una guida chiara e basic per poter usare il
   telefono (mail, social, app) in modo sicuro. Ricorda: NON SEI SOLA!
-
-
   Un GRAZIE enorme a Frad per averci aiutato a renderla anche bellissima 💜✊
-
-
   Anche questa guida, oltre all’italiano, è stata tradotta in inglese, francese, arabo,
   bangla, rumeno e cinese. Potete scaricare i pdf qui sotto.
-
-
   Grazie a tutte le compagne che ci hanno dato voce in altre lingue. Condividetela
   con tutt* coloro che ne possono beneficiare.'
 Destinatari: Donne vittima di violenza
@@ -120,7 +129,7 @@ Nome: 'Comune di #Ancona /solidarietà alimentare'
 Fonte: https://www.comune.ancona.gov.it/ankonline/conto-corrente-per-effettuare-donazioni/
 Posizione: 43.616387 13.521969 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2171,592765455,2020-04-02 21:22:52,2020-04-02 16:33:00,Modalità erogazione del Buono Spesa #Roma Capitale,41.902927,12.494412,Lazio,Roma,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Buono Spesa Roma Capitale"", ""Descrizione"": ""Roma Capitale ha pubblicato il bando del Buono Spesa.\nA seguito delle immediate sollecitazioni pervenute dai Municipi, al fine di rendere semplici le modalit\u00e0 di richiesta, il Campidoglio ha corretto un po' il tiro ma rimane il diktat che le domande potranno pervenire esclusivamente via mail  \nIl budget \u00e8 limitato, quindi esauriti i fondi non si potranno erogare altri buoni.\nFaremo al meglio la nostra parte per non lasciare indietro nessuno \n Ecco una sintesi di quello che c'\u00e8 da sapere sul Buono Spesa: \n  La richiesta la puoi fare solo via posta elettronica.\n Compilando il modulo di domanda e inviandolo, allegando un documento di identit\u00e0, al Municipio di residenza (per i residenti Municipio VIII  mun8.emergenzacovid@comune.roma.it).\nSe sei a Roma, ma non sei residente nella nostra citt\u00e0, devi inviare la domanda a  supportorup.dipsocoale@comune.roma.it\n Le domande possono essere inviate dal 31 marzo al 16 aprile 2020.\n Pu\u00f2 fare richiesta un solo componente per ciascuna famiglia che si trovi nella impossibilit\u00e0 di acquistare alimenti di prima necessit\u00e0.\nChi fa richiesta non deve essere assegnatario di un sostegno pubblico (ad esempio reddito di cittadinanza, ecc.). \nA quanto ammonta il Buono Spesa?\n- fino a 300 euro famiglie  da 1 o 2 persone;\n- fino a 400 euro famiglie  da 3 o 4 persone;\n- fino a 500 euro famiglie  da 5 o pi\u00f9 persone. \nTutte le info e il modello di domanda  https://www.comune.roma.it/web/it/bando-concorso.page?contentId=BEC560368"", ""Posizione"": ""41.902927 12.494412 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2171,592765455,2020-04-02 22:05:44,2020-04-02 16:33:00,Modalità erogazione del Buono Spesa #Roma Capitale,41.902927,12.494412,Lazio,Roma,"[""Donazioni beni e offerte servizi"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Buono Spesa Roma Capitale"", ""Descrizione"": ""Roma Capitale ha pubblicato il bando del Buono Spesa.\nA seguito delle immediate sollecitazioni pervenute dai Municipi, al fine di rendere semplici le modalit\u00e0 di richiesta, il Campidoglio ha corretto un po' il tiro ma rimane il diktat che le domande potranno pervenire esclusivamente via mail  \nIl budget \u00e8 limitato, quindi esauriti i fondi non si potranno erogare altri buoni.\nFaremo al meglio la nostra parte per non lasciare indietro nessuno \n Ecco una sintesi di quello che c'\u00e8 da sapere sul Buono Spesa: \n  La richiesta la puoi fare solo via posta elettronica.\n Compilando il modulo di domanda e inviandolo, allegando un documento di identit\u00e0, al Municipio di residenza (per i residenti Municipio VIII  mun8.emergenzacovid@comune.roma.it).\nSe sei a Roma, ma non sei residente nella nostra citt\u00e0, devi inviare la domanda a  supportorup.dipsocoale@comune.roma.it\n Le domande possono essere inviate dal 31 marzo al 16 aprile 2020.\n Pu\u00f2 fare richiesta un solo componente per ciascuna famiglia che si trovi nella impossibilit\u00e0 di acquistare alimenti di prima necessit\u00e0.\nChi fa richiesta non deve essere assegnatario di un sostegno pubblico (ad esempio reddito di cittadinanza, ecc.). \nA quanto ammonta il Buono Spesa?\n- fino a 300 euro famiglie  da 1 o 2 persone;\n- fino a 400 euro famiglie  da 3 o 4 persone;\n- fino a 500 euro famiglie  da 5 o pi\u00f9 persone. \nTutte le info e il modello di domanda  https://www.comune.roma.it/web/it/bando-concorso.page?contentId=BEC560368"", ""Posizione"": ""41.902927 12.494412 0 0""}","<pre><yamldata>
 Cosa: Buono Spesa Roma Capitale
 Descrizione: ""Roma Capitale ha pubblicato il bando del Buono Spesa.\nA seguito delle\
   \ immediate sollecitazioni pervenute dai Municipi, al fine di rendere semplici le\
@@ -142,27 +151,54 @@ Descrizione: ""Roma Capitale ha pubblicato il bando del Buono Spesa.\nA seguito 
   Tutte le info e il modello di domanda  https://www.comune.roma.it/web/it/bando-concorso.page?contentId=BEC560368""
 Posizione: 41.902927 12.494412 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2170,592756903,2020-04-02 21:40:06,2020-04-02 16:19:39,numeri utili per anziani over 65 del comune di #Farageradadda #Bergamo ,45.55568,9.53785,Lombardia,Bergamo,"[""Consegne e commissioni"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""45.555746 9.537651 0 0"", ""Link"": ""https://www.comune.farageradadda.bg.it/articolo/emergenza-coronavirus-misure-straordinarie-anziani-disabili-soli"", ""Nome"": ""Comune Fara gera D'adda"", ""Posizione"": ""45.55568 9.53785"", ""Scopo"": ""SE SEI UNA PERSONA CON PI\u00d9 DI 65 ANNI,\nPUOI RICHIEDERE INFORMAZIONI O ATTIVARE I SEGUENTI SERVIZI:\nTRASPORTO PRESSO STRUTTURE SANITARIE/URGENZE\nConsegna farmaci A DOMICILIO\nASSISTENZA PER SPESA SETTIMANALE\nASSISTENZA DOMICILIARE\nPASTI A DOMICILIO"", ""Telefono"": ""335324230""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2170,592756903,2020-04-02 22:08:08,2020-04-02 16:19:39,"Numeri utili per servizi over 65 (consegna spesa e farmaci, assistenza e pasti a domicilio) Comune di #Farageradadda #Bergamo ",45.55568,9.53785,Lombardia,Bergamo,"[""Consegne e commissioni"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""45.555746 9.537651 0 0"", ""Link"": ""https://www.comune.farageradadda.bg.it/articolo/emergenza-coronavirus-misure-straordinarie-anziani-disabili-soli"", ""Nome"": ""Comune Fara gera D'adda"", ""Posizione"": ""45.55568 9.53785"", ""Scopo"": ""SE SEI UNA PERSONA CON PI\u00d9 DI 65 ANNI, PUOI RICHIEDERE INFORMAZIONI O ATTIVARE I SEGUENTI SERVIZI: TRASPORTO PRESSO STRUTTURE SANITARIE/URGENZE Consegna farmaci A DOMICILIO ASSISTENZA PER SPESA SETTIMANALE ASSISTENZA DOMICILIARE PASTI A DOMICILIO"", ""Telefono"": ""335324230""}","<pre><yamldata>
 Indirizzo: 45.555746 9.537651 0 0
 Link: https://www.comune.farageradadda.bg.it/articolo/emergenza-coronavirus-misure-straordinarie-anziani-disabili-soli
 Nome: Comune Fara gera D'adda
 Scopo: 'SE SEI UNA PERSONA CON PIÙ DI 65 ANNI,
-
   PUOI RICHIEDERE INFORMAZIONI O ATTIVARE I SEGUENTI SERVIZI:
-
   TRASPORTO PRESSO STRUTTURE SANITARIE/URGENZE
-
   Consegna farmaci A DOMICILIO
-
   ASSISTENZA PER SPESA SETTIMANALE
-
   ASSISTENZA DOMICILIARE
-
   PASTI A DOMICILIO'
 Telefono: '335324230'
 Posizione: 45.55568 9.53785
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2166,592748847,2020-04-02 21:17:36,2020-04-02 16:07:35,"raccolta fondi a favore di ""Chi può doni, chi ha bisogno prenda"" iniziativa delle Brigate Volontarie per l’Emergenza",,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""CHI PUO\u2019 DONI, CHI HA BISOGNO PRENDA\nLe Brigate Volontarie per l\u2019Emergenza aprono un nuovo fronte,ci dedicheremo anche alla colletta alimentare di beni come pasta, riso, caff\u00e8, sugo, pan, carne e prodotti freschi per distribuirli alla popolazione pi\u00f9 bisognosa, che fa fatica, dopo 3 settimane di quarantena, a riempirsi il frigo, poich\u00e9 gli effetti economici della crisi sanitaria COVID19 iniziano a farsi sentire.\nI nostri volontari si occuperanno di raccogliere i beni alimentari da supermercati, commercianti e donatori e li ridistribuiranno nei quartieri popolari. \n Chiediamo a tutta la popolazione, ai commercianti e alle grosse catene di distribuzione di contribuire alla colletta attraverso una donazione.\n \u00c8 anche possibile sostenere economicamente il lavoro delle brigate attraverso una donazione al conto: IT96P0623001653000044185056.\nIl ricavato andr\u00e0 anche utilizzato per l\u2019acquisto di derrate alimentari.\nSOSTENETE LE BRIGATE!"", ""IBAN"": ""IT96P0623001653000044185056"", ""Nome"": ""Brigate della solitariet\u00e0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2169,592756865,2020-04-02 22:15:07,2020-04-02 16:19:36,"Spesa a casa - Elenco commercianti che consegnano a domicilio, Municipio 9 #Milano (in aggiornamento continuo)",45.526658,9.162592,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Aquilone"", ""Descrizione"": ""FONDAZIONE AQUILONE ONLUS con il MUNICIPIO 9.\nLA SPESA A CASA\nL'elenco dei commercianti (sempre aggiornato) che effettuano consegne a casa si pu\u00f2 trovarlo qui \nhttp://www.tinyurl.com/laspesaacasa"", ""Destinatari"": ""tutte e tutti i cittadini di Municipio 9 Milano"", ""Link"": ""http://www.tinyurl.com/laspesaacasa"", ""Natura"": ""solidale"", ""Posizione"": ""45.526658 9.162592 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""FONDAZIONE AQUILONE ONLUS con il MUNICIPIO 9. LA SPESA A CASA""}","<pre><yamldata>
+Da_chi_offerta: Fondazione Aquilone
+Descrizione: ""FONDAZIONE AQUILONE ONLUS con il MUNICIPIO 9.\nLA SPESA A CASA\nL'elenco\
+  \ dei commercianti (sempre aggiornato) che effettuano consegne a casa si può trovarlo\
+  \ qui \nhttp://www.tinyurl.com/laspesaacasa""
+Destinatari: tutte e tutti i cittadini di Municipio 9 Milano
+Link: http://www.tinyurl.com/laspesaacasa
+Natura: solidale
+Posizione: 45.526658 9.162592 0 0
+Tipo_di_soggetto: privato
+Titolo: FONDAZIONE AQUILONE ONLUS con il MUNICIPIO 9. LA SPESA A CASA
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2167,592749621,2020-04-02 22:20:06,2020-04-02 16:08:46,Avviso pubblico per erogazione buoni spesa - Comune di #Perugia,43.110738,12.387855,Umbria,Perugia,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il Comune di Perugia mette a disposizione dei nuclei familiari pi\u00f9 esposti agli effetti economici dell\u2019emergenza Covid-19 e di coloro che si trovano in stato di bisogno buoni spesa utilizzabili per l\u2019acquisto di generi alimentari.\nI buoni spesa hanno un importo variabile da 200 a 600 euro, in base al numero dei componenti del nucleo familiare, e sono erogati in un\u2019unica soluzione non ripetibile. \nGli uffici amministrativi della U.O. Servizi Sociali, sulla base delle richieste pervenute e della verifica dei requisiti auto\u2013dichiarati, procedono all\u2019erogazione dei buoni spesa agli aventi diritto dando priorit\u00e0 ai nuclei familiari non assegnatari di altro sostegno pubblico (Reddito di Inclusione o Reddito di Cittadinanza \u2013 Naspi \u2013 Indennit\u00e0 di mobilit\u00e0- Cassa Integrazione guadagni - e/o altri benefici connessi all\u2019emergenza Covid) fino ad esaurimento delle risorse economiche disponibili.\nPer ricevere il buono spesa va compilato il modello e inviato a  BonusSpesaCovid19@comune.perugia.it  o \ncomune.perugia@postacert.umbria.it \nNel caso di assoluta impossibilit\u00e0 ad utilizzare i mezzi informatici \u00e8 possibile telefonare ai seguenti numeri telefonici degli uffici di cittadinanza 075 5772995 \u2013 075 5773544 \u2013 075 5773540 \u2013 075 5772997 \u2013 075 5772990.\nI buoni spesa verranno consegnati direttamente al domicilio degli aventi diritto \nLINK MODULO https://www.comune.perugia.it/avvisi/avviso-pubblico-fondo-di-solidarieta-alimentare"", ""Link"": ""https://www.comune.perugia.it/avvisi/avviso-pubblico-fondo-di-solidarieta-alimentare"", ""Posizione"": ""43.110738 12.387855 0 0""}","<pre><yamldata>
+Descrizione: ""Il Comune di Perugia mette a disposizione dei nuclei familiari più esposti\
+  \ agli effetti economici dell’emergenza Covid-19 e di coloro che si trovano in stato\
+  \ di bisogno buoni spesa utilizzabili per l’acquisto di generi alimentari.\nI buoni\
+  \ spesa hanno un importo variabile da 200 a 600 euro, in base al numero dei componenti\
+  \ del nucleo familiare, e sono erogati in un’unica soluzione non ripetibile. \n\
+  Gli uffici amministrativi della U.O. Servizi Sociali, sulla base delle richieste\
+  \ pervenute e della verifica dei requisiti auto–dichiarati, procedono all’erogazione\
+  \ dei buoni spesa agli aventi diritto dando priorità ai nuclei familiari non assegnatari\
+  \ di altro sostegno pubblico (Reddito di Inclusione o Reddito di Cittadinanza –\
+  \ Naspi – Indennità di mobilità- Cassa Integrazione guadagni - e/o altri benefici\
+  \ connessi all’emergenza Covid) fino ad esaurimento delle risorse economiche disponibili.\n\
+  Per ricevere il buono spesa va compilato il modello e inviato a  BonusSpesaCovid19@comune.perugia.it\
+  \  o \ncomune.perugia@postacert.umbria.it \nNel caso di assoluta impossibilità ad\
+  \ utilizzare i mezzi informatici è possibile telefonare ai seguenti numeri telefonici\
+  \ degli uffici di cittadinanza 075 5772995 – 075 5773544 – 075 5773540 – 075 5772997\
+  \ – 075 5772990.\nI buoni spesa verranno consegnati direttamente al domicilio degli\
+  \ aventi diritto \nLINK MODULO https://www.comune.perugia.it/avvisi/avviso-pubblico-fondo-di-solidarieta-alimentare""
+Link: https://www.comune.perugia.it/avvisi/avviso-pubblico-fondo-di-solidarieta-alimentare
+Posizione: 43.110738 12.387855 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2166,592748847,2020-04-02 22:19:41,2020-04-02 16:07:35,"""Chi può doni, chi ha bisogno prenda"", raccolta fondi Brigate Volontarie per l’Emergenza",,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""CHI PUO\u2019 DONI, CHI HA BISOGNO PRENDA\nLe Brigate Volontarie per l\u2019Emergenza aprono un nuovo fronte,ci dedicheremo anche alla colletta alimentare di beni come pasta, riso, caff\u00e8, sugo, pan, carne e prodotti freschi per distribuirli alla popolazione pi\u00f9 bisognosa, che fa fatica, dopo 3 settimane di quarantena, a riempirsi il frigo, poich\u00e9 gli effetti economici della crisi sanitaria COVID19 iniziano a farsi sentire.\nI nostri volontari si occuperanno di raccogliere i beni alimentari da supermercati, commercianti e donatori e li ridistribuiranno nei quartieri popolari. \n Chiediamo a tutta la popolazione, ai commercianti e alle grosse catene di distribuzione di contribuire alla colletta attraverso una donazione.\n \u00c8 anche possibile sostenere economicamente il lavoro delle brigate attraverso una donazione al conto: IT96P0623001653000044185056.\nIl ricavato andr\u00e0 anche utilizzato per l\u2019acquisto di derrate alimentari.\nSOSTENETE LE BRIGATE!"", ""IBAN"": ""IT96P0623001653000044185056"", ""Nome"": ""Brigate della solitariet\u00e0""}","<pre><yamldata>
 Descrizione: ""CHI PUO’ DONI, CHI HA BISOGNO PRENDA\nLe Brigate Volontarie per l’Emergenza\
   \ aprono un nuovo fronte,ci dedicheremo anche alla colletta alimentare di beni come\
   \ pasta, riso, caffè, sugo, pan, carne e prodotti freschi per distribuirli alla\
@@ -178,7 +214,20 @@ Descrizione: ""CHI PUO’ DONI, CHI HA BISOGNO PRENDA\nLe Brigate Volontarie per
 IBAN: IT96P0623001653000044185056
 Nome: Brigate della solitarietà
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2164,592746435,2020-04-02 21:24:14,2020-04-02 16:03:56,colletta alimentare ad #Ancona ,43.612343,13.5054,Marche,Ancona,"[""Donazioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Spazio Comune Heval, Associazione sportiva Ancona Respect e Associazione di volontariato Shimabara Marche"", ""Descrizione"": ""Lo Spazio Comune Heval organizza ad Ancona un servizio di raccolta, stoccaggio e consegna di beni di prima necessit\u00e0. Tutte le informazioni utili per diventare donatori o richiedenti di questo servizio solidale sul sito http://www.spaziocomuneheval.it/\nINFO: spaziocomuneheval@gmail.com \u2013 +39 320 118 1725"", ""Destinatari"": ""famiglie in disagio economico"", ""Link"": ""http://www.spaziocomuneheval.it/"", ""Natura"": ""solidale"", ""Posizione"": ""43.612343 13.5054 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Brigate Volontarie per L\u2019Emergenza""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2165,592747710,2020-04-02 21:43:06,2020-04-02 16:05:47,Comune di #Loreto #Ancona: servizio di supporto psicologico telefonico,43.4348,13.614935,Marche,Ancona,"[""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Loreto"", ""Descrizione"": ""Da GIOVED\u00cc 2 APRILE sar\u00e0 attivo un ulteriore numero verde gratuito per il supporto psicologico telefonico. Un'iniziativa voluta fortemente dall'Amministrazione Comunale e dalla nostra Protezione Civile, realizzata grazie alla preziosa collaborazione dell'APS Psicologia e Salute MutaMenti."", ""Destinatari"": ""cittadine e cittadini Comune di Loreto"", ""Link"": ""https://www.facebook.com/comuneloreto/posts/668316133916740"", ""Natura"": ""solidale"", ""Posizione"": ""43.4348 13.614935 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Comune di Loreto #Ancona""}","<pre><yamldata>
+Da_chi_offerta: Comune di Loreto
+Descrizione: Da GIOVEDÌ 2 APRILE sarà attivo un ulteriore numero verde gratuito per
+  il supporto psicologico telefonico. Un'iniziativa voluta fortemente dall'Amministrazione
+  Comunale e dalla nostra Protezione Civile, realizzata grazie alla preziosa collaborazione
+  dell'APS Psicologia e Salute MutaMenti.
+Destinatari: cittadine e cittadini Comune di Loreto
+Link: https://www.facebook.com/comuneloreto/posts/668316133916740
+Natura: solidale
+Posizione: 43.4348 13.614935 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Comune di Loreto #Ancona'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2164,592746435,2020-04-02 21:58:40,2020-04-02 16:03:56,Ad #Ancona attivo servizio di raccolta e consegna beni di prima necessità,43.612343,13.5054,Marche,Ancona,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Spazio Comune Heval, Associazione sportiva Ancona Respect e Associazione di volontariato Shimabara Marche"", ""Descrizione"": ""Lo Spazio Comune Heval organizza ad Ancona un servizio di raccolta, stoccaggio e consegna di beni di prima necessit\u00e0. Tutte le informazioni utili per diventare donatori o richiedenti di questo servizio solidale sul sito http://www.spaziocomuneheval.it/\nINFO: spaziocomuneheval@gmail.com \u2013 +39 320 118 1725"", ""Destinatari"": ""famiglie in disagio economico"", ""Link"": ""http://www.spaziocomuneheval.it/"", ""Natura"": ""solidale"", ""Posizione"": ""43.612343 13.5054 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Brigate Volontarie per L\u2019Emergenza""}","<pre><yamldata>
 Da_chi_offerta: Spazio Comune Heval, Associazione sportiva Ancona Respect e Associazione
   di volontariato Shimabara Marche
 Descrizione: 'Lo Spazio Comune Heval organizza ad Ancona un servizio di raccolta,
@@ -11937,6 +11986,34 @@ Descrizione: 'Comune di Prato ha deciso di attivare un ulteriore canale di comun
   e unirsi al gruppo.'
 Indirizzo: 43.88062274 11.09703315
 Link: https://www.cittadiniditwitter.it/news/prato-il-comune-lancia-un-canale-telegram-dedicato-agli-aggiornamenti-sullemergenza-coronavirus/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/873,584712152,2020-03-20 10:06:02,2020-03-19 21:31:30,Oxfam e Cieli Aperti: sportello virtuale e supporto psicologico a distanza #Prato,43.879691,11.101727,Toscana,Prato,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Oxfam Italia"", ""Descrizione"": ""A Prato, il servizio di ascolto e informazione del community center Cieli Aperti rimane attivo attraverso uno sportello virtuale, anche per aiutare le persone pi\u00f9 vulnerabili a orientarsi rispetto alle nuove regole imposte dall\u2019emergenza coronavirus.\nI cittadini italiani e stranieri di Prato possono infatti contattare operatori dedicati via telefono e via email per richiedere informazioni e aiuto.\nIl Community Center offre anche un servizio di supporto psicologico tramite telefono. Per usufruirne, \u00e8 possibile scrivere via email a info@cieliaperti.it richiedendo un colloquio con la psicologa del centro e lasciando il proprio numero di telefono. La psicologa provveder\u00e0 a mettersi in contatto con gli utenti.\ncell: 3898475801\nemail: info@cieliaperti.it\nPagina Facebook: https://www.facebook.com/associazionecieliapertionlus/"", ""Destinatari"": ""Cittadini italiani e stranieri"", ""Link"": ""https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/"", ""Natura"": ""solidale"", ""Posizione"": ""43.879691 11.101727 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Prato: sportello virtuale e supporto psicologico a distanza promosso da Oxfam e Cieli Aperti""}","<pre><yamldata>
+Da_chi_offerta: Oxfam Italia
+Descrizione: 'A Prato, il servizio di ascolto e informazione del community center
+  Cieli Aperti rimane attivo attraverso uno sportello virtuale, anche per aiutare
+  le persone più vulnerabili a orientarsi rispetto alle nuove regole imposte dall’emergenza
+  coronavirus.
+
+  I cittadini italiani e stranieri di Prato possono infatti contattare operatori dedicati
+  via telefono e via email per richiedere informazioni e aiuto.
+
+  Il Community Center offre anche un servizio di supporto psicologico tramite telefono.
+  Per usufruirne, è possibile scrivere via email a info@cieliaperti.it richiedendo
+  un colloquio con la psicologa del centro e lasciando il proprio numero di telefono.
+  La psicologa provvederà a mettersi in contatto con gli utenti.
+
+  cell: 3898475801
+
+  email: info@cieliaperti.it
+
+  Pagina Facebook: https://www.facebook.com/associazionecieliapertionlus/'
+Destinatari: Cittadini italiani e stranieri
+Link: https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/
+Natura: solidale
+Posizione: 43.879691 11.101727 0 0
+Tipo_di_soggetto: privato
+Titolo: '#Prato: sportello virtuale e supporto psicologico a distanza promosso da
+  Oxfam e Cieli Aperti'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/873,584712152,2020-03-20 10:06:02,2020-03-19 21:31:30,Oxfam e Cieli Aperti: sportello virtuale e supporto psicologico a distanza #Prato,43.879691,11.101727,Toscana,Prato,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Oxfam Italia"", ""Descrizione"": ""A Prato, il servizio di ascolto e informazione del community center Cieli Aperti rimane attivo attraverso uno sportello virtuale, anche per aiutare le persone pi\u00f9 vulnerabili a orientarsi rispetto alle nuove regole imposte dall\u2019emergenza coronavirus.\nI cittadini italiani e stranieri di Prato possono infatti contattare operatori dedicati via telefono e via email per richiedere informazioni e aiuto.\nIl Community Center offre anche un servizio di supporto psicologico tramite telefono. Per usufruirne, \u00e8 possibile scrivere via email a info@cieliaperti.it richiedendo un colloquio con la psicologa del centro e lasciando il proprio numero di telefono. La psicologa provveder\u00e0 a mettersi in contatto con gli utenti.\ncell: 3898475801\nemail: info@cieliaperti.it\nPagina Facebook: https://www.facebook.com/associazionecieliapertionlus/"", ""Destinatari"": ""Cittadini italiani e stranieri"", ""Link"": ""https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/"", ""Natura"": ""solidale"", ""Posizione"": ""43.879691 11.101727 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Prato: sportello virtuale e supporto psicologico a distanza promosso da Oxfam e Cieli Aperti""}","<pre><yamldata>
 Da_chi_offerta: Oxfam Italia
