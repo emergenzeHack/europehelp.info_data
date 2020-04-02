@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2138,592437882,2020-04-02 08:14:28,2020-04-02 08:06:48,L'AIL raccoglie fondi per la campagna #IOSONOARISCHIO per assistere i pazienti più fragili ,,,,,"[""Bollettino"", ""Posizione mancante"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""#IOSONOARISCHIO\nL\u2019emergenza Covid-19 sta mettendo in ginocchio gli ospedali e i centri ematologici e oggi pi\u00f9 che mai c'\u00e8 bisogno del tuo contributo per assistere i pazienti pi\u00f9 fragili."", ""Link"": ""https://www.ail.it/cosa-puoi-fare-tu/emergenza-covid-19"", ""Nome"": ""AIL -Associazione Italiana contro leucemie, linfomi e mieloma""}","<pre><yamldata>
+Descrizione: '#IOSONOARISCHIO
+
+  L’emergenza Covid-19 sta mettendo in ginocchio gli ospedali e i centri ematologici
+  e oggi più che mai c''è bisogno del tuo contributo per assistere i pazienti più
+  fragili.'
+Link: https://www.ail.it/cosa-puoi-fare-tu/emergenza-covid-19
+Nome: AIL -Associazione Italiana contro leucemie, linfomi e mieloma
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2137,592432140,2020-04-02 07:59:54,2020-04-02 07:56:11,Raccolta fondi DISTANTI MA VICINI per sostenere i Centri Clinici NeMO (specializzati in malattie del motoneurone e neuromuscolari),,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Campagna DISTANTI MA VICINI per sostenere in questa emergenza Covid19 i Centri Clini NeMO che si trovano al Niguarda di Milano, al Gemelli di Roma, al Policlinico di Messina e all\u2019Ospedale La Colletta di Arenzano (GE).\nInformazioni sulla donazione nel link sottostante."", ""Link"": ""https://distantimavicini.aisla.it/index.html"", ""Nome"": ""Centri clinici NeMO""}","<pre><yamldata>
 Descrizione: 'Campagna DISTANTI MA VICINI per sostenere in questa emergenza Covid19
   i Centri Clini NeMO che si trovano al Niguarda di Milano, al Gemelli di Roma, al
