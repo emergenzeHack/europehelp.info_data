@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2137,592432140,2020-04-02 07:59:54,2020-04-02 07:56:11,Raccolta fondi DISTANTI MA VICINI per sostenere i Centri Clinici NeMO (specializzati in malattie del motoneurone e neuromuscolari),,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Campagna DISTANTI MA VICINI per sostenere in questa emergenza Covid19 i Centri Clini NeMO che si trovano al Niguarda di Milano, al Gemelli di Roma, al Policlinico di Messina e all\u2019Ospedale La Colletta di Arenzano (GE).\nInformazioni sulla donazione nel link sottostante."", ""Link"": ""https://distantimavicini.aisla.it/index.html"", ""Nome"": ""Centri clinici NeMO""}","<pre><yamldata>
+Descrizione: 'Campagna DISTANTI MA VICINI per sostenere in questa emergenza Covid19
+  i Centri Clini NeMO che si trovano al Niguarda di Milano, al Gemelli di Roma, al
+  Policlinico di Messina e all’Ospedale La Colletta di Arenzano (GE).
+
+  Informazioni sulla donazione nel link sottostante.'
+Link: https://distantimavicini.aisla.it/index.html
+Nome: Centri clinici NeMO
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2136,592251995,2020-04-02 07:32:04,2020-04-01 22:58:05,Numero Verde AISM per aiutare le persone con sclerosi multipla,,,,,"[""Bollettino"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Aism onlus"", ""Descrizione"": ""Potenziato il numero verde Aism per rispondere all\u2019emergenza coronavirus. Al Numero Verde AISM 800-803028 una vera e propria task force di operatori, assistenti sociali, neurologi specializzati in sclerosi multipla, avvocati e altri consulenti risponde  agli interrogativi delle persone con SM, e anche a persone con patologie in generale."", ""Destinatari"": ""Malati di sclerosi multipla"", ""Link"": ""https://www.aism.it/emergenza_coronavirus_la_task_force_del_numero_verde_aism_aiutare_le_persone_con_sclerosi_multipla"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emergenza coronavirus, Numero Verde AISM per aiutare le persone con sclerosi multipla""}","<pre><yamldata>
 Da_chi_offerta: Aism onlus
 Descrizione: Potenziato il numero verde Aism per rispondere all’emergenza coronavirus.
