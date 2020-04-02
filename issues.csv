@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2139,592440161,2020-04-02 08:16:33,2020-04-02 08:10:43,Fondazione AIRC mette a disposizione online contenuti didattici scientifici per gli studenti,,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""FONDAZIONE AIRC"", ""Descrizione"": ""Una serie di contenuti scientifici e attivit\u00e0 online utili per la didattica a distanza."", ""Destinatari"": ""Per studenti, genitori e insegnanti"", ""Link"": ""http://www.vita.it/it/article/2020/03/27/fondazione-airc-a-supporto-di-scuole-e-famiglie/154709/"", ""Natura"": ""didattica"", ""Titolo"": ""Webinar, video, giochi e schede didattiche disponibili sul web""}","<pre><yamldata>
+Da_chi_offerta: FONDAZIONE AIRC
+Descrizione: Una serie di contenuti scientifici e attività online utili per la didattica
+  a distanza.
+Destinatari: Per studenti, genitori e insegnanti
+Link: http://www.vita.it/it/article/2020/03/27/fondazione-airc-a-supporto-di-scuole-e-famiglie/154709/
+Natura: didattica
+Titolo: Webinar, video, giochi e schede didattiche disponibili sul web
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2138,592437882,2020-04-02 08:14:28,2020-04-02 08:06:48,L'AIL raccoglie fondi per la campagna #IOSONOARISCHIO per assistere i pazienti più fragili ,,,,,"[""Bollettino"", ""Posizione mancante"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""#IOSONOARISCHIO\nL\u2019emergenza Covid-19 sta mettendo in ginocchio gli ospedali e i centri ematologici e oggi pi\u00f9 che mai c'\u00e8 bisogno del tuo contributo per assistere i pazienti pi\u00f9 fragili."", ""Link"": ""https://www.ail.it/cosa-puoi-fare-tu/emergenza-covid-19"", ""Nome"": ""AIL -Associazione Italiana contro leucemie, linfomi e mieloma""}","<pre><yamldata>
 Descrizione: '#IOSONOARISCHIO
 
