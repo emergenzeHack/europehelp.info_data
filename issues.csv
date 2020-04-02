@@ -111,12 +111,13 @@ Link: http://www.cittadinanzaeminoranze.it/
 Nome: associazione “Cittadinanza e Minoranze”
 Posizione: 41.89332 12.48293
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2172,592767269,2020-04-02 21:37:07,2020-04-02 16:36:00,Raccolta fondi per la solidarietà alimentare - Comune di #Ancona ,43.616387,13.521969,Marche,Ancona,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""E' stato aperto un conto corrente per le donazioni. L'IBAN \u00e8: IT12D0617502607000000971990 intestato a: \""Comune di Ancona /solidariet\u00e0 alimentare\"". Specificare la causale."", ""IBAN"": ""IT12D0617502607000000971990"", ""Intestazione"": ""Comune di Ancona /solidariet\u00e0 alimentare"", ""Nome"": ""Comune di #Ancona /solidariet\u00e0 alimentare"", ""Posizione"": ""43.616387 13.521969 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2172,592767269,2020-04-02 21:39:59,2020-04-02 16:36:00,Raccolta fondi per la solidarietà alimentare - Comune di #Ancona ,43.616387,13.521969,Marche,Ancona,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""E' stato aperto un conto corrente per le donazioni. L'IBAN \u00e8: IT12D0617502607000000971990 intestato a: \""Comune di Ancona /solidariet\u00e0 alimentare\"". Specificare la causale."", ""Fonte"": ""https://www.comune.ancona.gov.it/ankonline/conto-corrente-per-effettuare-donazioni/"", ""IBAN"": ""IT12D0617502607000000971990"", ""Intestazione"": ""Comune di Ancona /solidariet\u00e0 alimentare"", ""Nome"": ""Comune di #Ancona /solidariet\u00e0 alimentare"", ""Posizione"": ""43.616387 13.521969 0 0""}","<pre><yamldata>
 Descrizione: 'E'' stato aperto un conto corrente per le donazioni. L''IBAN è: IT12D0617502607000000971990
   intestato a: ""Comune di Ancona /solidarietà alimentare"". Specificare la causale.'
 IBAN: IT12D0617502607000000971990
 Intestazione: Comune di Ancona /solidarietà alimentare
 Nome: 'Comune di #Ancona /solidarietà alimentare'
+Fonte: https://www.comune.ancona.gov.it/ankonline/conto-corrente-per-effettuare-donazioni/
 Posizione: 43.616387 13.521969 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2171,592765455,2020-04-02 21:22:52,2020-04-02 16:33:00,Modalità erogazione del Buono Spesa #Roma Capitale,41.902927,12.494412,Lazio,Roma,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Buono Spesa Roma Capitale"", ""Descrizione"": ""Roma Capitale ha pubblicato il bando del Buono Spesa.\nA seguito delle immediate sollecitazioni pervenute dai Municipi, al fine di rendere semplici le modalit\u00e0 di richiesta, il Campidoglio ha corretto un po' il tiro ma rimane il diktat che le domande potranno pervenire esclusivamente via mail  \nIl budget \u00e8 limitato, quindi esauriti i fondi non si potranno erogare altri buoni.\nFaremo al meglio la nostra parte per non lasciare indietro nessuno \n Ecco una sintesi di quello che c'\u00e8 da sapere sul Buono Spesa: \n  La richiesta la puoi fare solo via posta elettronica.\n Compilando il modulo di domanda e inviandolo, allegando un documento di identit\u00e0, al Municipio di residenza (per i residenti Municipio VIII  mun8.emergenzacovid@comune.roma.it).\nSe sei a Roma, ma non sei residente nella nostra citt\u00e0, devi inviare la domanda a  supportorup.dipsocoale@comune.roma.it\n Le domande possono essere inviate dal 31 marzo al 16 aprile 2020.\n Pu\u00f2 fare richiesta un solo componente per ciascuna famiglia che si trovi nella impossibilit\u00e0 di acquistare alimenti di prima necessit\u00e0.\nChi fa richiesta non deve essere assegnatario di un sostegno pubblico (ad esempio reddito di cittadinanza, ecc.). \nA quanto ammonta il Buono Spesa?\n- fino a 300 euro famiglie  da 1 o 2 persone;\n- fino a 400 euro famiglie  da 3 o 4 persone;\n- fino a 500 euro famiglie  da 5 o pi\u00f9 persone. \nTutte le info e il modello di domanda  https://www.comune.roma.it/web/it/bando-concorso.page?contentId=BEC560368"", ""Posizione"": ""41.902927 12.494412 0 0""}","<pre><yamldata>
@@ -140,6 +141,26 @@ Descrizione: ""Roma Capitale ha pubblicato il bando del Buono Spesa.\nA seguito 
   \ famiglie  da 3 o 4 persone;\n- fino a 500 euro famiglie  da 5 o più persone. \n\
   Tutte le info e il modello di domanda  https://www.comune.roma.it/web/it/bando-concorso.page?contentId=BEC560368""
 Posizione: 41.902927 12.494412 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2170,592756903,2020-04-02 21:40:06,2020-04-02 16:19:39,numeri utili per anziani over 65 del comune di #Farageradadda #Bergamo ,45.55568,9.53785,Lombardia,Bergamo,"[""Consegne e commissioni"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Indirizzo"": ""45.555746 9.537651 0 0"", ""Link"": ""https://www.comune.farageradadda.bg.it/articolo/emergenza-coronavirus-misure-straordinarie-anziani-disabili-soli"", ""Nome"": ""Comune Fara gera D'adda"", ""Posizione"": ""45.55568 9.53785"", ""Scopo"": ""SE SEI UNA PERSONA CON PI\u00d9 DI 65 ANNI,\nPUOI RICHIEDERE INFORMAZIONI O ATTIVARE I SEGUENTI SERVIZI:\nTRASPORTO PRESSO STRUTTURE SANITARIE/URGENZE\nConsegna farmaci A DOMICILIO\nASSISTENZA PER SPESA SETTIMANALE\nASSISTENZA DOMICILIARE\nPASTI A DOMICILIO"", ""Telefono"": ""335324230""}","<pre><yamldata>
+Indirizzo: 45.555746 9.537651 0 0
+Link: https://www.comune.farageradadda.bg.it/articolo/emergenza-coronavirus-misure-straordinarie-anziani-disabili-soli
+Nome: Comune Fara gera D'adda
+Scopo: 'SE SEI UNA PERSONA CON PIÙ DI 65 ANNI,
+
+  PUOI RICHIEDERE INFORMAZIONI O ATTIVARE I SEGUENTI SERVIZI:
+
+  TRASPORTO PRESSO STRUTTURE SANITARIE/URGENZE
+
+  Consegna farmaci A DOMICILIO
+
+  ASSISTENZA PER SPESA SETTIMANALE
+
+  ASSISTENZA DOMICILIARE
+
+  PASTI A DOMICILIO'
+Telefono: '335324230'
+Posizione: 45.55568 9.53785
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2166,592748847,2020-04-02 21:17:36,2020-04-02 16:07:35,"raccolta fondi a favore di ""Chi può doni, chi ha bisogno prenda"" iniziativa delle Brigate Volontarie per l’Emergenza",,,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""CHI PUO\u2019 DONI, CHI HA BISOGNO PRENDA\nLe Brigate Volontarie per l\u2019Emergenza aprono un nuovo fronte,ci dedicheremo anche alla colletta alimentare di beni come pasta, riso, caff\u00e8, sugo, pan, carne e prodotti freschi per distribuirli alla popolazione pi\u00f9 bisognosa, che fa fatica, dopo 3 settimane di quarantena, a riempirsi il frigo, poich\u00e9 gli effetti economici della crisi sanitaria COVID19 iniziano a farsi sentire.\nI nostri volontari si occuperanno di raccogliere i beni alimentari da supermercati, commercianti e donatori e li ridistribuiranno nei quartieri popolari. \n Chiediamo a tutta la popolazione, ai commercianti e alle grosse catene di distribuzione di contribuire alla colletta attraverso una donazione.\n \u00c8 anche possibile sostenere economicamente il lavoro delle brigate attraverso una donazione al conto: IT96P0623001653000044185056.\nIl ricavato andr\u00e0 anche utilizzato per l\u2019acquisto di derrate alimentari.\nSOSTENETE LE BRIGATE!"", ""IBAN"": ""IT96P0623001653000044185056"", ""Nome"": ""Brigate della solitariet\u00e0""}","<pre><yamldata>
 Descrizione: ""CHI PUO’ DONI, CHI HA BISOGNO PRENDA\nLe Brigate Volontarie per l’Emergenza\
@@ -16408,22 +16429,6 @@ Descrizione: 'Le parole del coronavirus. Istituto superiore di sanità e Treccan
   diffusione della Covid-19.'
 Fonte: Istituto superiore di sanità
 Link: https://www.iss.it/primo-piano/-/asset_publisher/o4oGR9qmvUz9/content/id/5297029
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/562,581709025,2020-03-16 23:09:21,2020-03-15 15:04:24,Novità per i farmaci con ricetta #Firenze,43.773,11.253262,Toscana,Firenze,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Cosa"": ""Novit\u00e0 per i farmaci con ricetta #Firenze"", ""Descrizione"": ""Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre al minimo i contatti tra pazienti ed evitare code negli ambulatori.\nPer la prescrizione dei farmaci non servir\u00e0 andare allo studio medico ma sar\u00e0 sufficiente il numero di ricetta elettronica (NRE), che verr\u00e0 comunicato dal proprio medico tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera sanitaria.\nUPDATE:  Nonostante annunci all\u2019ambulatorio ci sono alcuni problemi e al momento il sistema non funziona e che al massimo possono mandare ricette in carta bianca via mail."", ""Link"": ""https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1"", ""Posizione"": ""43.773 11.253262 0 0"", ""Provincia"": ""Firenze"", ""Regione"": ""Toscana""}","<pre><yamldata>
-Comune: Firenze
-Cosa: ""Novit\xE0 per i farmaci con ricetta #Firenze""
-Descrizione: ""Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre\
-  \ al minimo i contatti tra pazienti ed evitare code negli ambulatori.\nPer la prescrizione\
-  \ dei farmaci non servir\xE0 andare allo studio medico ma sar\xE0 sufficiente il\
-  \ numero di ricetta elettronica (NRE), che verr\xE0 comunicato dal proprio medico\
-  \ tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera\
-  \ sanitaria.\nUPDATE:  Nonostante annunci all\u2019ambulatorio ci sono alcuni problemi\
-  \ e al momento il sistema non funziona e che al massimo possono mandare ricette\
-  \ in carta bianca via mail.""
-Link: https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1
-Posizione: 43.773 11.253262 0 0
-Provincia: Firenze
-Regione: Toscana
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/562,581709025,2020-03-16 23:09:21,2020-03-15 15:04:24,Novità per i farmaci con ricetta #Firenze,43.773,11.253262,Toscana,Firenze,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Cosa"": ""Novit\u00e0 per i farmaci con ricetta #Firenze"", ""Descrizione"": ""Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre al minimo i contatti tra pazienti ed evitare code negli ambulatori.\nPer la prescrizione dei farmaci non servir\u00e0 andare allo studio medico ma sar\u00e0 sufficiente il numero di ricetta elettronica (NRE), che verr\u00e0 comunicato dal proprio medico tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera sanitaria.\nUPDATE:  Nonostante annunci all\u2019ambulatorio ci sono alcuni problemi e al momento il sistema non funziona e che al massimo possono mandare ricette in carta bianca via mail."", ""Link"": ""https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1"", ""Posizione"": ""43.773 11.253262 0 0"", ""Provincia"": ""Firenze"", ""Regione"": ""Toscana""}","<pre><yamldata>
 Comune: Firenze
