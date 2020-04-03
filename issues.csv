@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2212,593494226,2020-04-03 16:19:48,2020-04-03 16:18:44,Raccolta pc/ tablet per didattica a distanza #Roma,,,,,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""CsOa eXSnia"", ""Descrizione"": ""Appello alle aziende che hanno dispositivi perfettamente funzionanti in deposito, ai rivenditori con giacenze di computer e tablet non obsoleti invenduti e ai singoli che vogliano donare un dispositivo per garantire un pc o un tablet a ogni bambino e a ogni bambina frequentate le scuole primarie del quartiere 7 Prenestino - Labicano e permettere a tutti di seguire la didattica a distanza."", ""Destinatari"": ""Studenti scuole primarie quartiere 7 Prenestino - Labicano"", ""Link"": ""https://www.exsnia.org/a-casa-come-a-scuola-nessuno-escluso/?fbclid=IwAR0IFBlr-mfabrYElEWUGQ1jy9csNlnJ1vePDSfooorg2D16JdpiHF-UH9w"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta pc/ tablet per didattica a distanza"", ""posizione"": ""41.89292865,12.535635428268641 0 0""}","<pre><yamldata>
+Da_chi_offerta: CsOa eXSnia
+Descrizione: Appello alle aziende che hanno dispositivi perfettamente funzionanti
+  in deposito, ai rivenditori con giacenze di computer e tablet non obsoleti invenduti
+  e ai singoli che vogliano donare un dispositivo per garantire un pc o un tablet
+  a ogni bambino e a ogni bambina frequentate le scuole primarie del quartiere 7 Prenestino
+  - Labicano e permettere a tutti di seguire la didattica a distanza.
+Destinatari: Studenti scuole primarie quartiere 7 Prenestino - Labicano
+Link: https://www.exsnia.org/a-casa-come-a-scuola-nessuno-escluso/?fbclid=IwAR0IFBlr-mfabrYElEWUGQ1jy9csNlnJ1vePDSfooorg2D16JdpiHF-UH9w
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Raccolta pc/ tablet per didattica a distanza
+posizione: 41.89292865,12.535635428268641 0 0 
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2211,593482425,2020-04-03 15:59:58,2020-04-03 15:59:04,Adotta un negozio a distanza #Roma,41.866337,12.48306,Lazio,Roma,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Imprese Garbatella"", ""Descrizione"": ""Adozione di un negozio a distanza tramite la richiesta di un buono online da utilizzare alla riapertura dei negozi.\n\nCome funziona?\n- Ogni negoziante ha fornito un Iban o dei recapiti.\n- Si pu\u00f2 quindi contattare il negoziante e predisporre un bonifico con causale \""pagamento buono ADOTTO UN NEGOZIANTE da [inserire cognome]\""\n-Il negoziante emetter\u00e0 un buono pari all'importo del bonifico ricevuto che si potr\u00e0 utilizzare a quarantena finita.\n\nCome?\nIl cliente mostrer\u00e0 la ricevuta di bonifico nel momento del ritiro del buono."", ""Link"": ""https://drive.google.com/file/d/1DswDmeRS97kMx44sRGvVWPtXnRgBMknt/view?fbclid=IwAR0-SurH2BZqfzmchO_TordodjPhC9wPzGaVPvhJO8bMwAAf-KXYnOJLZ8Q"", ""Natura"": ""solidale"", ""Posizione"": ""41.866337 12.48306 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Adotta un negozio a distanza""}","<pre><yamldata>
 Da_chi_offerta: Associazione Imprese Garbatella
 Descrizione: 'Adozione di un negozio a distanza tramite la richiesta di un buono online
