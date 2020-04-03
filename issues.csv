@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2201,593383867,2020-04-03 13:35:01,2020-04-03 13:29:54,Libreria Nuova Terra consegna libri a domicilio #Legnano #Milano,45.59470,8.91836,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Consegna libri a domicilio gratuitamente. Contattateci per avere maggiori informazioni!"", ""Email"": ""info@nuovaterra.it"", ""Metodi_di_pagamento_accettati"": ""bonifico_banca"", ""Nome_dell_esercizio_commercial"": ""Libreria Nuova Terra #Legnano #Milano"", ""Posizione"": ""45.59470 8.91836"", ""Telefono"": ""0331546343""}","<pre><yamldata>
+Descrizione: Consegna libri a domicilio gratuitamente. Contattateci per avere maggiori
+  informazioni!
+Email: info@nuovaterra.it
+Metodi_di_pagamento_accettati: bonifico_banca
+Nome_dell_esercizio_commercial: 'Libreria Nuova Terra #Legnano #Milano'
+Posizione: 45.59470 8.91836
+Telefono: '0331546343'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2196,593310810,2020-04-03 13:13:25,2020-04-03 11:21:34,Raccolta fondi Associazione Gammazita per persone in difficoltà #Catania ,37.508713,15.088504,Sicilia,Catania,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Donare per contribuire al supporto delle persone in difficolt\u00e0 attraverso la campagna \""Fai la tua Parte! Il Coronavirus lo combattiamo con la solidariet\u00e0\""\n \u2192\u2192\u2192\u2192\u2192 http://sostieni.link/24922  \u2190\u2190\u2190\u2190\u2190\nFare la spesa e consegnarla al nostro Punto di Raccolta in Piazza Federico di Svevia presso la sede dell'associazione culturale Gammazita, ogni giorno, dalle 10.00 alle 18.00. \n Non fermiamoci proprio adesso, sosteneteci e aiutateci a dare una mano a chi in questo momento ha necessariamente bisogno. \n Questi sono i nostri riferimenti telefonici e WhatsApp per chi avesse bisogno di aiuto nel quartiere di San Cristoforo e per chi, invece, volesse offrire il suo aiuto: \n Veronica 375 5552102 e  Daniele 347 0015863"", ""Email"": ""gammazitainfo@gmail.com"", ""Link"": ""http://sostieni.link/24922"", ""Nome"": ""Gammazita"", ""Posizione"": ""37.508713 15.088504 0 0""}","<pre><yamldata>
 Descrizione: ""Donare per contribuire al supporto delle persone in difficoltà attraverso\
   \ la campagna \""Fai la tua Parte! Il Coronavirus lo combattiamo con la solidarietà\""\
