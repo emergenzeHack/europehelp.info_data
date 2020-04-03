@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2187,593080217,2020-04-03 09:29:13,2020-04-03 05:07:45,Università degli Studi di #Trieste:  indicazioni sulla didattica a distanza,45.659776,13.794816,Friuli Venezia Giulia,Trieste,"[""Didattica a distanza e-learning"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Universit\u00e0 degli Studi di Trieste"", ""Descrizione"": ""Linee guida, catalogo, indicazioni, tutorial e altri aiuti"", ""Destinatari"": ""docenti e studenti"", ""Link"": ""https://www.units.it/personale/docente/attivita-lavorativa/didattica-a-distanza"", ""Natura"": ""didattica"", ""Posizione"": ""45.659776 13.794816 0 0"", ""Titolo"": ""Didattica a distanza""}","<pre><yamldata>
+Da_chi_offerta: Università degli Studi di Trieste
+Descrizione: Linee guida, catalogo, indicazioni, tutorial e altri aiuti
+Destinatari: docenti e studenti
+Link: https://www.units.it/personale/docente/attivita-lavorativa/didattica-a-distanza
+Natura: didattica
+Posizione: 45.659776 13.794816 0 0
+Titolo: Didattica a distanza
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2186,593079086,2020-04-03 09:27:34,2020-04-03 05:04:15,"#ARERA - Autorità di Regolazione per Energia Reti e Ambiente proroga al 13 aprile '20 il blocco dei distacchi per elettricità, gas e acqua",,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""ARERA proroga al 13 aprile il blocco dei distacchi per elettricit\u00e0, gas e acqua"", ""Descrizione"": ""Prorogato fino al 13 aprile 2020 il blocco di tutte le eventuali procedure di sospensione delle forniture di energia elettrica, gas e acqua per morosit\u00e0 - di famiglie e imprese - avviato dallo scorso 10 marzo."", ""Fonte"": ""#ARERA - Autorit\u00e0 di Regolazione per Energia Reti e Ambiente"", ""Link"": ""https://www.arera.it/it/com_stampa/20/200402.htm""}","<pre><yamldata>
 Cosa: ARERA proroga al 13 aprile il blocco dei distacchi per elettricità, gas e acqua
 Descrizione: Prorogato fino al 13 aprile 2020 il blocco di tutte le eventuali procedure
@@ -2600,7 +2609,7 @@ Descrizione: ""Risorse da destinare a misure urgenti di solidarietà alimentare.
 Fonte: Ordinanza n.658 della Protezione Civile del 29/3/2020
 Link: http://www.protezionecivile.gov.it/amministrazione-trasparente/provvedimenti/dettaglio/-/asset_publisher/default/content/ocdpc-n-658-del-29-marzo-2020-ulteriori-interventi-urgenti-di-protezione-civile-in-relazione-all-emergenza-relativa-al-rischio-sanitario-connesso-all-
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1953,590159179,2020-04-02 23:49:12,2020-03-30 10:01:47,Richiesta di Tablet per pazienti in isolamento Covid19 - Ospedale #Pavia,45.2010395,9.1741206,Lombardia,Pavia,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Tablet"", ""Descrizione"": ""Siamo un ospedale di Pavia: www.mondino.it La nostra attivit\u00e0 \u00e8 di norma dedicata all\u2019ambito neurologico e di psichiatrica infantile, ma data l\u2019emergenza sanitaria in corso dedicheremo un intero reparto a pazienti codiv 19. In questo ambito avremmo la necessit\u00e0 di dispositivi elettronici per consentire ai pazienti ed ai loro famigliari di rimanere in collegamento onde mitigare gli impatti psicologici correlati alla gestione del paziente in isolamento. Grazie Francesca Acerbi - Dirigente Responsabile IT Fondazione Mondino"", ""Destinatari"": ""Pazienti con Covid 19 ricoverati"", ""Email"": ""francesca.acerbi@mondino.it"", ""Nome"": ""Francesca Acerbi"", ""Posizione"": ""45.2010395 9.1741206 0 0"", ""Telefono"": ""0382380363""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1953,590159179,2020-04-03 09:29:40,2020-03-30 10:01:47,Richiesta di Tablet per pazienti in isolamento Covid19 - Ospedale #Pavia,45.2010395,9.1741206,Lombardia,Pavia,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Tablet"", ""Descrizione"": ""Siamo un ospedale di Pavia: www.mondino.it La nostra attivit\u00e0 \u00e8 di norma dedicata all\u2019ambito neurologico e di psichiatrica infantile, ma data l\u2019emergenza sanitaria in corso dedicheremo un intero reparto a pazienti codiv 19. In questo ambito avremmo la necessit\u00e0 di dispositivi elettronici per consentire ai pazienti ed ai loro famigliari di rimanere in collegamento onde mitigare gli impatti psicologici correlati alla gestione del paziente in isolamento. Grazie Francesca Acerbi - Dirigente Responsabile IT Fondazione Mondino"", ""Destinatari"": ""Pazienti con Covid 19 ricoverati"", ""Email"": ""francesca.acerbi@mondino.it"", ""Nome"": ""Francesca Acerbi"", ""Posizione"": ""45.2010395 9.1741206 0 0"", ""Telefono"": ""0382380363""}","<pre><yamldata>
 Cosa: Tablet
 Descrizione: 'Siamo un ospedale di Pavia:
   www.mondino.it
@@ -7789,17 +7798,6 @@ Descrizione: 'Docente Madrelingua British (perfettamente bilingue) offre i suoi 
 Destinatari: Chiunque voglia migliorare il proprio inglese
 Natura: didattica
 Titolo: Online English Lessons
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1211,587801207,2020-03-25 17:45:22,2020-03-25 15:55:22,Lezioni gratuite di yoga e meditazione ,,,,,"[""Attivita culturali e ricreative"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Cosa"": ""Yoga"", ""Descrizione"": ""Lezioni gratuite \nLE LEZIONI SONO:\nLUNEDI alle 12 YOGA FLOW con Laura\nMARTEDI alle 18.30 MEDITAZIONE con Gisella\nGIOVEDI alle 18.30 YOGA BASE con Nicoletta\nPer accedere registrati su www.youelements.com/community"", ""Destinatari"": ""Tutti in salute psicofisica"", ""Email"": ""Info@youelements.com"", ""Immagine"": ""56814D20-0C38-4E71-8DB1-67291821CBCC-16_55_15.jpeg"", ""Link"": ""www.youelements.com/community"", ""Telefono"": ""3494997789""}","<pre><yamldata>
-Cosa: Yoga
-Descrizione: ""Lezioni gratuite \nLE LEZIONI SONO:\nLUNEDI alle 12 YOGA FLOW con Laura\n\
-  MARTEDI alle 18.30 MEDITAZIONE con Gisella\nGIOVEDI alle 18.30 YOGA BASE con Nicoletta\n\
-  Per accedere registrati su www.youelements.com/community""
-Destinatari: Tutti in salute psicofisica
-Email: Info@youelements.com
-Immagine: 56814D20-0C38-4E71-8DB1-67291821CBCC-16_55_15.jpeg
-Link: www.youelements.com/community
-Telefono: '3494997789'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1211,587801207,2020-03-25 17:45:22,2020-03-25 15:55:22,Lezioni gratuite di yoga e meditazione ,,,,,"[""Attivita culturali e ricreative"", ""Donazioni beni e offerte servizi"", ""accettato"", ""form""]",,,"{""Cosa"": ""Yoga"", ""Descrizione"": ""Lezioni gratuite \nLE LEZIONI SONO:\nLUNEDI alle 12 YOGA FLOW con Laura\nMARTEDI alle 18.30 MEDITAZIONE con Gisella\nGIOVEDI alle 18.30 YOGA BASE con Nicoletta\nPer accedere registrati su www.youelements.com/community"", ""Destinatari"": ""Tutti in salute psicofisica"", ""Email"": ""Info@youelements.com"", ""Immagine"": ""56814D20-0C38-4E71-8DB1-67291821CBCC-16_55_15.jpeg"", ""Link"": ""www.youelements.com/community"", ""Telefono"": ""3494997789""}","<pre><yamldata>
 Cosa: Yoga
