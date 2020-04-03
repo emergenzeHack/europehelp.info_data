@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2225,593598141,2020-04-03 20:19:34,2020-04-03 19:38:24,"La libreria-enoteca Spazio Terzo Mondo consegna a domicilio libri, vini e birre selezionate #Seriate #Bergamo",45.683878,9.719639,Lombardia,Bergamo,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Consegna a domicilio di libri, vini e birre selezionate COME FUNZIONA Per richiedere i libri gli ordini dovranno essere inoltrati all\u2019indirizzo ordini@spazioterzomondo.com e dovranno contenere le seguenti informazioni: informazioni: titolo del libro & autore il vostro nome, cognome & numero di telefono indirizzo di consegna modalit\u00e0 di pagamento desiderata (contanti o bancomat) Allo stesso modo, per prenotare i vini potete consultare la nostra lista dei vini e dei distillati e scrivere anche in questo caso a ordini@spazioterzomondo.com, indicando: produttore, etichetta & annata il vostro nome, cognome & numero di telefono indirizzo di consegna modalit\u00e0 di pagamento desiderata (contanti o bancomat)"", ""Email"": ""ordini@spazioterzomondo.com"", ""Link"": ""http://www.spazioterzomondo.com/2020/04/terzomondoexpress/"", ""Nome_dell_esercizio_commercial"": ""Spazio terzo mondo"", ""Posizione"": ""45.683878 9.719639 0 0""}","<pre><yamldata>
+Descrizione: 'Consegna a domicilio di libri, vini e birre selezionate 
+COME FUNZIONA
+  Per richiedere i libri gli ordini dovranno essere inoltrati all’indirizzo ordini@spazioterzomondo.com
+  e dovranno contenere le seguenti informazioni: informazioni:
+  titolo del libro & autore
+  il vostro nome, cognome & numero di telefono
+  indirizzo di consegna
+  modalità di pagamento desiderata (contanti o bancomat)
+  Allo stesso modo, per prenotare i vini potete consultare la nostra lista dei vini
+  e dei distillati e scrivere anche in questo caso a ordini@spazioterzomondo.com,
+  indicando:
+  produttore, etichetta & annata
+  il vostro nome, cognome & numero di telefono
+  indirizzo di consegna
+  modalità di pagamento desiderata (contanti o bancomat)'
+Email: ordini@spazioterzomondo.com
+Link: http://www.spazioterzomondo.com/2020/04/terzomondoexpress/
+Nome_dell_esercizio_commercial: Spazio terzo mondo
+Posizione: 45.683878 9.719639 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2224,593590132,2020-04-03 19:41:35,2020-04-03 19:22:01,Azienda di #Firenze produce e dona visiere protettive stampate in 3D,43.7720131,11.2205636,Toscana,Firenze,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""visiere protettive stampate in 3D - no certificazione"", ""Descrizione"": ""Siamo un\u2019azienda di Firenze che produce e vende stampanti 3D e in questa emergenza abbiamo cominciato a produrre visiere protettive (non certificate) che vorremmo donare a ospedali, aziende sanitarie, protezione civile e chiunque ne avesse bisogno."", ""Destinatari"": ""ospedali, aziende sanitarie, protezione civile...."", ""Email"": ""kentstrapper@gmail.com"", ""Link"": ""www.kentstrapper.com"", ""Posizione"": ""43.7720131 11.2205636"", ""Telefono"": ""3317277225""}","<pre><yamldata>
 Cosa: visiere protettive stampate in 3D - no certificazione
 Descrizione: Siamo un’azienda di Firenze che produce e vende stampanti 3D e in questa emergenza abbiamo cominciato a produrre visiere protettive (non certificate) che vorremmo donare a ospedali, aziende sanitarie, protezione civile e chiunque ne avesse bisogno.
@@ -7,6 +28,41 @@ Email: kentstrapper@gmail.com
 Link: www.kentstrapper.com
 Telefono: '3317277225'
 Posizione: 43.7720131 11.2205636
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2223,593586171,2020-04-03 20:23:01,2020-04-03 19:14:04,"“Pink Refugee”, raccolta fondi per sostenere migranti Lgbt promossa da Circolo Pink di #Verona",,,,,"[""Bollettino"", ""Raccolte fondi"", ""Stranieri"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""CCRTIT2T84A"", ""CC_Postale"": ""37129"", ""Causale"": ""PINK REFUGEES"", ""Descrizione"": ""\ud83d\udcb0\ud83d\udcb0SOTTOSCRIZIONE\nSTAVOLTA, AIUTIAMOLI A CASA LORO\n\n\ud83c\udf08\ud83d\udc4b Questa \u00e8 una campagna di sottoscrizione lanciata per aiutare le nostre e i nostri migranti LGBT del Pink Refugees in condizioni di particolare fragilit\u00e0, perch\u00e9 non vivono pi\u00f9 nelle strutture di accoglienza. Ora che tutto si \u00e8 fermato, come tutti noi sono chiusi a casa.\n\nMolte e molti di loro non vanno pi\u00f9 a lavorare, spesso lavoravano in nero e non possono quindi accedere alle forme di sostegno al reddito, inoltre chiss\u00e0 se e quando percepiranno lo stipendio. Stanno iniziando a non avere\nle risorse primarie, anche solo per fare la spesa e poter mangiare.\n\nLanciamo questa sottoscrizione per aiutarli. Tutto quello che verr\u00e0 raccolto tramite i vostri - anche piccoli - bonifici sul nostro conto corrente verr\u00e0 distribuito tra loro.\n\nNon possiamo sostenere tutte e tutti, solo su Verona sono pi\u00f9 di 30, ma stiamo cercando di raggiungere ciascuno di loro per capire le singole situazioni ed emergenze."", ""Email"": ""pinkrefugeesverona@gmail.com"", ""IBAN"": ""IT35M0501811700000016902645"", ""Intestazione"": ""CIRCOLO PINK VERONA"", ""Link"": ""http://www.circolopink.it/cases/pink-refugees/"", ""Nome"": ""Circolo Pink - Pink Refugees Verona""}","<pre><yamldata>
+BIC_SWIFT: CCRTIT2T84A
+CC_Postale: '37129'
+Causale: PINK REFUGEES
+Descrizione: '💰💰SOTTOSCRIZIONE
+
+  STAVOLTA, AIUTIAMOLI A CASA LORO
+
+
+  🌈👋 Questa è una campagna di sottoscrizione lanciata per aiutare le nostre e i nostri
+  migranti LGBT del Pink Refugees in condizioni di particolare fragilità, perché non
+  vivono più nelle strutture di accoglienza. Ora che tutto si è fermato, come tutti
+  noi sono chiusi a casa.
+
+
+  Molte e molti di loro non vanno più a lavorare, spesso lavoravano in nero e non
+  possono quindi accedere alle forme di sostegno al reddito, inoltre chissà se e quando
+  percepiranno lo stipendio. Stanno iniziando a non avere
+
+  le risorse primarie, anche solo per fare la spesa e poter mangiare.
+
+
+  Lanciamo questa sottoscrizione per aiutarli. Tutto quello che verrà raccolto tramite
+  i vostri - anche piccoli - bonifici sul nostro conto corrente verrà distribuito
+  tra loro.
+
+
+  Non possiamo sostenere tutte e tutti, solo su Verona sono più di 30, ma stiamo cercando
+  di raggiungere ciascuno di loro per capire le singole situazioni ed emergenze.'
+Email: pinkrefugeesverona@gmail.com
+IBAN: IT35M0501811700000016902645
+Intestazione: CIRCOLO PINK VERONA
+Link: http://www.circolopink.it/cases/pink-refugees/
+Nome: Circolo Pink - Pink Refugees Verona
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2222,593577146,2020-04-03 19:51:50,2020-04-03 18:56:00,Telefono Rosa Piemonte offre ascolto a donne vittime di violenza #Torino #Piemonte,45.06776,7.68249,Piemonte,Torino,"[""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""ascolto e accoglienza donne vittime di violenza maschile"", ""Descrizione"": ""Il Telefono Rosa Piemonte si occupa dell'ascolto (telefonico, via messenger o facebook o via email) di donne vittime di violenza di genere italiane o straniere, sia residenti nel territorio torinese, sia nel territorio regionale come anche nazionale"", ""Destinatari"": ""Esclusivamente donne vittime di violenza maschile anche con problematiche legate a minori vittima di violenza assistita"", ""Email"": ""telefonorosa@mandragola.com"", ""Immagine"": ""logoTR-20_41_38.png"", ""Link"": ""http://www.telefonorosatorino.it"", ""Posizione"": ""45.06776 7.68249"", ""Telefono"": ""0115628314""}","<pre><yamldata>
 Cosa: ascolto e accoglienza donne vittime di violenza maschile
@@ -20,24 +76,6 @@ Immagine: logoTR-20_41_38.png
 Link: http://www.telefonorosatorino.it
 Telefono: 0115628314
 Posizione: 45.06776 7.68249
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2221,593569169,2020-04-03 19:54:37,2020-04-03 18:39:55,Gay Help Line - contact center contro l'omofobia,,,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gay Help Line"", ""Descrizione"": ""La Gay Help Line \u00e8 un contact center contro l'omofobia.\nLa linea \u00e8 attiva il lun merc e ven dalle 16 alle 20\nLa chat Speakly \u00e8 attiva dal lun al sab dalle 16 alle 20."", ""Destinatari"": ""migranti LGBT"", ""Link"": ""http://www.gayhelpline.it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Gay Help Line e Speakly chat"", ""telefono"": ""800 713 713\nSono connessi servizi di consulenza legale o psicologica per ragazzi e ragazze migranti lgbt'""}","<pre><yamldata>
-Da_chi_offerta: Gay Help Line
-Descrizione: La Gay Help Line è un contact center contro l'omofobia.
-
-  La linea è attiva il lun merc e ven dalle 16 alle 20
-
-  La chat Speakly è attiva dal lun al sab dalle 16 alle 20.
-
-telefono: 800 713 713
-
-  Sono connessi servizi di consulenza legale o psicologica per ragazzi e ragazze migranti
-  lgbt'
-Destinatari: migranti LGBT
-Link: http://www.gayhelpline.it/
-Natura: solidale
-Tipo_di_soggetto: privato
-Titolo: Gay Help Line e Speakly chat
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2220,593544066,2020-04-03 19:49:23,2020-04-03 17:50:26,"Raccolta fondi per Ospedale ""SS Annunziata"" Comune di #Cento #Ferrara",44.727886,11.288828,Emilia-Romagna,Ferrara,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione emergenza coronavirus"", ""Descrizione"": ""Il Comune di Cento ha avviato una raccolta fondi per sostenere la sanit\u00e0 nell'emergenza Covid-19, in particolare l'ospedale 'SS Annunziata' e gli operatori sanitari del territorio centese."", ""Email"": ""urp@comune.cento.fe.it"", ""IBAN"": ""IT 02 N 06115 23415 000000003640"", ""Intestazione"": ""Comune di Cento - Servizio Tesoreria"", ""Link"": ""https://www.comune.cento.fe.it/aree-tematiche/relazioni-il-cittadino/raccolta-fondi-sostenere-la-sanit%C3%A0-nellemergenza-covid-19"", ""Nome"": ""Comune di Cento"", ""Posizione"": ""44.727886 11.288828 0 0""}","<pre><yamldata>
 Causale: Donazione emergenza coronavirus
@@ -66,20 +104,14 @@ Posizione: 44.727178 11.290244 0 0
 Tipo_di_soggetto: pubblico
 Titolo: Consegna gratuita dei farmaci e della spesa a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2218,593534001,2020-04-03 18:34:14,2020-04-03 17:30:54,Oxfam: sportello ascolto e CAF in presenza a Le Piagge #Firenze,43.79047,11.16822,Toscana,Firenze,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""Stranieri"", ""accettato""]",,,"{""Da_chi_offerta"": ""Oxfam Italia e Associazione Ieri Oggi Domani"", ""Descrizione"": ""\u00c8 attivo il servizio virtuale attraverso chiamate o video chiamate per sportello di ascolto, informazioni e consulenza legale, fiscale e supporto scolastico.\n\nIl venerd\u00ec mattina dalle 9 alle 12 \u00e8 inoltre assicurato il servizio CAF in presenza presso il Al Centro Metropolis nel quartiere delle Piagge.\n\nContatti\ntelefono 3938839538 \u2013 attivo dalle 10 alle 17 dal luned\u00ec al venerd\u00ec.\nemail centropolivalente.metropolis@gmail.com"", ""Destinatari"": ""Popolazione italiana e straniera"", ""Link"": ""https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""43.79047 11.16822 0 0"", ""Titolo"": ""Sportello ascolto virtuale e CAF in presenza a Le Piagge #Firenze""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2218,593534001,2020-04-03 20:24:00,2020-04-03 17:30:54,"Oxfam: supporto scolastico, sportello di ascolto e CAF in presenza a Le Piagge #Firenze",43.79047,11.16822,Toscana,Firenze,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""Stranieri"", ""accettato""]",,,"{""Da_chi_offerta"": ""Oxfam Italia e Associazione Ieri Oggi Domani"", ""Descrizione"": ""\u00c8 attivo il servizio virtuale attraverso chiamate o video chiamate per sportello di ascolto, informazioni e consulenza legale, fiscale e supporto scolastico. Il venerd\u00ec mattina dalle 9 alle 12 \u00e8 inoltre assicurato il servizio CAF in presenza presso il Al Centro Metropolis nel quartiere delle Piagge. Contatti telefono 3938839538 \u2013 attivo dalle 10 alle 17 dal luned\u00ec al venerd\u00ec. email centropolivalente.metropolis@gmail.com"", ""Destinatari"": ""Popolazione italiana e straniera"", ""Link"": ""https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""43.79047 11.16822 0 0"", ""Titolo"": ""Sportello ascolto virtuale e CAF in presenza a Le Piagge #Firenze""}","<pre><yamldata>
 Da_chi_offerta: Oxfam Italia e Associazione Ieri Oggi Domani
 Descrizione: 'È attivo il servizio virtuale attraverso chiamate o video chiamate per
   sportello di ascolto, informazioni e consulenza legale, fiscale e supporto scolastico.
-
-
   Il venerdì mattina dalle 9 alle 12 è inoltre assicurato il servizio CAF in presenza
   presso il Al Centro Metropolis nel quartiere delle Piagge.
-
-
   Contatti
-
   telefono 3938839538 – attivo dalle 10 alle 17 dal lunedì al venerdì.
-
   email centropolivalente.metropolis@gmail.com'
 Destinatari: Popolazione italiana e straniera
 Link: https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/
@@ -129,7 +161,7 @@ Tipo_di_soggetto: privato
 Titolo: Raccolta pc/ tablet per didattica a distanza
 posizione: 41.89292865,12.535635428268641 0 0 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2211,593482425,2020-04-03 15:59:58,2020-04-03 15:59:04,Adotta un negozio a distanza #Roma,41.866337,12.48306,Lazio,Roma,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Imprese Garbatella"", ""Descrizione"": ""Adozione di un negozio a distanza tramite la richiesta di un buono online da utilizzare alla riapertura dei negozi.\n\nCome funziona?\n- Ogni negoziante ha fornito un Iban o dei recapiti.\n- Si pu\u00f2 quindi contattare il negoziante e predisporre un bonifico con causale \""pagamento buono ADOTTO UN NEGOZIANTE da [inserire cognome]\""\n-Il negoziante emetter\u00e0 un buono pari all'importo del bonifico ricevuto che si potr\u00e0 utilizzare a quarantena finita.\n\nCome?\nIl cliente mostrer\u00e0 la ricevuta di bonifico nel momento del ritiro del buono."", ""Link"": ""https://drive.google.com/file/d/1DswDmeRS97kMx44sRGvVWPtXnRgBMknt/view?fbclid=IwAR0-SurH2BZqfzmchO_TordodjPhC9wPzGaVPvhJO8bMwAAf-KXYnOJLZ8Q"", ""Natura"": ""solidale"", ""Posizione"": ""41.866337 12.48306 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Adotta un negozio a distanza""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2211,593482425,2020-04-03 20:11:20,2020-04-03 15:59:04,Associazione Imprese Garbatella promuove l’iniziativa “Adotta un negozio a distanza” per sostenere i piccoli commercianti della Garbatella #Roma,41.866337,12.48306,Lazio,Roma,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Imprese Garbatella"", ""Descrizione"": ""Adozione di un negozio a distanza tramite la richiesta di un buono online da utilizzare alla riapertura dei negozi.\n\nCome funziona?\n- Ogni negoziante ha fornito un Iban o dei recapiti.\n- Si pu\u00f2 quindi contattare il negoziante e predisporre un bonifico con causale \""pagamento buono ADOTTO UN NEGOZIANTE da [inserire cognome]\""\n-Il negoziante emetter\u00e0 un buono pari all'importo del bonifico ricevuto che si potr\u00e0 utilizzare a quarantena finita.\n\nCome?\nIl cliente mostrer\u00e0 la ricevuta di bonifico nel momento del ritiro del buono."", ""Link"": ""https://drive.google.com/file/d/1DswDmeRS97kMx44sRGvVWPtXnRgBMknt/view?fbclid=IwAR0-SurH2BZqfzmchO_TordodjPhC9wPzGaVPvhJO8bMwAAf-KXYnOJLZ8Q"", ""Natura"": ""solidale"", ""Posizione"": ""41.866337 12.48306 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Adotta un negozio a distanza""}","<pre><yamldata>
 Da_chi_offerta: Associazione Imprese Garbatella
 Descrizione: 'Adozione di un negozio a distanza tramite la richiesta di un buono online
   da utilizzare alla riapertura dei negozi.
@@ -224,6 +256,19 @@ Link: https://info.gioosto.com/consegna-gratuita-spesa-gioosta
 Metodi_di_pagamento_accettati: option_2 carta_prepagat
 Nome_dell_esercizio_commercial: Gioosto.it
 Posizione: 41.919523 12.467036 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2205,593418461,2020-04-03 20:05:03,2020-04-03 14:22:16,Fondazione Reggio Children mette a disposizione attività per bambini da svolgere a casa #lascuolanonsiferma,44.7028329,10.6457413,Emilia-Romagna,Reggio nell'Emilia,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Reggio Children"", ""Descrizione"": ""Fondazione Reggio Children, in collaborazione con il Miur\u2013 Ministero dell\u2019Istruzione, mette a disposizione attivit\u00e0 da svolgere a casa dedicate a bambini e adulti, a seguito della chiusura delle scuole per l\u2019emergenza Covid-19. Sono 4 gli ambiti: Architetture e Immaginari, Gioco e Apprendimento, Sostenibilit\u00e0 e Creativit\u00e0, Gusto e Benessere."", ""Destinatari"": ""bambini e ragazzi da 3 a 14 anni, con educatori o genitori"", ""Link"": ""https://reggiochildrenfoundation.org/didattica-on-line/"", ""Natura"": ""didattica"", ""Posizione"": ""44.7028329 10.6457413"", ""Titolo"": ""Attivit\u00e0 online #lascuolanonsiferma""}","<pre><yamldata>
+Da_chi_offerta: Fondazione Reggio Children
+Descrizione: 'Fondazione Reggio Children, in collaborazione con il Miur– Ministero
+  dell’Istruzione, mette a disposizione attività da svolgere a casa dedicate a bambini
+  e adulti, a seguito della chiusura delle scuole per l’emergenza Covid-19. Sono 4
+  gli ambiti: Architetture e Immaginari, Gioco e Apprendimento, Sostenibilità e Creatività,
+  Gusto e Benessere.'
+Destinatari: bambini e ragazzi da 3 a 14 anni, con educatori o genitori
+Link: https://reggiochildrenfoundation.org/didattica-on-line/
+Natura: didattica
+Titolo: 'Attività online #lascuolanonsiferma'
+Posizione: 44.7028329 10.6457413
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2204,593418414,2020-04-03 19:58:55,2020-04-03 14:22:12,Traduzione LIS comunicazioni su Covid Amministrazione #Bari #Puglia,41.125456,16.867524,Puglia,Bari,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""BARI/Coronavirus, la traduzione LIS delle comunicazioni dell'Amministrazione"", ""Descrizione"": ""Grazie al lavoro di ENS Bari-Anios Puglia, con il supporto tecnico del CGSI Bari (Comitato Giovani Sordi Italiani) e in collaborazione con l'assessorato al Welfare del Comune di Bari, sono disponibili di seguito i video delle comunicazioni del Sindaco di Bari, Antonio Decaro, in relazione alle disposizioni in atto per la riduzione del contagio del Coronavirus, tradotti nella lingua dei segni."", ""Link"": ""https://www.comune.bari.it/-/coronavirus-la-traduzione-lis-delle-comunicazioni-del-sindaco"", ""Posizione"": ""41.125456 16.867524 0 0""}","<pre><yamldata>
 Cosa: BARI/Coronavirus, la traduzione LIS delle comunicazioni dell'Amministrazione
@@ -413,16 +458,14 @@ Tipo_di_soggetto: privato
 Titolo: www.facciospesadacasa.it
 Posizione: 45.64767 11.86653
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2190,593226910,2020-04-03 09:52:58,2020-04-03 08:54:02,#iorestoacasa e leggo: associazione Migr-Azioni consegna libri su richiesta #Teverola #Caserta,40.99557,14.20737,Campania,Caserta,"[""Attivita culturali e ricreative"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Migr-Azioni ETS"", ""Descrizione"": ""Tu resti a casa e noi, attraverso i nostri volontari ti portiamo il libro che sceglierai di leggere.\nAl momento sono 24 i libri messi a disposizione di chi li richieder\u00e0. La selezione \u00e8 stata effettuata fra titoli che rappresentano dei best seller della narrativa contemporanea mondiale e che si candidano ad essere una spensierata compagnia in questo periodo in cui si \u00e8 costretti a rimanere in casa.\nLe consegne avverranno in sicurezza e con le direttive e le autorizzazioni stabilite dagli organismi di Protezione Civile in sede di COC (Centro Operativo Comunale)"", ""Destinatari"": ""Cittadini di Teverola"", ""Link"": ""https://www.migr-azioni.info/portale/2020/03/24/a-teverola-iorestoacasa-e-leggo/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""40.99557 14.20737"", ""Titolo"": ""A Teverola #iorestoacasa e leggo""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2190,593226910,2020-04-03 20:22:15,2020-04-03 08:54:02,#iorestoacasa e leggo: associazione Migr-Azioni consegna libri su richiesta #Teverola #Caserta,40.99557,14.20737,Campania,Caserta,"[""Attivita culturali e ricreative"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Migr-Azioni ETS"", ""Descrizione"": ""Tu resti a casa e noi, attraverso i nostri volontari ti portiamo il libro che sceglierai di leggere. Al momento sono 24 i libri messi a disposizione di chi li richieder\u00e0. La selezione \u00e8 stata effettuata fra titoli che rappresentano dei best seller della narrativa contemporanea mondiale e che si candidano ad essere una spensierata compagnia in questo periodo in cui si \u00e8 costretti a rimanere in casa. Le consegne avverranno in sicurezza e con le direttive e le autorizzazioni stabilite dagli organismi di Protezione Civile in sede di COC (Centro Operativo Comunale)"", ""Destinatari"": ""Cittadini di Teverola"", ""Link"": ""https://www.migr-azioni.info/portale/2020/03/24/a-teverola-iorestoacasa-e-leggo/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""40.99557 14.20737"", ""Titolo"": ""A Teverola #iorestoacasa e leggo""}","<pre><yamldata>
 Da_chi_offerta: Migr-Azioni ETS
 Descrizione: 'Tu resti a casa e noi, attraverso i nostri volontari ti portiamo il
   libro che sceglierai di leggere.
-
   Al momento sono 24 i libri messi a disposizione di chi li richiederà. La selezione
   è stata effettuata fra titoli che rappresentano dei best seller della narrativa
   contemporanea mondiale e che si candidano ad essere una spensierata compagnia in
   questo periodo in cui si è costretti a rimanere in casa.
-
   Le consegne avverranno in sicurezza e con le direttive e le autorizzazioni stabilite
   dagli organismi di Protezione Civile in sede di COC (Centro Operativo Comunale)'
 Destinatari: Cittadini di Teverola
@@ -646,7 +689,7 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Guida multilingue alla sicurezza informatica
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2173,592769060,2020-04-02 20:02:43,2020-04-02 16:39:00,Raccolta fondi Associazione Cittadinanza e Minoranze per sostegno alle famiglie Rom #Roma,41.89332,12.48293,Lazio,Roma,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La nostra associazione, che con pochissimi altri lavora da anni assieme a rom e sinti, si chiama \u00abCittadinanza e minoranze\u00bb. Questa \u00e8 una minoranza senza cittadinanza, in senso formale, spesso, dal punto di vista pratico, sempre. Se avessimo pi\u00f9 fondi potremmo fare, almeno in parte, quel che le istituzioni non fanno. Perci\u00f2 abbiamo deciso di chiedere donazioni.\n\nChi vuole, pu\u00f2 versare sul conto bancario dell\u2019associazione il cui Iban \u00e8: IT50V0538703241000035100781\n\nInserendo nella causale \u201cdonazione per i Rom\u201d e il proprio indirizzo di posta elettronica per potervi inviare il resoconto di quanto raccoglieremo e di come impiegheremo il danaro raccolto. L\u2019importo dei versamenti potr\u00e0 essere portato in detrazione nella dichiarazione dei redditi allegando copia dell\u2019attestazione del bonifico."", ""IBAN"": ""IT50V0538703241000035100781"", ""Link"": ""http://www.cittadinanzaeminoranze.it/"", ""Nome"": ""associazione \u201cCittadinanza e Minoranze\u201d"", ""Posizione"": ""41.89332 12.48293""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2173,592769060,2020-04-03 20:22:40,2020-04-02 16:39:00,Raccolta fondi Associazione Cittadinanza e Minoranze per sostegno alle famiglie Rom #Roma,41.89332,12.48293,Lazio,Roma,"[""Raccolte fondi"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La nostra associazione, che con pochissimi altri lavora da anni assieme a rom e sinti, si chiama \u00abCittadinanza e minoranze\u00bb. Questa \u00e8 una minoranza senza cittadinanza, in senso formale, spesso, dal punto di vista pratico, sempre. Se avessimo pi\u00f9 fondi potremmo fare, almeno in parte, quel che le istituzioni non fanno. Perci\u00f2 abbiamo deciso di chiedere donazioni.\n\nChi vuole, pu\u00f2 versare sul conto bancario dell\u2019associazione il cui Iban \u00e8: IT50V0538703241000035100781\n\nInserendo nella causale \u201cdonazione per i Rom\u201d e il proprio indirizzo di posta elettronica per potervi inviare il resoconto di quanto raccoglieremo e di come impiegheremo il danaro raccolto. L\u2019importo dei versamenti potr\u00e0 essere portato in detrazione nella dichiarazione dei redditi allegando copia dell\u2019attestazione del bonifico."", ""IBAN"": ""IT50V0538703241000035100781"", ""Link"": ""http://www.cittadinanzaeminoranze.it/"", ""Nome"": ""associazione \u201cCittadinanza e Minoranze\u201d"", ""Posizione"": ""41.89332 12.48293""}","<pre><yamldata>
 Descrizione: 'La nostra associazione, che con pochissimi altri lavora da anni assieme
   a rom e sinti, si chiama «Cittadinanza e minoranze». Questa è una minoranza senza
   cittadinanza, in senso formale, spesso, dal punto di vista pratico, sempre. Se avessimo
@@ -1523,7 +1566,7 @@ Tipo_di_soggetto: pubblico
 Titolo: Sportello telefonico di solidarietà sociale dei servizi sociali C.I.S.S.38
 Posizione: 45.40357845 7.628902094533469 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2108,591925386,2020-04-02 15:34:24,2020-04-01 13:40:15,Per attività di mediazione la cooperativa Crinali ricerca 10 tablet e 3 smartphone #Milano,45.46680,9.19050,Lombardia,Milano,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""10 TABLET e 2 TELEFONI CELLULARI - per attivit\u00e0 di mediazione"", ""Descrizione"": ""La cooperativa Crinali, che da anni si occupa di supporto, accoglienza e orientamento dei migranti (in particolare donne e bambini) presso i servizi socio-sanitari del territorio (ospedali, consultori familiari, strutture di accoglienza o sostegno psico sociale) ha dovuto adattare le proprie attivit\u00e0 e servizi (mediazione linguistico culturale, sostegno psicologico, sostegno alle donne e loro bambini) alle esigenze del momento attuale. In particolare dal 9 marzo la cooperativa sta svolgendo parte delle sue attivit\u00e0 con un sistema a distanza, non potendo recarsi presso le strutture e venire in contatto con i beneficiari.\n\nI progetti nei consultori familiari di Milano, negli ospedali dell'ASST Santi Paolo e Carlo presso i servizi sociali per minori in carcere richiedono attualmente un supporto organizzativo e tecnologico che sostenga le attivit\u00e0 di mediazione e supporto psico-sociale a distanza. \n\nPer questo sarebbero necessari 10 tablet , comprensivi di SIM, e 3 smartphone attivi, comprensivi di SIM."", ""Email"": ""k.scorzelli@coopcrinali.it"", ""Link"": ""www.crinali.org"", ""Nome"": ""Karina Scorzelli - Presidente Cooperativa CRINALI"", ""Posizione"": ""45.46680 9.19050 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2108,591925386,2020-04-03 20:27:24,2020-04-01 13:40:15,Per attività di mediazione e supporto psicologico-sociale la cooperativa Crinali ricerca 10 tablet e 3 smartphone #Milano,45.46680,9.19050,Lombardia,Milano,"[""Bollettino"", ""Richiesta aiuto"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""10 TABLET e 2 TELEFONI CELLULARI - per attivit\u00e0 di mediazione"", ""Descrizione"": ""La cooperativa Crinali, che da anni si occupa di supporto, accoglienza e orientamento dei migranti (in particolare donne e bambini) presso i servizi socio-sanitari del territorio (ospedali, consultori familiari, strutture di accoglienza o sostegno psico sociale) ha dovuto adattare le proprie attivit\u00e0 e servizi (mediazione linguistico culturale, sostegno psicologico, sostegno alle donne e loro bambini) alle esigenze del momento attuale. In particolare dal 9 marzo la cooperativa sta svolgendo parte delle sue attivit\u00e0 con un sistema a distanza, non potendo recarsi presso le strutture e venire in contatto con i beneficiari.\n\nI progetti nei consultori familiari di Milano, negli ospedali dell'ASST Santi Paolo e Carlo presso i servizi sociali per minori in carcere richiedono attualmente un supporto organizzativo e tecnologico che sostenga le attivit\u00e0 di mediazione e supporto psico-sociale a distanza. \n\nPer questo sarebbero necessari 10 tablet , comprensivi di SIM, e 3 smartphone attivi, comprensivi di SIM."", ""Email"": ""k.scorzelli@coopcrinali.it"", ""Link"": ""www.crinali.org"", ""Nome"": ""Karina Scorzelli - Presidente Cooperativa CRINALI"", ""Posizione"": ""45.46680 9.19050 0 0""}","<pre><yamldata>
 Cosa: 10 TABLET e 2 TELEFONI CELLULARI - per attività di mediazione
 Descrizione: ""La cooperativa Crinali, che da anni si occupa di supporto, accoglienza\
   \ e orientamento dei migranti (in particolare donne e bambini) presso i servizi\
@@ -2296,6 +2339,26 @@ Descrizione: Roma Capitale indice un avviso pubblico per l'assegnazione del cont
   virali trasmissibili (COVID-19).
 Link: https://www.comune.roma.it/web/it/bando-concorso.page?contentId=BEC560368&fbclid=IwAR0kF0fd9AQtcT2InLM1T98Cd5lR_yDYT_mnKBgX86UQ-iMxEiGOVTOIWLA#
 Posizione: 41.8947494 12.5004838 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2056,591338410,2020-04-03 20:12:58,2020-03-31 18:48:03,"Impact Hub Siracursa offre  consulenze gratuite per imprese, profit e non profit, professionisti, terzo settore #Siracursa",37.47922,16.37702,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Impact Hub Siracusa"", ""Descrizione"": ""I Caff\u00e8 Digitali sono l'iniziativa di solidariet\u00e0 digitale di Impact Hub Siracusa. \nSi tratta di consulenze di 30 minuti online e totalmente gratuite a tutti gli operatori del mondo profit e non profit, professionisti e imprenditori su:\n\n\u2022 business e accesso al credito\n\u2022 progettazione per la partecipazione a bandi\n\u2022 responsabilit\u00e0 sociale e impatto di impresa\n\u2022 brand identity e comunicazione \n\nPER PRENOTARE LA CONSULENZA  COMPILA IL FORM  a questo link: http://bit.ly/caff\u00e9_solidale \nIl team ricontatta ogni richiedente nel minor tempo possibile.\n\nL'obiettivo \u00e8 offrire vicinanza e supporto a tutti gli operatori del mondo profit e non profit, ai professionisti e agli imprenditori, che in questo momento si stanno interrogando su come far ripartire il proprio progetto o che vogliono usare questo tempo per fare un bilancio costruttivo e trovare nuova energia per il proprio business ad alto impatto sociale, ambientale e/o culturale."", ""Destinatari"": ""imprese profit e non profit, professionisti, terzo settore"", ""Link"": ""https://siracusa.impacthub.net/news/solidarieta-digitale/"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""37.47922 16.37702"", ""Titolo"": ""Caff\u00e8 digitali""}","<pre><yamldata>
+Da_chi_offerta: Impact Hub Siracusa
+Descrizione: ""I Caffè Digitali sono l'iniziativa di solidarietà digitale di Impact\
+  \ Hub Siracusa. \nSi tratta di consulenze di 30 minuti online e totalmente gratuite\
+  \ a tutti gli operatori del mondo profit e non profit, professionisti e imprenditori\
+  \ su:\n\n• business e accesso al credito\n• progettazione per la partecipazione\
+  \ a bandi\n• responsabilità sociale e impatto di impresa\n• brand identity e comunicazione\
+  \ \n\nPER PRENOTARE LA CONSULENZA  COMPILA IL FORM  a questo link: http://bit.ly/caffé_solidale\
+  \ \nIl team ricontatta ogni richiedente nel minor tempo possibile.\n\nL'obiettivo\
+  \ è offrire vicinanza e supporto a tutti gli operatori del mondo profit e non profit,\
+  \ ai professionisti e agli imprenditori, che in questo momento si stanno interrogando\
+  \ su come far ripartire il proprio progetto o che vogliono usare questo tempo per\
+  \ fare un bilancio costruttivo e trovare nuova energia per il proprio business ad\
+  \ alto impatto sociale, ambientale e/o culturale.""
+Destinatari: imprese profit e non profit, professionisti, terzo settore
+Link: https://siracusa.impacthub.net/news/solidarieta-digitale/
+Natura: sostegno-lavor
+Titolo: Caffè digitali
+Posizione:  37.47922 16.37702
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2055,591313341,2020-04-03 14:57:49,2020-03-31 18:10:18,Le stese della solidarietà. Consegna beni di prima necessità nel centro storico di #Napoli e Quartieri Spagnoli,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""associazione Tabita onlus"", ""Descrizione"": ""L'associazione evangelica napoletana Tabita onlus ha reclutato un gruppo di giovani volontari per consegnare beni di prima necessit\u00e0 alle persone bisognose che vivono nei vicoli dei Quartieri spagnoli e del centro storico di Napoli."", ""Destinatari"": ""Persone bisognose del centro storico di Napoli"", ""Link"": ""https://www.facebook.com/TABITAonlus/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Le stese della solidariet\u00e0""}","<pre><yamldata>
 Da_chi_offerta: associazione Tabita onlus
@@ -3998,7 +4061,7 @@ Provincia: Roma
 Regione: Lazio
 Posizione: 41.89332 12.48293
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1568,589794496,2020-03-29 22:16:51,2020-03-29 13:40:21,Servizio di sostegno sociale #Roma-LAC Libera Assemblea Centocelle,,,,,"[""Servizi e iniziative solidali"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da chi \u00e8 offerto"": ""LAC - Libera Assemblea Centocelle"", ""Descrizione"": ""Iniziativa di sostegno psicologico sociale; sportello legale solidale; consegna""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1568,589794496,2020-04-03 20:21:37,2020-03-29 13:40:21,Servizio di consegna a domicilio spesa e farmaci e sostegno sociale #Roma-LAC Libera Assemblea Centocelle,,,,,"[""Consegne e commissioni"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da chi \u00e8 offerto"": ""LAC - Libera Assemblea Centocelle"", ""Descrizione"": ""Iniziativa di sostegno psicologico sociale; sportello legale solidale; consegna""}","<pre><yamldata>
 Da chi è offerto: LAC - Libera Assemblea Centocelle
 Descrizione: Iniziativa di sostegno psicologico sociale; sportello legale solidale; consegna <br/> a domicilio di farmaci e beni di prima necessità a over 65, immunodepressi e persone malate <br/>o in quarantena.
 Telefono: '3281674200'
@@ -7265,7 +7328,7 @@ Destinatari: Titolari di negozi che fanno consegna a domicilio ma non hanno un e
 Email: info@webmotion.it
 Link: https://www.adunmetro.it/?fbclid=IwAR2xOIo70N0K_pJcqLC9rZb4UPSc5r_0Ni8v2I8L2Pqy07wole6RzlVxlBw
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1290,588613004,2020-04-03 18:33:24,2020-03-26 17:55:15,Attivo sportello informativo per stranieri di Emergency a #Brescia,45.53522,10.21781,Lombardia,Brescia,"[""Bollettino"", ""Stranieri"", ""accettato""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""In seguito al confronto con le istituzioni e le associazioni locali e alla valutazione delle necessit\u00e0, abbiamo aperto, in accordo con l\u2019ASST Brescia e grazie alla collaborazione del Comune, uno Sportello di orientamento socio-sanitario per rispondere alla necessit\u00e0 di un servizio di mediazione culturale, educazione sanitaria e orientamento socio-sanitario e per garantire l\u2019inserimento dei cittadini stranieri in un corretto percorso di cure.\n\nTutte le prestazioni erogate presso il Centro sono gratuite.\n\nSportello informativo di EMERGENCY a Brescia Vicolo delle Lucertole, 1E 25122 Brescia\nTel: 030 7823511\nTel: 342 1830402\ne-mail: healthpointbrescia@emergency.it\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""cittadini stranieri"", ""Link"": ""https://www.emergency.it/progetti/italia-brescia-centro-orientamento-socio-sanitario/"", ""Natura"": ""solidale"", ""Posizione"": ""45.53522 10.21781 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello informativo di EMERGENCY a Brescia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1290,588613004,2020-04-03 20:17:13,2020-03-26 17:55:15,Attivo sportello informativo per stranieri di Emergency a #Brescia,45.53522,10.21781,Lombardia,Brescia,"[""Bollettino"", ""Stranieri"", ""accettato""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""In seguito al confronto con le istituzioni e le associazioni locali e alla valutazione delle necessit\u00e0, abbiamo aperto, in accordo con l\u2019ASST Brescia e grazie alla collaborazione del Comune, uno Sportello di orientamento socio-sanitario per rispondere alla necessit\u00e0 di un servizio di mediazione culturale, educazione sanitaria e orientamento socio-sanitario e per garantire l\u2019inserimento dei cittadini stranieri in un corretto percorso di cure.\n\nTutte le prestazioni erogate presso il Centro sono gratuite.\n\nSportello informativo di EMERGENCY a Brescia Vicolo delle Lucertole, 1E 25122 Brescia\nTelefono 030 7823511\nCellulare 342 1830402\ne-mail: healthpointbrescia@emergency.it\n\nOrari Dal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""cittadini stranieri"", ""Link"": ""https://www.emergency.it/progetti/italia-brescia-centro-orientamento-socio-sanitario/"", ""Natura"": ""solidale"", ""Posizione"": ""45.53522 10.21781"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello informativo di EMERGENCY a Brescia""}","<pre><yamldata>
 Da_chi_offerta: EMERGENCY
 Descrizione: 'In seguito al confronto con le istituzioni e le associazioni locali
   e alla valutazione delle necessità, abbiamo aperto, in accordo con l’ASST Brescia
@@ -7282,20 +7345,19 @@ Descrizione: 'In seguito al confronto con le istituzioni e le associazioni local
   Vicolo delle Lucertole, 1E
   25122 Brescia
 
-  Tel: 030 7823511
+  Telefono 030 7823511
 
-  Tel: 342 1830402
+  Cellulare 342 1830402
 
   e-mail: healthpointbrescia@emergency.it
 
 
   Orari
-
   Dal lunedì al venerdì, 9.00-18.00'
 Destinatari: cittadini stranieri
 Link: https://www.emergency.it/progetti/italia-brescia-centro-orientamento-socio-sanitario/
 Natura: solidale
-Posizione: 45.53522 10.21781 0 0
+Posizione: 45.53522 10.21781
 Tipo_di_soggetto: privato
 Titolo: Sportello informativo di EMERGENCY a Brescia
 </yamldata></pre>",open
@@ -7511,24 +7573,15 @@ Posizione: 38.402127 16.069661 0 0
 Tipo_di_soggetto: privato
 Titolo: Ambulatorio di EMERGENCY a Polistena
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1279,588557895,2020-03-26 17:19:31,2020-03-26 16:34:49,Attivo poliambulatorio di Emergency a #Marghera #Venezia,45.471303,12.227048,Veneto,Venezia,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""Assistenza sanitaria di base e specialistica, orientamento socio-sanitario\n\nAmbulatorio di EMERGENCY a Marghera\nVia G.B. Var\u00e8 6\n30175 Marghera (VE)\nTel: 041 0994114\nFax: 041 928475\n\nOrari\nDal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""migranti e persone in stato di bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-marghera-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.471303 12.227048 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Marghera""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1279,588557895,2020-04-03 20:28:31,2020-03-26 16:34:49,Attivo poliambulatorio di Emergency a #Marghera #Venezia per migranti e persone in difficoltà ,45.471303,12.227048,Veneto,Venezia,"[""Bollettino"", ""Notizie Utili"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""EMERGENCY"", ""Descrizione"": ""Assistenza sanitaria di base e specialistica, orientamento socio-sanitario Ambulatorio di EMERGENCY a Marghera Via G.B. Var\u00e8 6 30175 Marghera (VE) Tel: 041 0994114 Fax: 041 928475 Orari Dal luned\u00ec al venerd\u00ec, 9.00-18.00"", ""Destinatari"": ""migranti e persone in stato di bisogno"", ""Link"": ""https://www.emergency.it/progetti/italia-marghera-poliambulatorio/"", ""Natura"": ""solidale"", ""Posizione"": ""45.471303 12.227048 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ambulatorio di EMERGENCY a Marghera""}","<pre><yamldata>
 Da_chi_offerta: EMERGENCY
 Descrizione: 'Assistenza sanitaria di base e specialistica, orientamento socio-sanitario
-
-
   Ambulatorio di EMERGENCY a Marghera
-
   Via G.B. Varè 6
-
   30175 Marghera (VE)
-
   Tel: 041 0994114
-
   Fax: 041 928475
-
-
   Orari
-
   Dal lunedì al venerdì, 9.00-18.00'
 Destinatari: migranti e persone in stato di bisogno
 Link: https://www.emergency.it/progetti/italia-marghera-poliambulatorio/
