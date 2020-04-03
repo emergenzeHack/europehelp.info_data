@@ -16,6 +16,7 @@ languages:
         - OPEN DATA: "opendata/"
       PARTECIPA:
         - COME PARTECIPARE: "contribuisci/"
+        - ISCRIVITI: "credit_form"
         - WIKI: "wiki/"
       PRIVACY: "legal"
     other-links:
