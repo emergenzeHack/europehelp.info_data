@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2219,593542833,2020-04-03 19:24:02,2020-04-03 17:48:08,Protezione Civile e CRI consegnano gratuitamente farmaci e spesa a domicilio Comune di #Cento,44.727178,11.290244,Emilia-Romagna,Ferrara,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Cento"", ""Descrizione"": ""Pagina web del Comune con le iniziative a sostegno della popolazione di Cento: consegna dei farmaci e spesa a domicilio a cura di CRI e Protezione Civile gruppo ANA"", ""Destinatari"": ""Persone con oltre 65 anni, soggetti con sintomatologia da infezione respiratoria e febbre (oltre 37,5\u00b0), immunodepressi, persone non autosufficienti o sottoposte alla misura della quarantena o, in ogni caso, risultati positivi al virus COVID-19, in possesso di prescrizione medica."", ""Link"": ""https://www.comune.cento.fe.it/aree-tematiche/coronavirus/consegna-gratuita-dei-farmaci-e-della-spesa-domicilio"", ""Natura"": ""solidale"", ""Posizione"": ""44.727178 11.290244 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegna gratuita dei farmaci e della spesa a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Comune di Cento
+Descrizione: 'Pagina web del Comune con le iniziative a sostegno della popolazione
+  di Cento: consegna dei farmaci e spesa a domicilio a cura di CRI e Protezione Civile
+  gruppo ANA'
+Destinatari: Persone con oltre 65 anni, soggetti con sintomatologia da infezione respiratoria
+  e febbre (oltre 37,5°), immunodepressi, persone non autosufficienti o sottoposte
+  alla misura della quarantena o, in ogni caso, risultati positivi al virus COVID-19,
+  in possesso di prescrizione medica.
+Link: https://www.comune.cento.fe.it/aree-tematiche/coronavirus/consegna-gratuita-dei-farmaci-e-della-spesa-domicilio
+Natura: solidale
+Posizione: 44.727178 11.290244 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Consegna gratuita dei farmaci e della spesa a domicilio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2218,593534001,2020-04-03 18:34:14,2020-04-03 17:30:54,Oxfam: sportello ascolto e CAF in presenza a Le Piagge #Firenze,43.79047,11.16822,Toscana,Firenze,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""Stranieri"", ""accettato""]",,,"{""Da_chi_offerta"": ""Oxfam Italia e Associazione Ieri Oggi Domani"", ""Descrizione"": ""\u00c8 attivo il servizio virtuale attraverso chiamate o video chiamate per sportello di ascolto, informazioni e consulenza legale, fiscale e supporto scolastico.\n\nIl venerd\u00ec mattina dalle 9 alle 12 \u00e8 inoltre assicurato il servizio CAF in presenza presso il Al Centro Metropolis nel quartiere delle Piagge.\n\nContatti\ntelefono 3938839538 \u2013 attivo dalle 10 alle 17 dal luned\u00ec al venerd\u00ec.\nemail centropolivalente.metropolis@gmail.com"", ""Destinatari"": ""Popolazione italiana e straniera"", ""Link"": ""https://www.oxfamitalia.org/nessuno-escluso-emergenza-coronavirus/"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""43.79047 11.16822 0 0"", ""Titolo"": ""Sportello ascolto virtuale e CAF in presenza a Le Piagge #Firenze""}","<pre><yamldata>
 Da_chi_offerta: Oxfam Italia e Associazione Ieri Oggi Domani
 Descrizione: 'È attivo il servizio virtuale attraverso chiamate o video chiamate per
