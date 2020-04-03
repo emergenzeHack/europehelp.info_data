@@ -15229,6 +15229,22 @@ Posizione: 46.067556 11.116825 0 0
 Provincia: Trento
 Regione: Trentino-Alto Adige
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/702,583034056,2020-04-03 20:33:17,2020-03-17 14:00:01,Raccolta fondi Azienda provinciale per i servizi sanitari #Trento,46.050724,11.129837,Trentino-Alto Adige,Trento,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""UNCRITM10IQ"", ""Causale"": ""Coronavirus"", ""Comune"": ""Trento"", ""Descrizione"": ""L\u2019Azienda provinciale per i servizi sanitari ringrazia tutti coloro che desiderano offrire contributi e donazioni per aiutare le nostre strutture sanitarie in questo momento di emergenza."", ""Email"": ""urp@apss.tn.it"", ""IBAN"": ""IT 96 J 02008 01802 000102416554"", ""Intestazione"": ""Azienda provinciale per i servizi sanitari di Trento Unicredit Banca"", ""Link"": ""https://www.apss.tn.it/-/emergenza-coronavirus-puoi-donare-anche-tu"", ""Nome"": ""Azienda Provinciale per i Servizi Sanitari - Trentino"", ""Posizione"": ""46.050724 11.129837 0 0"", ""Provincia"": ""Trento"", ""Regione"": ""Trentino-Alto Adige""}","<pre><yamldata>
+BIC_SWIFT: UNCRITM10IQ
+Causale: Coronavirus
+Comune: Trento
+Descrizione: ""L\u2019Azienda provinciale per i servizi sanitari ringrazia tutti coloro\
+  \ che desiderano offrire contributi e donazioni per aiutare le nostre strutture\
+  \ sanitarie in questo momento di emergenza.""
+Email: urp@apss.tn.it
+IBAN: IT 96 J 02008 01802 000102416554
+Intestazione: Azienda provinciale per i servizi sanitari di Trento Unicredit Banca
+Link: https://www.apss.tn.it/-/emergenza-coronavirus-puoi-donare-anche-tu
+Nome: Azienda Provinciale per i Servizi Sanitari - Trentino
+Posizione: 46.050724 11.129837 0 0
+Provincia: Trento
+Regione: Trentino-Alto Adige
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/701,583030226,2020-03-24 18:59:09,2020-03-17 13:54:35,Assistenza psicologica telefonica Comune #SanDonàDiPiave #Venezia,45.629645,12.563832,Veneto,Venezia,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""San Don\u00e0 di Piave"", ""Da_chi_offerta"": ""Citt\u00e0 di San Dona' di Piave"", ""Descrizione"": ""Dalle 13 del 14 marzo possiamo incontrarvi anche al telefono, grazie al servizio di assistenza psicologica telefonica 342 028 9224. Il servizio operer\u00e0: Luned\u00ec 13:00 \u2013 18:30; Marted\u00ec 13:00 \u2013 15:30; Mercoled\u00ec 13:00 \u2013 15:30; Gioved\u00ec 13:00 \u2013 18:30; Venerd\u00ec 13:00 \u2013 18:30 e Sabato 13:00 \u2013 18:30. Grazie alle professioniste che hanno messo a disposizione, gratuitamente, le loro competenze e il loro tempo!"", ""Destinatari"": ""Cittadini"", ""Link"": ""https://www.facebook.com/sdonadipiave/photos/a.327145657336771/2966880170029960/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.629645 12.563832 0 0"", ""Provincia"": ""Venezia"", ""Regione"": ""Veneto"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Assistenza psicologica telefonica emergenza Coronavirus""}","<pre><yamldata>
 Comune: ""San Don\xE0 di Piave""
 Da_chi_offerta: ""Citt\xE0 di San Dona' di Piave""
@@ -16794,16 +16810,6 @@ Nome: Policlinico Tor vergata
 Posizione: 41.857996 12.631404 0 0
 Provincia: Roma
 Regione: Lazio
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/592,581844054,2020-03-24 21:44:42,2020-03-15 22:05:31,Comune di Bologna - Agenda Culturale in streaming #Bologna,44.495654,11.34359,Emilia-Romagna,Bologna,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Cosa"": ""Comune di Bologna - Agenda Culturale #Bologna"", ""Descrizione"": ""attivit\u00e0 di streaming per concerti, letture, attivit\u00e0 didattiche, spettacoli teatrali e mostre nei musei"", ""Link"": ""http://agenda.comune.bologna.it/cultura/"", ""Posizione"": ""44.495654 11.34359 0 0"", ""Provincia"": ""Bologna"", ""Regione"": ""Emilia-Romagna""}","<pre><yamldata>
-Comune: Bologna
-Cosa: 'Comune di Bologna - Agenda Culturale #Bologna'
-Descrizione: ""attivit\xE0 di streaming per concerti, letture, attivit\xE0 didattiche,\
-  \ spettacoli teatrali e mostre nei musei""
-Link: http://agenda.comune.bologna.it/cultura/
-Posizione: 44.495654 11.34359 0 0
-Provincia: Bologna
-Regione: Emilia-Romagna
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/592,581844054,2020-03-24 21:44:42,2020-03-15 22:05:31,Comune di Bologna - Agenda Culturale in streaming #Bologna,44.495654,11.34359,Emilia-Romagna,Bologna,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Cosa"": ""Comune di Bologna - Agenda Culturale #Bologna"", ""Descrizione"": ""attivit\u00e0 di streaming per concerti, letture, attivit\u00e0 didattiche, spettacoli teatrali e mostre nei musei"", ""Link"": ""http://agenda.comune.bologna.it/cultura/"", ""Posizione"": ""44.495654 11.34359 0 0"", ""Provincia"": ""Bologna"", ""Regione"": ""Emilia-Romagna""}","<pre><yamldata>
 Comune: Bologna
