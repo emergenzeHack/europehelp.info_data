@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2227,593620746,2020-04-03 20:46:43,2020-04-03 20:24:37,"L’associazione Abbadorzu di #Ittiri #Sassari distribuisce derrate alimentari, indumenti e calzature alle famiglie in difficoltà ",40.5930461,8.5683534,Sardegna,Sassari,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Abbadorzu Onlus"", ""Descrizione"": ""Distribuzione di derrate alimentari alle famiglie che versano in condizioni di povert\u00e0. Distribuzione di indumenti e calzature offerte dai commercianti della nostra Citt\u00e0."", ""Destinatari"": ""Famiglie indigenti"", ""Link"": ""http://abbadorzusolidale.over-blog.it/"", ""Natura"": ""solidale"", ""Posizione"": ""40.5930461 8.5683534"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Associazione di Volontariato Sociale""}","<pre><yamldata>
+Da_chi_offerta: Abbadorzu Onlus
+Descrizione: 'Distribuzione di derrate alimentari alle famiglie che versano in
+  condizioni di povertà.
+  Distribuzione di indumenti e calzature offerte dai commercianti della nostra Città.'
+Destinatari: Famiglie indigenti
+Link: http://abbadorzusolidale.over-blog.it/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Associazione di Volontariato Sociale
+Posizione: 40.5930461 8.5683534
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2226,593619315,2020-04-03 20:40:00,2020-04-03 20:21:41,Comunità senegalese e marocchina a #Ittiri #Sassari hanno bisogno di un centinaio di guanti e mascherine,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Guanti e mascherine."", ""Descrizione"": ""Intendiamo distribuire, alla comunit\u00e0 dei cittadini del Senegal presenti nella nostra cittadina ed alla comunit\u00e0 di cittadini del Marocco, mascherine e guanti essendone al momento sprovvisti.\nIn attesa che il nostro comune distribuisca, coma si \u00e8 impegnato a fare, detto materiale crediamo sia pi\u00f9 giusto, se possibile, anticiparne i tempi.\nIl numero ottimale delle mascherine e dei guanti \u00e8 di circa un centinaio per tipo."", ""Destinatari"": ""Comunit\u00e0 Senegalese e Marocchina"", ""Email"": ""antoniofadda52@gmail.com"", ""Indirizzo"": ""40.599813 8.565753 0 0"", ""Nome"": ""Antonio Fadda"", ""Telefono"": ""3924084506""}","<pre><yamldata>
 Cosa: Guanti e mascherine.
 Descrizione: 'Intendiamo distribuire, alla comunità dei cittadini del Senegal presenti
