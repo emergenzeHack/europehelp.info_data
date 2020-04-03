@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2220,593544066,2020-04-03 19:28:18,2020-04-03 17:50:26,"Raccolta fondi per Ospedale ""SS Annunziata"" Comune di #Cento",44.727886,11.288828,Emilia-Romagna,Ferrara,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione emergenza coronavirus"", ""Descrizione"": ""Il Comune di Cento ha avviato una raccolta fondi per sostenere la sanit\u00e0 nell'emergenza Covid-19, in particolare l'ospedale 'SS Annunziata' e gli operatori sanitari del territorio centese."", ""Email"": ""urp@comune.cento.fe.it"", ""IBAN"": ""IT 02 N 06115 23415 000000003640"", ""Intestazione"": ""Comune di Cento - Servizio Tesoreria"", ""Link"": ""https://www.comune.cento.fe.it/aree-tematiche/relazioni-il-cittadino/raccolta-fondi-sostenere-la-sanit%C3%A0-nellemergenza-covid-19"", ""Nome"": ""Comune di Cento"", ""Posizione"": ""44.727886 11.288828 0 0""}","<pre><yamldata>
+Causale: Donazione emergenza coronavirus
+Descrizione: Il Comune di Cento ha avviato una raccolta fondi per sostenere la sanità
+  nell'emergenza Covid-19, in particolare l'ospedale 'SS Annunziata' e gli operatori
+  sanitari del territorio centese.
+Email: urp@comune.cento.fe.it
+IBAN: IT 02 N 06115 23415 000000003640
+Intestazione: Comune di Cento - Servizio Tesoreria
+Link: https://www.comune.cento.fe.it/aree-tematiche/relazioni-il-cittadino/raccolta-fondi-sostenere-la-sanit%C3%A0-nellemergenza-covid-19
+Nome: Comune di Cento
+Posizione: 44.727886 11.288828 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2219,593542833,2020-04-03 19:24:02,2020-04-03 17:48:08,Protezione Civile e CRI consegnano gratuitamente farmaci e spesa a domicilio Comune di #Cento,44.727178,11.290244,Emilia-Romagna,Ferrara,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Cento"", ""Descrizione"": ""Pagina web del Comune con le iniziative a sostegno della popolazione di Cento: consegna dei farmaci e spesa a domicilio a cura di CRI e Protezione Civile gruppo ANA"", ""Destinatari"": ""Persone con oltre 65 anni, soggetti con sintomatologia da infezione respiratoria e febbre (oltre 37,5\u00b0), immunodepressi, persone non autosufficienti o sottoposte alla misura della quarantena o, in ogni caso, risultati positivi al virus COVID-19, in possesso di prescrizione medica."", ""Link"": ""https://www.comune.cento.fe.it/aree-tematiche/coronavirus/consegna-gratuita-dei-farmaci-e-della-spesa-domicilio"", ""Natura"": ""solidale"", ""Posizione"": ""44.727178 11.290244 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegna gratuita dei farmaci e della spesa a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Comune di Cento
 Descrizione: 'Pagina web del Comune con le iniziative a sostegno della popolazione
