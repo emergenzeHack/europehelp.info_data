@@ -1,4 +1,31 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2252,593875624,2020-04-04 14:21:45,2020-04-04 13:57:59,Bicocca e Harvard cercano volontari per il Progetto TOP (Tutoring Online Project) tutoraggio a distanza degli studenti svantaggiati delle scuole medie ,,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Posizione mancante"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Universit\u00e0 Bocconi e Universit\u00e0 di Harvard"", ""Descrizione"": ""Progetto TOP (Tutoring Online Project)\n\n \n\nGentile Studente/Studentessa,\n\n \n\nSiamo un team di ricercatori dell\u2019Universit\u00e0 Bocconi e dell\u2019Universit\u00e0 di Harvard. Stiamo cercando di aiutare le scuole medie italiane a trovare tutor per gli studenti in difficolt\u00e0 durante queste settimane di chiusura delle scuole. A questa iniziativa partecipano anche l\u2019Universit\u00e0 Bicocca, l\u2019Universit\u00e0 Statale di Milano e altre Universit\u00e0.\n\n \n\nQuesta fase di attivit\u00e0 didattiche online rappresenta una sfida molto difficile da affrontare per le scuole e le famiglie italiane. Numerose ricerche suggeriscono che l\u2019istruzione online pu\u00f2 avere conseguenze negative per l\u2019apprendimento di studenti le cui famiglie non possono supportarli nella didattica a distanza, andando cosi a incrementare le disuguaglianze.\n\n \n\nSei interessato/a ad aiutare dei ragazzi delle scuole medie attualmente in difficolt\u00e0 a fare i compiti e rimanere al passo con il resto della classe? Se s\u00ec, il progetto TOP fa per te!\n\nL\u2019impegno previsto \u00e8 di 3 ore alla settimana per ciascun modulo di tutoring (potrai scegliere se offrire uno o pi\u00f9 moduli). La durata \u00e8 per il periodo di chiusura delle scuole, e comunque non oltre la fine di Maggio.\n\n \n\nI presidi e gli insegnanti delle scuole identificheranno i ragazzi pi\u00f9 bisognosi di un sostegno, e noi metteremo in contatto i tutor con le scuole, in base alle necessit\u00e0 e alla disponibilit\u00e0 espresse. L\u2019impatto dell\u2019attivit\u00e0 fatta con il tutor verr\u00e0 valutato in un progetto di ricerca scientifica.\n\n \n\nVuoi aderire? Pu\u00f2 essere un bel modo di dare una mano in questa situazione di emergenza!"", ""Destinatari"": ""Studenti/Studentesse"", ""Natura"": ""didattica"", ""Titolo"": ""Progetto TOP (Tutoring Online Project)""}","<pre><yamldata>
+Da_chi_offerta: Università Bocconi e Università di Harvard
+Descrizione: ""Progetto TOP (Tutoring Online Project)\n\n \n\nGentile Studente/Studentessa,\n\
+  \n \n\nSiamo un team di ricercatori dell’Università Bocconi e dell’Università di\
+  \ Harvard. Stiamo cercando di aiutare le scuole medie italiane a trovare tutor per\
+  \ gli studenti in difficoltà durante queste settimane di chiusura delle scuole.\
+  \ A questa iniziativa partecipano anche l’Università Bicocca, l’Università Statale\
+  \ di Milano e altre Università.\n\n \n\nQuesta fase di attività didattiche online\
+  \ rappresenta una sfida molto difficile da affrontare per le scuole e le famiglie\
+  \ italiane. Numerose ricerche suggeriscono che l’istruzione online può avere conseguenze\
+  \ negative per l’apprendimento di studenti le cui famiglie non possono supportarli\
+  \ nella didattica a distanza, andando cosi a incrementare le disuguaglianze.\n\n\
+  \ \n\nSei interessato/a ad aiutare dei ragazzi delle scuole medie attualmente in\
+  \ difficoltà a fare i compiti e rimanere al passo con il resto della classe? Se\
+  \ sì, il progetto TOP fa per te!\n\nL’impegno previsto è di 3 ore alla settimana\
+  \ per ciascun modulo di tutoring (potrai scegliere se offrire uno o più moduli).\
+  \ La durata è per il periodo di chiusura delle scuole, e comunque non oltre la fine\
+  \ di Maggio.\n\n \n\nI presidi e gli insegnanti delle scuole identificheranno i\
+  \ ragazzi più bisognosi di un sostegno, e noi metteremo in contatto i tutor con\
+  \ le scuole, in base alle necessità e alla disponibilità espresse. L’impatto dell’attività\
+  \ fatta con il tutor verrà valutato in un progetto di ricerca scientifica.\n\n \n\
+  \nVuoi aderire? Può essere un bel modo di dare una mano in questa situazione di\
+  \ emergenza!""
+Destinatari: Studenti/Studentesse
+Natura: didattica
+Titolo: Progetto TOP (Tutoring Online Project)
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2251,593853261,2020-04-04 14:01:11,2020-04-04 13:14:35,Raccolta fondi acquisto monitor per gestione clinica dell'emergenza Ospedale S.M. della Misericordia #Perugia,43.08503,12.34635,Umbria,Perugia,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per l'acquisto urgente di monitor per la gestione clinica dell'emergenza Covid per il reparto Medicina Interna Covid dell'Ospedale Santa Maria della Misericordia di Perugia. Questi permetteranno ai Medici di comunicare tramite video, senza entrare e uscire pi\u00f9 volte dall'area Covid."", ""Link"": ""https://www.gofundme.com/f/medinthelp?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet"", ""Nome"": ""MedIntHelp"", ""Posizione"": ""43.08503 12.34635""}","<pre><yamldata>
 Descrizione: Raccolta fondi per l'acquisto urgente di monitor per la gestione clinica
   dell'emergenza Covid per il reparto Medicina Interna Covid dell'Ospedale Santa Maria
