@@ -1,4 +1,53 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2236,593767036,2020-04-04 08:14:02,2020-04-04 07:47:00,#daCasaPuoi: informazioni online e supporto a distanza sui servizi digitali - Regione  #Umbria,43.1094,12.388238,Umbria,Perugia,"[""Fonti istituzionali"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Digipass Regione Umbria"", ""Descrizione"": ""I Digipass della Regione Umbria fanno squadra e, nel periodo di chiusura al pubblico delle sedi a causa del Covid-19, propongono l\u2019iniziativa #daCasaPuoi per continuare ad essere vicini agli utenti anche in questo momento attraverso attivit\u00e0 di supporto online e a distanza: informazioni sui canali social ed assistenza \u201con demand\u201d ai cittadini sull\u2019utilizzo dei servizi digitali utili nella vita quotidiana per operare da casa.\n\nDal 3 aprile, sulle pagine facebook dei Digipass regionali (Assisi, Citt\u00e0 di Castello, Foligno, Gubbio, Media Valle del Tevere, Narni, Orvieto, Perugia, Spoleto) \u00e8 partita la campagna #daCasaPuoi attraverso card grafiche o video per offrire informazioni e suggerimenti utili sui servizi digitali disponibili online per svolgere le attivit\u00e0 della vita di tutti i giorni senza uscire da casa. Tra i principali strumenti digitali c\u2019\u00e8 ad esempio SPID, l\u2019Identit\u00e0 Digitale che con un\u2019unica password consente di accedere ai servizi online della Pubblica Amministrazione in modo semplice, sicuro e veloce dal proprio computer, smartphone o tablet.\n\nAll\u2019attivit\u00e0 online si affianca l\u2019operativit\u00e0 a distanza dei facilitatori digitali per aiutare chi dovesse incontrare difficolt\u00e0. I facilitatori dei Digipass regionali sono a disposizione \u201con demand\u201d per richieste di ulteriori informazioni e chiarimenti da parte degli utenti sui servizi digitali accessibili da casa. L\u2019invito \u00e8 fissare un appuntamento, attraverso una email o un messaggio privato sulla pagina facebook del Digipass del proprio territorio, per ricevere il supporto necessario: ricevuta la richiesta, il facilitatore digitale ricontatta l\u2019utente per soddisfare l\u2019esigenza.\n\n\u201cL'emergenza che stiamo vivendo -afferma l\u2019Assessore regionale Michele Fioroni - conferma quanto le tecnologie digitali siano ormai strumenti fondamentali e centrali nella vita quotidiana di ognuno di noi. L'Umbria pu\u00f2 ambire ad essere sempre pi\u00f9 terra di sperimentazione digitale e di sviluppo di tecnologie innovative. Questo nuovo strumento predisposto dai Digipass dell\u2019Umbria \u00e8 un ulteriore mezzo di potenziamento delle competenze digitali (essenziali in questo periodo storico) e della cultura digitale, ed inoltre strumento funzionale a mantenere i cittadini connessi con i servizi del territorio anche da casa\u201d.\n\nInformazioni, contatti email e facebook sono disponibili sul portale regionale Digipass Umbria all\u2019indirizzo digipass.regione.umbria.it"", ""Destinatari"": ""cittadini, associazioni, imprese"", ""Link"": ""https://digipass.regione.umbria.it/dacasapuoi-i-digipass-umbria-non-si-fermano/"", ""Natura"": ""solidale"", ""Posizione"": ""43.1094 12.388238 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""#daCasaPuoi: i Digipass Umbria non si fermano. Informazioni online e assistenza a distanza agli utenti sui servizi digitali""}","<pre><yamldata>
+Da_chi_offerta: Digipass Regione Umbria
+Descrizione: 'I Digipass della Regione Umbria fanno squadra e, nel periodo di chiusura
+  al pubblico delle sedi a causa del Covid-19, propongono l’iniziativa #daCasaPuoi
+  per continuare ad essere vicini agli utenti anche in questo momento attraverso attività
+  di supporto online e a distanza: informazioni sui canali social ed assistenza “on
+  demand” ai cittadini sull’utilizzo dei servizi digitali utili nella vita quotidiana
+  per operare da casa.
+
+
+  Dal 3 aprile, sulle pagine facebook dei Digipass regionali (Assisi, Città di Castello,
+  Foligno, Gubbio, Media Valle del Tevere, Narni, Orvieto, Perugia, Spoleto) è partita
+  la campagna #daCasaPuoi attraverso card grafiche o video per offrire informazioni
+  e suggerimenti utili sui servizi digitali disponibili online per svolgere le attività
+  della vita di tutti i giorni senza uscire da casa. Tra i principali strumenti digitali
+  c’è ad esempio SPID, l’Identità Digitale che con un’unica password consente di accedere
+  ai servizi online della Pubblica Amministrazione in modo semplice, sicuro e veloce
+  dal proprio computer, smartphone o tablet.
+
+
+  All’attività online si affianca l’operatività a distanza dei facilitatori digitali
+  per aiutare chi dovesse incontrare difficoltà. I facilitatori dei Digipass regionali
+  sono a disposizione “on demand” per richieste di ulteriori informazioni e chiarimenti
+  da parte degli utenti sui servizi digitali accessibili da casa. L’invito è fissare
+  un appuntamento, attraverso una email o un messaggio privato sulla pagina facebook
+  del Digipass del proprio territorio, per ricevere il supporto necessario: ricevuta
+  la richiesta, il facilitatore digitale ricontatta l’utente per soddisfare l’esigenza.
+
+
+  “L''emergenza che stiamo vivendo -afferma l’Assessore regionale Michele Fioroni
+  - conferma quanto le tecnologie digitali siano ormai strumenti fondamentali e centrali
+  nella vita quotidiana di ognuno di noi. L''Umbria può ambire ad essere sempre più
+  terra di sperimentazione digitale e di sviluppo di tecnologie innovative. Questo
+  nuovo strumento predisposto dai Digipass dell’Umbria è un ulteriore mezzo di potenziamento
+  delle competenze digitali (essenziali in questo periodo storico) e della cultura
+  digitale, ed inoltre strumento funzionale a mantenere i cittadini connessi con i
+  servizi del territorio anche da casa”.
+
+
+  Informazioni, contatti email e facebook sono disponibili sul portale regionale Digipass
+  Umbria all’indirizzo digipass.regione.umbria.it'
+Destinatari: cittadini, associazioni, imprese
+Link: https://digipass.regione.umbria.it/dacasapuoi-i-digipass-umbria-non-si-fermano/
+Natura: solidale
+Posizione: 43.1094 12.388238 0 0
+Tipo_di_soggetto: pubblico
+Titolo: '#daCasaPuoi: i Digipass Umbria non si fermano. Informazioni online e assistenza
+  a distanza agli utenti sui servizi digitali'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2233,593658600,2020-04-03 21:57:12,2020-04-03 21:47:45,Iorestoacasa.delivery Piattaforma senza scopo di lucro con negozi che consegnano a domicilio in tutta Italia,,,,,"[""Consegne e commissioni"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Iorestoacasa.delivery"", ""Descrizione"": ""\u200bIorestoacasa.delivery \u00e8 una piattaforma nata per aiutare i piccoli commercianti a far fronte all'emergenza Covid-19. \u00c8 un progetto senza scopo di lucro che ha l'intento di far convogliare tutte le aziende che consegnano a domicilio in un unico spazio virtuale. \nIl processo di acquisto \u00e8 molto semplice:\n- inserisci il cap\n- inserisci la provincia\n- seleziona la categoria che ti interessa (dalla pizzeria all\u2019edicola, all\u2019elettronica di consumo)\n- chiama direttamente il locale disponibile\nSe, invece, hai un\u2019attivit\u00e0 con consegna a domicilio puoi inserire i tuoi dati per farti contattare facilmente dai cittadini prossimi alla tua attivit\u00e0. Iscrizione semplice e gratuita."", ""Destinatari"": ""Commercianti e cittadini"", ""Link"": ""https://www.iorestoacasa.delivery/it"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Iorestoacasa.delivery piattaforma senza scopo di lucro con i negozi che consegnano a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Iorestoacasa.delivery
 Descrizione: ""​Iorestoacasa.delivery è una piattaforma nata per aiutare i piccoli\
