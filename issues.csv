@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2259,593975405,2020-04-04 18:04:45,2020-04-04 18:02:06,"COVID-19 - Video con regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof",,,tutte,,"[""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""Stranieri"", ""accettato""]",,,"{""Da_chi_offerta"": ""Regione Puglia"", ""Descrizione"": ""Sono disponibili video informativi sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu, bambara.\n\nI video, pubblicati sul portale istituzionale della Regione Puglia, sono stati realizzatI nell\u2019ambito del progetto FARI (Formazione Accoglienza Risposta Inclusione) e illustrano le ultimissime disposizioni nazionali in materia di prevenzione."", ""Destinatari"": ""Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof"", ""Link"": ""http://www.regione.puglia.it/coronavirus-video-lingue"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""COVID-19 - Video con regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Regione Puglia
+Descrizione: 'Sono disponibili video informativi sul Coronavirus IN 6 LINGUE STRANIERE:
+  inglese, francese, arabo, wolof, pashtu, bambara.
+
+
+  I video, pubblicati sul portale istituzionale della Regione Puglia, sono stati realizzatI
+  nell’ambito del progetto FARI (Formazione Accoglienza Risposta Inclusione) e illustrano
+  le ultimissime disposizioni nazionali in materia di prevenzione.'
+Destinatari: Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof
+Link: http://www.regione.puglia.it/coronavirus-video-lingue
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: COVID-19 - Video con regole di prevenzione in inglese, francese, arabo, bambara,
+  pasthu e wolof
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2257,593943961,2020-04-04 17:01:13,2020-04-04 16:27:36,Raccolta Fondi di P.A. Gran Sasso Soccorso per riassortimento materiale di protezione individuale per i volontari e acquisto tenda pneumatica #L'Aquila #Abruzzo,42.337678,13.444506,Abruzzo,L'Aquila,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BPMOIT22"", ""Causale"": ""DONAZIONE EMERGENZA COVID 19"", ""Descrizione"": ""La P.A. Gran Sasso Soccorso L'Aquila \u00e8 un'associazione senza scopo di lucro nel settore della Protezione Civile.\nIn questi giorni impegnata per l'emergenza Covid-19, intraprende una raccolta fondi per il riassortimento del materiale di protezione individuale per i propri volontari associati e per l'acquisto di una nuova tenda pneumatica da mettere a disposizione delle autorit\u00e0 sanitarie, in sostituzione di quella posseduta ormai non pi\u00f9 utilizzabile.\n\nGrazie per il vostro contributo"", ""Email"": ""assistenza@gransassosoccorsolaquila.it"", ""IBAN"": ""IBAN IT 77 J 05387 03603 000000159197"", ""Intestazione"": ""PUBBLICA ASSISTENZA GRAN SASSO SOCCORSO"", ""Link"": ""https://www.facebook.com/PAGranSassoSoccorso"", ""Nome"": ""PUBBLICA ASSISTENZA GRAN SASSO SOCCORSO - L'AQUILA"", ""Posizione"": ""42.337678 13.444506 0 0""}","<pre><yamldata>
 BIC_SWIFT: BPMOIT22
 Causale: DONAZIONE EMERGENZA COVID 19
