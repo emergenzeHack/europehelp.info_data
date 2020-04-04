@@ -19598,12 +19598,12 @@ Regione: Puglia
 Tipo_di_soggetto: pubblico
 Titolo: Servizio Farmaci a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/369,580825612,2020-04-04 18:35:28,2020-03-13 20:22:47,Non è vero che  i migranti sbarcano in Sicilia con sintomi COVID-19,,,,,"[""Fake News"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Comune"": ""Marigliano"", ""Cosa"": ""Migranti che sbarcano in Sicilia con sintomi COVID-19"", ""Descrizione"": ""Si tratta di una fake news come riporta il sito Bufale.it"", ""Link"": ""https://www.bufale.net/a-messina-sbarcano-migranti-con-sintomi-coronavirus/"", ""Posizione"": ""38.18848,15.56265""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/369,580825612,2020-04-04 22:25:34,2020-03-13 20:22:47,Non è vero che  i migranti sbarcano in Sicilia con sintomi COVID-19,38.18848,15.56265,Sicilia,Messina,"[""Fake News"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Comune"": ""Marigliano"", ""Cosa"": ""Migranti che sbarcano in Sicilia con sintomi COVID-19"", ""Descrizione"": ""Si tratta di una fake news come riporta il sito Bufale.it"", ""Link"": ""https://www.bufale.net/a-messina-sbarcano-migranti-con-sintomi-coronavirus/"", ""Posizione"": ""38.18848 15.56265""}","<pre><yamldata>
 Comune: Marigliano
 Cosa: Migranti che sbarcano in Sicilia con sintomi COVID-19
 Descrizione: Si tratta di una fake news come riporta il sito Bufale.it
 Link: https://www.bufale.net/a-messina-sbarcano-migranti-con-sintomi-coronavirus/
-Posizione: 38.18848,15.56265
+Posizione: 38.18848 15.56265
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/368,580818913,2020-03-30 08:20:57,2020-03-13 20:06:47,Dedalus - Colloqui psicologici gratuiti via Skype,,,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Dedalus"", ""Descrizione"": ""3 incontri gratuiti via skype o altro mezzo di videochiamata. dedalus.covid19@gmail.com"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.istitutodedalus.it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Colloqui psicologici gratuiti""}","<pre><yamldata>
 Da_chi_offerta: Dedalus
