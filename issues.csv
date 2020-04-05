@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2279,594454126,2020-04-05 14:04:51,2020-04-05 13:24:25,CAV Fondazione Roberta Lanzino” - il servizio di Consulenza e Assistenza per le donne è online #Quattromiglia #Cosenza,39.296796,16.252465,Calabria,Cosenza,"[""Bollettino"", ""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""CAV  (Centro antiviolenza) della Fondazione \u201cRoberta Lanzino\u201d"", ""Descrizione"": ""Si avvisano le utenti del Servizio CAV  (Centro antiviolenza) della Fondazione \u201cRoberta Lanzino\u201d che la Psicologa, D.ssa Lucia Nardi, in questa situazione di emergenza, continua online la sua attivit\u00e0 di Consulenza e Assistenza psicologica. Chiamaci al numero 3298981723."", ""Destinatari"": ""utenti del Servizio CAV  (Centro antiviolenza) della Fondazione \u201cRoberta Lanzino\u201d"", ""Link"": ""https://www.facebook.com/CentroAntiviolenzaLanzino/"", ""Natura"": ""solidale"", ""Posizione"": ""39.296796 16.252465 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Continua l'attivit\u00e0 di Consulenza e Assistenza psicologica""}","<pre><yamldata>
+Da_chi_offerta: CAV  (Centro antiviolenza) della Fondazione “Roberta Lanzino”
+Descrizione: Si avvisano le utenti del Servizio CAV  (Centro antiviolenza) della Fondazione
+  “Roberta Lanzino” che la Psicologa, D.ssa Lucia Nardi, in questa situazione di emergenza,
+  continua online la sua attività di Consulenza e Assistenza psicologica. Chiamaci
+  al numero 3298981723.
+Destinatari: utenti del Servizio CAV  (Centro antiviolenza) della Fondazione “Roberta
+  Lanzino”
+Link: https://www.facebook.com/CentroAntiviolenzaLanzino/
+Natura: solidale
+Posizione: 39.296796 16.252465 0 0
+Tipo_di_soggetto: privato
+Titolo: Continua l'attività di Consulenza e Assistenza psicologica
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2278,594433377,2020-04-05 13:07:26,2020-04-05 12:28:38,Val Sugana Pizza Express - Consegna pizze a domicilio #Trento,46.052585,11.494526,Trentino-Alto Adige,Trento,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Pizzeria da asporto"", ""Link"": ""https://www.pizzaexpressvalsugana.com/"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Pizza Express"", ""Posizione"": ""46.052585 11.494526 0 0"", ""Telefono"": ""3406294386""}","<pre><yamldata>
 Descrizione: Pizzeria da asporto
 Link: https://www.pizzaexpressvalsugana.com/
