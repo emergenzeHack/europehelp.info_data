@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2295,594796890,2020-04-06 12:59:45,2020-04-06 04:40:11,"Produzione e distribuzione mascherine di ""cucitrici"" volontarie a #Bagnasco #Ceva #Igliano #Lesegno #San Michele #Niella (CN)",44.30133,8.04314,Piemonte,Cuneo,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Unione cucitrici volontarie"", ""Descrizione"": ""Sono un gruppo di \""cucitrici\"" volontarie di Bagnasco, Ceva, Igliano, Lesegno, San Michele, Niella Tanaro. (Tanaria Provincia di Cuneo). Cuciono mascherine per chi ne ha necessit\u00e0. Sono mascherine in nylon siliconato riutilizzabili, lavabili ma senza usare vantaggio n\u00e9 ferro da stiro."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/100408011633731/posts/100408414967024/"", ""Natura"": ""solidale"", ""Posizione"": ""44.30133 8.04314 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Unione cucitrici volontarie""}","<pre><yamldata>
+Da_chi_offerta: Unione cucitrici volontarie
+Descrizione: Sono un gruppo di ""cucitrici"" volontarie di Bagnasco, Ceva, Igliano,
+  Lesegno, San Michele, Niella Tanaro. (Tanaria Provincia di Cuneo). Cuciono mascherine
+  per chi ne ha necessità. Sono mascherine in nylon siliconato riutilizzabili, lavabili
+  ma senza usare vantaggio né ferro da stiro.
+Destinatari: Tutti
+Posizione: 44.30133 8.04314 0 0
+Link: https://www.facebook.com/100408011633731/posts/100408414967024/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Unione cucitrici volontarie
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2294,594677138,2020-04-06 00:23:34,2020-04-05 22:16:23,Unicoop #Firenze: in tutti i punti vendita l''angolo della spesa sospesa,43.793619,11.287851,Toscana,Firenze,"[""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Unicoop Firenze: in tutti i punti vendita l'angolo della spesa sospesa"", ""Descrizione"": ""E' partita in tutti i punti vendita Unicoop Firenze la \""Spesa Sospesa\"" con l'obiettivo di raccogliere fondi per offrire una spesa alle persone bisognose, ancora pi\u00f9 vulnerabili in questo momento di emergenza sanitaria e di crisi economica. Fino al 30 aprile, tutti potranno contribuire alla casse dei Coop.Fi con almeno un euro o 100 punti della carta socio. La Fondazione Il Cuore si scioglie raddoppier\u00e0 l\u2019importo di ogni donazione. I fondi raccolti finanzieranno l\u2019acquisto di pacchi spesa che arriveranno, tramite le associazioni di volontariato del territorio, alle persone che vivono in condizioni di povert\u00e0 e a quanti stanno attraversando momenti difficili a causa della crisi economica innescata dall'emergenza Coronavirus."", ""Link"": ""https://firenze.repubblica.it/cronaca/2020/04/05/news/unicoop_firenze_in_tutti_i_punti_veindita_l_angolo_della_spesa_sospesa-253181353/?rss"", ""Posizione"": ""43.793619 11.287851 0 0""}","<pre><yamldata>
 Cosa: 'Unicoop Firenze: in tutti i punti vendita l''angolo della spesa sospesa'
 Descrizione: E' partita in tutti i punti vendita Unicoop Firenze la ""Spesa Sospesa""
