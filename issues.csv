@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2301,594920307,2020-04-06 13:37:04,2020-04-06 08:46:05,Lettura di brani di autori piemontesi a cura del Quotidiano Piemontese #Piemonte,45.06776,7.68249,Piemonte,Torino,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Quotidiano Piemontese"", ""Descrizione"": ""La redazione di Quotidiano Piemontese ha accolto l\u2019invito dei suoi lettori e deciso di proporre ogni giorno la lettura di un brano di un autore piemontese. Il format prende il nome di \u201c#iorestoacasa con gli scrittori del Piemonte\u201d ed ogni giorno alle 15.00 in diretta sulla pagina Facebook di Quotidiano Piemontese proporr\u00e0 la lettura di scrittori che hanno fatto la storia della letteratura italiana e mondiale, affiancati ad autori contemporanei.\n\nDa Primo Levi a Cesare Pavese, da Umberto Eco a Gianni Rodari, da Edmondo De Amicis a Mario Soldati, da Giorgio Faletti a Carlo Fruttero, da Emilio Salgari a Paola Mastrocola, ogni giorno saremo accompagnati da un brano di un autore che per nascita o elezione \u00e8 legato al Piemonte. Ci auguriamo che l\u2019iniziativa possa servire a far passare ai nostri lettori del tempo buono in compagnia della cultura."", ""Destinatari"": ""piemonte e non solo"", ""Link"": ""https://www.quotidianopiemontese.it/2020/04/06/iorestoacasa-con-gli-scrittori-del-piemonte-in-diretta-su-facebook/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.06776 7.68249 0 0"", ""Titolo"": ""#IORESTOACASA con gli scrittori del Piemonte""}","<pre><yamldata>
+Da_chi_offerta: Quotidiano Piemontese
+Descrizione: 'La redazione di Quotidiano Piemontese ha accolto l’invito dei suoi lettori
+  e deciso di proporre ogni giorno la lettura di un brano di un autore piemontese.
+  Il format prende il nome di “#iorestoacasa con gli scrittori del Piemonte” ed ogni
+  giorno alle 15.00 in diretta sulla pagina Facebook di Quotidiano Piemontese proporrà
+  la lettura di scrittori che hanno fatto la storia della letteratura italiana e mondiale,
+  affiancati ad autori contemporanei.
+
+
+  Da Primo Levi a Cesare Pavese, da Umberto Eco a Gianni Rodari, da Edmondo De Amicis
+  a Mario Soldati, da Giorgio Faletti a Carlo Fruttero, da Emilio Salgari a Paola
+  Mastrocola, ogni giorno saremo accompagnati da un brano di un autore che per nascita
+  o elezione è legato al Piemonte. Ci auguriamo che l’iniziativa possa servire a far
+  passare ai nostri lettori del tempo buono in compagnia della cultura.'
+Destinatari: piemonte e non solo
+Link: https://www.quotidianopiemontese.it/2020/04/06/iorestoacasa-con-gli-scrittori-del-piemonte-in-diretta-su-facebook/
+Natura: culturale-ricr
+Posizione: 45.06776 7.68249 0 0
+Titolo: '#IORESTOACASA con gli scrittori del Piemonte'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2299,594883263,2020-04-06 13:29:49,2020-04-06 07:49:19,Progetto 1000 giorni: sostegno a donne in gravidanza e con minori da 0 a 3 anni #Napoli,40.848343,14.254564,Campania,Napoli,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Pianoterra Onlus"", ""Descrizione"": ""Il progetto 1000Giorni offre sostegno a donne in gravidanza e con minori da 0 a 3 anni attraverso un servizio di orientamento ai servizi socio-sanitari, supporto emotivo e accompagnamento alla gravidanza e al parto.\nIn questa fase di emergenza sanitaria, gli operatori orientano a distanza le donne e neomamme fungendo da ponte con i servizi del territorio per aiutarle ad affrontare la gravidanza e il parto in queste particolari circostanze. \nLe operatrici sono inoltre disponibili ad offrire sostegno emotivo e supportare le mamme nell'accudimento dei pi\u00f9 piccoli attraverso consigli e suggerimenti, offerti anche attraverso video e tutorial."", ""Destinatari"": ""donne in gravidanza e con minori da 0 a 3 anni"", ""Link"": ""www.pianoterra.net"", ""Natura"": ""solidale"", ""Posizione"": ""40.848343 14.254564 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""1000Giorni""}","<pre><yamldata>
 Da_chi_offerta: Associazione Pianoterra Onlus
 Descrizione: ""Il progetto 1000Giorni offre sostegno a donne in gravidanza e con minori\
