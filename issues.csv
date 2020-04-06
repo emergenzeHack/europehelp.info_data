@@ -1,4 +1,124 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2294,594677138,2020-04-06 00:23:34,2020-04-05 22:16:23,Unicoop #Firenze: in tutti i punti vendita l''angolo della spesa sospesa,43.793619,11.287851,Toscana,Firenze,"[""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Unicoop Firenze: in tutti i punti vendita l'angolo della spesa sospesa"", ""Descrizione"": ""E' partita in tutti i punti vendita Unicoop Firenze la \""Spesa Sospesa\"" con l'obiettivo di raccogliere fondi per offrire una spesa alle persone bisognose, ancora pi\u00f9 vulnerabili in questo momento di emergenza sanitaria e di crisi economica. Fino al 30 aprile, tutti potranno contribuire alla casse dei Coop.Fi con almeno un euro o 100 punti della carta socio. La Fondazione Il Cuore si scioglie raddoppier\u00e0 l\u2019importo di ogni donazione. I fondi raccolti finanzieranno l\u2019acquisto di pacchi spesa che arriveranno, tramite le associazioni di volontariato del territorio, alle persone che vivono in condizioni di povert\u00e0 e a quanti stanno attraversando momenti difficili a causa della crisi economica innescata dall'emergenza Coronavirus."", ""Link"": ""https://firenze.repubblica.it/cronaca/2020/04/05/news/unicoop_firenze_in_tutti_i_punti_veindita_l_angolo_della_spesa_sospesa-253181353/?rss"", ""Posizione"": ""43.793619 11.287851 0 0""}","<pre><yamldata>
+Cosa: 'Unicoop Firenze: in tutti i punti vendita l''angolo della spesa sospesa'
+Descrizione: E' partita in tutti i punti vendita Unicoop Firenze la ""Spesa Sospesa""
+  con l'obiettivo di raccogliere fondi per offrire una spesa alle persone bisognose,
+  ancora più vulnerabili in questo momento di emergenza sanitaria e di crisi economica.
+  Fino al 30 aprile, tutti potranno contribuire alla casse dei Coop.Fi con almeno
+  un euro o 100 punti della carta socio. La Fondazione Il Cuore si scioglie raddoppierà
+  l’importo di ogni donazione. I fondi raccolti finanzieranno l’acquisto di pacchi
+  spesa che arriveranno, tramite le associazioni di volontariato del territorio, alle
+  persone che vivono in condizioni di povertà e a quanti stanno attraversando momenti
+  difficili a causa della crisi economica innescata dall'emergenza Coronavirus.
+Link: https://firenze.repubblica.it/cronaca/2020/04/05/news/unicoop_firenze_in_tutti_i_punti_veindita_l_angolo_della_spesa_sospesa-253181353/?rss
+Posizione: 43.793619 11.287851 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2292,594607079,2020-04-05 21:46:53,2020-04-05 19:28:24,Fondazione Veronesi - video e testo su come indossare in modo corretto mascherine e guanti,45.4761272,9.187332,Lombardia,Milano,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Come indossare correttamente mascherina e guanti"", ""Descrizione"": ""Spiegazione video e testuale su come indossare nel modo corretto mascherine e guanti."", ""Fonte"": ""Fondazione Veronesi"", ""Link"": ""https://www.fondazioneveronesi.it/magazine/tutti-i-video/covid-19-come-usare-correttamente-i-guanti-e-le-mascherine"", ""Posizione"": ""45.4761272 9.187332 0 0""}","<pre><yamldata>
+Cosa: Come indossare correttamente mascherina e guanti
+Descrizione: Spiegazione video e testuale su come indossare nel modo corretto mascherine
+  e guanti.
+Fonte: Fondazione Veronesi
+Link: https://www.fondazioneveronesi.it/magazine/tutti-i-video/covid-19-come-usare-correttamente-i-guanti-e-le-mascherine
+Posizione: 45.4761272 9.187332 0 0
+</yamldataregione_manuale: quellochevuoi></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2291,594602055,2020-04-05 21:35:13,2020-04-05 19:14:39,Portale non profit con i negozi che consegnano a domicilio ad #Arezzo e provincia,43.517202,11.7638792,Toscana,Arezzo,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Culturale del Bangladesh Arezzo e dalla Gellus Soluzioni"", ""Descrizione"": ""Un nuovo portale plurilingue, senza scopo di lucro e senza fini commerciali, creato per mettere in comunicazione i cittadini e le aziende del settore alimentare che consegnano a domicilio la spesa durante l\u2019emergenza del Coronavirus Fare la spesa da casa e riceverla a domicilio senza uscire, evitando cos\u00ec gli assembramenti e le potenziali occasioni di contagio. E\u2019 questo l\u2019obiettivo del progetto, a scopo sociale, \u201cNessuno lasciato solo\u201d promosso dall'Associazione Culturale del Bangladesh e dalla \u201cGellus Soluzioni\u201d per dare alle famiglie un aiuto concreto durante l\u2019emergenza Coronavirus."", ""Destinatari"": ""tutte le persone in cerca di aziende che sonsegnano a domicilio"", ""Link"": ""https://www.nessunolasciatosolo.it/"", ""Natura"": ""solidale"", ""Posizione"": ""43.517202 11.7638792"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Nessuno Lasciato Solo""}","<pre><yamldata>
+Da_chi_offerta: Associazione Culturale del Bangladesh Arezzo e dalla Gellus Soluzioni
+Descrizione: Un nuovo portale plurilingue, senza scopo di lucro e senza fini commerciali,
+  creato per mettere in comunicazione i cittadini e le aziende del settore alimentare
+  che consegnano a domicilio la spesa durante l’emergenza del Coronavirus Fare la
+  spesa da casa e riceverla a domicilio senza uscire, evitando così gli assembramenti
+  e le potenziali occasioni di contagio. E’ questo l’obiettivo del progetto, a scopo
+  sociale, “Nessuno lasciato solo” promosso dall'Associazione Culturale del Bangladesh
+  e dalla “Gellus Soluzioni” per dare alle famiglie un aiuto concreto durante l’emergenza
+  Coronavirus.
+Destinatari: tutte le persone in cerca di aziende che sonsegnano a domicilio
+Link: https://www.nessunolasciatosolo.it/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Nessuno Lasciato Solo
+Posizione: 43.517202 11.7638792
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2290,594588704,2020-04-05 19:47:44,2020-04-05 18:35:47,"Comune di #Brescia - elenco esercizi che effettuano consegne a domicilio, per zone",45.717851,9.674106,Lombardia,Bergamo,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Brescia"", ""Descrizione"": ""L\u2019Assessorato al Commercio e l\u2019Assessorato alla Partecipazione del Comune di Brescia, insieme con le associazioni di categoria (commercianti e artigiani), hanno messo in campo un servizio di vicinato, raggruppando quegli esercizi commerciali che effettuano consegne a domicilio, suddivisi per zone.\nL\u2019elenco sar\u00e0 tenuto aggiornato.\nI pagamenti, trattandosi di attivit\u00e0 private, saranno gestiti con gli esercenti. \nVa ricordato che, per chi si trova in condizione di fragilit\u00e0, impossibilitato a uscire di casa e che non ha parenti o altre persone di supporto, \u00e8 sempre attivo un servizio dedicato del settore Servizi Sociali. Le persone interessate possono telefonare ai servizi sociali del Comune di Brescia al numero 0302977615, dal luned\u00ec al venerd\u00ec dalle 8.30 alle 12.30 e dalle 13.30 alle 15.30."", ""Destinatari"": ""Cittadini di Brescia"", ""Link"": ""http://www.comune.brescia.it/news/2020/marzo/Pagine/Negozi-che-effettuano-consegne-a-domicilio.aspx"", ""Natura"": ""solidale"", ""Posizione"": ""45.717851 9.674106 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Brescia, elenco (in aggiornamento) dei negozi che consegnano a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Comune di Brescia
+Descrizione: ""L’Assessorato al Commercio e l’Assessorato alla Partecipazione del Comune\
+  \ di Brescia, insieme con le associazioni di categoria (commercianti e artigiani),\
+  \ hanno messo in campo un servizio di vicinato, raggruppando quegli esercizi commerciali\
+  \ che effettuano consegne a domicilio, suddivisi per zone.\nL’elenco sarà tenuto\
+  \ aggiornato.\nI pagamenti, trattandosi di attività private, saranno gestiti con\
+  \ gli esercenti. \nVa ricordato che, per chi si trova in condizione di fragilità,\
+  \ impossibilitato a uscire di casa e che non ha parenti o altre persone di supporto,\
+  \ è sempre attivo un servizio dedicato del settore Servizi Sociali. Le persone interessate\
+  \ possono telefonare ai servizi sociali del Comune di Brescia al numero 0302977615,\
+  \ dal lunedì al venerdì dalle 8.30 alle 12.30 e dalle 13.30 alle 15.30.""
+Destinatari: Cittadini di Brescia
+Link: http://www.comune.brescia.it/news/2020/marzo/Pagine/Negozi-che-effettuano-consegne-a-domicilio.aspx
+Natura: solidale
+Posizione: 45.717851 9.674106 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Brescia, elenco (in aggiornamento) dei negozi che consegnano a domicilio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2288,594586717,2020-04-05 21:26:59,2020-04-05 18:27:36,Comune di #Bergamo - numeri utili per avere notizie sui propri familiari deceduti ,45.711034,9.672947,Lombardia,Bergamo,"[""Bollettino"", ""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune di Bergamo, numeri utili per avere notizie sui propri familiari deceduti"", ""Descrizione"": ""In questi giorni di emergenza, \u00e8 possibile sapere dove si trova la salma di un proprio caro, in quale citt\u00e0 \u00e8 stata portata per la cremazione. Il Comune di Bergamo mette a disposizione i numeri 035.399514 e 035.399179 a coloro che cercano informazioni sui propri cari deceduti residenti in citt\u00e0."", ""Link"": ""https://twitter.com/comunedibergamo/status/1245765797194145792?s=21"", ""Posizione"": ""45.711034 9.672947 0 0""}","<pre><yamldata>
+Cosa: Comune di Bergamo, numeri utili per avere notizie sui propri familiari deceduti
+Descrizione: In questi giorni di emergenza, è possibile sapere dove si trova la salma
+  di un proprio caro, in quale città è stata portata per la cremazione. Il Comune
+  di Bergamo mette a disposizione i numeri 035.399514 e 035.399179 a coloro che cercano
+  informazioni sui propri cari deceduti residenti in città.
+Link: https://twitter.com/comunedibergamo/status/1245765797194145792?s=21
+Posizione: 45.711034 9.672947 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2287,594584526,2020-04-05 22:40:33,2020-04-05 18:18:14,ASL di #Alessandria cerca medici specializzati in Anestesia e Rianimazione,44.83495335,8.745030418605866,Piemonte,Alessandria,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Asl di Alessandria cerca con urgenza medici anestesisti"", ""Descrizione"": ""L\u2019ASL di Alessandria lancia un appello attraverso le pagine dei giornali e dei social media: servono medici anestesisti, anche in pensione. Le Rianimazioni sono in emergenza, implementiamo il numero di posti letto perch\u00e9 aumentano i pazienti gravi che devono essere intubati, ma abbiamo bisogno di personale medico specializzato in Anestesia e Rianimazione. Aiutateci a diffondere questo importante messaggio per salvare delle vite. L\u2019ufficio assunzioni dell\u2019ASL AL \u00e8 contattabile telefonicamente al 0143 332290."", ""Destinatari"": ""Medici anestesisti"", ""Indirizzo"": ""45.020793 8.615985 0 0"", ""Link"": ""http://www.aslal.it/appello-anestesisti"", ""Nome"": ""Asl Alessandria"", ""Posizione"": ""44.83495335 8.745030418605866 0 0"", ""Telefono"": ""0143 332290""}","<pre><yamldata>
+Cosa: Asl di Alessandria cerca con urgenza medici anestesisti
+Descrizione: 'L’ASL di Alessandria lancia un appello attraverso le pagine dei giornali
+  e dei social media: servono medici anestesisti, anche in pensione. Le Rianimazioni
+  sono in emergenza, implementiamo il numero di posti letto perché aumentano i pazienti
+  gravi che devono essere intubati, ma abbiamo bisogno di personale medico specializzato
+  in Anestesia e Rianimazione.
+  Aiutateci a diffondere questo importante messaggio per salvare delle vite.
+  L’ufficio assunzioni dell’ASL AL è contattabile telefonicamente al 0143 332290.'
+Destinatari: Medici anestesisti
+Indirizzo: 45.020793 8.615985 0 0
+Link: http://www.aslal.it/appello-anestesisti
+Nome: Asl Alessandria
+Telefono: 0143 332290
+Posizione: 44.83495335 8.745030418605866 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2286,594582890,2020-04-05 21:42:22,2020-04-05 18:10:37,"""Una gallina domani"", sito web per sostenere con voucher prepagati gli esercizi commerciali della provincia di #Avellino",40.914713,14.792404,Campania,Avellino,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gruppo di lavoro volontario"", ""Descrizione"": ""\""Una gallina domani\"" \u00e8 un\u2019azione di partecipazione.\n\nMentre siamo in casa e sogniamo il futuro, perch\u00e9 non cominciamo a dargli una forma?\nLe attivit\u00e0 commerciali che coloravano la nostra vita, adesso sono chiuse per aiutare noi.\n\nPerch\u00e9, allora, pensando a loro, non trasformiamo i nostri desideri in un\u2019azione concreta?\n\nQuante cose ci piacerebbe fare, una volta usciti di casa?\n Mangiare un gelato, una pizza, avere un nuovo taglio di capelli, fare un aperitivo, comprare dei fiori o una crema per il viso! Ci servir\u00e0 la benzina per macchina, rimettere a punto il motorino, aggiustare un elettrodomestico rotto. Vorremo avere frutta e verdura fresca, una torta, una bottiglia di vino per festeggiare! O preferiamo un viaggio? Magari senza andare troppo lontano, magari in bicicletta?\n\nQuante cose ci stanno mancando? E quanto sarebbe bello riappropriarsene insieme a tutti quelli che ci hanno accompagnato, in questi anni, offrendoci la loro professionalit\u00e0 e i loro prodotti?\n\nUna Gallina Domani nasce pensando a tutto questo: compriamo un \u201cuovo\u201d oggi per avere \u201cuna gallina domani\u201d: \u00e8 un piccolo gesto per stare insieme ai nostri commercianti e fare il modo che il futuro sia pi\u00f9 vicino, per tutti!\n\nLE REGOLE:\n\nDivideremo l\u2019elenco dei commercianti per Comune.\n\nPer ogni commerciante sar\u00e0 indicato un link, una email, un numero di telefono, una breve descrizione di prodotti o servizi forniti, un iban o un riferimento per poterlo ottenere.\n\nChi vorr\u00e0, potr\u00e0 contattare direttamente il commerciante e acquistare un buono per un importo a piacere, pagando con bonifico e indicando la causale \u201cUna gallina domani\u201d: il pagamento verr\u00e0 certificato e il negoziante invier\u00e0 una ricevuta-voucher con indicazione di tutti i dettagli.\n\nAl termine della quarantena, potr\u00e0 essere riscosso il voucher.\n\nDi seguito l\u2019elenco, sempre implementabile, dei commercianti aderenti da poter contattare, divisi per Comune.\n\nQuesto \u00e8 un servizio solidale, non ci sono spese, quindi chiediamo a tutti rispetto reciproco, lo chiediamo a chi compra e anche a chi vende; stiamo provando a darci una mano. Non \u00e8 una soluzione definitiva ma un modo per superare INSIEME questa crisi. Per provare a sospendere ma non a chiudere, per riaprire domani, sapendo che abbiamo contato sull'aiuto di tutti."", ""Destinatari"": ""Esercizi commerciali"", ""Link"": ""www.unagallinadomani.it"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""40.914713 14.792404 0 0"", ""Titolo"": ""Una gallina domani""}","<pre><yamldata>
+Da_chi_offerta: Gruppo di lavoro volontario
+Descrizione: ""\""Una gallina domani\"" è un’azione di partecipazione.\n\nMentre siamo\
+  \ in casa e sogniamo il futuro, perché non cominciamo a dargli una forma?\nLe attività\
+  \ commerciali che coloravano la nostra vita, adesso sono chiuse per aiutare noi.\n\
+  \nPerché, allora, pensando a loro, non trasformiamo i nostri desideri in un’azione\
+  \ concreta?\n\nQuante cose ci piacerebbe fare, una volta usciti di casa?\n Mangiare\
+  \ un gelato, una pizza, avere un nuovo taglio di capelli, fare un aperitivo, comprare\
+  \ dei fiori o una crema per il viso! Ci servirà la benzina per macchina, rimettere\
+  \ a punto il motorino, aggiustare un elettrodomestico rotto. Vorremo avere frutta\
+  \ e verdura fresca, una torta, una bottiglia di vino per festeggiare! O preferiamo\
+  \ un viaggio? Magari senza andare troppo lontano, magari in bicicletta?\n\nQuante\
+  \ cose ci stanno mancando? E quanto sarebbe bello riappropriarsene insieme a tutti\
+  \ quelli che ci hanno accompagnato, in questi anni, offrendoci la loro professionalità\
+  \ e i loro prodotti?\n\nUna Gallina Domani nasce pensando a tutto questo: compriamo\
+  \ un “uovo” oggi per avere “una gallina domani”: è un piccolo gesto per stare insieme\
+  \ ai nostri commercianti e fare il modo che il futuro sia più vicino, per tutti!\n\
+  \nLE REGOLE:\n\nDivideremo l’elenco dei commercianti per Comune.\n\nPer ogni commerciante\
+  \ sarà indicato un link, una email, un numero di telefono, una breve descrizione\
+  \ di prodotti o servizi forniti, un iban o un riferimento per poterlo ottenere.\n\
+  \nChi vorrà, potrà contattare direttamente il commerciante e acquistare un buono\
+  \ per un importo a piacere, pagando con bonifico e indicando la causale “Una gallina\
+  \ domani”: il pagamento verrà certificato e il negoziante invierà una ricevuta-voucher\
+  \ con indicazione di tutti i dettagli.\n\nAl termine della quarantena, potrà essere\
+  \ riscosso il voucher.\n\nDi seguito l’elenco, sempre implementabile, dei commercianti\
+  \ aderenti da poter contattare, divisi per Comune.\n\nQuesto è un servizio solidale,\
+  \ non ci sono spese, quindi chiediamo a tutti rispetto reciproco, lo chiediamo a\
+  \ chi compra e anche a chi vende; stiamo provando a darci una mano. Non è una soluzione\
+  \ definitiva ma un modo per superare INSIEME questa crisi. Per provare a sospendere\
+  \ ma non a chiudere, per riaprire domani, sapendo che abbiamo contato sull'aiuto\
+  \ di tutti.""
+Destinatari: Esercizi commerciali
+Link: www.unagallinadomani.it
+Natura: sostegno-lavor
+Posizione: 40.914713 14.792404 0 0
+Titolo: Una gallina domani
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2285,594538490,2020-04-05 18:13:14,2020-04-05 16:19:36,"Regione #Piemonte, attenzione alla falsa ordinanza denominata “decreto n. 37 del 5 aprile 2020”",,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Falsa ordinanza Regione#Piemonte"", ""Descrizione"": ""Si comunica che sta circolando una falsa ordinanza denominata decreto n. 37 del 5 aprile 2020. Si prega di non diffonderla e di controllare sempre l'ufficialit\u00e0 delle notizie sul sito www.regione.piemonte.it e sui canali social ufficiali dell\u2019Ente."", ""Link"": ""https://www.regione.piemonte.it/web/amministrazione/attenzione-circola-rete-una-falsa-ordinanza-della-regione""}","<pre><yamldata>
 Cosa: Falsa ordinanza Regione#Piemonte
 Descrizione: Si comunica che sta circolando una falsa ordinanza denominata decreto
@@ -6,7 +126,39 @@ Descrizione: Si comunica che sta circolando una falsa ordinanza denominata decre
   delle notizie sul sito www.regione.piemonte.it e sui canali social ufficiali dell’Ente.
 Link: https://www.regione.piemonte.it/web/amministrazione/attenzione-circola-rete-una-falsa-ordinanza-della-regione
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2281,594480421,2020-04-05 18:40:34,2020-04-05 14:21:10,BLQ Checkpoint garantisce ascolto e sostegno telefonico alle persone Lgbt #Bologna,44.500628,11.340488,Emilia-Romagna,Bologna,"[""Bollettino"", ""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""PLUS aps"", ""Descrizione"": ""Il BLQ Checkpoint resta chiuso fino a nuova ordinanza, ma tutti i volontari restano a disposizione per un colloquio di ascolto e sostegno telefonico. Il numero verde dedicato 800 586992 \u00e8 attivo lun-ven 18-20"", ""Destinatari"": ""Persone LGBT"", ""Link"": ""https://www.blqcheckpoint.it/"", ""Natura"": ""solidale"", ""Posizione"": ""44.500628 11.340488"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Siamo in tuo ascolto""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2283,594499221,2020-04-05 19:39:09,2020-04-05 14:58:03,Comune di #Bergamo - Incontri gratuiti per affrontare il rientro a casa e i primi nuovi bisogni di neonati e/o mamme,45.700246,9.674304,Lombardia,Bergamo,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Donne"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bergamo"", ""Descrizione"": ""Incontri gratuiti per affrontare insieme il rientro a casa e i primi nuovi bisogni dei neonati/e e delle loro mamme in questo periodo di emergenza COVID-19:\nhttp://bambiniegenitori.bergamo.it/files/news/Essere-mamme-online-2-ultimo-_1_-_5_.jpg"", ""Destinatari"": ""a tutte le neo mamme dell\u2019ambito 1 di Bergamo"", ""Link"": ""http://bambiniegenitori.bergamo.it/news/incontri-online-con-le-ostetriche-e-le-educatrici-del-progetto-essere-mamme"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.700246 9.674304 236.41081619262695 32"", ""Titolo"": ""Incontri on Line con ostetriche ed educatrici del progetto ESSERE MAMME""}","<pre><yamldata>
+Da_chi_offerta: Comune di Bergamo
+Descrizione: 'Incontri gratuiti per affrontare insieme il rientro a casa e i primi
+  nuovi bisogni dei neonati/e e delle loro mamme in questo periodo di emergenza COVID-19:
+
+  http://bambiniegenitori.bergamo.it/files/news/Essere-mamme-online-2-ultimo-_1_-_5_.jpg'
+Destinatari: a tutte le neo mamme dell’ambito 1 di Bergamo
+Link: http://bambiniegenitori.bergamo.it/news/incontri-online-con-le-ostetriche-e-le-educatrici-del-progetto-essere-mamme
+Natura: culturale-ricr
+Posizione: 45.700246 9.674304 236.41081619262695 32
+Titolo: Incontri on Line con ostetriche ed educatrici del progetto ESSERE MAMME
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2282,594495944,2020-04-05 21:45:53,2020-04-05 14:51:44,#Bergamo Racconta: raccolta di testimonianze sull’emergenza coronavirus,45.699945,9.685135,Lombardia,Bergamo,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bergamo  Serena Cooperativa sociale e Alchimia societ\u00e0 cooperativa sociale"", ""Descrizione"": ""Il #ComunediBergamo, insieme a Serena Cooperativa Sociale e Alchimia Societ\u00e0 Cooperativa Sociale in ati, attiva la raccolta di materiali e testimonianze #Bergamoracconta.\nRaccogliamo i vostri pensieri, foto, video, poesie, disegni: fateci sapere come state ora e cosa sperate per il futuro. \n\nCustodiremo le vostre testimonianze, ci rifletteremo per coglierne suggerimenti per le priorit\u00e0 della nostra comunit\u00e0, le raccoglieremo e sistemeremo per poterle rendere pubbliche, con il vostro consenso, anche quando ci saremo lasciati alle spalle questa emergenza.\n \nSar\u00e0 utile a tutti per ripartire senza dimenticare e anzi per cogliere insieme l'eccezionalit\u00e0 di queste settimane, per lasciare traccia anche a chi avr\u00e0 avuto la fortuna di guardare da lontano la nostra esperienza.\nManda una mail a :\nbergamoracconta@comune.bg.it\n\n#coronavirus | #Bergamo"", ""Link"": ""https://www.facebook.com/505031739640819/posts/1893641624113150/?d=n"", ""Natura"": ""solidale"", ""Posizione"": ""45.699945 9.685135 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""#bergamoracconta""}","<pre><yamldata>
+Da_chi_offerta: Comune di Bergamo  Serena Cooperativa sociale e Alchimia società cooperativa
+  sociale
+Descrizione: ""Il #ComunediBergamo, insieme a Serena Cooperativa Sociale e Alchimia\
+  \ Società Cooperativa Sociale in ati, attiva la raccolta di materiali e testimonianze\
+  \ #Bergamoracconta.\nRaccogliamo i vostri pensieri, foto, video, poesie, disegni:\
+  \ fateci sapere come state ora e cosa sperate per il futuro. \n\nCustodiremo le\
+  \ vostre testimonianze, ci rifletteremo per coglierne suggerimenti per le priorità\
+  \ della nostra comunità, le raccoglieremo e sistemeremo per poterle rendere pubbliche,\
+  \ con il vostro consenso, anche quando ci saremo lasciati alle spalle questa emergenza.\n\
+  \ \nSarà utile a tutti per ripartire senza dimenticare e anzi per cogliere insieme\
+  \ l'eccezionalità di queste settimane, per lasciare traccia anche a chi avrà avuto\
+  \ la fortuna di guardare da lontano la nostra esperienza.\nManda una mail a :\n\
+  bergamoracconta@comune.bg.it\n\n#coronavirus | #Bergamo""
+Link: https://www.facebook.com/505031739640819/posts/1893641624113150/?d=n
+Natura: solidale
+Posizione: 45.699945 9.685135 0 0
+Tipo_di_soggetto: pubblico
+Titolo: '#bergamoracconta'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2281,594480421,2020-04-05 21:03:08,2020-04-05 14:21:10,BLQ Checkpoint garantisce ascolto e sostegno telefonico alle persone Lgbt #Bologna,44.500628,11.340488,Emilia-Romagna,Bologna,"[""Bollettino"", ""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""PLUS aps"", ""Descrizione"": ""Il BLQ Checkpoint resta chiuso fino a nuova ordinanza, ma tutti i volontari restano a disposizione per un colloquio di ascolto e sostegno telefonico. Il numero verde dedicato 800 586992 \u00e8 attivo lun-ven 18-20"", ""Destinatari"": ""Persone LGBT"", ""Link"": ""https://www.blqcheckpoint.it/"", ""Natura"": ""solidale"", ""Posizione"": ""44.500628 11.340488"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Siamo in tuo ascolto""}","<pre><yamldata>
 Da_chi_offerta: PLUS aps
 Descrizione: 'Il BLQ Checkpoint resta chiuso fino a nuova ordinanza, ma tutti i volontari
   restano a disposizione per un colloquio di ascolto e sostegno telefonico.
@@ -1026,7 +1178,7 @@ Posizione: 41.467187 12.903807 0 0
 Tipo_di_soggetto: pubblico
 Titolo: Supporto psico-pedagogico ai minori e alle famiglie
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2213,593504120,2020-04-03 19:54:28,2020-04-03 16:35:49,Raccolta fondi per dispositivi di sicurezza individuali per infermieri della RSA Villa Giulia #Roma,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Descrizione"": ""Gli infermieri della RSA Villa Giulia di Roma hanno organizzato una raccolta fondi per comprare dispositivi di protezione individuale per se e per altre cliniche che si trovano nella nostra stessa situazione. Avere un gran numero di dispositivi di protezione individuale significa tutelare il personale ed i pazienti riuscendo ad azzerare i contagi e non occupare di conseguenza posti letto negli ospedali adibiti alla lotta al covid-19."", ""Email"": ""luca.tessecini@gmail.com"", ""Link"": ""https://www.gofundme.com/f/aiutiamo-le-rsa?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"", ""Nome"": ""Luca Tessecini (RSA Villa Giulia)"", ""posizione"": ""41.840133, 12.422376""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2213,593504120,2020-04-03 19:54:28,2020-04-03 16:35:49,Raccolta fondi per dispositivi di sicurezza individuali per infermieri della RSA Villa Giulia #Roma,"41.840133,",12.422376,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Descrizione"": ""Gli infermieri della RSA Villa Giulia di Roma hanno organizzato una raccolta fondi per comprare dispositivi di protezione individuale per se e per altre cliniche che si trovano nella nostra stessa situazione. Avere un gran numero di dispositivi di protezione individuale significa tutelare il personale ed i pazienti riuscendo ad azzerare i contagi e non occupare di conseguenza posti letto negli ospedali adibiti alla lotta al covid-19."", ""Email"": ""luca.tessecini@gmail.com"", ""Link"": ""https://www.gofundme.com/f/aiutiamo-le-rsa?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"", ""Nome"": ""Luca Tessecini (RSA Villa Giulia)"", ""posizione"": ""41.840133, 12.422376""}","<pre><yamldata>
 Descrizione: Gli infermieri della RSA Villa Giulia di Roma hanno organizzato
   una raccolta fondi per comprare dispositivi di protezione individuale per se e
   per altre cliniche che si trovano nella nostra stessa situazione. Avere un gran numero di dispositivi 
@@ -1038,7 +1190,7 @@ Link: https://www.gofundme.com/f/aiutiamo-le-rsa?utm_source=customer&utm_medium=
 Nome: Luca Tessecini (RSA Villa Giulia)
 posizione: 41.840133, 12.422376
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2212,593494226,2020-04-03 19:44:24,2020-04-03 16:18:44,Cercasi pc e tablet per didattica a distanza #Roma,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""CsOa eXSnia"", ""Descrizione"": ""Appello alle aziende che hanno dispositivi perfettamente funzionanti in deposito, ai rivenditori con giacenze di computer e tablet non obsoleti invenduti e ai singoli che vogliano donare un dispositivo per garantire un pc o un tablet a ogni bambino e a ogni bambina frequentate le scuole primarie del quartiere 7 Prenestino - Labicano e permettere a tutti di seguire la didattica a distanza."", ""Destinatari"": ""Studenti scuole primarie quartiere 7 Prenestino - Labicano"", ""Link"": ""https://www.exsnia.org/a-casa-come-a-scuola-nessuno-escluso/?fbclid=IwAR0IFBlr-mfabrYElEWUGQ1jy9csNlnJ1vePDSfooorg2D16JdpiHF-UH9w"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta pc/ tablet per didattica a distanza"", ""posizione"": ""41.89292865,12.535635428268641 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2212,593494226,2020-04-03 19:44:24,2020-04-03 16:18:44,Cercasi pc e tablet per didattica a distanza #Roma,"41.89292865,12.535635428268641",0,,,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""CsOa eXSnia"", ""Descrizione"": ""Appello alle aziende che hanno dispositivi perfettamente funzionanti in deposito, ai rivenditori con giacenze di computer e tablet non obsoleti invenduti e ai singoli che vogliano donare un dispositivo per garantire un pc o un tablet a ogni bambino e a ogni bambina frequentate le scuole primarie del quartiere 7 Prenestino - Labicano e permettere a tutti di seguire la didattica a distanza."", ""Destinatari"": ""Studenti scuole primarie quartiere 7 Prenestino - Labicano"", ""Link"": ""https://www.exsnia.org/a-casa-come-a-scuola-nessuno-escluso/?fbclid=IwAR0IFBlr-mfabrYElEWUGQ1jy9csNlnJ1vePDSfooorg2D16JdpiHF-UH9w"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta pc/ tablet per didattica a distanza"", ""posizione"": ""41.89292865,12.535635428268641 0 0""}","<pre><yamldata>
 Da_chi_offerta: CsOa eXSnia
 Descrizione: Appello alle aziende che hanno dispositivi perfettamente funzionanti
   in deposito, ai rivenditori con giacenze di computer e tablet non obsoleti invenduti
@@ -3040,52 +3192,33 @@ Link: https://try.fender.com/play/playthrough/
 Natura: culturale-ricr
 Titolo: Lezioni di chitarra online gratuite
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2068,591711489,2020-04-01 10:49:50,2020-04-01 08:07:32,Comune #SanStinodiLivenza #Venezia Elenco di farmacie e negozi che consegnano gratuitamente a domicilio farmaci e spesa,45.730432,12.679926,Veneto,Venezia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di San Stino di Livenza"", ""Descrizione"": ""Medicinali:\nFarmacia Zago La Salute di Livenza \u2013 0421/80334\nFarmacia Moretto San Stino di Livenza \u2013 0421/310140\nFarmacia Fedrizzi Corbolone \u2013 0421/461711\nOppure contattando il n.verde nazionale CRI per le Persone 800 065510 attivo h24\n\nGeneri alimentari:\nMacelleria Battistella San Stino di Livenza - 333/1509000 329/2240460\nMaxi San Stino di Livenza \u2013 0421/460084\nMaxi San Giorgio di Livenza \u2013 0421/649773\nPanificio Forno al Bivio \u2013 0421/311848\nMarket A&O San Stino di Livenza \u2013 0421/310778\nMacelleria Da Aroldo San Stino di Livenza \u2013 3404094447\nPanificio Dolce Salato San Stino di Livenza \u2013 392/6319413\nIl Pesce San Stino di Livenza - 3927467654\nPanificio El forner /Stanchina San Stino di Livenza - 3454411953\nOrtofrutta da Nino San Giorgio di Livenza - 3384670899\nSupermercato Crai San Giorgio di Livenza - 0421 80237\nSerre Battistella San Stino di Livenza - 3285827916\nPanificio Panzarin Biverone - 3388156260\nSpaccio del Pesce San Stino di Livenza - 0421/312534\nPanificio Calvi La Salute di Livenza - 0421/80141\nGastronomia Andrea San Stino di Livenza - 0421/31202"", ""Destinatari"": ""Anziani, persone fragili e immunodepressi"", ""Link"": ""https://www.sanstino.it/index.php?area=19&menu=378&page=2273"", ""Natura"": ""solidale"", ""Posizione"": ""45.730432 12.679926 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio gratuito di consegna farmaci e spesa""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2068,591711489,2020-04-05 22:14:44,2020-04-01 08:07:32,Comune #SanStinodiLivenza #Venezia Elenco di farmacie e negozi che consegnano gratuitamente a domicilio,45.730432,12.679926,Veneto,Venezia,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Comune di San Stino di Livenza"", ""Descrizione"": ""Medicinali:\nFarmacia Zago La Salute di Livenza \u2013 0421/80334 Farmacia Moretto San Stino di Livenza \u2013 0421/310140 Farmacia Fedrizzi Corbolone \u2013 0421/461711 Oppure contattando il n. verde nazionale CRI per le Persone 800 065510 attivo h24\nGeneri alimentari: Macelleria Battistella San Stino di Livenza - 333/1509000 329/2240460 Maxi San Stino di Livenza \u2013 0421/460084 Maxi San Giorgio di Livenza \u2013 0421/649773 Panificio Forno al Bivio \u2013 0421/311848 Market A&O San Stino di Livenza \u2013 0421/310778 Macelleria Da Aroldo San Stino di Livenza \u2013 3404094447 Panificio Dolce Salato San Stino di Livenza \u2013 392/6319413 Il Pesce San Stino di Livenza - 3927467654 Panificio El forner /Stanchina San Stino di Livenza - 3454411953 Ortofrutta da Nino San Giorgio di Livenza - 3384670899 Supermercato Crai San Giorgio di Livenza - 0421 80237 Serre Battistella San Stino di Livenza - 3285827916 Panificio Panzarin Biverone - 3388156260 Spaccio del Pesce San Stino di Livenza - 0421/312534 Panificio Calvi La Salute di Livenza - 0421/80141 Gastronomia Andrea San Stino di Livenza - 0421/31202 Pizzeria Bella Italia La Salute di Livenza - 0421290144/3937191872"", ""Destinatari"": ""Anziani, persone fragili e immunodepressi"", ""Link"": ""https://www.sanstino.it/index.php?area=19&menu=378&page=2273"", ""Natura"": ""solidale"", ""Posizione"": ""45.730432 12.679926 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio gratuito di consegna farmaci e spesa""}","<pre><yamldata>
 Da_chi_offerta: Comune di San Stino di Livenza
 Descrizione: 'Medicinali:
 
   Farmacia Zago La Salute di Livenza – 0421/80334
-
   Farmacia Moretto San Stino di Livenza – 0421/310140
-
   Farmacia Fedrizzi Corbolone – 0421/461711
-
-  Oppure contattando il n.verde nazionale CRI per le Persone 800 065510 attivo h24
-
+  Oppure contattando il n. verde nazionale CRI per le Persone 800 065510 attivo h24
 
   Generi alimentari:
-
   Macelleria Battistella San Stino di Livenza - 333/1509000 329/2240460
-
   Maxi San Stino di Livenza – 0421/460084
-
   Maxi San Giorgio di Livenza – 0421/649773
-
   Panificio Forno al Bivio – 0421/311848
-
   Market A&O San Stino di Livenza – 0421/310778
-
   Macelleria Da Aroldo San Stino di Livenza – 3404094447
-
   Panificio Dolce Salato San Stino di Livenza – 392/6319413
-
   Il Pesce San Stino di Livenza - 3927467654
-
   Panificio El forner /Stanchina San Stino di Livenza - 3454411953
-
   Ortofrutta da Nino San Giorgio di Livenza - 3384670899
-
   Supermercato Crai San Giorgio di Livenza - 0421 80237
-
   Serre Battistella San Stino di Livenza - 3285827916
-
   Panificio Panzarin Biverone - 3388156260
-
   Spaccio del Pesce San Stino di Livenza - 0421/312534
-
   Panificio Calvi La Salute di Livenza - 0421/80141
-
-  Gastronomia Andrea San Stino di Livenza - 0421/31202'
+  Gastronomia Andrea San Stino di Livenza - 0421/31202
+  Pizzeria Bella Italia La Salute di Livenza - 0421290144/3937191872'
 Destinatari: Anziani, persone fragili e immunodepressi
 Link: https://www.sanstino.it/index.php?area=19&menu=378&page=2273
 Natura: solidale
@@ -3926,9 +4059,9 @@ Posizione: 45.44421 9.22435 0 0
 Tipo_di_soggetto: privato
 Titolo: IO TI AIUTO - spesa, farmaci e piccoli servizi a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1958,590196101,2020-03-30 18:53:04,2020-03-30 10:58:18,Ass. Karmadonne cerca info per distribuire e far ritirare mascherine in sicurezza #Carmagnola #Torino,44.84695,7.71787,Piemonte,Torino,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Richiesta informazioni"", ""Descrizione"": ""Ciao ! Faccio parte di un'Associazione di Promozione Sociale di Carmagnola. Alcune sarte socie volontarie stanno confezionando mascherine in tessuto lavabile per i cittadini di Carmagnola. Ci stanno arrivando tantissime richieste e per ora le persone vengono nella nostra sede a ritirarle. Vorrei chiedere a chi confeziona, raccoglie e distribuisce mascherine come realizza in sicurezza e in maniera regolare la DISTRIBUZIONE da parte dell'associazione e il RITIRO da parte dei cittadini. Come si diventa punto di distribuzione regolare? A chi ci si rivolge per ufficializzare la propria posizione come punto di distribuzione?"", ""Destinatari"": ""Chi confeziona / chi distribuisce mascherine"", ""Email"": ""nietta.posadinu@gmail.com"", ""Nome"": ""Nietta Posadinu"", ""Posizione"": ""44.84695 7.71787 0 0"", ""Telefono"": ""3334658763""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1958,590196101,2020-04-05 21:02:47,2020-03-30 10:58:18,Ass. Karmadonne cerca info per distribuire e far ritirare mascherine in sicurezza #Carmagnola #Torino,44.84695,7.71787,Piemonte,Torino,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Richiesta informazioni"", ""Descrizione"": ""Ciao! Faccio parte di un'Associazione di Promozione Sociale di Carmagnola. Alcune sarte socie volontarie stanno confezionando mascherine in tessuto lavabile per i cittadini di Carmagnola. Ci stanno arrivando tantissime richieste e per ora le persone vengono nella nostra sede a ritirarle. Vorrei chiedere a chi confeziona, raccoglie e distribuisce mascherine come realizza in sicurezza e in maniera regolare la DISTRIBUZIONE da parte dell'associazione e il RITIRO da parte dei cittadini. Come si diventa punto di distribuzione regolare? A chi ci si rivolge per ufficializzare la propria posizione come punto di distribuzione?"", ""Destinatari"": ""Chi confeziona / chi distribuisce mascherine"", ""Email"": ""nietta.posadinu@gmail.com"", ""Nome"": ""Nietta Posadinu"", ""Posizione"": ""44.84695 7.71787 0 0"", ""Telefono"": ""3334658763""}","<pre><yamldata>
 Cosa: Richiesta informazioni
-Descrizione: 'Ciao !
+Descrizione: 'Ciao!
   Faccio parte di un''Associazione di Promozione Sociale di Carmagnola. Alcune sarte
   socie volontarie stanno confezionando mascherine in tessuto lavabile per i cittadini
   di Carmagnola. Ci stanno arrivando tantissime richieste e per ora le persone vengono
@@ -22720,7 +22853,7 @@ regione: Calabria
 tag: Raccolta fondi
 Posizione: 39.59669 16.33306
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-13 15:49:07,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,,,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""posizione"": ""44.4928075 11.3619239 0 0"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-13 15:49:07,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,44.4928075,11.3619239,Emilia-Romagna,Bologna,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""posizione"": ""44.4928075 11.3619239 0 0"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
 comune: Bologna
 contatti: ''
 descrizione: ""Raccolta fondi per Ospedale Sant\xD3rsola-Malpighi""
