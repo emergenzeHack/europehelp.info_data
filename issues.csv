@@ -1,4 +1,33 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2310,595139970,2020-04-06 15:27:44,2020-04-06 13:57:29,"Centro Antiviolenza I-Dea, colloqui online H24 per supporto donne italiane e straniere #Maccarese #Roma",41.87736,12.214961,Lazio,Roma,"[""Bollettino"", ""Donne"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Be Free Cooperativa Sociale contro tratta, violenze, discriminazioni"", ""Descrizione"": ""Il Centro Antiviolenza I-Dea \u00e8 un servizio attivo H24: si propone come un punto di riferimento per donne italiane e straniere che si trovano in situazioni di violenza. Accoglie richieste di \u2019ascolto e sostegno, offre informazioni e percorsi di consulenza psico-sociale. Si interfaccia con forze dell'ordine e servizi istituzionali per l'attivazione di procedure per accoglienza e la messa in protezione in situazioni di emergenza. Elabora con le donne che vi si rivolgono progetti di fuoriuscita dalla violenza e richieste di ospitalit\u00e0. \u00c8 collegato alla linea telefonica nazionale antiviolenza 1522.\nEffettua colloqui telefonici, colloqui a distanza via Skype e colloqui face to face. Fornisce un primo orientamento al sistema legale  e si occupa dell'attivazione di reti territoriali di sostegno e accompagnamento. Il colloquio con l\u2019operatrice \u00e8 un luogo di confronto dove ogni donna ha la possibilit\u00e0 di svolgere un esame realistico delle possibilit\u00e0 concrete per la realizzazione dei propri obiettivi e per proteggersi dalla violenza. Sostiene i bambini e le bambine che hanno subito violenze e abusi, o che hanno assistito a violenze contro la propria madre.\nIl Centro Antiviolenza ha sede a Maccarese e lavora in partenariato con il Comune di Fiumicino. L'erogazione dei servizi non \u00e8 vincolata al luogo di residenza delle donne che ne fanno richiesta."", ""Destinatari"": ""Donne maggiorenni italiane e straniere  che hanno subito violenze e abusi"", ""Link"": ""http://www.befreecooperativa.org/"", ""Natura"": ""solidale"", ""Posizione"": ""41.87736 12.214961 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centro Antiviolenza I-Dea""}","<pre><yamldata>
+Da_chi_offerta: Be Free Cooperativa Sociale contro tratta, violenze, discriminazioni
+Descrizione: 'Il Centro Antiviolenza I-Dea è un servizio attivo H24: si propone come
+  un punto di riferimento per donne italiane e straniere che si trovano in situazioni
+  di violenza. Accoglie richieste di ’ascolto e sostegno, offre informazioni e percorsi
+  di consulenza psico-sociale. Si interfaccia con forze dell''ordine e servizi istituzionali
+  per l''attivazione di procedure per accoglienza e la messa in protezione in situazioni
+  di emergenza. Elabora con le donne che vi si rivolgono progetti di fuoriuscita dalla
+  violenza e richieste di ospitalità. È collegato alla linea telefonica nazionale
+  antiviolenza 1522.
+
+  Effettua colloqui telefonici, colloqui a distanza via Skype e colloqui face to face.
+  Fornisce un primo orientamento al sistema legale  e si occupa dell''attivazione
+  di reti territoriali di sostegno e accompagnamento. Il colloquio con l’operatrice
+  è un luogo di confronto dove ogni donna ha la possibilità di svolgere un esame realistico
+  delle possibilità concrete per la realizzazione dei propri obiettivi e per proteggersi
+  dalla violenza. Sostiene i bambini e le bambine che hanno subito violenze e abusi,
+  o che hanno assistito a violenze contro la propria madre.
+
+  Il Centro Antiviolenza ha sede a Maccarese e lavora in partenariato con il Comune
+  di Fiumicino. L''erogazione dei servizi non è vincolata al luogo di residenza delle
+  donne che ne fanno richiesta.'
+Destinatari: Donne maggiorenni italiane e straniere  che hanno subito violenze e abusi
+Link: http://www.befreecooperativa.org/
+Natura: solidale
+Posizione: 41.87736 12.214961 0 0
+Tipo_di_soggetto: privato
+Titolo: Centro Antiviolenza I-Dea
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2308,595084291,2020-04-06 15:14:04,2020-04-06 12:43:16,"Servizio gratuito di consegna a domicilio di farmaci, spesa e pasti caldi per over 65 #SanDonatoMilanese #Milano",45.416919,9.265669,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""COMUNE DI SAN DONATO MILANESE IN COLLABORAZIONE CON CRI E PROTEZIONE CIVILE"", ""Descrizione"": ""Un servizio emergenziale per aiutare le persone pi\u00f9 esposte al coronavirus prive di una rete di supporto familiare. Per richiedere il servizio: LUN - GIOV (8-17) e VEN (8-13): 02 52772327/02 52772328. Nei restanti orari 02 5272137.\nPer ulteriori informazioni sull'emergenza, \u00e8 possibile contattare il numero verde attivo h24 \""CRI PER LE PERSONE\"" 800 065510."", ""Destinatari"": ""Cittadini sandonatesi ultrasessantacinquenni che hanno necessit\u00e0 di ricevere pasti, spesa e farmaci a domicilio, non avendo supporto familiare."", ""Link"": ""www.comune.sandonatomilanese.mi.it"", ""Natura"": ""solidale"", ""Posizione"": ""45.416919 9.265669 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""FARMACI, SPESA, PASTI CALDI A DOMICILIO PER GLI OVER 65""}","<pre><yamldata>
 Da_chi_offerta: COMUNE DI SAN DONATO MILANESE IN COLLABORAZIONE CON CRI E PROTEZIONE
   CIVILE
