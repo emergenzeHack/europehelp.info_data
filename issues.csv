@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2313,595203760,2020-04-06 16:51:02,2020-04-06 15:18:16,"Regione Piemonte, decreto n.39 del 6 aprile sull’uso di mascherine e guanti",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""proroga delle misure di contenimento al Coronavirus della Regione Piemonte"", ""Descrizione"": ""Da mercoled\u00ec 8 aprile 2020 sar\u00e0 obbligatorio per il personale addetto alla vendita l\u2019uso di dispositivi di protezione quali mascherina e guanti. \u00c8 raccomandato ai singoli cittadini che entreranno in un esercizio commerciale o accederanno ad aree mercatali di utilizzare la mascherina o qualsiasi altro indumento a copertura di naso e bocca."", ""Fonte"": ""Regione Piemonte"", ""Link"": ""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-04/decreto_presidente_della_giunta_regionale_n._39_-_6_aprile_2020.pdf""}","<pre><yamldata>
+Cosa: proroga delle misure di contenimento al Coronavirus della Regione Piemonte
+Descrizione: 'Da mercoledì 8 aprile 2020 sarà obbligatorio per il personale addetto
+  alla vendita l’uso di dispositivi di protezione quali mascherina e guanti. È raccomandato ai singoli cittadini che entreranno in un esercizio commerciale
+  o accederanno ad aree mercatali di utilizzare la mascherina o qualsiasi altro indumento
+  a copertura di naso e bocca.'
+Fonte: Regione Piemonte
+Link: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2020-04/decreto_presidente_della_giunta_regionale_n._39_-_6_aprile_2020.pdf
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2312,595192692,2020-04-06 16:47:46,2020-04-06 15:04:17,Regione Lazio: tutti gli atti prodotti a seguito dell’emergenza coronavirus ,,,,,"[""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""#RegioneLAZIO Interventi straordinari e di emergenza EMERGENZA CORONAVIRUS"", ""Descrizione"": ""In questa pagina sono raccolti gli atti prodotti dalla Regione Lazio a seguito dell'emergenza. Si tratta di tutte le Determinazioni di spesa in emergenza, per lo pi\u00f9 volti all'acquisto dei Dispositivi di Protezione Personale"", ""Fonte"": ""Amministrazione Trasparente - Regione Lazio"", ""Link"": ""https://www.covid19italia.help/segnala/documenti-dati""}","<pre><yamldata>
 Cosa: '#RegioneLAZIO Interventi straordinari e di emergenza EMERGENZA CORONAVIRUS'
 Descrizione: 'In questa pagina sono raccolti gli atti prodotti dalla Regione Lazio a seguito dell''emergenza.
