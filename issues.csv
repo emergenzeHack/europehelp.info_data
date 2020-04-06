@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2296,594798792,2020-04-06 13:07:20,2020-04-06 04:45:49,Cestini o borse con generi di prima necessità e materiali utili nei quartieri Bovisa e Dergano a #Milano,45.50382,9.16919,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Mamusca, Nuovo Armenia, Rob de Matt, La Scighera, Fondazione Condivivere"", ""Descrizione"": ""Cestini in vimini, ma anche borse di stoffa o di carta. Purch\u00e9 contengano cibo e beni di prima necessit\u00e0 per aiutare le persone in difficolt\u00e0 a causa dell\u2019emergenza coronavirus. Dal quartiere Bovisa a Dergano, a Milano sono comparsi cestini sospesi che pendono dai balconi o alle finestre dei palazzi, con dentro confezioni di prodotti alimentari, per l\u2019igiene personale, quaderni, pennarelli, libri. Sono prodotti messi a disposizione per le persone rimaste senza lavoro o senza la possibilit\u00e0 di andare a fare la spesa. Su questa scia \u00e8 nata anche l\u2019iniziativa di solidariet\u00e0 #cestesospese, sostenuta da Mamusca, Nuovo Armenia, Rob de Matt, La Scighera, Fondazione Condivivere. L\u2019obiettivo: invitare chi ne ha la possibilit\u00e0 a riempire la cesta e chi \u00e8 in difficolt\u00e0 di prenderne il contenuto. Per aderire all\u2019iniziativa \u00e8 possibile scrivere a info@mamusca.it. E anche in via Vincenzo Monti \u00e8 appeso al balcone di un palazzo un cesto solidale."", ""Destinatari"": ""Abitanti Degano Bovisa"", ""Link"": ""https://goo.gl/maps/HxxgsXk4NTsZZ3Yq9"", ""Natura"": ""solidale"", ""Posizione"": ""45.50382 9.16919 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ceste sospese quartiere Dergano Bovisa #Milano""}","<pre><yamldata>
+Da_chi_offerta: Mamusca, Nuovo Armenia, Rob de Matt, La Scighera, Fondazione Condivivere
+Descrizione: 'Cestini in vimini, ma anche borse di stoffa o di carta. Purché contengano
+  cibo e beni di prima necessità per aiutare le persone in difficoltà a causa dell’emergenza
+  coronavirus. Dal quartiere Bovisa a Dergano, a Milano sono comparsi cestini sospesi
+  che pendono dai balconi o alle finestre dei palazzi, con dentro confezioni di prodotti
+  alimentari, per l’igiene personale, quaderni, pennarelli, libri. Sono prodotti messi
+  a disposizione per le persone rimaste senza lavoro o senza la possibilità di andare
+  a fare la spesa. Su questa scia è nata anche l’iniziativa di solidarietà #cestesospese,
+  sostenuta da Mamusca, Nuovo Armenia, Rob de Matt, La Scighera, Fondazione Condivivere.
+  L’obiettivo: invitare chi ne ha la possibilità a riempire la cesta e chi è in difficoltà
+  di prenderne il contenuto. Per aderire all’iniziativa è possibile scrivere a info@mamusca.it.
+  E anche in via Vincenzo Monti è appeso al balcone di un palazzo un cesto solidale.'
+Destinatari: Abitanti Degano Bovisa
+Posizione: 45.50382 9.16919 0 0
+Link: https://goo.gl/maps/HxxgsXk4NTsZZ3Yq9
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Ceste sospese quartiere Dergano Bovisa #Milano'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2295,594796890,2020-04-06 12:59:45,2020-04-06 04:40:11,"Produzione e distribuzione mascherine di ""cucitrici"" volontarie a #Bagnasco #Ceva #Igliano #Lesegno #San Michele #Niella (CN)",44.30133,8.04314,Piemonte,Cuneo,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Unione cucitrici volontarie"", ""Descrizione"": ""Sono un gruppo di \""cucitrici\"" volontarie di Bagnasco, Ceva, Igliano, Lesegno, San Michele, Niella Tanaro. (Tanaria Provincia di Cuneo). Cuciono mascherine per chi ne ha necessit\u00e0. Sono mascherine in nylon siliconato riutilizzabili, lavabili ma senza usare vantaggio n\u00e9 ferro da stiro."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/100408011633731/posts/100408414967024/"", ""Natura"": ""solidale"", ""Posizione"": ""44.30133 8.04314 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Unione cucitrici volontarie""}","<pre><yamldata>
 Da_chi_offerta: Unione cucitrici volontarie
 Descrizione: Sono un gruppo di ""cucitrici"" volontarie di Bagnasco, Ceva, Igliano,
