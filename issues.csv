@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2327,595430831,2020-04-07 07:51:52,2020-04-06 21:12:27,Il Comune di #Livorno e le associazioni della zona cercano volontari ,43.554022,10.319424,Toscana,Livorno,"[""Bollettino"", ""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Livorno"", ""Descrizione"": ""Vuoi mettere il tuo tempo a disposizione di  un\u2019associazione impegnata nell\u2019emergenza? \nScrivi all\u2019ufficio Associazionismo del Comune all\u2019indirizzo associazioni@comune.livorno.it.\nPotrai avere informazioni sui soggetti che operano in maniera volontaria sul nostro territorio per aiutare i pi\u00f9 fragili e bisognosi, e  chiarimenti su quale tipo di attivit\u00e0 svolgono."", ""Destinatari"": ""Cittadini di Livorno"", ""Link"": ""http://www.comune.livorno.it/protezione-civile/coronavirus-informazioni-utili/come-aiutare-essere-aiutati-caso-bisogno-0"", ""Natura"": ""solidale"", ""Posizione"": ""43.554022 10.319424 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Livorno, chi contattare per svolgere volontariato durante l\u2019emergenza coronavirus""}","<pre><yamldata>
+Da_chi_offerta: Comune di Livorno
+Descrizione: ""Vuoi mettere il tuo tempo a disposizione di  un’associazione impegnata\
+  \ nell’emergenza? \nScrivi all’ufficio Associazionismo del Comune all’indirizzo\
+  \ associazioni@comune.livorno.it.\nPotrai avere informazioni sui soggetti che operano\
+  \ in maniera volontaria sul nostro territorio per aiutare i più fragili e bisognosi,\
+  \ e  chiarimenti su quale tipo di attività svolgono.""
+Destinatari: Cittadini di Livorno
+Link: http://www.comune.livorno.it/protezione-civile/coronavirus-informazioni-utili/come-aiutare-essere-aiutati-caso-bisogno-0
+Natura: solidale
+Posizione: 43.554022 10.319424 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Livorno, chi contattare per svolgere volontariato durante l’emergenza
+  coronavirus
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2326,595423415,2020-04-07 07:42:21,2020-04-06 20:58:29,"Ordinanza della Regione #Toscana introduce l’obbligo di mascherine su mezzi pubblici, taxi e nei negozi",,,,,"[""Bollettino"", ""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Regione Toscana, ordinanza n. 26, 6 aprile su obbligo mascherine"", ""Descrizione"": ""Con questa ordinanza la Regione Toscana introduce l\u2019obbligo di mascherine su mezzi pubblici, taxi e mezzi a noleggio con conducente, nei negozi e a fare la spesa, negli uffici e luoghi chiusi ma anche negli spazi all\u2019aperto frequentati da pi\u00f9 persone e dove \u00e8 obbligatorio il mantenimento della distanza sociale di sicurezza."", ""Fonte"": ""Regione Toscana"", ""Link"": ""http://www301.regione.toscana.it/bancadati/atti/Contenuto.xml?id=5249205&nomeFile=Ordinanza_del_Presidente_n.26_del_06-04-2020""}","<pre><yamldata>
 Cosa: Regione Toscana, ordinanza n. 26, 6 aprile su obbligo mascherine
 Descrizione: Con questa ordinanza la Regione Toscana introduce l’obbligo di mascherine
