@@ -1,4 +1,43 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2318,595235330,2020-04-07 07:21:53,2020-04-06 16:00:25,"Una piattaformaweb, un servizio Whatsapp e un numeroverde per assistere le imprese ad accedere agli strumenti del CuraItalia",38.12453,13.355083,Sicilia,Palermo,"[""Bollettino"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Una #piattaformaweb, un servizio #Whatsapp ed un #numeroverde per assistere le #imprese ed aiutarle ad accedere agli strumenti messi in campo dal #CuraItalia per affrontare l\u2019impatto economico dell\u2019emergenza sanitaria legata al Covid-19: dalla normativa sulle chiusure al lavoro fino al fisco, passando per credito e previdenza.\n\n\u00c8 il nuovo servizio di assistenza a distanza per gli #imprenditori e le #partiteIVA messo a disposizione da Confesercenti Palermo, ed attivo gi\u00e0 da oggi. \n\nChiamando il numero verde 800 620 506, mandando un messaggio Whatsapp al numero 345 2518051, o accedendo direttamente all\u2019indirizzo web curaitalia.confesercenti.it, le imprese potranno chiedere chiarimenti e ricevere assistenza dagli esperti Confesercenti su tutti gli aspetti dei provvedimenti relativi alle attivit\u00e0 economiche varati per l\u2019emergenza."", ""Email"": ""curaitalia@confesercenti.it"", ""Link"": ""http://www.confesercentipalermo.it/cura-italia-confesercenti-lancia-lassistenza-a-distanza-per-le-imprese/"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Assistenza a distanza per le #imprese a #Palermo -#ConfesercentiPalermo"", ""Posizione"": ""38.12453 13.355083 0 0"", ""Telefono"": ""800 620 506""}","<pre><yamldata>
+Descrizione: ""Una #piattaformaweb, un servizio #Whatsapp ed un #numeroverde per assistere\
+  \ le #imprese ed aiutarle ad accedere agli strumenti messi in campo dal #CuraItalia\
+  \ per affrontare l’impatto economico dell’emergenza sanitaria legata al Covid-19:\
+  \ dalla normativa sulle chiusure al lavoro fino al fisco, passando per credito e\
+  \ previdenza.\n\nÈ il nuovo servizio di assistenza a distanza per gli #imprenditori\
+  \ e le #partiteIVA messo a disposizione da Confesercenti Palermo, ed attivo già\
+  \ da oggi. \n\nChiamando il numero verde 800 620 506, mandando un messaggio Whatsapp\
+  \ al numero 345 2518051, o accedendo direttamente all’indirizzo web curaitalia.confesercenti.it,\
+  \ le imprese potranno chiedere chiarimenti e ricevere assistenza dagli esperti Confesercenti\
+  \ su tutti gli aspetti dei provvedimenti relativi alle attività economiche varati\
+  \ per l’emergenza.""
+Email: curaitalia@confesercenti.it
+Link: http://www.confesercentipalermo.it/cura-italia-confesercenti-lancia-lassistenza-a-distanza-per-le-imprese/
+Metodi_di_pagamento_accettati: contrassegno option_2 carta_prepagat contanti
+Nome_dell_esercizio_commercial: 'Assistenza a distanza per le #imprese a #Palermo
+  -#ConfesercentiPalermo'
+Posizione: 38.12453 13.355083 0 0
+Telefono: 800 620 506
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2317,595230765,2020-04-07 07:20:18,2020-04-06 15:54:08,Confesercenti a #Palermo mette a disposizione un numero per interventi di manutenzione in casa,38.124851,13.356006,Sicilia,Palermo,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Da un problema all\u2019 impianto elettrico, fino alla caldaia guasta o al climatizzatore che non funziona. \n\nConfesercenti Palermo \u00e8 pronta ad intervenire per risolvere qualunque problema che potrebbe rendere difficoltosa la permanenza dei cittadini in casa. \n\nL\u2019associazione, durante l\u2019emergenza sanitaria Covid-19, ha deciso infatti di mettere a disposizione degli utenti un numero di telefono da contattare in caso di necessit\u00e0: le richieste saranno smistate ad artigiani qualificati che interverranno tempestivamente a domicilio. \n\nGli esperti, indossando i dispositivi di protezione e rispettando le distanze previste, svolgeranno il lavoro in totale sicurezza. Un\u2019attivit\u00e0 nata da un\u2019idea di Antonino Porzio, titolare di una ditta termoidraulica che sar\u00e0 il punto di riferimento del servizio, da richiedere al \n\nnumero 091/2524416."", ""Email"": ""cnf@confesercentipalermo.it"", ""Link"": ""http://www.confesercentipalermo.it/coronavirus-gli-artigiani-di-confesercenti-a-domicilio-con-guanti-e-mascherine/"", ""Metodi_di_pagamento_accettati"": ""contanti"", ""Nome_dell_esercizio_commercial"": ""Servizio a Domicilio per i residenti a #Palermo -#ConfesercentiPalermo"", ""Posizione"": ""38.124851 13.356006 0 0"", ""Telefono"": ""0912524416""}","<pre><yamldata>
+Descrizione: ""Da un problema all’ impianto elettrico, fino alla caldaia guasta o al\
+  \ climatizzatore che non funziona. \n\nConfesercenti Palermo è pronta ad intervenire\
+  \ per risolvere qualunque problema che potrebbe rendere difficoltosa la permanenza\
+  \ dei cittadini in casa. \n\nL’associazione, durante l’emergenza sanitaria Covid-19,\
+  \ ha deciso infatti di mettere a disposizione degli utenti un numero di telefono\
+  \ da contattare in caso di necessità: le richieste saranno smistate ad artigiani\
+  \ qualificati che interverranno tempestivamente a domicilio. \n\nGli esperti, indossando\
+  \ i dispositivi di protezione e rispettando le distanze previste, svolgeranno il\
+  \ lavoro in totale sicurezza. Un’attività nata da un’idea di Antonino Porzio, titolare\
+  \ di una ditta termoidraulica che sarà il punto di riferimento del servizio, da\
+  \ richiedere al \n\nnumero 091/2524416.""
+Email: cnf@confesercentipalermo.it
+Link: http://www.confesercentipalermo.it/coronavirus-gli-artigiani-di-confesercenti-a-domicilio-con-guanti-e-mascherine/
+Metodi_di_pagamento_accettati: contanti
+Nome_dell_esercizio_commercial: 'Servizio a Domicilio per i residenti a #Palermo -#ConfesercentiPalermo'
+Posizione: 38.124851 13.356006 0 0
+Telefono: 0912524416
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2316,595222367,2020-04-07 07:18:22,2020-04-06 15:42:31,Galbusera S.p.A. effettua donazioni di colombe pasquali,45.57572,-350.658703,,,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""GALBUSERA spa"", ""Descrizione"": ""Galbusera S.p.A. ha manifestato disponibilit\u00e0 a  effettuare donazioni di colombe pasquali. \nContattare la sig.ra Giulia Avicoli al seguente numero di telefono: 351.7483365 o giulia.avicolli@galbusera.it. \n\nPer questioni organizzative  necessitano di ricevere le seguenti informazioni:\na)\tstima delle quantit\u00e0 \nb)\tpunto di consegna di prodotti omaggio, ovvero disponibilit\u00e0 al ritiro. \n\n\nPer contatti:\nGiulia Avicoli\nGALBUSERA SpA \nVia Marconi, 20  20864 Agrate Brianza MB \ncel.351.7483365\ntel:  039/63741"", ""Destinatari"": ""associazioni, onlus, ong"", ""Natura"": ""solidale"", ""Posizione"": ""45.57572 -350.658703 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""donazione colombe pasquali""}","<pre><yamldata>
 Da_chi_offerta: GALBUSERA spa
 Descrizione: ""Galbusera S.p.A. ha manifestato disponibilità a  effettuare donazioni\
