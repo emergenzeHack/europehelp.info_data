@@ -22852,15 +22852,13 @@ provincia: Cosenza
 regione: Calabria
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/132,578926031,2020-03-14 22:31:34,2020-03-10 23:53:42,Diventa Volontario Temporaneo della Croce Rossa Italiana,,,,,"[""Richiesta aiuto"", ""accettato""]",,,"{""chi"": ""Croce Rossa Italiana"", ""comune"": ""Italia"", ""contatti"": ""contattare il comitato locale oppure numero verde Sala Operativa 800 - 06 55 10"", ""descrizione"": ""La nuova iniziativa di Croce Rossa si chiama Il Tempo della Gentilezza, ovvero consegna gratuita in tutta Italia di spesa, beni di prima necessita, farmaci. La Croce Rossa cerca anche volontari temporanei per svolgere il servizio. I volontari riceveranno apposita formazione online. Al link tutte le info."", ""destinatari"": ""anziani, persone fragili"", ""fonte"": ""https://www.cri.it/12-03-2020-covid-19-diventa-volontario-temporaneo-croce-rossa"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Rossa Italiana
-comune: Italia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/132,578926031,2020-04-07 08:47:39,2020-03-10 23:53:42,Diventa Volontario Temporaneo della Croce Rossa Italiana,,,tutte,,"[""Richiesta aiuto"", ""accettato""]",,,"{""chi"": ""Croce Rossa Italiana"", ""contatti"": ""contattare il comitato locale oppure numero verde Sala Operativa 800 - 06 55 10"", ""descrizione"": ""La nuova iniziativa di Croce Rossa si chiama Il Tempo della Gentilezza, ovvero consegna gratuita in tutta Italia di spesa, beni di prima necessita, farmaci. La Croce Rossa cerca anche volontari temporanei per svolgere il servizio. I volontari riceveranno apposita formazione online. Al link tutte le info."", ""destinatari"": ""potenziali volontari per andare ad aiutare anziani, persone fragili"", ""fonte"": ""https://www.cri.it/12-03-2020-covid-19-diventa-volontario-temporaneo-croce-rossa"", ""regione_manuale"": ""tutte"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Rossa Italiana
 contatti: contattare il comitato locale oppure numero verde Sala Operativa 800 - 06
   55 10
 descrizione: ""La nuova iniziativa di Croce Rossa si chiama Il Tempo della Gentilezza, ovvero consegna gratuita in tutta Italia di spesa, beni di prima necessita, farmaci. La Croce Rossa cerca anche volontari temporanei per svolgere il servizio. I volontari riceveranno apposita formazione online. Al link tutte le info.""
-destinatari: anziani, persone fragili
+destinatari: potenziali volontari per andare ad aiutare anziani, persone fragili
 fonte: https://www.cri.it/12-03-2020-covid-19-diventa-volontario-temporaneo-croce-rossa
-provincia: Italia
-regione: Italia
+regione_manuale: tutte
 tag: Consegne e commissioni
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-11 22:50:59,2020-03-10 23:53:42,Filastrocche al telefono,,,,,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefono. Fino al 3 aprile da lun. a ven. dalle ore 10 alle 11, dalle 16 alle 17."", ""destinatari"": ""Bambini"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
