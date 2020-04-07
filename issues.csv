@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2316,595222367,2020-04-07 07:18:22,2020-04-06 15:42:31,Galbusera S.p.A. effettua donazioni di colombe pasquali,45.57572,-350.658703,,,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""GALBUSERA spa"", ""Descrizione"": ""Galbusera S.p.A. ha manifestato disponibilit\u00e0 a  effettuare donazioni di colombe pasquali. \nContattare la sig.ra Giulia Avicoli al seguente numero di telefono: 351.7483365 o giulia.avicolli@galbusera.it. \n\nPer questioni organizzative  necessitano di ricevere le seguenti informazioni:\na)\tstima delle quantit\u00e0 \nb)\tpunto di consegna di prodotti omaggio, ovvero disponibilit\u00e0 al ritiro. \n\n\nPer contatti:\nGiulia Avicoli\nGALBUSERA SpA \nVia Marconi, 20  20864 Agrate Brianza MB \ncel.351.7483365\ntel:  039/63741"", ""Destinatari"": ""associazioni, onlus, ong"", ""Natura"": ""solidale"", ""Posizione"": ""45.57572 -350.658703 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""donazione colombe pasquali""}","<pre><yamldata>
+Da_chi_offerta: GALBUSERA spa
+Descrizione: ""Galbusera S.p.A. ha manifestato disponibilità a  effettuare donazioni\
+  \ di colombe pasquali. \nContattare la sig.ra Giulia Avicoli al seguente numero\
+  \ di telefono: 351.7483365 o giulia.avicolli@galbusera.it. \n\nPer questioni organizzative\
+  \  necessitano di ricevere le seguenti informazioni:\na)\tstima delle quantità \n\
+  b)\tpunto di consegna di prodotti omaggio, ovvero disponibilità al ritiro. \n\n\n\
+  Per contatti:\nGiulia Avicoli\nGALBUSERA SpA \nVia Marconi, 20  20864 Agrate Brianza\
+  \ MB \ncel.351.7483365\ntel:  039/63741""
+Destinatari: associazioni, onlus, ong
+Natura: solidale
+Posizione: 45.57572 -350.658703 0 0
+Tipo_di_soggetto: privato
+Titolo: donazione colombe pasquali
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2315,595222358,2020-04-07 07:16:19,2020-04-06 15:42:31,Spesa a domicilio a #Palermo on line -Supermercati e Ingrossi Alimentari,38.124851,13.356135,Sicilia,Palermo,"[""Consegne e commissioni"", ""accettato""]",,,"{""Descrizione"": ""elenco a #Palermo per domicilio on line -Supermercati e Ingrossi Alimentari\n\nColantoni cash and carry\n\nConad: Consegnamo gli ordini ricevuti via mail entro le 24 ore dalla ricezione della stessa, chiediamo un contatto telefonico per eventuali sostituzioni. \u2013 0916853644\n\nRusso group: SPESA A DOMICILIO SU TUTTA LA CITT\u00c0 DI PALERMO. CHIAMACI O SCRIVI UN WhatsApp PER EFFETTUARE IL TUO ORDINE E NOI LO CONSEGNAMO A CASA TUA.  I nostri contatti: Via Francesco Lo Jacono n 137: chiama\ufe0f 0917219109, scrivi 3473382974, Via Giuseppe Sciuti n 202: chiama  0916262031, scrivi 3423541702, Via Francesco Lo Jacono n 44: chiama\ufe0f 091 6256639, scrivi 3512400793\n\nOikos Food\n\nIl pascolo verde: E\u2019 possibile ordinare online direttamente dal nosto sito internet, www.ilpascoloverde.it, dove sono presenti tutti i prodotti di cui disponiamo con i relativi prezzi e le fotografie per ogni prodotto. Il pagamento si effettua alla consegna sia in contanti che con carta di credito/debito, in quanto ogni autista \u00e8 dotato di un pos per i pagamenti. Accettiamo la carta del Reddito di Cittadinanza. La consegna \u00e8 gratuita.\n\nRoma cash\n\nMozzarellando\n\nMuratore alimentari\n\n3D cash and carry\n\nTutto per la casa: Via Montalbo \u00b7 78 \u00b7 Palermo \u00b7 90142 Montepellegrino / 3887510295"", ""Link"": ""http://www.lettera35.it/spesa-online-palermo-e-provincia-elenco-delle-attivita-con-consegna-a-domicilio/"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 option_1 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Spesa a domicilio- elenco di #Supermercati, e ingrossi alimentari attivi #Palermo"", ""Posizione"": ""38.124851 13.356135 0 0""}","<pre><yamldata>
 Descrizione: 'elenco a #Palermo per domicilio on line -Supermercati e Ingrossi Alimentari
 
@@ -3432,45 +3447,6 @@ Natura: solidale
 Posizione: 42.2515538 13.3768818 0 0
 Tipo_di_soggetto: pubblico
 Titolo: Pronto farmaco e pronto spesa
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2075,591760057,2020-04-01 09:18:25,2020-04-01 09:15:22,Sostegno per la rete solidale di consegne a domicilio organizzata dall'associazione MAITE #Bergamo,45.705055,9.661392,Lombardia,Bergamo,"[""Raccolte fondi"", ""accettato""]",,,"{""Causale"": ""donazione covid19"", ""Descrizione"": ""Sostegno per il Progetto S.U.P.E.R.> Supporto Unitario Popolare E Resiliente\nRete solidale di consegne a domicilio di beni di prima necessit\u00e0 (soprattutto cibo e medicinali) destinati a persone impossibilitate ad uscire perch\u00e9 anziane o in condizione di fragilit\u00e0.\nPer loro \u00e8 attivo un numero di riferimento - 351.9379888 - da contattare tutti i giorni ore 8-20 per farsi portare la spesa a casa o realizzare commissioni necessarie (come ad esempio farmacia, bombole di ossigeno, etc).\nSono necessari fondi per poter assicurare maggiore sostenibilit\u00e0 al servizio.\nIn particolare sta diventando necessario:\n1. venire incontro alle sempre maggiori difficolt\u00e0 economiche degli utenti, anticipando i soldi necessari.\n2. coprire le spese vive relative al servizio di consegna dei nostri volontari/e (tesseramento, assicurazioni, DPI, anticipi di contanti, etc).\n\n\u00c8 possibile anche donare con:\n\u25aaSATISPAY\nhttps://tag.satispay.com/maite\n\u25aaPAYPAL\nhttps://www.paypal.me/MaiteBergamo"", ""Email"": ""info@maite.it"", ""IBAN"": ""IT53O0306909606100000159960"", ""Intestazione"": ""Associazione Maite"", ""Link"": ""https://www.facebook.com/superbergamo/posts/108479694130014"", ""Nome"": ""Associazione MAITE - Bergamo Social Club"", ""Posizione"": ""45.705055 9.661392 0 0""}","<pre><yamldata>
-Causale: donazione covid19
-Descrizione: 'Sostegno per il Progetto S.U.P.E.R.> Supporto Unitario Popolare E Resiliente
-
-  Rete solidale di consegne a domicilio di beni di prima necessità (soprattutto cibo
-  e medicinali) destinati a persone impossibilitate ad uscire perché anziane o in
-  condizione di fragilità.
-
-  Per loro è attivo un numero di riferimento - 351.9379888 - da contattare tutti i
-  giorni ore 8-20 per farsi portare la spesa a casa o realizzare commissioni necessarie
-  (come ad esempio farmacia, bombole di ossigeno, etc).
-
-  Sono necessari fondi per poter assicurare maggiore sostenibilità al servizio.
-
-  In particolare sta diventando necessario:
-
-  1. venire incontro alle sempre maggiori difficoltà economiche degli utenti, anticipando
-  i soldi necessari.
-
-  2. coprire le spese vive relative al servizio di consegna dei nostri volontari/e
-  (tesseramento, assicurazioni, DPI, anticipi di contanti, etc).
-
-
-  È possibile anche donare con:
-
-  ▪SATISPAY
-
-  https://tag.satispay.com/maite
-
-  ▪PAYPAL
-
-  https://www.paypal.me/MaiteBergamo'
-Email: info@maite.it
-IBAN: IT53O0306909606100000159960
-Intestazione: Associazione Maite
-Link: https://www.facebook.com/superbergamo/posts/108479694130014
-Nome: Associazione MAITE - Bergamo Social Club
-Posizione: 45.705055 9.661392 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2075,591760057,2020-04-01 09:18:25,2020-04-01 09:15:22,Sostegno per la rete solidale di consegne a domicilio organizzata dall'associazione MAITE #Bergamo,45.705055,9.661392,Lombardia,Bergamo,"[""Raccolte fondi"", ""accettato""]",,,"{""Causale"": ""donazione covid19"", ""Descrizione"": ""Sostegno per il Progetto S.U.P.E.R.> Supporto Unitario Popolare E Resiliente\nRete solidale di consegne a domicilio di beni di prima necessit\u00e0 (soprattutto cibo e medicinali) destinati a persone impossibilitate ad uscire perch\u00e9 anziane o in condizione di fragilit\u00e0.\nPer loro \u00e8 attivo un numero di riferimento - 351.9379888 - da contattare tutti i giorni ore 8-20 per farsi portare la spesa a casa o realizzare commissioni necessarie (come ad esempio farmacia, bombole di ossigeno, etc).\nSono necessari fondi per poter assicurare maggiore sostenibilit\u00e0 al servizio.\nIn particolare sta diventando necessario:\n1. venire incontro alle sempre maggiori difficolt\u00e0 economiche degli utenti, anticipando i soldi necessari.\n2. coprire le spese vive relative al servizio di consegna dei nostri volontari/e (tesseramento, assicurazioni, DPI, anticipi di contanti, etc).\n\n\u00c8 possibile anche donare con:\n\u25aaSATISPAY\nhttps://tag.satispay.com/maite\n\u25aaPAYPAL\nhttps://www.paypal.me/MaiteBergamo"", ""Email"": ""info@maite.it"", ""IBAN"": ""IT53O0306909606100000159960"", ""Intestazione"": ""Associazione Maite"", ""Link"": ""https://www.facebook.com/superbergamo/posts/108479694130014"", ""Nome"": ""Associazione MAITE - Bergamo Social Club"", ""Posizione"": ""45.705055 9.661392 0 0""}","<pre><yamldata>
 Causale: donazione covid19
