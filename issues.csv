@@ -1,4 +1,73 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2322,595280907,2020-04-07 07:31:06,2020-04-06 17:09:41,"È attivo il Punto di ascolto UILDM, per il benessere psicologico di chi ha una malattia neuromuscola",,,,,"[""Posizione mancante"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Unione italiana lotta alla distrofia muscolare (Uildm)"", ""Descrizione"": ""\u00c8 attivo il Punto di ascolto UILDM, per il benessere psicologico di chi ha una malattia neuromuscolare e della sua famiglia. Il Gruppo Psicologi UILDM offre un servizio di assistenza psicologica gratuita in questo momento di emergenza COVID-19. Il Punto di ascolto nazionale UILDM \u00e8 un servizio garantito da un team di esperti psicologi ed \u00e8 erogato telefonicamente. Per richiedere un colloquio inviare una e-mail a gruppopsicologi@uildm.it con un recapito telefonico. Entro 48 ore si verr\u00e0 contattati per fissare un appuntamento. La persona interessata decider\u00e0 insieme al professionista la modalit\u00e0 di svolgimento del colloquio, che potr\u00e0 essere via telefonica o videochiamata."", ""Destinatari"": ""Persone affette da malattia neuromuscolare e famiglie"", ""Link"": ""https://www.facebook.com/uildm.naz/photos/a.63353687169/10158036008287170/?type=3&theater"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Attivo il Punto di ascolto Uildm per sostenere le persone con malattie neuromuscolari e le loro famiglie""}","<pre><yamldata>
+Da_chi_offerta: Unione italiana lotta alla distrofia muscolare (Uildm)
+Descrizione: È attivo il Punto di ascolto UILDM, per il benessere psicologico di chi
+  ha una malattia neuromuscolare e della sua famiglia. Il Gruppo Psicologi UILDM offre
+  un servizio di assistenza psicologica gratuita in questo momento di emergenza COVID-19.
+  Il Punto di ascolto nazionale UILDM è un servizio garantito da un team di esperti
+  psicologi ed è erogato telefonicamente. Per richiedere un colloquio inviare una
+  e-mail a gruppopsicologi@uildm.it con un recapito telefonico. Entro 48 ore si verrà
+  contattati per fissare un appuntamento. La persona interessata deciderà insieme
+  al professionista la modalità di svolgimento del colloquio, che potrà essere via
+  telefonica o videochiamata.
+Destinatari: Persone affette da malattia neuromuscolare e famiglie
+Link: https://www.facebook.com/uildm.naz/photos/a.63353687169/10158036008287170/?type=3&theater
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Attivo il Punto di ascolto Uildm per sostenere le persone con malattie neuromuscolari
+  e le loro famiglie
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2321,595270826,2020-04-07 07:30:11,2020-04-06 16:53:54,Struttura dell'Asp a #Palermo accoglie ragazzi con autismo ,38.143269,13.362105,Sicilia,Palermo,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Autismo-Attivo il Centro diurno per i #bambini di #Palermo"", ""Descrizione"": ""Sinergia tra Comune di Palermo, l'Asp e il Centro diurno per l'Autismo che ha portato a stipulare la convenzione: grazie a questa collaborazione viene data la possibilit\u00e0 a bambini e ragazzi con autismo di usufruire di una struttura, in via Don Orione 18/a, con adeguati servizi di riabilitazione e di cura.\n\nIl Centro Diurno per l\u2019Autismo \u00e8 quindi la prima struttura di assistenza convenzionata con il Servizio sanitario nazionale (la ASP 6) per l\u2019assistenza a soggetti autistici. Una struttura che nasce e opera in un bene confiscato alla mafia, di propriet\u00e0 del Comune di Palermo, e trasformato dall'A.G.S.A.S. Onlus (Associazione Genitori Soggetti Autistici Solidali) in una struttura per la riabilitazione delle persone con autismo.\n\nSedici bambini con autismo di et\u00e0 compresa tra i 6 e i 16 anni, su una capacit\u00e0 ricettiva di venti soggetti, ricevono una prestazione riabilitativa presso il Centro Diurno in relazione con i contesti di vita: domicilio, territorio e scuola, secondo T.E.I.P.A. (trattamento educativo integrato per le Persone con Autismo) con ciclo terapeutico semestrale rinnovabile.\n\nIl tutto sovra coordinato dal dipartimento di Salute Mentale in sinergia con l\u2019Unit\u00e0 Operativa di Neuropsichiatria per l'Infanzia e l'Adolescenza territoriale e dall\u2019ambulatorio Autismo ASP 6 di Palermo.\n\nIl centro vanta un'organizzazione di professionisti specializzati ABA e tecniche riabilitative validate a livello mondiale nel trattamento educativo rivolto alle persone con autismo, configurandosi come \""Polo di eccellenza\"" per il trattamento dell'autismo.\n\nUn'unione di intenti tra pubblico e privato con l\u2019obiettivo di garantire un\u2019alta qualit\u00e0 delle prestazioni erogate per la persona con Autismo e i suoi familiari e per fornire un servizio di assistenza il pi\u00f9 completo possibile.\n\nSede:\nVia Don Orione, 18, 90142 Palermo PA\n\nTelefono: +39 091.226331\nEmail: info@autismoperche.it\nSito Web: www.autismoperche.it"", ""Link"": ""https://www.balarm.it/news/magazine/autismo-un-centro-diurno-per-i-bambini-di-palermo-17801"", ""Posizione"": ""38.143269 13.362105 0 0""}","<pre><yamldata>
+Cosa: '#Autismo-Attivo il Centro diurno per i #bambini di #Palermo'
+Descrizione: 'Sinergia tra Comune di Palermo, l''Asp e il Centro diurno per l''Autismo
+  che ha portato a stipulare la convenzione: grazie a questa collaborazione viene
+  data la possibilità a bambini e ragazzi con autismo di usufruire di una struttura,
+  in via Don Orione 18/a, con adeguati servizi di riabilitazione e di cura.
+
+
+  Il Centro Diurno per l’Autismo è quindi la prima struttura di assistenza convenzionata
+  con il Servizio sanitario nazionale (la ASP 6) per l’assistenza a soggetti autistici.
+  Una struttura che nasce e opera in un bene confiscato alla mafia, di proprietà del
+  Comune di Palermo, e trasformato dall''A.G.S.A.S. Onlus (Associazione Genitori Soggetti
+  Autistici Solidali) in una struttura per la riabilitazione delle persone con autismo.
+
+
+  Sedici bambini con autismo di età compresa tra i 6 e i 16 anni, su una capacità
+  ricettiva di venti soggetti, ricevono una prestazione riabilitativa presso il Centro
+  Diurno in relazione con i contesti di vita: domicilio, territorio e scuola, secondo
+  T.E.I.P.A. (trattamento educativo integrato per le Persone con Autismo) con ciclo
+  terapeutico semestrale rinnovabile.
+
+
+  Il tutto sovra coordinato dal dipartimento di Salute Mentale in sinergia con l’Unità
+  Operativa di Neuropsichiatria per l''Infanzia e l''Adolescenza territoriale e dall’ambulatorio
+  Autismo ASP 6 di Palermo.
+
+
+  Il centro vanta un''organizzazione di professionisti specializzati ABA e tecniche
+  riabilitative validate a livello mondiale nel trattamento educativo rivolto alle
+  persone con autismo, configurandosi come ""Polo di eccellenza"" per il trattamento
+  dell''autismo.
+
+
+  Un''unione di intenti tra pubblico e privato con l’obiettivo di garantire un’alta
+  qualità delle prestazioni erogate per la persona con Autismo e i suoi familiari
+  e per fornire un servizio di assistenza il più completo possibile.
+
+
+  Sede:
+
+  Via Don Orione, 18, 90142 Palermo PA
+
+
+  Telefono: +39 091.226331
+
+  Email: info@autismoperche.it
+
+  Sito Web: www.autismoperche.it'
+Link: https://www.balarm.it/news/magazine/autismo-un-centro-diurno-per-i-bambini-di-palermo-17801
+Posizione: 38.143269 13.362105 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2319,595251576,2020-04-07 07:25:29,2020-04-06 16:23:27,L'associazione Il Giardino delle Idee di #Palermo offre supporto didattico ai bambini in difficoltà e lancia una raccolta fondi,38.114303,13.361373,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Il Giardino delle Idee di Palermo"", ""Descrizione"": ""L'associazione Il Giardino delle Idee di #Palermo che si occupa dei bambini della zona #Albergheria \u00e8 impegnata in questi giorni ad assistere i piccoli che si trovano in difficolt\u00e0 economiche seguendoli didatticamente e creativamente, sia telefonicamente che via WhatsApp e adesso lancia un appello.\n\n\""Mancano colori, carta, album, quaderni, piccoli giochi, da utilizzare per compiti e momenti creativi\"", fanno sapere dall'Associazione. \""Per la Pasqua stiamo raccogliendo materiali da far arrivare insieme a uova di Pasqua attraverso volontari autorizzati. Per chi vuole e pu\u00f2 farlo, vi chiederei, di poterci aiutare. \n\nLa cartoleria Crisci - dicono - fornir\u00e0 i materiali con sconto. Due sono le modalit\u00e0 di aiuto: \n\nattraverso un versamento su Kalaonlus-Iban IT51J0501804600000011317443 - Banca Etica; \n\noppure la preparazione e raccolta di sacchi (i \u201csacchi magici dei bambini\u201d2/11 anni d\u2019et\u00e0) contenenti materiali didattici anche di riciclo (carta, velina, colori, quaderni, album, stoffe, piccoli giochi, pongo, matite, nastro adesivo, forbicine, colla, temperini, gomme) che avete a casa o recuperate tra i vostri vicini, senza uscire da casa\"".\n\nI sacchi magici, fanno sapere dall'associazione, possono essere consegnati a: \nBar Il Baratto piazzetta Origlione 17 a Ballar\u00f3, \nnei pressi della scuola Verga; \npresso la Biblioteca delle Balate (via Mongitore); \npresso la Chiesa di S.Giovanni Decollato (piazza vittoria) \n\no essere prelevati a domicilio (in quantit\u00e0 non esigue).\n\ntelefono associazione per info\n3402279496\n\npagina facebook\nhttps://www.facebook.com/GiardinodelleIdeePalermo?fref=ts"", ""Destinatari"": ""bambini e famiglie"", ""Link"": ""http://ilgiardinodelleidee.eu/un-sacco-magico-per-i-bambini-di-ballaroalbergheria/"", ""Natura"": ""solidale"", ""Posizione"": ""38.114303 13.361373 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta oggetti di cancelleria per i bambini dell'Albergheria-#Palermo""}","<pre><yamldata>
 Da_chi_offerta: Associazione Il Giardino delle Idee di Palermo
 Descrizione: ""L'associazione Il Giardino delle Idee di #Palermo che si occupa dei\
