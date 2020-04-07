@@ -8,6 +8,12 @@ Descrizione: Nuova proroga alla sospensione del divieto di circolazione dei mezz
 Fonte: Ministero delle Infrastrutture e dei Trasporti
 Link: http://www.mit.gov.it/comunicazione/news/coronavirus/coronavirus-de-micheli-proroga-sospensione-divieto-circolazione-0
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2347,595984966,2020-04-07 17:15:11,2020-04-07 16:08:55,INPS: attenzione ai tentativi fraudolenti di richiesta dati sensibili ,,,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""INPS: truffe agli utenti, tentativo di phishing"", ""Descrizione"": ""L\u2019INPS informa i propri utenti che si sono nuovamente verificati sospetti tentativi fraudolenti di richiesta di dati sensibili, il cosiddetto phishing."", ""Link"": ""https://www.inps.it/nuovoportaleinps/default.aspx?itemdir=53584""}","<pre><yamldata>
+Cosa: 'INPS: truffe agli utenti, tentativo di phishing'
+Descrizione: L’INPS informa i propri utenti che si sono nuovamente verificati sospetti
+  tentativi fraudolenti di richiesta di dati sensibili, il cosiddetto phishing.
+Link: https://www.inps.it/nuovoportaleinps/default.aspx?itemdir=53584
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2346,595974977,2020-04-07 17:08:12,2020-04-07 15:55:19,Associazione IO SONO #Roma offre supporto a famiglie in difficoltà e ha attivato raccolta fondi per potenziare altri servizi ,41.833105,12.502409,Lazio,Roma,"[""Donazioni beni e offerte servizi"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione di promozione sociale IO SONO"", ""Descrizione"": ""L''Associazione mette a disposizione un servizio di help call in cui psicologhe,\n  medici, ostetriche, educatori/trici offrono consulenze gratuite a tutti e tutte\n  e ai genitori la possibilit\u00e0 di confrontarsi su come rispondere al meglio ai bisogni\n  dei figli sia sulla gestione delle emozioni che attraverso idee didattiche.\n Per potenziare questo \u00e8 altri servizi ha attivato una raccolta fondi online sulla piattaforma Produzioni Dal Basso e parte del ricavato andr\u00e0 ad aiutare tutte quelle famiglie in emergenza\n  alimentare ed educativa. In collaborazione con i servizi sociali e le reti territoriali\n  ci occuperemo in prima persona:\n  - della consegna di pacchi alimentari e pasti a chi ne far\u00e0 richiesta e alle famiglie\n  segnalate;\n  - dell''acquisto e consegna di strumenti digitali e/o un maggiore accesso dati (giga)\n per consentire la didattica a distanza ai minori che sono rimasti esclusi. Tutti\n  i bambini e le bambine sono un bene prezioso di cui prendersi cura e devono avere\n  uguali diritti di accesso allo studio. Tutte le info al link."", ""Destinatari"": ""Genitori e famiglie"", ""Link"": ""https://www.associazioneiosono.it/"", ""Natura"": ""solidale"", ""Posizione"": ""41.833105 12.502409 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto psicologico genitori e famiglie""}","<pre><yamldata>
 Da_chi_offerta: Associazione di promozione sociale IO SONO
 Descrizione: ""L''Associazione mette a disposizione un servizio di help call in cui psicologhe,\n\
@@ -23332,16 +23338,6 @@ fonte: https://www.sipemsos.org/news.html
 provincia: ''
 regione: Lombardia
 tag: Supporto psicologico
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/115,578925954,2020-03-28 18:17:17,2020-03-10 23:53:28,Associazione Terra di Piero offre consegna a domicilio gratuita #Cosenza ,,,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""3382073382"", ""descrizione"": ""Consegna a domicilio gratuita per anziani over 65 di Cosenza."", ""destinatari"": ""over 65"", ""fonte"": ""https://www.facebook.com/TerradiPiero/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Ass. Terra di Piero
-comune: Cosenza
-contatti: '3382073382'
-descrizione: Consegna a domicilio gratuita per anziani over 65 di Cosenza.
-destinatari: over 65
-fonte: https://www.facebook.com/TerradiPiero/
-provincia: Cosenza
-regione: Calabria
-tag: Consegne e commissioni
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/115,578925954,2020-03-28 18:17:17,2020-03-10 23:53:28,Associazione Terra di Piero offre consegna a domicilio gratuita #Cosenza ,,,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""3382073382"", ""descrizione"": ""Consegna a domicilio gratuita per anziani over 65 di Cosenza."", ""destinatari"": ""over 65"", ""fonte"": ""https://www.facebook.com/TerradiPiero/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Ass. Terra di Piero
 comune: Cosenza
