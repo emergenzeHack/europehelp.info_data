@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2328,595434573,2020-04-07 07:54:56,2020-04-06 21:19:06,Il Comune di #Livorno pubblica mappatura delle associazioni per raccogliere beni di prima necessità,43.551254,10.310926,Toscana,Livorno,"[""Bollettino"", ""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Livorno"", ""Descrizione"": ""Disponibile sul sito del Comune di Livorno una mappatura di soggetti senza scopo di lucro (associazioni, fondazioni, parrocchie, quartieri eco solidali ecc.) che in questa emergenza da Covid-19 si sono attivati nel territorio cittadino per raccogliere beni di prima necessit\u00e0 da distribuire a persone che si trovano in situazione di fragilit\u00e0. L\u2019elenco \u00e8 in aggiornamento. Viste le misure restrittive di questo periodo, sarebbe opportuno rivolgersi alle strutture pi\u00f9 vicine alle proprie abitazioni."", ""Destinatari"": ""Cittadini di Livorno"", ""Link"": ""http://www.comune.livorno.it/sites/default/files/index/associazionismo/04_aprile_-_mappatura_soggetti_che_fanno_raccolta_beni_1.pdf"", ""Natura"": ""solidale"", ""Posizione"": ""43.551254 10.310926 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Livorno, elenco delle associazioni che raccolgono alimenti e beni di prima necessit\u00e0 per l\u2019emergenza coronavirus""}","<pre><yamldata>
+Da_chi_offerta: Comune di Livorno
+Descrizione: Disponibile sul sito del Comune di Livorno una mappatura di soggetti
+  senza scopo di lucro (associazioni, fondazioni, parrocchie, quartieri eco solidali
+  ecc.) che in questa emergenza da Covid-19 si sono attivati nel territorio cittadino
+  per raccogliere beni di prima necessità da distribuire a persone che si trovano
+  in situazione di fragilità. L’elenco è in aggiornamento. Viste le misure restrittive
+  di questo periodo, sarebbe opportuno rivolgersi alle strutture più vicine alle proprie
+  abitazioni.
+Destinatari: Cittadini di Livorno
+Link: http://www.comune.livorno.it/sites/default/files/index/associazionismo/04_aprile_-_mappatura_soggetti_che_fanno_raccolta_beni_1.pdf
+Natura: solidale
+Posizione: 43.551254 10.310926 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Livorno, elenco delle associazioni che raccolgono alimenti e beni
+  di prima necessità per l’emergenza coronavirus
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2327,595430831,2020-04-07 07:51:52,2020-04-06 21:12:27,Il Comune di #Livorno e le associazioni della zona cercano volontari ,43.554022,10.319424,Toscana,Livorno,"[""Bollettino"", ""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Livorno"", ""Descrizione"": ""Vuoi mettere il tuo tempo a disposizione di  un\u2019associazione impegnata nell\u2019emergenza? \nScrivi all\u2019ufficio Associazionismo del Comune all\u2019indirizzo associazioni@comune.livorno.it.\nPotrai avere informazioni sui soggetti che operano in maniera volontaria sul nostro territorio per aiutare i pi\u00f9 fragili e bisognosi, e  chiarimenti su quale tipo di attivit\u00e0 svolgono."", ""Destinatari"": ""Cittadini di Livorno"", ""Link"": ""http://www.comune.livorno.it/protezione-civile/coronavirus-informazioni-utili/come-aiutare-essere-aiutati-caso-bisogno-0"", ""Natura"": ""solidale"", ""Posizione"": ""43.554022 10.319424 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Livorno, chi contattare per svolgere volontariato durante l\u2019emergenza coronavirus""}","<pre><yamldata>
 Da_chi_offerta: Comune di Livorno
 Descrizione: ""Vuoi mettere il tuo tempo a disposizione di  un’associazione impegnata\
