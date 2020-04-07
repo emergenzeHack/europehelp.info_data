@@ -1,23 +1,44 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2343,595872673,2020-04-07 14:35:55,2020-04-07 13:34:48,"Un Vademecum per le persone senza fissa dimora per orientarsi tra decreti e multe, a cura di Avvocati di strada",44.497745,11.34377,Emilia-Romagna,Bologna,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Avvocato di strada"", ""Descrizione"": ""In questo periodo di emergenza le persone senza dimora si trovano in ancor maggiore difficolt\u00e0 dal momento che una casa in cui poter stare non ce l'hanno. Avvocato di strada sta continuando a lavorare per cercare di diffondere il pi\u00f9 possibile (tramite canali web e social, ma soprattutto grazie alla collaborazione con i servizi del territorio) le informazioni circa le norme da rispettare, i comportamenti da tenere e riguardo ai servizi attivi in questo momento, cercando cos\u00ec di favorire l'inserimento di pi\u00f9 persone possibili all'interno delle strutture preposte. Continuiamo inoltre a fornire assistenza ai nostri utenti via mail o telefono e ci stiamo preparando ad affrontare dal punto di vista giuridico le multe e sanzioni che purtroppo diverse persone senza dimora stanno ricevendo in varie citt\u00e0 d'Italia per il solo fatto di trovarsi inevitabilmente per strada, violando cos\u00ec le norme attualmente in vigore."", ""Destinatari"": ""Persone senza dimora"", ""Link"": ""https://www.avvocatodistrada.it/covid19-multe-e-denunce-un-vademecum-per-le-persone-senza-dimora/"", ""Natura"": ""solidale"", ""Posizione"": ""44.497745 11.34377 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza alle persone senza dimora""}","<pre><yamldata>
-Da_chi_offerta: Avvocato di strada
-Descrizione: In questo periodo di emergenza le persone senza dimora si trovano in
-  ancor maggiore difficoltà dal momento che una casa in cui poter stare non ce l'hanno.
-  Avvocato di strada sta continuando a lavorare per cercare di diffondere il più possibile
-  (tramite canali web e social, ma soprattutto grazie alla collaborazione con i servizi
-  del territorio) le informazioni circa le norme da rispettare, i comportamenti da
-  tenere e riguardo ai servizi attivi in questo momento, cercando così di favorire
-  l'inserimento di più persone possibili all'interno delle strutture preposte. Continuiamo
-  inoltre a fornire assistenza ai nostri utenti via mail o telefono e ci stiamo preparando
-  ad affrontare dal punto di vista giuridico le multe e sanzioni che purtroppo diverse
-  persone senza dimora stanno ricevendo in varie città d'Italia per il solo fatto
-  di trovarsi inevitabilmente per strada, violando così le norme attualmente in vigore.
-Destinatari: Persone senza dimora
-Link: https://www.avvocatodistrada.it/covid19-multe-e-denunce-un-vademecum-per-le-persone-senza-dimora/
-Natura: solidale
-Posizione: 44.497745 11.34377 0 0
-Tipo_di_soggetto: privato
-Titolo: Assistenza alle persone senza dimora
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2344,595936268,2020-04-07 15:03:04,2020-04-07 15:01:35,In #Calabria sono attivi l'assistenza sociale INAIL online e servizi di supporto psicologico telefonico,38.848264,16.534424,Calabria,Catanzaro,"[""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""INAIL"", ""Descrizione"": ""le assistenti sociali continuano a rispondere alle richieste e ai bisogni dei cittadini attraverso i contatti telefonici, le videochiamate con Skype, Teams, WhatsApp e con le e-mail.\n\nLe richieste per tutto il periodo dell\u2019emergenza sanitaria, ad essere gestite da remoto, affinch\u00e9 la fornitura avvenga in modo regolare e nel minore tempo possibile, in collaborazione con il personale amministrativo e sanitario e con le \u00e9quipe multidisciplinari di I livello delle sedi Inail territoriali.\n\nInoltre \u00e8 stato attivato un ulteriore servizio telematico di consulenza psicosociale per garantire a tutta l\u2019utenza presa in carico, compresi i familiari e i familiari superstiti, degli interventi mirati, attraverso l\u2019ascolto, finalizzati a gestire e ad affrontare il distanziamento e l\u2019isolamento sociale dipeso dallo stare in casa che pu\u00f2 generare paure e ansie provocate dai rischi di contagio da Coronavirus.\n\nIl nuovo servizio online \u00e8 attivo dal luned\u00ec al venerd\u00ec, dalle 10,00 alle 12,00.\n\nIl servizio potr\u00e0 essere fruito contattando:\nDirezione Regionale Calabria: dott.ssa Ida Grande \u2013 335 5437556 i.grande@inail.it\nSede di Catanzaro: dott.ssa Maria Rosaria Ciambrone \u2013 0961535284 \u2013 m.ciambrone@inail.it\nSede di Crotone: dott.ssa Assunta Blacon\u00e0 \u2013 366 5647277 a.blacona@inail.it\nSede di Cosenza/Rossano: dott.ssa Chiara Maria Gigliotti \u2013 3358797731 -  c.gigliotti@inail.it\nSede di Reggio Calabria/Locri/Palmi: dott.ssa Fortunata Foti - 3666823106 f.foti@inail.it\nSede di Vibo Valentia: dott.ssa Daniela Macheda \u2013 335 8711003 \u2013 d.macheda@inail.it"", ""Destinatari"": ""persone in carico ai servizi sociali"", ""Link"": ""https://www.citynow.it/emergenza-covid-19-in-calabria-e-attivo-il-servizio-sociale-inail-online/?fbclid=IwAR0Bu_IPhUH83n112qN5hpwAi_DcIVj4-8TehK_rgU43lIisAIEZJWFJ8E8"", ""Posizione"": ""38.848264 16.534424 0 0"", ""Titolo"": ""in Calabria \u00e8 attiva l'assistenza sociale INAIL online""}","<pre><yamldata>
+Da_chi_offerta: INAIL
+Descrizione: 'le assistenti sociali continuano a rispondere alle richieste e ai bisogni
+  dei cittadini attraverso i contatti telefonici, le videochiamate con Skype, Teams,
+  WhatsApp e con le e-mail.
+
+
+  Le richieste per tutto il periodo dell’emergenza sanitaria, ad essere gestite da
+  remoto, affinché la fornitura avvenga in modo regolare e nel minore tempo possibile,
+  in collaborazione con il personale amministrativo e sanitario e con le équipe multidisciplinari
+  di I livello delle sedi Inail territoriali.
+
+
+  Inoltre è stato attivato un ulteriore servizio telematico di consulenza psicosociale
+  per garantire a tutta l’utenza presa in carico, compresi i familiari e i familiari
+  superstiti, degli interventi mirati, attraverso l’ascolto, finalizzati a gestire
+  e ad affrontare il distanziamento e l’isolamento sociale dipeso dallo stare in casa
+  che può generare paure e ansie provocate dai rischi di contagio da Coronavirus.
+
+
+  Il nuovo servizio online è attivo dal lunedì al venerdì, dalle 10,00 alle 12,00.
+
+
+  Il servizio potrà essere fruito contattando:
+
+  Direzione Regionale Calabria: dott.ssa Ida Grande – 335 5437556 i.grande@inail.it
+
+  Sede di Catanzaro: dott.ssa Maria Rosaria Ciambrone – 0961535284 – m.ciambrone@inail.it
+
+  Sede di Crotone: dott.ssa Assunta Blaconà – 366 5647277 a.blacona@inail.it
+
+  Sede di Cosenza/Rossano: dott.ssa Chiara Maria Gigliotti – 3358797731 -  c.gigliotti@inail.it
+
+  Sede di Reggio Calabria/Locri/Palmi: dott.ssa Fortunata Foti - 3666823106 f.foti@inail.it
+
+  Sede di Vibo Valentia: dott.ssa Daniela Macheda – 335 8711003 – d.macheda@inail.it'
+Destinatari: persone in carico ai servizi sociali
+Link: https://www.citynow.it/emergenza-covid-19-in-calabria-e-attivo-il-servizio-sociale-inail-online/?fbclid=IwAR0Bu_IPhUH83n112qN5hpwAi_DcIVj4-8TehK_rgU43lIisAIEZJWFJ8E8
+Posizione: 38.848264 16.534424 0 0
+Titolo: in Calabria è attiva l'assistenza sociale INAIL online
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2342,595766474,2020-04-07 14:22:23,2020-04-07 10:34:15,Associazione Italiana Persone Down AIPD offre tramite il proprio sito informazioni e consulenza,,,tutte,,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Italiana Persone Down"", ""Descrizione"": ""Tramite il sito www.aipd.it e i contatti offre informazione e consulenza anche personalizzata (Telefono D), vari interventi di animazione e una maratona di webinar. Tramite le proprie sezioni, attivit\u00e0 di supporto a distanza."", ""Destinatari"": ""Persone con sindrome di Don, familiari e operatori"", ""Link"": ""https://www.aipd.it"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Info ai tempi del Covid 19"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Associazione Italiana Persone Down
@@ -31,7 +52,7 @@ Natura: culturale-ricr
 Titolo: Info ai tempi del Covid 19
 regione_manuale: tutte
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2341,595736536,2020-04-07 10:10:10,2020-04-07 09:45:10,#Parlamitiascolto: sportello di ascolto telefonico gratuito offerto da Fondazione Paoletti,41.901359,12.494148,tutte,Roma,"[""Bollettino"", ""Contatti utili"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Patrizio Paoletti"", ""Descrizione"": ""La Fondazione Patrizio Paoletti ha inaugurato luned\u00ec 6 aprile lo sportello telefonico \u201cParlami, ti ascolto\u201d, dedicato a genitori, famiglie, adolescenti e anziani per offrire ascolto e supporto in questo momento di emergenza sanitaria da Covid-19. Lo sportello telefonico, a cui rispondono gli psicologi della Fondazione, \u00e8 raggiungibile attraverso il numero verde 800 858 440 e disponibile nei giorni luned\u00ec, mercoled\u00ec e sabato dalle ore 14.00 alle ore 19.00. \nDopo il \u201cVademecum: Emergenza Covid-19. I 10 passi per parlarne con tuo figlio\u201d ideato dagli psicologi, dai pedagogisti e dai neuroscienziati della Fondazione Patrizio Paoletti, patrocinato dall\u2019Associazione italiana genitori e diffuso in partnership con la Protezione Civile nelle scorse settimane, e in attesa delle video-lezioni gratuite tenute da Patrizio Paoletti, il presidente della Fondazione (per iscriversi visitare il sito fondazionepatriziopaoletti.org/prefigurareilfuturo) e dal suo staff, \u201cParlami, ti ascolto\u201d offre uno spazio gratuito di ascolto, di accoglienza, di sostegno, di orientamento ai principi di base del vademecum e di supporto strategico per superare le difficolt\u00e0 presenti in questo momento. Lo sportello si rivolge principalmente ai genitori ma offre un\u2019opportunit\u00e0 di scambio e di sostegno anche ad adolescenti e ad anziani. L'obiettivo del servizio \u00e8 potenziare le capacit\u00e0 individuali e collettive di resilienza aumentando consapevolezza, speranza, progettualit\u00e0 e capacit\u00e0 di prefigurare il futuro."", ""Destinatari"": ""genitori, famiglie, adolescenti e anziani"", ""Link"": ""https://www.fondazionepatriziopaoletti.org/"", ""Natura"": ""solidale"", ""Posizione"": ""41.901359 12.494148 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emergenza Covid-19: \""Parlami, ti ascolto\"", un numero verde di ascolto e supporto"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2341,595736536,2020-04-07 14:58:19,2020-04-07 09:45:10,#Parlamitiascolto: sportello di ascolto telefonico gratuito offerto da Fondazione Paoletti,41.901359,12.494148,tutte,Roma,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Patrizio Paoletti"", ""Descrizione"": ""La Fondazione Patrizio Paoletti ha inaugurato luned\u00ec 6 aprile lo sportello telefonico \u201cParlami, ti ascolto\u201d, dedicato a genitori, famiglie, adolescenti e anziani per offrire ascolto e supporto in questo momento di emergenza sanitaria da Covid-19. Lo sportello telefonico, a cui rispondono gli psicologi della Fondazione, \u00e8 raggiungibile attraverso il numero verde 800 858 440 e disponibile nei giorni luned\u00ec, mercoled\u00ec e sabato dalle ore 14.00 alle ore 19.00. \nDopo il \u201cVademecum: Emergenza Covid-19. I 10 passi per parlarne con tuo figlio\u201d ideato dagli psicologi, dai pedagogisti e dai neuroscienziati della Fondazione Patrizio Paoletti, patrocinato dall\u2019Associazione italiana genitori e diffuso in partnership con la Protezione Civile nelle scorse settimane, e in attesa delle video-lezioni gratuite tenute da Patrizio Paoletti, il presidente della Fondazione (per iscriversi visitare il sito fondazionepatriziopaoletti.org/prefigurareilfuturo) e dal suo staff, \u201cParlami, ti ascolto\u201d offre uno spazio gratuito di ascolto, di accoglienza, di sostegno, di orientamento ai principi di base del vademecum e di supporto strategico per superare le difficolt\u00e0 presenti in questo momento. Lo sportello si rivolge principalmente ai genitori ma offre un\u2019opportunit\u00e0 di scambio e di sostegno anche ad adolescenti e ad anziani. L'obiettivo del servizio \u00e8 potenziare le capacit\u00e0 individuali e collettive di resilienza aumentando consapevolezza, speranza, progettualit\u00e0 e capacit\u00e0 di prefigurare il futuro."", ""Destinatari"": ""genitori, famiglie, adolescenti e anziani"", ""Link"": ""https://www.fondazionepatriziopaoletti.org/"", ""Natura"": ""solidale"", ""Posizione"": ""41.901359 12.494148 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emergenza Covid-19: \""Parlami, ti ascolto\"", un numero verde di ascolto e supporto"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Fondazione Patrizio Paoletti
 Descrizione: ""La Fondazione Patrizio Paoletti ha inaugurato lunedì 6 aprile lo sportello\
   \ telefonico “Parlami, ti ascolto”, dedicato a genitori, famiglie, adolescenti e\
@@ -223,7 +244,7 @@ Posizione: 43.522505 13.243924 0 0
 Tipo_di_soggetto: privato
 Titolo: Sportello attivo via numero telefonico
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2332,595698553,2020-04-07 14:02:28,2020-04-07 08:43:49,Comune di #Jesi #Ancona cerca computer preferibilmente portatili per didattica online,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""raccolta computer portatili"", ""Descrizione"": ""Il Comune di Jesi ha attivato una raccolta di computer preferibilmente portatili (massimo 7/8 anni di vita), funzionanti e con web-camera, da mettere a disposizione degli alunni che ne sono sprovvisti per la teledidattica. Per segnalare disponibilit\u00e0: 3285897535 mauro.mariani2018@gmail.com"", ""Email"": ""mauro.mariani2018@gmail.com"", ""Indirizzo"": ""43.522505 13.243624 0 0"", ""Link"": ""https://t.me/ComuneJesi/628"", ""Nome"": ""Comune di Jesi"", ""https://t.me/ComuneJesi/628 Destinatari"": ""alunni che ne sono sprovvisti per la teledidattica""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2332,595698553,2020-04-07 15:18:02,2020-04-07 08:43:49,Comune di #Jesi #Ancona cerca computer preferibilmente portatili per didattica online,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""raccolta computer portatili"", ""Descrizione"": ""Il Comune di Jesi ha attivato una raccolta di computer preferibilmente portatili (massimo 7/8 anni di vita), funzionanti e con web-camera, da mettere a disposizione degli alunni che ne sono sprovvisti per la teledidattica. Per segnalare disponibilit\u00e0: 3285897535 mauro.mariani2018@gmail.com"", ""Email"": ""mauro.mariani2018@gmail.com"", ""Indirizzo"": ""43.522505 13.243624 0 0"", ""Link"": ""https://t.me/ComuneJesi/628"", ""Nome"": ""Comune di Jesi"", ""https://t.me/ComuneJesi/628 Destinatari"": ""alunni che ne sono sprovvisti per la teledidattica""}","<pre><yamldata>
 Cosa: raccolta computer portatili
 Descrizione: 'Il Comune di Jesi ha attivato una raccolta di computer preferibilmente portatili
   (massimo 7/8 anni di vita), funzionanti e con web-camera, da mettere a
@@ -288,6 +309,25 @@ Descrizione: ""Siamo un gruppo internazionale di ricercatori e psicologi clinici
   \ gruppo di ricerca,\nGioia Bottesi, PhD (Università degli Studi di Padova)""
 Link: https://nclpsych.eu.qualtrics.com/jfe/form/SV_bf1hYzbGQlWLg8J
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2329,595452425,2020-04-07 15:08:13,2020-04-06 21:53:05,Raccolta fondi per l'acquisto di 3 pulsossimetri pediatrici,43.48521,13.48754,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""DONAZIONE per l'acquisto di 3 pulsossimetri pediatrici"", ""Descrizione"": ""OBIETTIVO: QUOTA 205 EURO!\n Raccolgo l'invito del mio ex pediatra dott. Cicione di trovare i fondi necessari per l'acquisto di 3 pulsossimetri pediatrici per 3 USCA (Unit\u00e0 Speciali di Continuit\u00e0 Assistenziali) attive per i comuni di Osimo, Castelfidardo, Camerano, Loreto, Sirolo e Numana.\nSono strumenti indispensabili per valutare la saturazione nei bambini e  in caso di infezione da Covid-19 per il team di medici e pediatri impegnati nel territorio"", ""Email"": ""silena.sernani@gmail.com"", ""IBAN"": ""IT37L0200837497000040470506"", ""Intestazione"": ""Silena Sernani"", ""Link"": ""https://www.gofundme.com/f/raccolta-di-3-pulsossimetri-pediatrici-usca"", ""Nome"": ""Silena Sernani"", ""Posizione"": ""43.48521 13.48754""}","<pre><yamldata>
+Causale: DONAZIONE per l'acquisto di 3 pulsossimetri pediatrici
+Descrizione: ""OBIETTIVO: QUOTA 205 EURO!\n Raccolgo l'invito del mio ex pediatra dott.\
+  \ Cicione di trovare i fondi necessari per l'acquisto di 3 pulsossimetri pediatrici\
+  \ per 3 USCA (Unità Speciali di Continuità Assistenziali) attive per i comuni di\
+  \ Osimo, Castelfidardo, Camerano, Loreto, Sirolo e Numana.\nSono strumenti indispensabili\
+  \ per valutare la saturazione nei bambini e  in caso di infezione da Covid-19 per\
+  \ il team di medici e pediatri impegnati nel territorio""
+Email: silena.sernani@gmail.com
+IBAN: IT37L0200837497000040470506
+Intestazione: Silena Sernani
+Link: https://www.gofundme.com/f/raccolta-di-3-pulsossimetri-pediatrici-usca
+Nome: Silena Sernani
+Posizione: 43.48521 13.48754
+</yamldata></pre>
+
+> @chiccap @cristigalas ho qualche dubbio, sto approndendo ma volevo verificare meglio inizaitiva, che ne pensate?
+
+Possiamo inviare una email e chiedere ulteriori info, anche se abbiamo approvato già raccolte simili.",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2328,595434573,2020-04-07 14:34:26,2020-04-06 21:19:06,Il Comune di #Livorno pubblica mappatura delle associazioni che raccolgono beni di prima necessità,43.551254,10.310926,Toscana,Livorno,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Livorno"", ""Descrizione"": ""Disponibile sul sito del Comune di Livorno una mappatura di soggetti senza scopo di lucro (associazioni, fondazioni, parrocchie, quartieri eco solidali ecc.) che in questa emergenza da Covid-19 si sono attivati nel territorio cittadino per raccogliere beni di prima necessit\u00e0 da distribuire a persone che si trovano in situazione di fragilit\u00e0. L\u2019elenco \u00e8 in aggiornamento. Viste le misure restrittive di questo periodo, sarebbe opportuno rivolgersi alle strutture pi\u00f9 vicine alle proprie abitazioni."", ""Destinatari"": ""Cittadini di Livorno"", ""Link"": ""http://www.comune.livorno.it/sites/default/files/index/associazionismo/04_aprile_-_mappatura_soggetti_che_fanno_raccolta_beni_1.pdf"", ""Natura"": ""solidale"", ""Posizione"": ""43.551254 10.310926 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Livorno, elenco delle associazioni che raccolgono alimenti e beni di prima necessit\u00e0 per l\u2019emergenza coronavirus""}","<pre><yamldata>
 Da_chi_offerta: Comune di Livorno
 Descrizione: Disponibile sul sito del Comune di Livorno una mappatura di soggetti
@@ -402,57 +442,6 @@ Tipo_di_soggetto: privato
 Titolo: Attivo il Punto di ascolto Uildm per sostenere le persone con malattie neuromuscolari
   e le loro famiglie
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2321,595270826,2020-04-07 14:41:53,2020-04-06 16:53:54,Struttura dell'Asp a #Palermo accoglie ragazzi con autismo ,38.143269,13.362105,Sicilia,Palermo,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""#Autismo-Attivo il Centro diurno per i #bambini di #Palermo"", ""Descrizione"": ""Sinergia tra Comune di Palermo, l'Asp e il Centro diurno per l'Autismo che ha portato a stipulare la convenzione: grazie a questa collaborazione viene data la possibilit\u00e0 a bambini e ragazzi con autismo di usufruire di una struttura, in via Don Orione 18/a, con adeguati servizi di riabilitazione e di cura.\n\nIl Centro Diurno per l\u2019Autismo \u00e8 quindi la prima struttura di assistenza convenzionata con il Servizio sanitario nazionale (la ASP 6) per l\u2019assistenza a soggetti autistici. Una struttura che nasce e opera in un bene confiscato alla mafia, di propriet\u00e0 del Comune di Palermo, e trasformato dall'A.G.S.A.S. Onlus (Associazione Genitori Soggetti Autistici Solidali) in una struttura per la riabilitazione delle persone con autismo.\n\nSedici bambini con autismo di et\u00e0 compresa tra i 6 e i 16 anni, su una capacit\u00e0 ricettiva di venti soggetti, ricevono una prestazione riabilitativa presso il Centro Diurno in relazione con i contesti di vita: domicilio, territorio e scuola, secondo T.E.I.P.A. (trattamento educativo integrato per le Persone con Autismo) con ciclo terapeutico semestrale rinnovabile.\n\nIl tutto sovra coordinato dal dipartimento di Salute Mentale in sinergia con l\u2019Unit\u00e0 Operativa di Neuropsichiatria per l'Infanzia e l'Adolescenza territoriale e dall\u2019ambulatorio Autismo ASP 6 di Palermo.\n\nIl centro vanta un'organizzazione di professionisti specializzati ABA e tecniche riabilitative validate a livello mondiale nel trattamento educativo rivolto alle persone con autismo, configurandosi come \""Polo di eccellenza\"" per il trattamento dell'autismo.\n\nUn'unione di intenti tra pubblico e privato con l\u2019obiettivo di garantire un\u2019alta qualit\u00e0 delle prestazioni erogate per la persona con Autismo e i suoi familiari e per fornire un servizio di assistenza il pi\u00f9 completo possibile.\n\nSede:\nVia Don Orione, 18, 90142 Palermo PA\n\nTelefono: +39 091.226331\nEmail: info@autismoperche.it\nSito Web: www.autismoperche.it"", ""Link"": ""https://www.balarm.it/news/magazine/autismo-un-centro-diurno-per-i-bambini-di-palermo-17801"", ""Posizione"": ""38.143269 13.362105 0 0""}","<pre><yamldata>
-Cosa: '#Autismo-Attivo il Centro diurno per i #bambini di #Palermo'
-Descrizione: 'Sinergia tra Comune di Palermo, l''Asp e il Centro diurno per l''Autismo
-  che ha portato a stipulare la convenzione: grazie a questa collaborazione viene
-  data la possibilità a bambini e ragazzi con autismo di usufruire di una struttura,
-  in via Don Orione 18/a, con adeguati servizi di riabilitazione e di cura.
-
-
-  Il Centro Diurno per l’Autismo è quindi la prima struttura di assistenza convenzionata
-  con il Servizio sanitario nazionale (la ASP 6) per l’assistenza a soggetti autistici.
-  Una struttura che nasce e opera in un bene confiscato alla mafia, di proprietà del
-  Comune di Palermo, e trasformato dall''A.G.S.A.S. Onlus (Associazione Genitori Soggetti
-  Autistici Solidali) in una struttura per la riabilitazione delle persone con autismo.
-
-
-  Sedici bambini con autismo di età compresa tra i 6 e i 16 anni, su una capacità
-  ricettiva di venti soggetti, ricevono una prestazione riabilitativa presso il Centro
-  Diurno in relazione con i contesti di vita: domicilio, territorio e scuola, secondo
-  T.E.I.P.A. (trattamento educativo integrato per le Persone con Autismo) con ciclo
-  terapeutico semestrale rinnovabile.
-
-
-  Il tutto sovra coordinato dal dipartimento di Salute Mentale in sinergia con l’Unità
-  Operativa di Neuropsichiatria per l''Infanzia e l''Adolescenza territoriale e dall’ambulatorio
-  Autismo ASP 6 di Palermo.
-
-
-  Il centro vanta un''organizzazione di professionisti specializzati ABA e tecniche
-  riabilitative validate a livello mondiale nel trattamento educativo rivolto alle
-  persone con autismo, configurandosi come ""Polo di eccellenza"" per il trattamento
-  dell''autismo.
-
-
-  Un''unione di intenti tra pubblico e privato con l’obiettivo di garantire un’alta
-  qualità delle prestazioni erogate per la persona con Autismo e i suoi familiari
-  e per fornire un servizio di assistenza il più completo possibile.
-
-
-  Sede:
-
-  Via Don Orione, 18, 90142 Palermo PA
-
-
-  Telefono: +39 091.226331
-
-  Email: info@autismoperche.it
-
-  Sito Web: www.autismoperche.it'
-Link: https://www.balarm.it/news/magazine/autismo-un-centro-diurno-per-i-bambini-di-palermo-17801
-Posizione: 38.143269 13.362105 0 0
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2319,595251576,2020-04-07 07:25:29,2020-04-06 16:23:27,L'associazione Il Giardino delle Idee di #Palermo offre supporto didattico ai bambini in difficoltà e lancia una raccolta fondi,38.114303,13.361373,Sicilia,Palermo,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Il Giardino delle Idee di Palermo"", ""Descrizione"": ""L'associazione Il Giardino delle Idee di #Palermo che si occupa dei bambini della zona #Albergheria \u00e8 impegnata in questi giorni ad assistere i piccoli che si trovano in difficolt\u00e0 economiche seguendoli didatticamente e creativamente, sia telefonicamente che via WhatsApp e adesso lancia un appello.\n\n\""Mancano colori, carta, album, quaderni, piccoli giochi, da utilizzare per compiti e momenti creativi\"", fanno sapere dall'Associazione. \""Per la Pasqua stiamo raccogliendo materiali da far arrivare insieme a uova di Pasqua attraverso volontari autorizzati. Per chi vuole e pu\u00f2 farlo, vi chiederei, di poterci aiutare. \n\nLa cartoleria Crisci - dicono - fornir\u00e0 i materiali con sconto. Due sono le modalit\u00e0 di aiuto: \n\nattraverso un versamento su Kalaonlus-Iban IT51J0501804600000011317443 - Banca Etica; \n\noppure la preparazione e raccolta di sacchi (i \u201csacchi magici dei bambini\u201d2/11 anni d\u2019et\u00e0) contenenti materiali didattici anche di riciclo (carta, velina, colori, quaderni, album, stoffe, piccoli giochi, pongo, matite, nastro adesivo, forbicine, colla, temperini, gomme) che avete a casa o recuperate tra i vostri vicini, senza uscire da casa\"".\n\nI sacchi magici, fanno sapere dall'associazione, possono essere consegnati a: \nBar Il Baratto piazzetta Origlione 17 a Ballar\u00f3, \nnei pressi della scuola Verga; \npresso la Biblioteca delle Balate (via Mongitore); \npresso la Chiesa di S.Giovanni Decollato (piazza vittoria) \n\no essere prelevati a domicilio (in quantit\u00e0 non esigue).\n\ntelefono associazione per info\n3402279496\n\npagina facebook\nhttps://www.facebook.com/GiardinodelleIdeePalermo?fref=ts"", ""Destinatari"": ""bambini e famiglie"", ""Link"": ""http://ilgiardinodelleidee.eu/un-sacco-magico-per-i-bambini-di-ballaroalbergheria/"", ""Natura"": ""solidale"", ""Posizione"": ""38.114303 13.361373 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta oggetti di cancelleria per i bambini dell'Albergheria-#Palermo""}","<pre><yamldata>
 Da_chi_offerta: Associazione Il Giardino delle Idee di Palermo
 Descrizione: ""L'associazione Il Giardino delle Idee di #Palermo che si occupa dei\
@@ -482,7 +471,7 @@ Posizione: 38.114303 13.361373 0 0
 Tipo_di_soggetto: privato
 Titolo: Raccolta oggetti di cancelleria per i bambini dell'Albergheria-#Palermo
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2318,595235330,2020-04-07 07:22:55,2020-04-06 16:00:25,Un servizio Confesercenti #Palermo assistere le imprese ad accedere agli strumenti del CuraItalia,38.12453,13.355083,Sicilia,Palermo,"[""Bollettino"", ""Contatti utili"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Una #piattaformaweb, un servizio #Whatsapp ed un #numeroverde per assistere le #imprese ed aiutarle ad accedere agli strumenti messi in campo dal #CuraItalia per affrontare l\u2019impatto economico dell\u2019emergenza sanitaria legata al Covid-19: dalla normativa sulle chiusure al lavoro fino al fisco, passando per credito e previdenza.\n\n\u00c8 il nuovo servizio di assistenza a distanza per gli #imprenditori e le #partiteIVA messo a disposizione da Confesercenti Palermo, ed attivo gi\u00e0 da oggi. \n\nChiamando il numero verde 800 620 506, mandando un messaggio Whatsapp al numero 345 2518051, o accedendo direttamente all\u2019indirizzo web curaitalia.confesercenti.it, le imprese potranno chiedere chiarimenti e ricevere assistenza dagli esperti Confesercenti su tutti gli aspetti dei provvedimenti relativi alle attivit\u00e0 economiche varati per l\u2019emergenza."", ""Email"": ""curaitalia@confesercenti.it"", ""Link"": ""http://www.confesercentipalermo.it/cura-italia-confesercenti-lancia-lassistenza-a-distanza-per-le-imprese/"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Assistenza a distanza per le #imprese a #Palermo -#ConfesercentiPalermo"", ""Posizione"": ""38.12453 13.355083 0 0"", ""Telefono"": ""800 620 506""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2318,595235330,2020-04-07 14:56:53,2020-04-06 16:00:25,Un servizio Confesercenti #Palermo assistere le imprese ad accedere agli strumenti del CuraItalia,38.12453,13.355083,Sicilia,Palermo,"[""Bollettino"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Una #piattaformaweb, un servizio #Whatsapp ed un #numeroverde per assistere le #imprese ed aiutarle ad accedere agli strumenti messi in campo dal #CuraItalia per affrontare l\u2019impatto economico dell\u2019emergenza sanitaria legata al Covid-19: dalla normativa sulle chiusure al lavoro fino al fisco, passando per credito e previdenza.\n\n\u00c8 il nuovo servizio di assistenza a distanza per gli #imprenditori e le #partiteIVA messo a disposizione da Confesercenti Palermo, ed attivo gi\u00e0 da oggi. \n\nChiamando il numero verde 800 620 506, mandando un messaggio Whatsapp al numero 345 2518051, o accedendo direttamente all\u2019indirizzo web curaitalia.confesercenti.it, le imprese potranno chiedere chiarimenti e ricevere assistenza dagli esperti Confesercenti su tutti gli aspetti dei provvedimenti relativi alle attivit\u00e0 economiche varati per l\u2019emergenza."", ""Email"": ""curaitalia@confesercenti.it"", ""Link"": ""http://www.confesercentipalermo.it/cura-italia-confesercenti-lancia-lassistenza-a-distanza-per-le-imprese/"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Assistenza a distanza per le #imprese a #Palermo -#ConfesercentiPalermo"", ""Posizione"": ""38.12453 13.355083 0 0"", ""Telefono"": ""800 620 506""}","<pre><yamldata>
 Descrizione: ""Una #piattaformaweb, un servizio #Whatsapp ed un #numeroverde per assistere\
   \ le #imprese ed aiutarle ad accedere agli strumenti messi in campo dal #CuraItalia\
   \ per affrontare l’impatto economico dell’emergenza sanitaria legata al Covid-19:\
@@ -1687,6 +1676,25 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Sportello I.O. - Immigrazioni e Omosessualità
 Posizione: 45.4608626 9.2114628
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2242,593797950,2020-04-04 14:00:28,2020-04-04 11:01:27,Raccolta fondi IKENGA APS per colletta alimentare destinata a persone in difficoltà #Palermo ,38.112616,13.364761,Sicilia,Palermo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""CCRTIT2T84A"", ""Causale"": ""Solidariet\u00e0 contagiosa"", ""Descrizione"": ""La SOLIDARIETA' \u00e8 CONTAGIOSA! \n\nIKENGA \u00e8 un'associazione e un community center a Palermo. Dall'inizio di questa emergenza \nstiamo supportando tante persone in difficolt\u00e0, e il 24 marzo abbiamo lanciato una raccolta fondi. \nIn dieci giorni abbiamo ricevuto oltre 1.600\u20ac e diversi generi alimentari, grazie ai quali abbiamo distribuito 150 buoni da 10\u20ac e 30 pacchi spesa.\n\nI nostri soci sono principalmente persone di origine straniera, e sono loro i principali beneficiari della nostra distribuzione. Abbiamo ancora bisogno dell'aiuto di tutte e tutti in attesa che le iniziative solidali del Comune di Palermo vadano a pieno regime, e con particolare attenzione a coloro che non possono accedervi."", ""Email"": ""info@ikengasicily.it"", ""IBAN"": ""IT31E0501804600000016795809"", ""Intestazione"": ""IKENGA APS"", ""Link"": ""https://www.facebook.com/ikenga.palermo/posts/834980140356638"", ""Nome"": ""IKENGA"", ""Posizione"": ""38.112616 13.364761 0 0""}","<pre><yamldata>
+BIC_SWIFT: CCRTIT2T84A
+Causale: Solidarietà contagiosa
+Descrizione: ""La SOLIDARIETA' è CONTAGIOSA! \n\nIKENGA è un'associazione e un community\
+  \ center a Palermo. Dall'inizio di questa emergenza \nstiamo supportando tante persone\
+  \ in difficoltà, e il 24 marzo abbiamo lanciato una raccolta fondi. \nIn dieci giorni\
+  \ abbiamo ricevuto oltre 1.600€ e diversi generi alimentari, grazie ai quali abbiamo\
+  \ distribuito 150 buoni da 10€ e 30 pacchi spesa.\n\nI nostri soci sono principalmente\
+  \ persone di origine straniera, e sono loro i principali beneficiari della nostra\
+  \ distribuzione. Abbiamo ancora bisogno dell'aiuto di tutte e tutti in attesa che\
+  \ le iniziative solidali del Comune di Palermo vadano a pieno regime, e con particolare\
+  \ attenzione a coloro che non possono accedervi.""
+Email: info@ikengasicily.it
+IBAN: IT31E0501804600000016795809
+Intestazione: IKENGA APS
+Link: https://www.facebook.com/ikenga.palermo/posts/834980140356638
+Nome: IKENGA
+Posizione: 38.112616 13.364761 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2240,593793046,2020-04-04 13:17:28,2020-04-04 10:31:21,CinemAmbiente: Film e documentari a tematica green gratuiti,45.071562,7.694721,Piemonte,Torino,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Ministero dell\u2019Ambiente e della Tutela del Territorio e del Mare e Festival CinemAmbiente - Museo Nazionale del Cinem"", ""Descrizione"": ""Il Ministero dell\u2019Ambiente e della Tutela del Territorio e del Mare e Festival CinemAmbiente - Museo Nazionale del Cinema organizzano e promuovono l\u2019iniziativa\u201cCinemAmbiente a casa tua\u201d, rassegna online che mette a disposizione di tutti, per le prossime settimane, una selezione di film a tematica green.\n\nA partire da venerd\u00ec 3 aprile, ogni tre giorni sar\u00e0 proposto un nuovo titolo, visibile gratuitamente su questo sito scelto tra i film che hanno riscosso particolare successo nelle ultime edizioni del Festival o che hanno approfondito i temi oggi pi\u00f9 che mai, anche per effetto della pandemia, al centro del dibattito ecologista: i cambiamenti climatici, l\u2019antropizzazione, la tutela degli habitat di specie, l\u2019ecosostenibilit\u00e0, i nuovi, possibili modelli di sviluppo. La diffusione in streaming dei film sar\u00e0 accompagnata da videomessaggi dei registi o da videointerventi di esperti, che offriranno spunto per ulteriori approfondimenti."", ""Destinatari"": ""Tutti"", ""Link"": ""https://cinemambiente.it/cinemambiente-a-casa-tua/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.071562 7.694721 0 0"", ""Titolo"": ""CinemAmbiente a casa tua""}","<pre><yamldata>
 Da_chi_offerta: Il Ministero dell’Ambiente e della Tutela del Territorio e del Mare
