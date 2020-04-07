@@ -1,4 +1,47 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2335,595705462,2020-04-07 09:12:45,2020-04-07 08:54:47,La ASL di #Rieti mette a disposizione un numero per contattare il Dipartimento di Salute Mentale,42.401623,12.862879,Lazio,Rieti,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Asl Rieti"", ""Descrizione"": ""E\u2019 possibile contattare il Dipartimento di Salute Mentale dal luned\u00ec al venerd\u00ec allo 0746/278905 dalle ore 9 alle ore 18. Il 3384128745 e lo 0746296832 dal luned\u00ec al sabato dalle ore 9 alle ore 20. ANCHE H24 PER URGENZE.\n\nIl Servizio di Psicologia Ospedaliera offre consulenze su richiesta dei reparti ospedalieri implicati nella gestione dell\u2019emergenza COVID-19 e degli operatori sanitari ospedalieri 3384876825. ANCHE H24 PER URGENZE.\n\nGli psicologi del Servizio Materno-Infantile, offrono consulenza telefonica in favore di famiglie con bambini e adolescenti, coppie, donne in gravidanza. E\u2019 possibile contattare gli specialisti allo 0746279414 dal luned\u00ec al venerd\u00ec mattina dalle ore 9 alle ore 14; dal luned\u00ec al gioved\u00ec pomeriggio dalle 15 alle 18. Gli orari potranno subire delle variazioni, che verranno comunicate, a seconda delle richieste pervenute."", ""Destinatari"": ""persone che ne abbiano bisogno"", ""Link"": ""https://www.asl.rieti.it/notizie-1/dettaglio-notizia/coronavirus-psicologia-dellemergenza-asl-rieti-da-oggi-il-servizio-e-h24"", ""Natura"": ""solidale"", ""Posizione"": ""42.401623 12.862879 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Attivo il servizio di Psicologia di Emergenza""}","<pre><yamldata>
+Da_chi_offerta: Asl Rieti
+Descrizione: 'E’ possibile contattare il Dipartimento di Salute Mentale dal lunedì
+  al venerdì allo 0746/278905 dalle ore 9 alle ore 18. Il 3384128745 e lo 0746296832
+  dal lunedì al sabato dalle ore 9 alle ore 20. ANCHE H24 PER URGENZE.
+
+
+  Il Servizio di Psicologia Ospedaliera offre consulenze su richiesta dei reparti
+  ospedalieri implicati nella gestione dell’emergenza COVID-19 e degli operatori sanitari
+  ospedalieri 3384876825. ANCHE H24 PER URGENZE.
+
+
+  Gli psicologi del Servizio Materno-Infantile, offrono consulenza telefonica in favore
+  di famiglie con bambini e adolescenti, coppie, donne in gravidanza. E’ possibile
+  contattare gli specialisti allo 0746279414 dal lunedì al venerdì mattina dalle ore
+  9 alle ore 14; dal lunedì al giovedì pomeriggio dalle 15 alle 18. Gli orari potranno
+  subire delle variazioni, che verranno comunicate, a seconda delle richieste pervenute.'
+Destinatari: persone che ne abbiano bisogno
+Link: https://www.asl.rieti.it/notizie-1/dettaglio-notizia/coronavirus-psicologia-dellemergenza-asl-rieti-da-oggi-il-servizio-e-h24
+Natura: solidale
+Posizione: 42.401623 12.862879 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Attivo il servizio di Psicologia di Emergenza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2334,595704249,2020-04-07 09:11:45,2020-04-07 08:52:50,La Caritas di #Jesi mette a disposizione prodotti alimentari e igenici per la casa per famiglie in difficoltà ,43.523812,13.236757,Marche,Ancona,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Caritas  Jesina - Fondazione Padre Oscar Onlsu"", ""Descrizione"": ""Dal febbraio 2019 questo servizio \u00e8 stato sostituito da un EMPORIO: luogo in cui le persone possono andare a fare la spesa scegliendo tra una quantit\u00e0 notevole di prodotti che pi\u00f9 si allineano alle reali esigenze alimentari e igieniche della famiglia. \nIn questo periodo di emergenza il servizio resta attivo e fondamentale per le famiglie in difficolt\u00e0.\n\nI prodotti base previsti all\u2019Emporio sono: PASTA, RISO, POMODORO IN SCATOLA, OLIO, FARINA, LEGUMI, TONNO IN SCATOLA, ZUCCHERO, BISCOTTI, LATTE, FORMAGGIO, UOVA, FRUTTA E VERDURA, PRODOTTI PER L\u2019IGIENE della persona e della casa. A questi possono aggiungersi prodotti diversi, a seconda delle donazioni e delle disponibilit\u00e0. I prodotti sono in parte di provenienza AGEA, quindi dalla Comunit\u00e0 Europea, da donazioni di privati o acquistati direttamente dalla Fondazione."", ""Destinatari"": ""persone in difficolt\u00e0 socio economica"", ""Link"": ""http://www.caritasjesi.it/servizi-offerti/pacchi-viveri"", ""Natura"": ""solidale"", ""Posizione"": ""43.523812 13.236757 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Emporio Solidale - servizio distribuzione viveri""}","<pre><yamldata>
+Da_chi_offerta: Caritas  Jesina - Fondazione Padre Oscar Onlsu
+Descrizione: ""Dal febbraio 2019 questo servizio è stato sostituito da un EMPORIO:\
+  \ luogo in cui le persone possono andare a fare la spesa scegliendo tra una quantità\
+  \ notevole di prodotti che più si allineano alle reali esigenze alimentari e igieniche\
+  \ della famiglia. \nIn questo periodo di emergenza il servizio resta attivo e fondamentale\
+  \ per le famiglie in difficoltà.\n\nI prodotti base previsti all’Emporio sono: PASTA,\
+  \ RISO, POMODORO IN SCATOLA, OLIO, FARINA, LEGUMI, TONNO IN SCATOLA, ZUCCHERO, BISCOTTI,\
+  \ LATTE, FORMAGGIO, UOVA, FRUTTA E VERDURA, PRODOTTI PER L’IGIENE della persona\
+  \ e della casa. A questi possono aggiungersi prodotti diversi, a seconda delle donazioni\
+  \ e delle disponibilità. I prodotti sono in parte di provenienza AGEA, quindi dalla\
+  \ Comunità Europea, da donazioni di privati o acquistati direttamente dalla Fondazione.""
+Destinatari: persone in difficoltà socio economica
+Link: http://www.caritasjesi.it/servizi-offerti/pacchi-viveri
+Natura: solidale
+Posizione: 43.523812 13.236757 0 0
+Tipo_di_soggetto: privato
+Titolo: Emporio Solidale - servizio distribuzione viveri
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2333,595701381,2020-04-07 09:10:01,2020-04-07 08:48:19,E'  attivo a #Jesi lo Sportello Antiviolenza gestito dalla Casa delle Donne,43.522505,13.243924,Marche,Ancona,"[""Bollettino"", ""Contatti utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Sportello Antiviolenza Casa delle Donne di Jesi"", ""Descrizione"": ""E'  attivo a Jesi lo Sportello Antiviolenza gestito dalla Casa delle Donne.\n\nLa violenza non si ferma, anzi, in alcune condizioni pu\u00f2 aumentare e per molte donne rimanere a casa non \u00e8 stare al sicuro e nemmeno confortante. \nPer questo le operatrici dello Sportello continueranno ad esserci per tutte le donne che hanno bisogno #NOICISIAMO\ngarantendo ascolto e sostegno.\nPotete contattarci telefonicamente al 3664818366, via email casadelledonne.jesi.an@gmail.com o scriverci su fb.\nTel. 366 4818366"", ""Destinatari"": ""donne a rischio violenza o che hanno subito violenza"", ""Link"": ""https://www.facebook.com/casadelledonnejesi/photos/a.133606173480053/1501556766684980/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""43.522505 13.243924 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello attivo via numero telefonico""}","<pre><yamldata>
 Da_chi_offerta: Sportello Antiviolenza Casa delle Donne di Jesi
 Descrizione: ""E'  attivo a Jesi lo Sportello Antiviolenza gestito dalla Casa delle\
@@ -13567,16 +13610,6 @@ Natura: solidale
 Posizione: 44.070814 10.132141 0 0
 Tipo_di_soggetto: privato
 Titolo: Massa Carrara, servizi di consegna a domicilio
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/931,585330894,2020-03-24 21:44:12,2020-03-20 21:14:46,Ordinanza del Ministero della Salute del 20/3/2020 con ulteriori restrizioni contro il contagio,,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ordinanza del Ministero della Salute del 20/3/2020"", ""Descrizione"": ""Ulteriori misure urgenti di contenimento del contagio da coronavirus sull\u2019intero territorio nazionale.\na) chiusura di parchi e giardini pubblici; \nb) divieto di attivit\u00e0 ludiche all'aperto, sport da soli e vicino casa; \nc) chiusura dei negozi di alimentari in stazioni e aree di servizio; \nd) divieto di spostamento verso seconde case nei festivi."", ""Fonte"": ""Ministero della Salute"", ""Link"": ""http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4283""}","<pre><yamldata>
-Cosa: Ordinanza del Ministero della Salute del 20/3/2020
-Descrizione: ""Ulteriori misure urgenti di contenimento del contagio da coronavirus sull’intero territorio\
-  \ nazionale.\na) chiusura di parchi e giardini pubblici; \nb) divieto di attività\
-  \ ludiche all'aperto, sport da soli e vicino casa; \nc) chiusura dei negozi di alimentari\
-  \ in stazioni e aree di servizio; \nd) divieto di spostamento verso seconde case\
-  \ nei festivi.""
-Fonte: Ministero della Salute
-Link: http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4283
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/931,585330894,2020-03-24 21:44:12,2020-03-20 21:14:46,Ordinanza del Ministero della Salute del 20/3/2020 con ulteriori restrizioni contro il contagio,,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ordinanza del Ministero della Salute del 20/3/2020"", ""Descrizione"": ""Ulteriori misure urgenti di contenimento del contagio da coronavirus sull\u2019intero territorio nazionale.\na) chiusura di parchi e giardini pubblici; \nb) divieto di attivit\u00e0 ludiche all'aperto, sport da soli e vicino casa; \nc) chiusura dei negozi di alimentari in stazioni e aree di servizio; \nd) divieto di spostamento verso seconde case nei festivi."", ""Fonte"": ""Ministero della Salute"", ""Link"": ""http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4283""}","<pre><yamldata>
 Cosa: Ordinanza del Ministero della Salute del 20/3/2020
