@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2360,596558031,2020-04-08 13:35:08,2020-04-08 12:58:10,Gli Psicologi Online fornisce assistenza psicologica online in forma anonima e gratuita,,,tutte,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gli Psicologi online (Ispoon srls)"", ""Descrizione"": ""Professionisti certificati sono a tua disposizione gratuitamente per darti supporto.\nFronteggiare l'emergenza COVID-19 da soli pu\u00f2 non essere facile ma i nostri esperti sono pronti ad affiancarti attraverso colloqui a distanza, in forma anonima e gratuita, sul nostro portale, per superare insieme questo periodo.\nGli Psicologi Online \u00e8 un portale pensato per garantire supporto psicologico durante la situazione di emergenza COVID-19 in maniera gratuita ed anonima.\nSul nostro portale troverai solo Psicologi, Psichiatri, Neuropsichiatri abilitati e iscritti all\u2019Ordine e coperti da assicurazione professionale."", ""Link"": ""https://glipsicologionline.it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza psicologica online gratuita e anonima"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Gli Psicologi online (Ispoon srls)
+Descrizione: 'Professionisti certificati sono a tua disposizione gratuitamente per
+  darti supporto.
+
+  Fronteggiare l''emergenza COVID-19 da soli può non essere facile ma i nostri esperti
+  sono pronti ad affiancarti attraverso colloqui a distanza, in forma anonima e gratuita,
+  sul nostro portale, per superare insieme questo periodo.
+
+  Gli Psicologi Online è un portale pensato per garantire supporto psicologico durante
+  la situazione di emergenza COVID-19 in maniera gratuita ed anonima.
+
+  Sul nostro portale troverai solo Psicologi, Psichiatri, Neuropsichiatri abilitati
+  e iscritti all’Ordine e coperti da assicurazione professionale.'
+Link: https://glipsicologionline.it/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Assistenza psicologica online gratuita e anonima
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2359,596553744,2020-04-08 13:19:04,2020-04-08 12:51:09,GayMin Out attiva linea di ascolto per persone lgbtqi,45.57057,9.21315,Lombardia,Milano,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione GayMiN Out"", ""Descrizione"": ""Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa non \u00e8 un invito rassicurante. Stare a casa in ambiente omofobi o transfobici pu\u00f2 divenire un incubo durante questa quarantena. Servizio attivo dalle 10 alle 21 al numero 3335662655. Non \u00e8 uno sportello psicologico ma di ascolto."", ""Destinatari"": ""Comunit\u00e0 lgbtqi"", ""Link"": ""www.facebook.com/GayminOut"", ""Natura"": ""solidale"", ""Posizione"": ""45.57057 9.21315"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Come and let's talk""}","<pre><yamldata>
 Da_chi_offerta: Associazione GayMiN Out
 Descrizione: Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa
