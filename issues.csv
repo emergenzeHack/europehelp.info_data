@@ -25,18 +25,6 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: 'Buoni spesa: mappa dei capoluoghi di provincia con tutte le info per ottenerli'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2361,596561839,2020-04-08 13:54:13,2020-04-08 13:04:09,#Bergamo Aiuta: nasce la piattaforma dove trovare numeri e informazioni utili relativi all'emergenza Covid-19 ,,,,,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bergamo"", ""Descrizione"": ""Il Comune di Bergamo in questi giorni difficili si impegna a non lasciare soli i suoi cittadini.\nTu resta a casa, noi ti garantiamo i servizi necessari: su questa piattaforma troverai tutti i numeri e le informazioni utili che ti servono"", ""Destinatari"": ""cittadini/e di Bergamo"", ""Link"": ""http://bergamoaiuta.it/"", ""Titolo"": ""Bergamo Aiuta - Emergenza Coronavirus, informazioni e servizi"", ""comune_manuale"": ""Bergamo""}","<pre><yamldata>
-Da_chi_offerta: Comune di Bergamo
-Descrizione: 'Il Comune di Bergamo in questi giorni difficili si impegna a non lasciare
-  soli i suoi cittadini.
-
-  Tu resta a casa, noi ti garantiamo i servizi necessari: su questa piattaforma troverai
-  tutti i numeri e le informazioni utili che ti servono'
-Destinatari: cittadini/e di Bergamo 
-Link: http://bergamoaiuta.it/
-Titolo: Bergamo Aiuta - Emergenza Coronavirus, informazioni e servizi
-comune_manuale: Bergamo
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2360,596558031,2020-04-08 13:54:52,2020-04-08 12:58:10,Gli Psicologi Online fornisce assistenza psicologica online in forma anonima e gratuita,,,tutte,,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gli Psicologi online (Ispoon srls)"", ""Descrizione"": ""Professionisti certificati sono a tua disposizione gratuitamente per darti supporto.\nFronteggiare l'emergenza COVID-19 da soli pu\u00f2 non essere facile ma i nostri esperti sono pronti ad affiancarti attraverso colloqui a distanza, in forma anonima e gratuita, sul nostro portale, per superare insieme questo periodo.\nGli Psicologi Online \u00e8 un portale pensato per garantire supporto psicologico durante la situazione di emergenza COVID-19 in maniera gratuita ed anonima.\nSul nostro portale troverai solo Psicologi, Psichiatri, Neuropsichiatri abilitati e iscritti all\u2019Ordine e coperti da assicurazione professionale."", ""Link"": ""https://glipsicologionline.it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza psicologica online gratuita e anonima"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Gli Psicologi online (Ispoon srls)
 Descrizione: 'Professionisti certificati sono a tua disposizione gratuitamente per
@@ -5101,7 +5089,7 @@ Descrizione: Piattaforma, realizzata da un gruppo di giovani bergamaschi, che ra
 Link: https://bergamo.domicilio.app/
 Posizione: 45.68220 9.67743 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1973,590322720,2020-03-30 16:20:53,2020-03-30 14:10:10,"#BergamoAiuta piattaforma Comune #Bergamo con servizi utili: spesa, pasti e farmaci a domicilio, assistenza, sostegno psicologico",45.67548,9.66507,Lombardia,Bergamo,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""http://bergamoaiuta.it/"", ""Nome"": ""Bergamoaiuta.it"", ""Posizione"": ""45.67548 9.66507 0 0"", ""Scopo"": ""Piattaforma promossa dal Comune di Bergamo con tutti i servizi utili ai cittadini per emergenza Covid19: Assistenza Spesa a domicilio Pasti a domicilio Farmaci a domicilio Servizi infanzia Sostegno psicologico E molto altro""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1973,590322720,2020-04-08 16:34:15,2020-03-30 14:10:10,"#BergamoAiuta piattaforma Comune #Bergamo con servizi utili: spesa, pasti e farmaci a domicilio, assistenza, sostegno psicologico",45.67548,9.66507,Lombardia,Bergamo,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Link"": ""http://bergamoaiuta.it/"", ""Nome"": ""Bergamoaiuta.it"", ""Posizione"": ""45.67548 9.66507 0 0"", ""Scopo"": ""Piattaforma promossa dal Comune di Bergamo con tutti i servizi utili ai cittadini per emergenza Covid19: Assistenza Spesa a domicilio Pasti a domicilio Farmaci a domicilio Servizi infanzia Sostegno psicologico E molto altro""}","<pre><yamldata>
 Nome: Bergamoaiuta.it
 Scopo: 'Piattaforma promossa dal Comune di Bergamo con tutti i servizi utili ai cittadini per emergenza Covid19:
   Assistenza
