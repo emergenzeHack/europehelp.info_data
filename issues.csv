@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2368,596749165,2020-04-08 17:45:44,2020-04-08 17:44:22,I centri antiviolenza al tempo del coronavirus: al via l’indagine del Cnr,,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""I centri antiviolenza al tempo del coronavirus: al via l\u2019indagine di Viva, progetto Cnr"", ""Descrizione"": ""Nel corso del mese di aprile 2020 \u00e8 previsto lo svolgimento dell\u2019indagine ideata dal Progetto ViVa, promosso da CNR per il  monitoraggio, valutazione e analisi degli interventi di prevenzione e contrasto alla violenza contro le donne. L\u2019obiettivo \u00e8 far emergere le principali criticit\u00e0 che i centri antiviolenza si trovano a dover affrontare in questo difficile periodo di emergenza sanitaria legata alla diffusione del COVID19 e le strategie messe in atto per farvi fronte, nella consapevolezza che \u2013 come sottolineato anche nel corso di una recente riunione tra le principali associazioni attive nel campo dell\u2019antiviolenza e la Ministra per le Pari Opportunit\u00e0 e la famiglia Elena Bonetti \u2013 le restrizioni e le misure di contenimento acuiscono i rischi per le donne che vivono in contesti familiari violenti e per le/i loro figlie/i.\nTutti i centri antiviolenza attivi sul territorio italiano sono invitati a partecipare all\u2019indagine compilando tramite piattaforma LimeSurvey il Questionario di rilevazione a cui possono accedere attraverso il link inviato per e-mail."", ""Link"": ""https://viva.cnr.it/covid19/""}","<pre><yamldata>
+Cosa: 'I centri antiviolenza al tempo del coronavirus: al via l’indagine di Viva,
+  progetto Cnr'
+Descrizione: 'Nel corso del mese di aprile 2020 è previsto lo svolgimento dell’indagine
+  ideata dal Progetto ViVa, promosso da CNR per il  monitoraggio, valutazione e analisi
+  degli interventi di prevenzione e contrasto alla violenza contro le donne. L’obiettivo
+  è far emergere le principali criticità che i centri antiviolenza si trovano a dover
+  affrontare in questo difficile periodo di emergenza sanitaria legata alla diffusione
+  del COVID19 e le strategie messe in atto per farvi fronte, nella consapevolezza
+  che – come sottolineato anche nel corso di una recente riunione tra le principali
+  associazioni attive nel campo dell’antiviolenza e la Ministra per le Pari Opportunità
+  e la famiglia Elena Bonetti – le restrizioni e le misure di contenimento acuiscono
+  i rischi per le donne che vivono in contesti familiari violenti e per le/i loro
+  figlie/i.
+
+  Tutti i centri antiviolenza attivi sul territorio italiano sono invitati a partecipare
+  all’indagine compilando tramite piattaforma LimeSurvey il Questionario di rilevazione
+  a cui possono accedere attraverso il link inviato per e-mail.'
+Link: https://viva.cnr.it/covid19/
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2363,596691001,2020-04-08 16:53:24,2020-04-08 16:04:51,Sul sito CsvLombardia.it elenco aggiornato dei servizi per l’emergenza coronavirus offerti nei comuni della città metropolitana di #Milano,45.503159,9.17573,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Csv Lombardia"", ""Descrizione"": ""Sul sito dei Centri di servizio per il volontariato della Lombardia un elenco aggiornato delle iniziative solidali e dei servizi offerti ai cittadini dei comuni della citt\u00e0 metropolitana di Milano per far fronte all\u2019emergenza coronavirus."", ""Destinatari"": ""Cittadini citt\u00e0 metropolitana Milano"", ""Link"": ""https://www.csvlombardia.it/milano/post/i-comuni-si-mobilitano-con-iniziative-straordinarie/"", ""Natura"": ""solidale"", ""Posizione"": ""45.503159 9.17573 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Su CsvLombardia.it mappa dei servizi offerti per l\u2019emergenza nei comuni della Citt\u00e0 Metropolitana di Milano""}","<pre><yamldata>
 Da_chi_offerta: Csv Lombardia
 Descrizione: Sul sito dei Centri di servizio per il volontariato della Lombardia un
@@ -42,7 +62,7 @@ Tipo_di_soggetto: privato
 Titolo: Assistenza psicologica online gratuita e anonima
 regione_manuale: tutte
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2359,596553744,2020-04-08 16:53:58,2020-04-08 12:51:09,GayMin Out attiva linea di ascolto per persone lgbtqi,45.57057,9.21315,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione GayMiN Out"", ""Descrizione"": ""Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa non \u00e8 un invito rassicurante. Stare a casa in ambiente omofobi o transfobici pu\u00f2 divenire un incubo durante questa quarantena. Servizio attivo dalle 10 alle 21 al numero 3335662655. Non \u00e8 uno sportello psicologico ma di ascolto."", ""Destinatari"": ""Comunit\u00e0 lgbtqi"", ""Link"": ""www.facebook.com/GayminOut"", ""Natura"": ""solidale"", ""Posizione"": ""45.57057 9.21315"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Come and let's talk""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2359,596553744,2020-04-08 16:55:03,2020-04-08 12:51:09,GayMin Out attiva linea di ascolto per persone lgbtqi,45.57057,9.21315,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione GayMiN Out"", ""Descrizione"": ""Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa non \u00e8 un invito rassicurante. Stare a casa in ambiente omofobi o transfobici pu\u00f2 divenire un incubo durante questa quarantena. Servizio attivo dalle 10 alle 21 al numero 3335662655. Non \u00e8 uno sportello psicologico ma di ascolto."", ""Destinatari"": ""Comunit\u00e0 lgbtqi"", ""Link"": ""www.facebook.com/GayminOut"", ""Natura"": ""solidale"", ""Posizione"": ""45.57057 9.21315"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Come and let's talk""}","<pre><yamldata>
 Da_chi_offerta: Associazione GayMiN Out
 Descrizione: Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa
   non è un invito rassicurante. Stare a casa in ambiente omofobi o transfobici può
@@ -564,7 +584,7 @@ Descrizione: ""Siamo un gruppo internazionale di ricercatori e psicologi clinici
   \ gruppo di ricerca,\nGioia Bottesi, PhD (Università degli Studi di Padova)""
 Link: https://nclpsych.eu.qualtrics.com/jfe/form/SV_bf1hYzbGQlWLg8J
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2329,595452425,2020-04-08 15:14:46,2020-04-06 21:53:05,Raccolta fondi per l'acquisto di 3 pulsossimetri pediatrici per strutture Usca #Osimo (#Ancona) ,43.48521,13.48754,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""DONAZIONE per l'acquisto di 3 pulsossimetri pediatrici"", ""Descrizione"": ""OBIETTIVO: QUOTA 205 EURO!\n Raccolgo l'invito del mio ex pediatra dott. Cicione di trovare i fondi necessari per l'acquisto di 3 pulsossimetri pediatrici per 3 USCA (Unit\u00e0 Speciali di Continuit\u00e0 Assistenziali) attive per i comuni di Osimo, Castelfidardo, Camerano, Loreto, Sirolo e Numana.\nSono strumenti indispensabili per valutare la saturazione nei bambini e  in caso di infezione da Covid-19 per il team di medici e pediatri impegnati nel territorio"", ""Email"": ""silena.sernani@gmail.com"", ""IBAN"": ""IT37L0200837497000040470506"", ""Intestazione"": ""Silena Sernani"", ""Link"": ""https://www.gofundme.com/f/raccolta-di-3-pulsossimetri-pediatrici-usca"", ""Nome"": ""Silena Sernani"", ""Posizione"": ""43.48521 13.48754""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2329,595452425,2020-04-08 17:35:58,2020-04-06 21:53:05,Raccolta fondi per l'acquisto di 3 pulsossimetri pediatrici per strutture Usca #Osimo (#Ancona) ,43.48521,13.48754,Marche,Ancona,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""DONAZIONE per l'acquisto di 3 pulsossimetri pediatrici"", ""Descrizione"": ""OBIETTIVO: QUOTA 205 EURO!\n Raccolgo l'invito del mio ex pediatra dott. Cicione di trovare i fondi necessari per l'acquisto di 3 pulsossimetri pediatrici per 3 USCA (Unit\u00e0 Speciali di Continuit\u00e0 Assistenziali) attive per i comuni di Osimo, Castelfidardo, Camerano, Loreto, Sirolo e Numana.\nSono strumenti indispensabili per valutare la saturazione nei bambini e  in caso di infezione da Covid-19 per il team di medici e pediatri impegnati nel territorio"", ""Email"": ""silena.sernani@gmail.com"", ""IBAN"": ""IT37L0200837497000040470506"", ""Intestazione"": ""Silena Sernani"", ""Link"": ""https://www.gofundme.com/f/raccolta-di-3-pulsossimetri-pediatrici-usca"", ""Nome"": ""Silena Sernani"", ""Posizione"": ""43.48521 13.48754""}","<pre><yamldata>
 Causale: DONAZIONE per l'acquisto di 3 pulsossimetri pediatrici
 Descrizione: ""OBIETTIVO: QUOTA 205 EURO!\n Raccolgo l'invito del mio ex pediatra dott.\
   \ Cicione di trovare i fondi necessari per l'acquisto di 3 pulsossimetri pediatrici\
@@ -6750,6 +6770,35 @@ Destinatari: tutti
 Link: http://www.compubblica.it/index.html?idnews=2620
 Natura: didattica
 Titolo: Corsi online gratuiti a cura dell'associazione Comunicazione Pubblica
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1486,589753223,2020-03-29 11:34:37,2020-03-29 09:28:25,Gli animali da compagnia non diffondono il nuovo Coronavirus - Le risposte dell'AUSL #Bologna,44.489558,11.347107,Emilia-Romagna,Bologna,"[""Notizie Utili"", ""accettato""]",,,"{""Cosa"": ""Non abbandoniamoli! Gli animali da compagnia non diffondono il nuovo Coronavirus."", ""Descrizione"": ""Anche se la situazione \u00e8 in rapida evoluzione ed \u00e8 quindi bene controllare costantemente ogni aggiornamento scientifico, ci\u00f2 che le indagini scientifiche condotte fino ad oggi ci mostrano \u00e8 che l\u2019epidemia \u00e8 sostenuta esclusivamente dalla trasmissione del virus tra uomo e uomo o tramite il contatto con oggetti contaminati\n\nDomande e risposte:\n\nIn caso di infezione da SARS-CoV-2 \u00e8 meglio evitare il contatto con animali da compagnia?\n\nSe il mio animale \u00e8 stato a contatto con una persona malata pu\u00f2 diffondere l\u2019infezione?\n\nHa senso richiedere un test per coronavirus felino o canino per valutare se i nostri animali sono sani?\n\nAvrebbe senso sottoporre un cane a vaccinazione per coronavirus canino al fine di proteggerlo da Covid-19?\n\nFonte: WASVA Global Veterinary Community"", ""Link"": ""http://www.ausl.bologna.it/news/current/auslnews.2020-03-25.0179932547"", ""Posizione"": ""44.489558 11.347107 0 0""}","<pre><yamldata>
+Cosa: Non abbandoniamoli! Gli animali da compagnia non diffondono il nuovo Coronavirus.
+Descrizione: 'Anche se la situazione è in rapida evoluzione ed è quindi bene controllare
+  costantemente ogni aggiornamento scientifico, ciò che le indagini scientifiche condotte
+  fino ad oggi ci mostrano è che l’epidemia è sostenuta esclusivamente dalla trasmissione
+  del virus tra uomo e uomo o tramite il contatto con oggetti contaminati
+
+
+  Domande e risposte:
+
+
+  In caso di infezione da SARS-CoV-2 è meglio evitare il contatto con animali da compagnia?
+
+
+  Se il mio animale è stato a contatto con una persona malata può diffondere l’infezione?
+
+
+  Ha senso richiedere un test per coronavirus felino o canino per valutare se i nostri
+  animali sono sani?
+
+
+  Avrebbe senso sottoporre un cane a vaccinazione per coronavirus canino al fine di
+  proteggerlo da Covid-19?
+
+
+  Fonte: WASVA Global Veterinary Community'
+Link: http://www.ausl.bologna.it/news/current/auslnews.2020-03-25.0179932547
+Posizione: 44.489558 11.347107 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1486,589753223,2020-03-29 11:34:37,2020-03-29 09:28:25,Gli animali da compagnia non diffondono il nuovo Coronavirus - Le risposte dell'AUSL #Bologna,44.489558,11.347107,Emilia-Romagna,Bologna,"[""Notizie Utili"", ""accettato""]",,,"{""Cosa"": ""Non abbandoniamoli! Gli animali da compagnia non diffondono il nuovo Coronavirus."", ""Descrizione"": ""Anche se la situazione \u00e8 in rapida evoluzione ed \u00e8 quindi bene controllare costantemente ogni aggiornamento scientifico, ci\u00f2 che le indagini scientifiche condotte fino ad oggi ci mostrano \u00e8 che l\u2019epidemia \u00e8 sostenuta esclusivamente dalla trasmissione del virus tra uomo e uomo o tramite il contatto con oggetti contaminati\n\nDomande e risposte:\n\nIn caso di infezione da SARS-CoV-2 \u00e8 meglio evitare il contatto con animali da compagnia?\n\nSe il mio animale \u00e8 stato a contatto con una persona malata pu\u00f2 diffondere l\u2019infezione?\n\nHa senso richiedere un test per coronavirus felino o canino per valutare se i nostri animali sono sani?\n\nAvrebbe senso sottoporre un cane a vaccinazione per coronavirus canino al fine di proteggerlo da Covid-19?\n\nFonte: WASVA Global Veterinary Community"", ""Link"": ""http://www.ausl.bologna.it/news/current/auslnews.2020-03-25.0179932547"", ""Posizione"": ""44.489558 11.347107 0 0""}","<pre><yamldata>
 Cosa: Non abbandoniamoli! Gli animali da compagnia non diffondono il nuovo Coronavirus.
