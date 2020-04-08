@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2359,596553744,2020-04-08 13:19:04,2020-04-08 12:51:09,GayMin Out attiva linea di ascolto per persone lgbtqi,45.57057,9.21315,Lombardia,Milano,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione GayMiN Out"", ""Descrizione"": ""Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa non \u00e8 un invito rassicurante. Stare a casa in ambiente omofobi o transfobici pu\u00f2 divenire un incubo durante questa quarantena. Servizio attivo dalle 10 alle 21 al numero 3335662655. Non \u00e8 uno sportello psicologico ma di ascolto."", ""Destinatari"": ""Comunit\u00e0 lgbtqi"", ""Link"": ""www.facebook.com/GayminOut"", ""Natura"": ""solidale"", ""Posizione"": ""45.57057 9.21315"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Come and let's talk""}","<pre><yamldata>
+Da_chi_offerta: Associazione GayMiN Out
+Descrizione: Linea di ascolto per persone lgbtqi. Per alcune persone stare a casa
+  non è un invito rassicurante. Stare a casa in ambiente omofobi o transfobici può
+  divenire un incubo durante questa quarantena. Servizio attivo dalle 10 alle 21 al
+  numero 3335662655. Non è uno sportello psicologico ma di ascolto.
+Destinatari: Comunità lgbtqi
+Link: www.facebook.com/GayminOut
+Natura: solidale
+Posizione: 45.57057 9.21315
+Tipo_di_soggetto: privato
+Titolo: Come and let's talk
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2358,596469993,2020-04-08 10:27:57,2020-04-08 10:21:13,Nasce un portale per riscoprire i mercati alimentari #Ubez,,,tutte,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ubez"", ""Descrizione"": ""Una iniziativa civica per riscoprire i mercati rionali, porti sicuri di qualit\u00e0, convenienza e consigli culinari. Sempre presenti, senza coda. Una valida alternativa al supermercato."", ""Destinatari"": ""Tutti i cittadini"", ""Link"": ""https://www.ubez.io/utilitevolita/mercati-alimentari"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Stop file ai supermercati, grazie agli Open Data"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Ubez
 Descrizione: Una iniziativa civica per riscoprire i mercati rionali, porti sicuri
