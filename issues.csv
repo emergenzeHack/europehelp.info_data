@@ -1,4 +1,38 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2374,597170132,2020-04-09 10:09:16,2020-04-09 10:04:41,Carabinieri e Poste consegnano la pensione a casa ad anziani soli,,,tutte,,"[""Consegne e commissioni"", ""Fonti istituzionali"", ""Notizie Utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Da_chi_offerta"": ""Carabinieri e Poste Italiane"", ""Descrizione"": ""Grazie alla collaborazione tra Poste e l\u2019Arma dei Carabinieri, 23.000 pensionati di et\u00e0 pari o superiore a 75 anni potranno richiedere la consegna della pensione a domicilio per tutta la durata dell\u2019emergenza da Covid-19, evitando cos\u00ec di doversi recare negli Uffici Postali, esponendosi a rischio di contagio, di scippi o truffe.\n\nTutti i cittadini di et\u00e0 pari o superiore a 75 anni che percepiscono prestazioni previdenziali presso gli Uffici Postali, che riscuotono normalmente la pensione in contanti, possono chiedere di ricevere gratuitamente le somme in denaro presso il loro domicilio, delegando al ritiro i Carabinieri. \n\nI pensionati potranno contattare il numero verde 800 55 66 70 messo a disposizione da Poste o chiamare la pi\u00f9 vicina Stazione dei Carabinieri per richiedere maggiori informazioni.\n\nI Carabinieri si recheranno presso gli sportelli degli Uffici Postali per riscuotere le indennit\u00e0 pensionistiche per poi consegnarle al domicilio dei beneficiari che ne abbiano fatto richiesta a Poste Italiane rilasciando un\u2019apposita delega scritta. \n\nIl servizio NON potr\u00e0 essere reso a coloro che \n- abbiano gi\u00e0 delegato altri soggetti alla riscossione\n- abbiano un libretto o un conto postale o \n- che vivano con familiari o comunque questi siano dimoranti nelle vicinanze della loro abitazione.\n\nL\u2019iniziativa nasce per contrastare la diffusione del Covid-19 e mitigarne gli effetti, anche mediante l\u2019adozione di misure straordinarie volte ad evitare gli spostamenti fisici delle persone, ed in particolare dei soggetti a maggior rischio, in ogni caso garantendo il mantenimento della distanza interpersonale di almeno un metro. \n\nL\u2019iniziativa permette anche di tutelare i soggetti beneficiari dalla commissione di reati a loro danno, quali, truffe, rapine e scippi.\n\nL\u2019Arma dei Carabinieri e Poste Italiane continueranno ad assicurare il servizio di erogazione e consegna al domicilio delle pensioni agli ultra settantacinquenni per l\u2019intera durata dell\u2019emergenza Covid-19."", ""Destinatari"": ""Pensionati soli con pi\u00f9 di 75 anni che ritirano pensione in Posta"", ""Link"": ""http://www.carabinieri.it/cittadino/informazioni/eventi/poste-italiane-e-carabinieri-insieme-per-consegnare-la-pensione-agli-anziani"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegna pensione a casa per over 75"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Carabinieri e Poste Italiane
+Descrizione: ""Grazie alla collaborazione tra Poste e l’Arma dei Carabinieri, 23.000\
+  \ pensionati di età pari o superiore a 75 anni potranno richiedere la consegna della\
+  \ pensione a domicilio per tutta la durata dell’emergenza da Covid-19, evitando\
+  \ così di doversi recare negli Uffici Postali, esponendosi a rischio di contagio,\
+  \ di scippi o truffe.\n\nTutti i cittadini di età pari o superiore a 75 anni che\
+  \ percepiscono prestazioni previdenziali presso gli Uffici Postali, che riscuotono\
+  \ normalmente la pensione in contanti, possono chiedere di ricevere gratuitamente\
+  \ le somme in denaro presso il loro domicilio, delegando al ritiro i Carabinieri.\
+  \ \n\nI pensionati potranno contattare il numero verde 800 55 66 70 messo a disposizione\
+  \ da Poste o chiamare la più vicina Stazione dei Carabinieri per richiedere maggiori\
+  \ informazioni.\n\nI Carabinieri si recheranno presso gli sportelli degli Uffici\
+  \ Postali per riscuotere le indennità pensionistiche per poi consegnarle al domicilio\
+  \ dei beneficiari che ne abbiano fatto richiesta a Poste Italiane rilasciando un’apposita\
+  \ delega scritta. \n\nIl servizio NON potrà essere reso a coloro che \n- abbiano\
+  \ già delegato altri soggetti alla riscossione\n- abbiano un libretto o un conto\
+  \ postale o \n- che vivano con familiari o comunque questi siano dimoranti nelle\
+  \ vicinanze della loro abitazione.\n\nL’iniziativa nasce per contrastare la diffusione\
+  \ del Covid-19 e mitigarne gli effetti, anche mediante l’adozione di misure straordinarie\
+  \ volte ad evitare gli spostamenti fisici delle persone, ed in particolare dei soggetti\
+  \ a maggior rischio, in ogni caso garantendo il mantenimento della distanza interpersonale\
+  \ di almeno un metro. \n\nL’iniziativa permette anche di tutelare i soggetti beneficiari\
+  \ dalla commissione di reati a loro danno, quali, truffe, rapine e scippi.\n\nL’Arma\
+  \ dei Carabinieri e Poste Italiane continueranno ad assicurare il servizio di erogazione\
+  \ e consegna al domicilio delle pensioni agli ultra settantacinquenni per l’intera\
+  \ durata dell’emergenza Covid-19.""
+Destinatari: Pensionati soli con più di 75 anni che ritirano pensione in Posta
+Link: http://www.carabinieri.it/cittadino/informazioni/eventi/poste-italiane-e-carabinieri-insieme-per-consegnare-la-pensione-agli-anziani
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Consegna pensione a casa per over 75
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2373,597144869,2020-04-09 09:34:38,2020-04-09 09:21:16,"In Gazzetta Ufficiale il DL ""Misure urgenti in materia di accesso al credito e di adempimenti fiscali per le imprese, di poteri speciali nei settori strategici, nonché interventi in materia di salute e lavoro, di proroga di termini amministrativi e processuali""",,,tutte,,"[""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Misure urgenti in materia di accesso al credito e di adempimenti fiscali per le imprese, di poteri speciali nei settori strategici, nonch\u00e9 interventi in materia di salute e lavoro, di proroga di termini amministrativi e processuali."", ""Descrizione"": ""Pubblicato in Gazzetta Ufficiale il DECRETO-LEGGE 8 aprile 2020, n. 23 cosiddetto Decreto liquidit\u00e0."", ""Fonte"": ""Gazzetta Ufficiale n\u00b0 94 dell'8/4/2020"", ""Link"": ""https://www.gazzettaufficiale.it/do/atto/serie_generale/caricaPdf?cdimg=20G0004300000010110001&dgu=2020-04-08&art.dataPubblicazioneGazzetta=2020-04-08&art.codiceRedazionale=20G00043&art.num=1&art.tiposerie=SG"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Cosa: Misure urgenti in materia di accesso al credito e di adempimenti fiscali per
   le imprese, di poteri speciali nei settori strategici, nonché interventi in materia
