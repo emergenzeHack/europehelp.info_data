@@ -329,13 +329,13 @@ Link: https://www.citynow.it/emergenza-covid-19-in-calabria-e-attivo-il-servizio
 Posizione: 38.848264 16.534424 0 0
 Titolo: in Calabria è attiva l'assistenza sociale INAIL online
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2342,595766474,2020-04-07 14:22:23,2020-04-07 10:34:15,Associazione Italiana Persone Down AIPD offre tramite il proprio sito informazioni e consulenza,,,tutte,,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Italiana Persone Down"", ""Descrizione"": ""Tramite il sito www.aipd.it e i contatti offre informazione e consulenza anche personalizzata (Telefono D), vari interventi di animazione e una maratona di webinar. Tramite le proprie sezioni, attivit\u00e0 di supporto a distanza."", ""Destinatari"": ""Persone con sindrome di Don, familiari e operatori"", ""Link"": ""https://www.aipd.it"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Info ai tempi del Covid 19"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2342,595766474,2020-04-09 08:19:18,2020-04-07 10:34:15,Associazione Italiana Persone Down AIPD offre tramite il proprio sito informazioni e consulenza,,,tutte,,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Italiana Persone Down"", ""Descrizione"": ""Tramite il sito www.aipd.it e i contatti offre informazione e consulenza anche personalizzata (Telefono D), vari interventi di animazione e una maratona di webinar. Tramite le proprie sezioni, attivit\u00e0 di supporto a distanza."", ""Destinatari"": ""Persone con sindrome di Down, familiari e operatori"", ""Link"": ""https://www.aipd.it"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Info ai tempi del Covid 19"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Associazione Italiana Persone Down
 Descrizione: 'Tramite il sito www.aipd.it e i contatti offre informazione e consulenza
   anche personalizzata (Telefono D), vari interventi di animazione e una maratona
   di webinar.
   Tramite le proprie sezioni, attività di supporto a distanza.'
-Destinatari: Persone con sindrome di Don, familiari e operatori
+Destinatari: Persone con sindrome di Down, familiari e operatori
 Link: https://www.aipd.it
 Natura: culturale-ricr
 Titolo: Info ai tempi del Covid 19
