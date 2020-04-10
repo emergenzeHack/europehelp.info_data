@@ -1,4 +1,28 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2395,597974568,2020-04-10 18:38:06,2020-04-10 16:25:21,Il coordinamento volontario di #Vigevano #Pavia raccoglie strumenti informatici come pc e tablet per soggetti in difficoltà ,45.31709,8.85860,Lombardia,Pavia,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coordinamento volontariato di Vigevano"", ""Descrizione"": ""Raccolta di strumenti informatici come pc, tablet, anche usati ma in buone condizioni, destinati a soggetti in difficolt\u00e0.\nPer contatti\n\nMail Volontariatovigevano@gmail.com.\n\nCell 366 2624541\n\nIl ritiro dai donatori e la consegna ai beneficiari sar\u00e0 gestita dal Coordinamento Volontariato ed effettuata dai volontari di Croce Rossa, Croce Verde, Croce Azzurra, con il supporto di Anteas."", ""Destinatari"": ""Famiglie fragili per il supporto scolastico dei figli"", ""Link"": ""https://wetown.it/events/t-collego-raccolta-di-strumenti-informatici/"", ""Natura"": ""solidale"", ""Posizione"": ""45.31709 8.85860"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""T-COLLEGO: raccolta di materiale informatico""}","<pre><yamldata>
+Da_chi_offerta: Coordinamento volontariato di Vigevano
+Descrizione: 'Raccolta di strumenti informatici come pc, tablet, anche usati ma in
+  buone condizioni, destinati a soggetti in difficoltà.
+
+  Per contatti
+
+
+  Mail Volontariatovigevano@gmail.com.
+
+
+  Cell 366 2624541
+
+
+  Il ritiro dai donatori e la consegna ai beneficiari sarà gestita dal Coordinamento
+  Volontariato ed effettuata dai volontari di Croce Rossa, Croce Verde, Croce Azzurra,
+  con il supporto di Anteas.'
+Destinatari: Famiglie fragili per il supporto scolastico dei figli
+Link: https://wetown.it/events/t-collego-raccolta-di-strumenti-informatici/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'T-COLLEGO: raccolta di materiale informatico'
+Posizione: 45.31709 8.85860
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2394,597971070,2020-04-10 17:23:10,2020-04-10 16:17:49,Servizio telefonico gratuito di supporto morale e psicologico a #Vigevano (#Pavia),45.3170942,8.858603,Lombardia,Pavia,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coordinamento Volontariato Vigevano"", ""Descrizione"": ""Servizio gratuito disponibile tutti i giorni nei seguenti orari:\ndalle 9.00 alle 12.00\ndalle 14.00 alle 19.00\ndalle 20.00 alle 22.00"", ""Destinatari"": ""Chiunque ne abbia bisogno"", ""Link"": ""https://it-it.facebook.com/pages/category/Community/Coordinamento-Volontariato-Vigevano-1484887571736809/"", ""Natura"": ""solidale"", ""Posizione"": ""45.3170942 8.858603"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""T-ascolto: supporto morale e psicologico""}","<pre><yamldata>
 Da_chi_offerta: Coordinamento Volontariato Vigevano
 Descrizione: 'Servizio gratuito disponibile tutti i giorni nei seguenti orari:
