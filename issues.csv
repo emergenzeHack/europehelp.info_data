@@ -1,4 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2389,597854906,2020-04-10 13:28:32,2020-04-10 12:04:43,"I Circoli Operai di #Milano, #Novara, #Pavia e #Monza organizzano supporti di solidarietà",45.455104,9.187617,Lombardia,Milano,"[""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Circoli Operai"", ""Descrizione"": ""Nel riaffermare il tradizionale rapporto di fiducia e sostegno esistente da tempo tra i Circoli Operai e gli abitanti del quartiere, e facendo seguito alle numerose richieste gi\u00e0 pervenuteci, i volontari dei Circoli Operai Internazionalisti, di fronte alla difficile situazione venutasi a creare, ritengono doveroso assicurare la loro concreta solidariet\u00e0, mettendosi a disposizione di chiunque si trovi nella necessit\u00e0 di avere un appoggio e un aiuto per provvedere a tutte le esigenze della quotidianit\u00e0 (spesa, medicinali, giornali o supporto e assistenza di vario genere).\n\nI Circoli Operai, nel limite del possibile e nel pieno rispetto delle norme di sicurezza previste, si adopereranno per soddisfare al meglio le richieste che saranno inoltrate ai seguenti numeri telefonici:\n\ntelefono: 02 49 633 977 - cellulare: 389 49 75 520\n\nMILANO\nPer i Municipi 2 e 3 - TEL: 02 91572594\nPer il Municipio 4 - TEL: 02 49633977 CELL: 389 4975520\nPer i Municipi 1 e 9 - TEL: 02 66115453\nPer i Municipi 7 e 8 - TEL: 02 45488614\nPer i Municipi 5 e 6 - TEL: 02 45474067 CELL: 388 4094541\n\nMONZA\nTEL: 039 9008225\n\nNOVARA\nTEL: 0321 626890 CELL: 338 759995\n\nPAVIA\nCELL: 351 9026498"", ""Destinatari"": ""Anziani e chiunque abbia bisogno di un aiuto per provvedere alle esigenze della quotidianit\u00e0"", ""Natura"": ""solidale"", ""Posizione"": ""45.455104 9.187617 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Presidio di solidariet\u00e0 a Milano""}","<pre><yamldata>
+Da_chi_offerta: Circoli Operai
+Descrizione: 'Nel riaffermare il tradizionale rapporto di fiducia e sostegno esistente
+  da tempo tra i Circoli Operai e gli abitanti del quartiere, e facendo seguito alle
+  numerose richieste già pervenuteci, i volontari dei Circoli Operai Internazionalisti,
+  di fronte alla difficile situazione venutasi a creare, ritengono doveroso assicurare
+  la loro concreta solidarietà, mettendosi a disposizione di chiunque si trovi nella
+  necessità di avere un appoggio e un aiuto per provvedere a tutte le esigenze della
+  quotidianità (spesa, medicinali, giornali o supporto e assistenza di vario genere).
+
+
+  I Circoli Operai, nel limite del possibile e nel pieno rispetto delle norme di sicurezza
+  previste, si adopereranno per soddisfare al meglio le richieste che saranno inoltrate
+  ai seguenti numeri telefonici:
+
+
+  telefono: 02 49 633 977 - cellulare: 389 49 75 520
+
+
+  MILANO
+
+  Per i Municipi 2 e 3 - TEL: 02 91572594
+
+  Per il Municipio 4 - TEL: 02 49633977 CELL: 389 4975520
+
+  Per i Municipi 1 e 9 - TEL: 02 66115453
+
+  Per i Municipi 7 e 8 - TEL: 02 45488614
+
+  Per i Municipi 5 e 6 - TEL: 02 45474067 CELL: 388 4094541
+
+
+  MONZA
+
+  TEL: 039 9008225
+
+
+  NOVARA
+
+  TEL: 0321 626890 CELL: 338 759995
+
+
+  PAVIA
+
+  CELL: 351 9026498'
+Destinatari: Anziani e chiunque abbia bisogno di un aiuto per provvedere alle esigenze
+  della quotidianità
+Natura: solidale
+Posizione: 45.455104 9.187617 0 0
+Tipo_di_soggetto: privato
+Titolo: Presidio di solidarietà a Milano
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2388,597814182,2020-04-10 10:43:41,2020-04-10 10:14:53,Mutuo soccorso in risposta al Covid-19: vademecum dei volontari cinesi a #Wuhan #Cina,30.636915,114.304032,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mutuo soccorso in risposta al Covid-19: esperienze di volontari cinesi in risposta alla crisi del coronavirus a Wuhan"", ""Descrizione"": ""Documento realizzato da un gruppo di volontari cinesi che si sono attivati a Wuhan (Cina) nel corso dell\u2019emergenza coronavirus. Il documento contiene informazioni utili, metodologie di lavoro, suggerimenti e procedure per attivare forme di aiuto e sostegno in risposta all\u2019emergenza coronavirus."", ""Link"": ""https://docs.google.com/document/d/1kCVcwSfXCaNXoizKWCpyIyQ7IPB3C7jW33FSgB9drt4/edit?usp=sharing"", ""Posizione"": ""30.636915 114.304032 0 0""}","<pre><yamldata>
 Cosa: 'Mutuo soccorso in risposta al Covid-19: esperienze di volontari cinesi in risposta
   alla crisi del coronavirus a Wuhan'
