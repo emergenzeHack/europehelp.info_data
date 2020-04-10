@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2391,597893630,2020-04-10 13:41:04,2020-04-10 13:39:30,"A #Bologna prenda il via ""Accoglienza Digitale"", una formazione a distanza per gli operatori dell'accoglienza",44.494959,11.345251,Emilia-Romagna,Bologna,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Didattica dell'italiano per la culura orale"", ""Descrizione"": ""Questa settimana ha avuto inizio il progetto \""Accoglienza Digitale\"", una formazione a distanza organizzata da Didattica dell'italiano per la Cultura Orale, in collaborazione con ASP Citt\u00e0 di Bologna e Cooperativa Sociale Societ\u00e0 Dolce.\nUn percorso che permetter\u00e0 a coloro che operano nel mondo dell'accoglienza di imparare ad utilizzare al meglio gli strumenti digitali per proseguire le attivit\u00e0 lavorative in questo campo, anche in un contesto di distanza forzata dettata dall'emergenza sanitaria in corso.\nSiamo felici di aver supportato in questo progetto DiCO education, dando il via ad una collaborazione che ci aiuter\u00e0 a rendere pi\u00f9 accessibile l'educazione alla Digital Literacy per le persone con cui siamo in relazione e che accompagniamo prima, durante e dopo un percorso di migrazione.\nPer info e approfondimenti consultare il sito \nhttps://accoglienzadigitale.dico.education/"", ""Destinatari"": ""operatori umanitari"", ""Link"": ""https://accoglienzadigitale.dico.education/?fbclid=IwAR2vZxxQkBpEicmVqGWoa2jPiQNp9zzGca9gOXJG9l6PvnNVwWmr8LfUq3o"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""44.494959 11.345251 0 0"", ""Titolo"": ""Accoglienza Digitale""}","<pre><yamldata>
+Da_chi_offerta: Didattica dell'italiano per la culura orale
+Descrizione: ""Questa settimana ha avuto inizio il progetto \""Accoglienza Digitale\""\
+  , una formazione a distanza organizzata da Didattica dell'italiano per la Cultura\
+  \ Orale, in collaborazione con ASP Città di Bologna e Cooperativa Sociale Società\
+  \ Dolce.\nUn percorso che permetterà a coloro che operano nel mondo dell'accoglienza\
+  \ di imparare ad utilizzare al meglio gli strumenti digitali per proseguire le attività\
+  \ lavorative in questo campo, anche in un contesto di distanza forzata dettata dall'emergenza\
+  \ sanitaria in corso.\nSiamo felici di aver supportato in questo progetto DiCO education,\
+  \ dando il via ad una collaborazione che ci aiuterà a rendere più accessibile l'educazione\
+  \ alla Digital Literacy per le persone con cui siamo in relazione e che accompagniamo\
+  \ prima, durante e dopo un percorso di migrazione.\nPer info e approfondimenti consultare\
+  \ il sito \nhttps://accoglienzadigitale.dico.education/""
+Destinatari: operatori umanitari
+Link: https://accoglienzadigitale.dico.education/?fbclid=IwAR2vZxxQkBpEicmVqGWoa2jPiQNp9zzGca9gOXJG9l6PvnNVwWmr8LfUq3o
+Natura: culturale-ricr
+Posizione: 44.494959 11.345251 0 0
+Titolo: Accoglienza Digitale
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2390,597861571,2020-04-10 13:36:45,2020-04-10 12:22:49,La federazione della terza età lancia il numero verde per il supporto psicologico agli anziani soli,41.9117455,12.4600488,Lazio,Roma,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Senior Italia Federanziani, SIPEM (Societ\u00e0 Italiana Psicologia dell'Emergenza) WINDTRE"", ""Descrizione"": ""La federazione della terza et\u00e0 lancia il numero verde 800.99.14.14 per il supporto psicologico agli anziani soli, in collaborazione con WINDTRE e la Societ\u00e0 Italiana di Psicologia dell\u2019Emergenza che, con la sua rete di professionisti attivi su tutto il territorio nazionale, risponder\u00e0 alle chiamate di quanti hanno bisogno di una voce amica, di un sostegno psicologico per attraversare questa fase di isolamento."", ""Destinatari"": ""anziani che vivono soli"", ""Link"": ""http://www.senioritalia.it/progetti/coronavirus-senior-italia-windtre-sipem-federazione-numero-verde-anziani-soli/"", ""Natura"": ""solidale"", ""Posizione"": ""41.9117455 12.4600488 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""EMERGENZA SOLITUDINE""}","<pre><yamldata>
 Da_chi_offerta: Senior Italia Federanziani, SIPEM (Società Italiana Psicologia dell'Emergenza)
   WINDTRE
