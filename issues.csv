@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2412,598309748,2020-04-11 17:44:59,2020-04-11 17:08:26,"Informatici Senza Frontiere offre supporto gratuito alle famiglie per imparare ad usare videochiamate, piattaforme di didattica a distanza e lezioni di programmazione per ragazzi",,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Informatici Senza Frontiere"", ""Descrizione"": ""Informatici Senza Frontiere Onlus offre gratuitamente supporto alle famiglie per imparare ad usare le video chiamate , soprattutto verso anziani ospitati in case di riposo , come dare accesso al proprio wi-fi alle famiglie che hanno ragazzi in et\u00e0 scolare , come usare le piattaforme di didattica a distanza , nonch\u00e9 video lezioni di programmazione per ragazzi . \nDi seguito il link al sito \n\nhttps://www.informaticisenzafrontiere.org/covid19/"", ""Destinatari"": ""Famiglie Studenti Anziani"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi informatici gratuiti in tempo di Covid-19""}","<pre><yamldata>
+Da_chi_offerta: Informatici Senza Frontiere
+Descrizione: ""Informatici Senza Frontiere Onlus offre gratuitamente supporto alle\
+  \ famiglie per imparare ad usare le video chiamate , soprattutto verso anziani ospitati\
+  \ in case di riposo , come dare accesso al proprio wi-fi alle famiglie che hanno\
+  \ ragazzi in età scolare , come usare le piattaforme di didattica a distanza , nonché\
+  \ video lezioni di programmazione per ragazzi . \nDi seguito il link al sito \n\n\
+  https://www.informaticisenzafrontiere.org/covid19/""
+Destinatari: Famiglie Studenti Anziani
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Servizi informatici gratuiti in tempo di Covid-19
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2411,598279635,2020-04-11 14:43:23,2020-04-11 14:42:00,Su Whatsapp l’ennesima bufala: lo sproloquio di un ipotetico cardiologo di Pavia,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, su Whatsapp l\u2019ennesima bufala: lo sproloquio di un ipotetico cardiologo di Pavia"", ""Descrizione"": ""Su Whatsapp l\u2019ennesima bufala: lo sproloquio di un ipotetico cardiologo di Pavia, che diffonde notizie assurde, sulla possibilit\u00e0 di curare il coronavirus semplicemente col cortisone. La notizia \u00e8 stata smentita dal prof. Burioni su MedicalFacts."", ""Fonte"": ""MedicalFacts"", ""Link"": ""https://www.medicalfacts.it/2020/04/11/coronavirus-la-lettera-del-cardiologo-di-pavia-che-gira-su-whatsapp/""}","<pre><yamldata>
 Cosa: 'Coronavirus, su Whatsapp l’ennesima bufala: lo sproloquio di un ipotetico cardiologo
   di Pavia'
@@ -274,7 +287,7 @@ Posizione: 45.455104 9.187617 0 0
 Tipo_di_soggetto: privato
 Titolo: Presidio di solidarietà a Milano
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2388,597814182,2020-04-10 10:43:41,2020-04-10 10:14:53,Mutuo soccorso in risposta al Covid-19: vademecum dei volontari cinesi a #Wuhan #Cina,30.636915,114.304032,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mutuo soccorso in risposta al Covid-19: esperienze di volontari cinesi in risposta alla crisi del coronavirus a Wuhan"", ""Descrizione"": ""Documento realizzato da un gruppo di volontari cinesi che si sono attivati a Wuhan (Cina) nel corso dell\u2019emergenza coronavirus. Il documento contiene informazioni utili, metodologie di lavoro, suggerimenti e procedure per attivare forme di aiuto e sostegno in risposta all\u2019emergenza coronavirus."", ""Link"": ""https://docs.google.com/document/d/1kCVcwSfXCaNXoizKWCpyIyQ7IPB3C7jW33FSgB9drt4/edit?usp=sharing"", ""Posizione"": ""30.636915 114.304032 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2388,597814182,2020-04-11 17:39:30,2020-04-10 10:14:53,Mutuo soccorso in risposta al Covid-19: vademecum dei volontari cinesi a #Wuhan #Cina,30.636915,114.304032,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mutuo soccorso in risposta al Covid-19: esperienze di volontari cinesi in risposta alla crisi del coronavirus a Wuhan"", ""Descrizione"": ""Documento realizzato da un gruppo di volontari cinesi che si sono attivati a Wuhan (Cina) nel corso dell\u2019emergenza coronavirus. Il documento contiene informazioni utili, metodologie di lavoro, suggerimenti e procedure per attivare forme di aiuto e sostegno in risposta all\u2019emergenza coronavirus."", ""Link"": ""https://docs.google.com/document/d/1kCVcwSfXCaNXoizKWCpyIyQ7IPB3C7jW33FSgB9drt4/edit?usp=sharing"", ""Posizione"": ""30.636915 114.304032 0 0""}","<pre><yamldata>
 Cosa: 'Mutuo soccorso in risposta al Covid-19: esperienze di volontari cinesi in risposta
   alla crisi del coronavirus a Wuhan'
 Descrizione: Documento realizzato da un gruppo di volontari cinesi che si sono attivati
