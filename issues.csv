@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2401,598229773,2020-04-11 09:38:07,2020-04-11 09:32:47,"Rsa Fondazione Menotti Bassani a #LavenoMonbello #Varese ha urgente bisogno di medici, infermieri e Dpi",,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""A LavenoMonbello Varese Rsa Fondazione Menotti Bassani ha urgente bisogno di medici, infermieri e Dpi"", ""Descrizione"": ""La Rsa Fondazione Menotti Bassani a Laveno-Monbello (Varese) ha urgente bisogno di medici, infermieri e poi di mascherine FFPP2 e camici protettivi. All\u2019interno della Rsa (che conta 288 posti letto) si sono verificati numerosi casi di Covid19 (gi\u00e0 5 i decessi) e c\u2019\u00e8 la necessit\u00e0 urgente di aprire un reparto Covid con nuovo personale sanitario e di dotare glli operatori di dispositivi di protezione. Al link la lettera con la richiesta di aiuto inviata a sindaco, prefetto, presidente della Regione e direttore Asl."", ""Destinatari"": ""Anziani Rsa"", ""Email"": ""info@menottibassani.it"", ""Indirizzo"": ""45.921782 8.624783 0 0"", ""Link"": ""https://www.menottibassani.it/lettera-diffusione-covid-19/"", ""Nome"": ""Rsa Fondazione Menotti Bassani"", ""Telefono"": ""0332668339""}","<pre><yamldata>
+Cosa: A LavenoMonbello Varese Rsa Fondazione Menotti Bassani ha urgente bisogno di
+  medici, infermieri e Dpi
+Descrizione: La Rsa Fondazione Menotti Bassani a Laveno-Monbello (Varese) ha urgente
+  bisogno di medici, infermieri e poi di mascherine FFPP2 e camici protettivi. All’interno
+  della Rsa (che conta 288 posti letto) si sono verificati numerosi casi di Covid19
+  (già 5 i decessi) e c’è la necessità urgente di aprire un reparto Covid con nuovo
+  personale sanitario e di dotare glli operatori di dispositivi di protezione. Al
+  link la lettera con la richiesta di aiuto inviata a sindaco, prefetto, presidente
+  della Regione e direttore Asl.
+Destinatari: Anziani Rsa
+Email: info@menottibassani.it
+Indirizzo: 45.921782 8.624783 0 0
+Link: https://www.menottibassani.it/lettera-diffusione-covid-19/
+Nome: Rsa Fondazione Menotti Bassani
+Telefono: 0332668339
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2396,597980000,2020-04-10 20:32:05,2020-04-10 16:37:48,Open Arms Italia raccoglie fondi per l'acquisto di strumenti informatici per sostenere le scuole nella didattica a distanza,,,tutte,,"[""Posizione mancante"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi di Open Arms Italia per l'acquisto di strumenti informatici per sostenere le scuole nella didattica a distanza."", ""Link"": ""https://www.produzionidalbasso.com/project/open-arms-italia-per-la-scuola/"", ""Nome"": ""Open Arms Italia"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Descrizione: Raccolta fondi di Open Arms Italia per l'acquisto di strumenti informatici per sostenere
   le scuole nella didattica a distanza.
@@ -6,7 +23,7 @@ Link: https://www.produzionidalbasso.com/project/open-arms-italia-per-la-scuola/
 Nome: Open Arms Italia
 regione_manuale: tutte
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2395,597974568,2020-04-10 20:32:41,2020-04-10 16:25:21,Il coordinamento volontario di #Vigevano #Pavia raccoglie strumenti informatici come pc e tablet per soggetti in difficoltà ,45.31709,8.85860,Lombardia,Pavia,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coordinamento volontariato di Vigevano"", ""Descrizione"": ""Raccolta di strumenti informatici come pc, tablet, anche usati ma in buone condizioni, destinati a soggetti in difficolt\u00e0. Per contatti Mail Volontariatovigevano@gmail.com. Cell 366 2624541 Il ritiro dai donatori e la consegna ai beneficiari sar\u00e0 gestita dal Coordinamento Volontariato ed effettuata dai volontari di Croce Rossa, Croce Verde, Croce Azzurra, con il supporto di Anteas."", ""Destinatari"": ""Famiglie fragili per il supporto scolastico dei figli"", ""Link"": ""https://wetown.it/events/t-collego-raccolta-di-strumenti-informatici/"", ""Natura"": ""solidale"", ""Posizione"": ""45.31709 8.85860"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""T-COLLEGO: raccolta di materiale informatico""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2395,597974568,2020-04-10 20:55:14,2020-04-10 16:25:21,Il coordinamento volontario di #Vigevano #Pavia raccoglie strumenti informatici come pc e tablet per soggetti in difficoltà ,45.31709,8.85860,Lombardia,Pavia,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coordinamento volontariato di Vigevano"", ""Descrizione"": ""Raccolta di strumenti informatici come pc, tablet, anche usati ma in buone condizioni, destinati a soggetti in difficolt\u00e0. Per contatti Mail Volontariatovigevano@gmail.com. Cell 366 2624541 Il ritiro dai donatori e la consegna ai beneficiari sar\u00e0 gestita dal Coordinamento Volontariato ed effettuata dai volontari di Croce Rossa, Croce Verde, Croce Azzurra, con il supporto di Anteas."", ""Destinatari"": ""Famiglie fragili per il supporto scolastico dei figli"", ""Link"": ""https://wetown.it/events/t-collego-raccolta-di-strumenti-informatici/"", ""Natura"": ""solidale"", ""Posizione"": ""45.31709 8.85860"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""T-COLLEGO: raccolta di materiale informatico""}","<pre><yamldata>
 Da_chi_offerta: Coordinamento volontariato di Vigevano
 Descrizione: 'Raccolta di strumenti informatici come pc, tablet, anche usati ma in
   buone condizioni, destinati a soggetti in difficoltà.
