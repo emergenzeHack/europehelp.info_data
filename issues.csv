@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2413,598310425,2020-04-11 17:47:39,2020-04-11 17:12:17,"Informatici senza frontiere offre video lezioni gratuite a ragazzi/e 8-14 anni su Scratch, linguaggio di programmazione ",,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""InformaticiSenzaFrontiere"", ""Descrizione"": ""Video lezioni Scratch, un linguaggio di programmazione che aiuta i ragazzi ad esprimere la loro creativit\u00e0 usando un approccio sistematico e razionale - una palestra per allenarsi al pensiero computazionale."", ""Destinatari"": ""Ragazze/ragazzi 8/14 anni"", ""Link"": ""https://www.informaticisenzafrontiere.org/progetti/videolezioni-di-scratch/"", ""Natura"": ""didattica"", ""Titolo"": ""Video lezioni gratuite di programmazione per ragazzi""}","<pre><yamldata>
+Da_chi_offerta: InformaticiSenzaFrontiere
+Descrizione: Video lezioni Scratch, un linguaggio di programmazione che aiuta i ragazzi
+  ad esprimere la loro creatività usando un approccio sistematico e razionale - una
+  palestra per allenarsi al pensiero computazionale.
+Destinatari: Ragazze/ragazzi 8/14 anni
+Link: https://www.informaticisenzafrontiere.org/progetti/videolezioni-di-scratch/
+Natura: didattica
+Titolo: Video lezioni gratuite di programmazione per ragazzi
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2412,598309748,2020-04-11 17:44:59,2020-04-11 17:08:26,"Informatici Senza Frontiere offre supporto gratuito alle famiglie per imparare ad usare videochiamate, piattaforme di didattica a distanza e lezioni di programmazione per ragazzi",,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Informatici Senza Frontiere"", ""Descrizione"": ""Informatici Senza Frontiere Onlus offre gratuitamente supporto alle famiglie per imparare ad usare le video chiamate , soprattutto verso anziani ospitati in case di riposo , come dare accesso al proprio wi-fi alle famiglie che hanno ragazzi in et\u00e0 scolare , come usare le piattaforme di didattica a distanza , nonch\u00e9 video lezioni di programmazione per ragazzi . \nDi seguito il link al sito \n\nhttps://www.informaticisenzafrontiere.org/covid19/"", ""Destinatari"": ""Famiglie Studenti Anziani"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi informatici gratuiti in tempo di Covid-19""}","<pre><yamldata>
 Da_chi_offerta: Informatici Senza Frontiere
 Descrizione: ""Informatici Senza Frontiere Onlus offre gratuitamente supporto alle\
