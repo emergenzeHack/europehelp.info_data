@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2411,598279635,2020-04-11 14:43:23,2020-04-11 14:42:00,Su Whatsapp l’ennesima bufala: lo sproloquio di un ipotetico cardiologo di Pavia,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, su Whatsapp l\u2019ennesima bufala: lo sproloquio di un ipotetico cardiologo di Pavia"", ""Descrizione"": ""Su Whatsapp l\u2019ennesima bufala: lo sproloquio di un ipotetico cardiologo di Pavia, che diffonde notizie assurde, sulla possibilit\u00e0 di curare il coronavirus semplicemente col cortisone. La notizia \u00e8 stata smentita dal prof. Burioni su MedicalFacts."", ""Fonte"": ""MedicalFacts"", ""Link"": ""https://www.medicalfacts.it/2020/04/11/coronavirus-la-lettera-del-cardiologo-di-pavia-che-gira-su-whatsapp/""}","<pre><yamldata>
+Cosa: 'Coronavirus, su Whatsapp l’ennesima bufala: lo sproloquio di un ipotetico cardiologo
+  di Pavia'
+Descrizione: 'Su Whatsapp l’ennesima bufala: lo sproloquio di un ipotetico cardiologo
+  di Pavia, che diffonde notizie assurde, sulla possibilità di curare il coronavirus
+  semplicemente col cortisone. La notizia è stata smentita dal prof. Burioni su MedicalFacts.'
+Fonte: MedicalFacts
+Link: https://www.medicalfacts.it/2020/04/11/coronavirus-la-lettera-del-cardiologo-di-pavia-che-gira-su-whatsapp/
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2409,598267106,2020-04-11 14:31:25,2020-04-11 13:33:58,"Regione #Lombardia, ordinanza n. 37 - 11 aprile 2020: restano in vigore fino al 3 maggio le misure restrittive di contrasto alla diffusione del Coronavirus",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""ULTERIORI MISURE PER LA PREVENZIONE E GESTIONE DELL\u2019EMERGENZA EPIDEMIOLOGICA DA COVID-19."", ""Descrizione"": ""Restano in vigore fino al 3 maggio le misure restrittive di contrasto alla diffusione del Coronavirus gi\u00e0 attive sul territorio regionale."", ""Fonte"": ""Regione Lombardia"", ""Link"": ""https://www.regione.lombardia.it/wps/wcm/connect/e22eba18-e846-4445-a6ff-9cad927a8569/Ordinanza+528.pdf?MOD=AJPERES""}","<pre><yamldata>
 Cosa: ULTERIORI MISURE PER LA PREVENZIONE E GESTIONE DELL’EMERGENZA EPIDEMIOLOGICA
   DA COVID-19.
