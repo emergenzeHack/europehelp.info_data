@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2414,598401806,2020-04-12 13:38:18,2020-04-12 03:32:01,"Trattoria Pegaso specialità di pesce e carne, consegna a domicilio #Gavardo #Brescia",45.6003909,10.4879152,Lombardia,Brescia,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Trattoria con specialit\u00e0 di pesce e carne. Cucina tradizionale e territoriale. Grande attenzione alle materie prime. Selezione mirata di vini e oli. Consegna a domicilio."", ""Email"": ""liloniadriano@libero.it"", ""Link"": ""https://www.facebook.com/trattoriapegasosoprazocco/"", ""Metodi_di_pagamento_accettati"": ""contrassegno carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Trattoria Pegaso"", ""Posizione"": ""45.6003909 10.4879152"", ""Telefono"": ""0365 372719""}","<pre><yamldata>
+Descrizione: Trattoria con specialità di pesce e carne. Cucina tradizionale e territoriale.
+  Grande attenzione alle materie prime. Selezione mirata di vini e oli. Consegna a domicilio.
+Email: liloniadriano@libero.it
+Link: https://www.facebook.com/trattoriapegasosoprazocco/
+Metodi_di_pagamento_accettati: contrassegno carta_prepagat contanti
+Nome_dell_esercizio_commercial: Trattoria Pegaso
+Telefono: 0365 372719
+Posizione: 45.6003909 10.4879152
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2413,598310425,2020-04-11 17:47:39,2020-04-11 17:12:17,"Informatici senza frontiere offre video lezioni gratuite a ragazzi/e 8-14 anni su Scratch, linguaggio di programmazione ",,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""InformaticiSenzaFrontiere"", ""Descrizione"": ""Video lezioni Scratch, un linguaggio di programmazione che aiuta i ragazzi ad esprimere la loro creativit\u00e0 usando un approccio sistematico e razionale - una palestra per allenarsi al pensiero computazionale."", ""Destinatari"": ""Ragazze/ragazzi 8/14 anni"", ""Link"": ""https://www.informaticisenzafrontiere.org/progetti/videolezioni-di-scratch/"", ""Natura"": ""didattica"", ""Titolo"": ""Video lezioni gratuite di programmazione per ragazzi""}","<pre><yamldata>
 Da_chi_offerta: InformaticiSenzaFrontiere
 Descrizione: Video lezioni Scratch, un linguaggio di programmazione che aiuta i ragazzi
