@@ -1,4 +1,38 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2426,599706738,2020-04-14 16:58:34,2020-04-14 16:38:08,A casa con #Cinecittà: l'iniziativa di didattica cinematografica online per tutte le età,,,tutte,,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Luce Cinecitt\u00e0"", ""Descrizione"": ""Se l\u2019emergenza ci impone temporaneamente di non poter visitare Cinecitt\u00e0 allora \u00e8 il luogo tanto caro a Federico Fellini a raggiungere tutti nelle proprie abitazioni grazie alla campagna social A casa con Cinecitt\u00e0 che due volte a settimana sui profili Instagram, Facebook (@Cinecittasimostra) e Twitter (@CinecittaSM) di Cinecitt\u00e0 si Mostra, l\u2019esposizione permanente che permette al grande pubblico di visitare gli stabilimenti di Via Tuscolana, proporr\u00e0 video illustrativi e materiali didattici da scaricare gratuitamente. Post speciali, pensati dal Dipartimento educativo che tutto l\u2019anno con personale qualificato anima percorsi, tour guidati e attivit\u00e0 laboratoriali di Cinecitt\u00e0 si Mostra. Tutte le attivit\u00e0 sono differenziate e pensate per le diverse fasce d\u2019et\u00e0: ogni luned\u00ec viene rilasciato un contenuto con materiali da scaricare rivolto a famiglie e ragazzi. Ogni venerd\u00ec, A casa con Cinecitt\u00e0 propone invece una serie di post video pensati per il pubblico adulto, vere e proprie pillole di didattica cinematografica attraverso le quali scoprire la Fabbrica dei sogni, tra set e mostre ma anche il suo pi\u00f9 celebre ospite, Federico Fellini. Tutti i video saranno caricati anche sul canale YouTube ufficiale di Istituto Luce Cinecitt\u00e0. A rimarcare che Cinecitt\u00e0 si Mostra non dimentica quanto l\u2019accessibilit\u00e0 sia importante, nel calendario delle uscite social \u00e8 incluso un focus sul cinema accessibile in LIS, la Lingua dei Segni, previsto per mercoled\u00ec 1 e mercoled\u00ec 22 aprile, rispettivamente con i temi Felliniana e Architettura. A casa con Cinecitt\u00e0 fa parte dell\u2019iniziativa Luce per gli spettatori grazie alla quale Istituto Luce Cinecitt\u00e0 aderisce con tutti i suoi siti e piattaforme social (a partire dal sito dell\u2019immenso Archivio Luce e al sito di informazione Cinecitt\u00e0News) alla campagna nazionale #IoRestoaCasa, promossa dal Ministero per i Beni e le Attivit\u00e0 culturali e per il Turismo (Mibact), per portare nei giorni dell\u2019emergenza, dentro alle case di tutti gli italiani, una grande offerta di contenuti video, testuali, iconografici, dedicati a cultura, spettacolo, informazione e didattica."", ""Destinatari"": ""Adulti, ragazzi e famiglie"", ""Link"": ""https://cinecittasimostra.it/novita/a-casa-con-cinecitta/"", ""Natura"": ""didattica"", ""Titolo"": ""A Casa con Cinecitt\u00e0"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Istituto Luce Cinecittà
+Descrizione: 'Se l’emergenza ci impone temporaneamente di non poter visitare Cinecittà
+  allora è il luogo tanto caro a Federico Fellini a raggiungere tutti nelle proprie
+  abitazioni grazie alla campagna social A casa con Cinecittà che due volte a settimana
+  sui profili Instagram, Facebook (@Cinecittasimostra) e Twitter (@CinecittaSM) di
+  Cinecittà si Mostra, l’esposizione permanente che permette al grande pubblico di
+  visitare gli stabilimenti di Via Tuscolana, proporrà video illustrativi e materiali
+  didattici da scaricare gratuitamente. Post speciali, pensati dal Dipartimento educativo
+  che tutto l’anno con personale qualificato anima percorsi, tour guidati e attività
+  laboratoriali di Cinecittà si Mostra. Tutte le attività sono differenziate e pensate
+  per le diverse fasce d’età: ogni lunedì viene rilasciato un contenuto con materiali
+  da scaricare rivolto a famiglie e ragazzi. Ogni venerdì, A casa con Cinecittà propone
+  invece una serie di post video pensati per il pubblico adulto, vere e proprie pillole
+  di didattica cinematografica attraverso le quali scoprire la Fabbrica dei sogni,
+  tra set e mostre ma anche il suo più celebre ospite, Federico Fellini. Tutti i video
+  saranno caricati anche sul canale YouTube ufficiale di Istituto Luce Cinecittà.
+  A rimarcare che Cinecittà si Mostra non dimentica quanto l’accessibilità sia importante,
+  nel calendario delle uscite social è incluso un focus sul cinema accessibile in
+  LIS, la Lingua dei Segni, previsto per mercoledì 1 e mercoledì 22 aprile, rispettivamente
+  con i temi Felliniana e Architettura. A casa con Cinecittà fa parte dell’iniziativa
+  Luce per gli spettatori grazie alla quale Istituto Luce Cinecittà aderisce con tutti
+  i suoi siti e piattaforme social (a partire dal sito dell’immenso Archivio Luce
+  e al sito di informazione CinecittàNews) alla campagna nazionale #IoRestoaCasa,
+  promossa dal Ministero per i Beni e le Attività culturali e per il Turismo (Mibact),
+  per portare nei giorni dell’emergenza, dentro alle case di tutti gli italiani, una
+  grande offerta di contenuti video, testuali, iconografici, dedicati a cultura, spettacolo,
+  informazione e didattica.'
+Destinatari: Adulti, ragazzi e famiglie
+Link: https://cinecittasimostra.it/novita/a-casa-con-cinecitta/
+Natura: didattica
+Titolo: A Casa con Cinecittà
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2423,599428279,2020-04-14 15:41:59,2020-04-14 09:29:23,Su DalSociale24.it elenco dei servizi solidali attivati a #Perugia per l’emergenza coronavirus,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Sul sito di dalSociale24 l'elenco di servizi e iniziative solidali a Perugia e Provincia."", ""Destinatari"": ""Tutti i cittadini"", ""Link"": ""https://www.dalsociale24.it/solidarieta-perugia-coronavirus/?fbclid=IwAR3Io733F5oSaxnF4pCqSCzG0azJE4pwiJIgNui_fbiOhZs64o-dGgv5r4U"", ""Natura"": ""solidale"", ""Posizione"": ""43.10703,12.40300"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco dei servizi solidali a Perugia""}","<pre><yamldata>
 Descrizione: ""Sul sito di dalSociale24 l'elenco di servizi e iniziative solidali a Perugia e Provincia.""
 Destinatari: Tutti i cittadini
