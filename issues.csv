@@ -11432,6 +11432,16 @@ Nome_dell_esercizio_commercial: Farmacia De Gregorio
 Posizione: 41.64310 12.91585
 Telefono: 069678133
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1196,587599593,2020-03-25 10:56:24,2020-03-25 10:37:23,Servizi offerti da farmacia De Gregorio #Cori #Latina,41.64310,12.91585,Lazio,Latina,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Farmacia De Gregorio offre diversi servizi ai clienti, per consultarli occore visitare il sito 'o scrivere all'indirizzo di posta elettronica.'"", ""Email"": ""info@farmaciadegregorio.com"", ""Link"": ""www.pharma4.it"", ""Metodi_di_pagamento_accettati"": ""contrassegno option_2 bonifico_banca option_1 carta_prepagat contanti"", ""Nome_dell_esercizio_commercial"": ""Farmacia De Gregorio"", ""Posizione"": ""41.64310 12.91585"", ""Telefono"": ""069678133""}","<pre><yamldata>
+Descrizione: Farmacia De Gregorio offre diversi servizi ai clienti, per consultarli occore visitare il sito 'o scrivere all'indirizzo di posta elettronica.'
+Email: info@farmaciadegregorio.com
+Link: www.pharma4.it
+Metodi_di_pagamento_accettati: contrassegno option_2 bonifico_banca option_1 carta_prepagat
+  contanti
+Nome_dell_esercizio_commercial: Farmacia De Gregorio
+Posizione: 41.64310 12.91585
+Telefono: 069678133
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1195,587595626,2020-03-25 10:47:38,2020-03-25 10:30:43,Servizio bus a chiamata da/per ospedali non-Covid per abitanti della Comunità Montana di #Camerino #Marche,43.296077,13.454209,Marche,Macerata,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Contram Mobilit\u00e0"", ""Descrizione"": ""Nelle zone nelle quali non \u00e8 possibile raggiungere i servizi ospedalieri \""non covid\"", con il servizio di linea Contrammobilit\u00e0, abbiamo attivato un servizio di trasporto a chiamata per il periodo dell'emergenza.\n\nIl servizio \u00e8 prenotabile al numero 800037737 dalle 9:00 alle 18:00 dal luned\u00ec al venerd\u00ec. Chiamare il giorno precedente alla partenza per prenotare."", ""Destinatari"": ""abitanti delle zone del cratere sisma Marche/Comunit\u00e0 Montana di Camerino"", ""Link"": ""https://www.facebook.com/groups/ussitapuntoacapo/"", ""Natura"": ""solidale"", ""Posizione"": ""43.296077 13.454209 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio bus a chiamata da/per ospedali non-Covid""}","<pre><yamldata>
 Da_chi_offerta: Contram Mobilità
 Descrizione: 'Nelle zone nelle quali non è possibile raggiungere i servizi ospedalieri
