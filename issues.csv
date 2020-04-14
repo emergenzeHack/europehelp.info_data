@@ -1,4 +1,47 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2436,599787349,2020-04-14 20:45:10,2020-04-14 18:53:32,Il Comune di #Bergamo attiva un Fondo di Mutuo Soccorso per sostenere le persone più fragili,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Bergamo \u00e8 purtroppo la citt\u00e0 in cui l\u2019epidemia di Coronavirus ha colpito pi\u00f9 duramente, l\u2019epicentro \u2013 insieme a Wuhan \u2013 del flagello che sta sconvolgendo il mondo. Nella sola provincia di Bergamo si sono avuti, nel mese di marzo, circa 4.500 decessi in pi\u00f9 della media degli anni precedenti, 350 solo in citt\u00e0. Le dimensioni del contagio, ad oggi non conosciute, sono probabilmente le pi\u00f9 estese di ogni altro luogo.\n\nIn queste settimane ogni energia \u00e8 stata dedicata all\u2019emergenza sanitaria, drammatica innanzitutto negli ospedali. Medici e infermieri hanno fatto miracoli e numerose sono state le testimonianze di sostegno e gli aiuti materiali che sono giunti da ogni luogo d\u2019Italia. Nel frattempo i servizi comunali, sostenuti dalla cooperazione sociale e da centinaia di volontari hanno portato assistenza nelle case delle persone pi\u00f9 fragili, a partire dai molti anziani che vivono soli.\n\nNon siamo ancora fuori dalla crisi sanitaria, di cui ci preoccupa oggi la dimensione territoriale, con tanti ammalati nelle case e forze di cura purtroppo limitate. Ma gi\u00e0 sappiamo che ci aspetta una gravissima difficolt\u00e0 sociale ed economica. In queste settimane il Comune \u00e8 gi\u00e0 intervenuto con misure di sostegno a famiglie e attivit\u00e0 d\u2019impresa, nonostante i pesanti effetti negativi sulle entrate comunali che certamente deriveranno dall\u2019emergenza. Ma ci aspetta un compito ben pi\u00f9 arduo. La necessit\u00e0 di proteggere i soggetti pi\u00f9 vulnerabili, fino a che non sar\u00e0 disponibile un vaccino, ci obbligher\u00e0 a moltiplicare la dimensione dei servizi domiciliari. Il prolungato fermo di tutte le attivit\u00e0 \u2013 qui avviato prima che altrove e che con ogni probabilit\u00e0 durer\u00e0 pi\u00f9 a lungo \u2013 produrr\u00e0 pesanti conseguenze sulle imprese e sul reddito delle famiglie, molte delle quali gi\u00e0 oggi sono in una condizione di forte disagio.\n\nPer questo, evitando ogni sovrapposizione con altri livelli istituzionali e secondo il principio di sussidiariet\u00e0, abbiamo istituito il Fondo di Mutuo Soccorso della Citt\u00e0 di Bergamo, alimentato in primo luogo dal Comune.\n\nABBIAMO BISOGNO DI AIUTI PER POTER AIUTARE.\n\nA chi pu\u00f2, chiediamo di contribuire a dare sostegno a chi \u00e8 e sar\u00e0 maggiormente in difficolt\u00e0, famiglie e attivit\u00e0 economiche. Abbiamo bisogno del contributo di tutti per prenderci cura dei soggetti pi\u00f9 esposti agli effetti dell\u2019emergenza, in raccordo e integrazione con gli interventi di carattere sanitario, e per sostenere domani la ripresa delle attivit\u00e0 produttive e commerciali, provando anche a ritrovare la vocazione culturale e turistica alla quale avevamo lavorato con impegno in questi anni.\n\nIl Fondo \u2013 i cui proventi vorremmo in parte condividere col territorio provinciale - \u00e8 aperto al contributo delle imprese, degli istituti finanziari e di tutti gli italiani che vorranno aiutare la citt\u00e0 di Bergamo drammaticamente colpita.\n\n \n\nPer donare:\n\nhttp://www.mutuosoccorsobergamo.it/\n\n \n\noppure\n\nIBAN: IT47R0311111101000000065901\nConto intestato a: COMUNE DI BERGAMO FONDO DI MUTUO SOCCORSO DELLA CITTA' DI BERGAMO"", ""IBAN"": ""IBAN: IT47R0311111101000000065901"", ""Intestazione"": ""COMUNE DI BERGAMO FONDO DI MUTUO SOCCORSO DELLA CITTA' DI BERGAMO"", ""Link"": ""https://www.comune.bergamo.it/node/197791"", ""Nome"": ""Comune di Bergamo""}","<pre><yamldata>
+Descrizione: ""Bergamo è purtroppo la città in cui l’epidemia di Coronavirus ha colpito\
+  \ più duramente, l’epicentro – insieme a Wuhan – del flagello che sta sconvolgendo\
+  \ il mondo. Nella sola provincia di Bergamo si sono avuti, nel mese di marzo, circa\
+  \ 4.500 decessi in più della media degli anni precedenti, 350 solo in città. Le\
+  \ dimensioni del contagio, ad oggi non conosciute, sono probabilmente le più estese\
+  \ di ogni altro luogo.\n\nIn queste settimane ogni energia è stata dedicata all’emergenza\
+  \ sanitaria, drammatica innanzitutto negli ospedali. Medici e infermieri hanno fatto\
+  \ miracoli e numerose sono state le testimonianze di sostegno e gli aiuti materiali\
+  \ che sono giunti da ogni luogo d’Italia. Nel frattempo i servizi comunali, sostenuti\
+  \ dalla cooperazione sociale e da centinaia di volontari hanno portato assistenza\
+  \ nelle case delle persone più fragili, a partire dai molti anziani che vivono soli.\n\
+  \nNon siamo ancora fuori dalla crisi sanitaria, di cui ci preoccupa oggi la dimensione\
+  \ territoriale, con tanti ammalati nelle case e forze di cura purtroppo limitate.\
+  \ Ma già sappiamo che ci aspetta una gravissima difficoltà sociale ed economica.\
+  \ In queste settimane il Comune è già intervenuto con misure di sostegno a famiglie\
+  \ e attività d’impresa, nonostante i pesanti effetti negativi sulle entrate comunali\
+  \ che certamente deriveranno dall’emergenza. Ma ci aspetta un compito ben più arduo.\
+  \ La necessità di proteggere i soggetti più vulnerabili, fino a che non sarà disponibile\
+  \ un vaccino, ci obbligherà a moltiplicare la dimensione dei servizi domiciliari.\
+  \ Il prolungato fermo di tutte le attività – qui avviato prima che altrove e che\
+  \ con ogni probabilità durerà più a lungo – produrrà pesanti conseguenze sulle imprese\
+  \ e sul reddito delle famiglie, molte delle quali già oggi sono in una condizione\
+  \ di forte disagio.\n\nPer questo, evitando ogni sovrapposizione con altri livelli\
+  \ istituzionali e secondo il principio di sussidiarietà, abbiamo istituito il Fondo\
+  \ di Mutuo Soccorso della Città di Bergamo, alimentato in primo luogo dal Comune.\n\
+  \nABBIAMO BISOGNO DI AIUTI PER POTER AIUTARE.\n\nA chi può, chiediamo di contribuire\
+  \ a dare sostegno a chi è e sarà maggiormente in difficoltà, famiglie e attività\
+  \ economiche. Abbiamo bisogno del contributo di tutti per prenderci cura dei soggetti\
+  \ più esposti agli effetti dell’emergenza, in raccordo e integrazione con gli interventi\
+  \ di carattere sanitario, e per sostenere domani la ripresa delle attività produttive\
+  \ e commerciali, provando anche a ritrovare la vocazione culturale e turistica alla\
+  \ quale avevamo lavorato con impegno in questi anni.\n\nIl Fondo – i cui proventi\
+  \ vorremmo in parte condividere col territorio provinciale - è aperto al contributo\
+  \ delle imprese, degli istituti finanziari e di tutti gli italiani che vorranno\
+  \ aiutare la città di Bergamo drammaticamente colpita.\n\n \n\nPer donare:\n\nhttp://www.mutuosoccorsobergamo.it/\n\
+  \n \n\noppure\n\nIBAN: IT47R0311111101000000065901\nConto intestato a: COMUNE DI\
+  \ BERGAMO FONDO DI MUTUO SOCCORSO DELLA CITTA' DI BERGAMO""
+IBAN: 'IBAN: IT47R0311111101000000065901'
+Intestazione: COMUNE DI BERGAMO FONDO DI MUTUO SOCCORSO DELLA CITTA' DI BERGAMO
+Link: https://www.comune.bergamo.it/node/197791
+Nome: Comune di Bergamo
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2435,599786475,2020-04-14 19:09:28,2020-04-14 18:51:58,SpesaRomaEst.it: il sito pubblica la lista delle attività che effettuano consegne a domicilio a #Roma est,41.89570,12.52312,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""SpesaRomaEst.it  - Consegne a domicilio a Roma Est"", ""Descrizione"": ""Questo sito mostra la lista delle attivit\u00e0 che effettuano consegne a domicilio a Roma est. Si tratta di un progetto sociale, gratuito e senza fini di lucro, per aiutare a ridurre gli spostamenti e al tempo stesso aiutare le attivit\u00e0 a promuoversi cercando di limitare i danni causati dall'attuale situazione d'emergenza."", ""Destinatari"": ""Esercenti e cittadini d Roma Est"", ""Email"": ""f.viola@indigenodigitale.com"", ""Immagine"": ""og_image-20_51_23.jpg"", ""Link"": ""https://www.spesaromaest.it/"", ""Posizione"": ""41.89570 12.52312""}","<pre><yamldata>
 Cosa: SpesaRomaEst.it  - Consegne a domicilio a Roma Est
 Descrizione: Questo sito mostra la lista delle attività che effettuano consegne a
