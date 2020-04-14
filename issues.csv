@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2435,599786475,2020-04-14 19:09:28,2020-04-14 18:51:58,SpesaRomaEst.it: il sito pubblica la lista delle attività che effettuano consegne a domicilio a #Roma est,41.89570,12.52312,Lazio,Roma,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""SpesaRomaEst.it  - Consegne a domicilio a Roma Est"", ""Descrizione"": ""Questo sito mostra la lista delle attivit\u00e0 che effettuano consegne a domicilio a Roma est. Si tratta di un progetto sociale, gratuito e senza fini di lucro, per aiutare a ridurre gli spostamenti e al tempo stesso aiutare le attivit\u00e0 a promuoversi cercando di limitare i danni causati dall'attuale situazione d'emergenza."", ""Destinatari"": ""Esercenti e cittadini d Roma Est"", ""Email"": ""f.viola@indigenodigitale.com"", ""Immagine"": ""og_image-20_51_23.jpg"", ""Link"": ""https://www.spesaromaest.it/"", ""Posizione"": ""41.89570 12.52312""}","<pre><yamldata>
+Cosa: SpesaRomaEst.it  - Consegne a domicilio a Roma Est
+Descrizione: Questo sito mostra la lista delle attività che effettuano consegne a
+  domicilio a Roma est. Si tratta di un progetto sociale, gratuito e senza fini di
+  lucro, per aiutare a ridurre gli spostamenti e al tempo stesso aiutare le attività
+  a promuoversi cercando di limitare i danni causati dall'attuale situazione d'emergenza.
+Destinatari: Esercenti e cittadini d Roma Est
+Email: f.viola@indigenodigitale.com
+Immagine: og_image-20_51_23.jpg
+Link: https://www.spesaromaest.it/
+Posizione: 41.89570 12.52312
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2434,599762718,2020-04-14 18:24:20,2020-04-14 18:10:17,Centro Antiviolenza Donne&Diritti #Darfo #Brescia continua a garantire ascolto e supporto a donne vittime di violenza,45.894384,10.189669,Lombardia,Brescia,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro Antiviolenza Donne&Diritti Darfo (BS)"", ""Descrizione"": ""Sempre vicine alle donne, noi continuiamo a esserci!\nContattaci:\n- Telefono 0364 536632 (attivo il luned\u00ec e venerd\u00ec dalle ore 09:00 alle 12:00 ed il mercoled\u00ec dalle ore 14:30 alle 17:30)\n- Whatsapp 338 37 06 588\n- Messenger tramite la pagina Facebook Donne e Diritti - Centro Antiviolenza\n- Mail donnedirittidarfo@gmail.com"", ""Destinatari"": ""Donne"", ""Link"": ""https://www.vocecamuna.it/centro-antiviolenza-donnediritti-la-coordinatrice-siamo-aperti-garantiamo-lascolto-alle-vittime/?fbclid=IwAR0L3K15l1N2eUnJecBrBYvZEjWXifnJojM5km773K4EL-C72lVV1g4FSSU"", ""Natura"": ""solidale"", ""Posizione"": ""45.894384 10.189669 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centro Antiviolenza Donne&Diritti, la coordinatrice: \u201cSiamo aperti, garantiamo l\u2019ascolto alle vittime\u201d #Darfo #Brescia""}","<pre><yamldata>
 Da_chi_offerta: Centro Antiviolenza Donne&Diritti Darfo (BS)
 Descrizione: 'Sempre vicine alle donne, noi continuiamo a esserci!
