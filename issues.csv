@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2449,600175607,2020-04-15 10:28:28,2020-04-15 10:00:57,"Ingrosso di frutta e verdura ""Ingross Fruit"" consegna a domicilio #Pantelleria #Trapani",36.830695,11.945731,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Frutta e verdura"", ""Nome_dell_esercizio_commercial"": ""Ingross Fruit"", ""Posizione"": ""36.830695 11.945731 0 0"", ""Telefono"": ""0923911923""}","<pre><yamldata>
+Descrizione: Frutta e verdura
+Nome_dell_esercizio_commercial: Ingross Fruit
+Posizione: 36.830695 11.945731 0 0
+Telefono: 0923911923
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2448,600168401,2020-04-15 10:26:08,2020-04-15 09:49:32,Alimentari di Pavia Vincenzo consegna a domicilio #Pantelleria #Trapani,36.831233,11.946005,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alimentari"", ""Nome_dell_esercizio_commercial"": ""Max"", ""Posizione"": ""36.831233 11.946005 0 0"", ""Telefono"": ""0923912522""}","<pre><yamldata>
 Descrizione: Alimentari
 Nome_dell_esercizio_commercial: Max
@@ -24386,6 +24392,22 @@ fonte: https://register.hsr.it/donazioni/donazione.aspx
 provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/137,578926052,2020-04-03 18:32:09,2020-03-10 23:53:46,"Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti",45.5325273,10.2129982,Lombardia,Brescia,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato""]",,,"{""Comune"": ""Brescia"", ""Posizione"": ""45.5325273 10.2129982 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia"", ""chi"": ""associazione Diritti per tutti"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti"", ""destinatari"": ""Stranieri"", ""fonte"": ""https://www.facebook.com/Associazionedirittipertutti/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>
+Comune: Brescia
+Posizione: 45.5325273 10.2129982 0 0
+Provincia: Brescia
+Regione: Lombardia
+chi: associazione Diritti per tutti
+comune: Brescia
+contatti: ''
+descrizione: Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei
+  decreti
+destinatari: Stranieri
+fonte: https://www.facebook.com/Associazionedirittipertutti/
+provincia: Brescia
+regione: Lombardia
+tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/137,578926052,2020-04-03 18:32:09,2020-03-10 23:53:46,"Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti",45.5325273,10.2129982,Lombardia,Brescia,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato""]",,,"{""Comune"": ""Brescia"", ""Posizione"": ""45.5325273 10.2129982 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia"", ""chi"": ""associazione Diritti per tutti"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti"", ""destinatari"": ""Stranieri"", ""fonte"": ""https://www.facebook.com/Associazionedirittipertutti/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>
 Comune: Brescia
