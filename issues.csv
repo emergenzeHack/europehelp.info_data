@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2454,600206233,2020-04-15 13:35:30,2020-04-15 10:51:24,Consegne di Alimentari per celiaci e vegetariani a #Pantelleria #Trapani,36.830816,11.943971,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alimentari per celiaci e vegetariani"", ""Link"": ""https://www.facebook.com/glutiniamofree/"", ""Nome_dell_esercizio_commercial"": ""Glutiniamo Free"", ""Posizione"": ""36.830816 11.943971 0 0"", ""Telefono"": ""338 862 9716""}","<pre><yamldata>
+Descrizione: Alimentari per celiaci e vegetariani
+Nome_dell_esercizio_commercial: Glutiniamo Free
+Telefono: 338 862 9716
+Link: https://www.facebook.com/glutiniamofree/
+Posizione: 36.830816 11.943971 0 0
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2453,600205543,2020-04-15 13:22:58,2020-04-15 10:50:06,Servizio di consegna di Frutta e Verdura #Pantelleria #Trapani,36.83292,11.945141,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Frutta e Verdura"", ""Nome_dell_esercizio_commercial"": ""Pina frutta e verdura"", ""Posizione"": ""36.83292 11.945141 0 0"", ""Telefono"": ""0923780504""}","<pre><yamldata>
 Descrizione: Frutta e Verdura
 Nome_dell_esercizio_commercial: Pina frutta e verdura
