@@ -1,5 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2451,600181124,2020-04-15 10:34:30,2020-04-15 10:10:05,frutta,36.83237,11.944143,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""frutta"", ""Indirizzo"": ""Via Califari, 3, 91017 Pantelleria TP"", ""Nome_dell_esercizio_commercial"": ""Casa della Frutta di Quartana Davide"", ""Posizione"": ""36.83237 11.944143 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2452,600194415,2020-04-15 10:41:55,2020-04-15 10:31:42,Servizio di consegna a domicilio frutta - Messina Nino #Pantelleria #Trapani,36.830135,11.941143,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Frutta"", ""Nome_dell_esercizio_commercial"": ""Messina Nino"", ""Posizione"": ""36.830135 11.941143 0 0"", ""Telefono"": ""3662224501""}","<pre><yamldata>
+Descrizione: Frutta
+Nome_dell_esercizio_commercial: Messina Nino
+Posizione: 36.830135 11.941143 0 0
+Telefono: '3662224501'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2451,600181124,2020-04-15 10:41:03,2020-04-15 10:10:05,Casa della Frutta offre servizio di consegna a domicilio #Pantelleria #Trapani,36.83237,11.944143,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""frutta"", ""Indirizzo"": ""Via Califari, 3, 91017 Pantelleria TP"", ""Nome_dell_esercizio_commercial"": ""Casa della Frutta di Quartana Davide"", ""Posizione"": ""36.83237 11.944143 0 0""}","<pre><yamldata>
 Descrizione: frutta
 Nome_dell_esercizio_commercial: Casa della Frutta di Quartana Davide
 Indirizzo: Via Califari, 3, 91017 Pantelleria TP
