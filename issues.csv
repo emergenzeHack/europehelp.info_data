@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2459,600394591,2020-04-15 18:41:00,2020-04-15 15:39:17,Croce Verde di #Vigevano offre un servizio gratuito di consegna biancheria per le persone ricoverate,,,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce verde di Vigevano"", ""Descrizione"": ""Servizio gratuito di consegna biancheria per le persone ricoverate, disponibile a Vigevano e nelle vicinanze.\nNumero da contattare per prenotazioni:  0381 - 22527"", ""Destinatari"": ""Persone ricoverate"", ""Link"": ""https://www.facebook.com/Laverdevigevano/photos/a.1487783274767317/2577245382487762/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegna gratuita di biancheria a Vigevano e vicinanze""}","<pre><yamldata>
+Da_chi_offerta: Croce verde di Vigevano
+Descrizione: 'Servizio gratuito di consegna biancheria per le persone ricoverate,
+  disponibile a Vigevano e nelle vicinanze.
+
+  Numero da contattare per prenotazioni:  0381 - 22527'
+Destinatari: Persone ricoverate
+Link: https://www.facebook.com/Laverdevigevano/photos/a.1487783274767317/2577245382487762/?type=3&theater&ifg=1
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Consegna gratuita di biancheria a Vigevano e vicinanze
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2457,600310651,2020-04-15 16:31:39,2020-04-15 13:46:35,Associazione Libellula #Roma attiva sportello di ascolto telefonico e online per persone transgender e persone con problematiche sociali causate dalla pandemia,,,tutte,,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""LINEAMOCA"", ""Descrizione"": ""Sportello di ascolto telefonico e online."", ""Destinatari"": ""Persone transgender vittime di discriminazioni sociali. Persone con problematiche sociali causate dalla pandemia. Persone disagiate, persone con difficolt\u00e0 sociali e di inserimento. Ascolto e aiuto con sostegno di psicologi e counselor servizio gratuito previo tesseramento. Persone sole. Tutti possono chiamare l'associazione se voglio sentire una voce amica."", ""Email"": ""Infolibellula.roma@gmail.com"", ""Immagine"": ""logo_libellula_ok-1-15_46_6.jpg"", ""Link"": ""https://www.libellulaitalia.com"", ""Telefono"": ""3318380140"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Cosa: LINEAMOCA
 Descrizione: Sportello di ascolto telefonico e online.
@@ -1681,7 +1693,7 @@ Posizione: 43.522505 13.243924 0 0
 Tipo_di_soggetto: privato
 Titolo: Sportello attivo via numero telefonico
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2332,595698553,2020-04-15 16:07:28,2020-04-07 08:43:49,Comune di #Jesi #Ancona cerca computer preferibilmente portatili per didattica online,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""raccolta computer portatili"", ""Descrizione"": ""Il Comune di Jesi ha attivato una raccolta di computer, preferibilmente portatili (massimo 7/8 anni di vita), funzionanti e con web-camera (con almeno windows 7, se possibile 64 bit) da mettere a disposizione degli alunni che ne sono sprovvisti per la teledidattica. Per segnalare disponibilit\u00e0: 3285897535 mauro.mariani2018@gmail.com"", ""Destinatari"": ""alunni che ne sono sprovvisti per la teledidattica"", ""Email"": ""mauro.mariani2018@gmail.com"", ""Indirizzo"": ""43.522505 13.243624 0 0"", ""Link"": ""https://t.me/ComuneJesi/628"", ""Nome"": ""Comune di Jesi""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2332,595698553,2020-04-15 18:13:09,2020-04-07 08:43:49,Comune di #Jesi #Ancona cerca computer preferibilmente portatili per didattica online,,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""raccolta computer portatili"", ""Descrizione"": ""Il Comune di Jesi ha attivato una raccolta di computer, preferibilmente portatili (massimo 7/8 anni di vita), funzionanti e con web-camera (con almeno windows 7, se possibile 64 bit) da mettere a disposizione degli alunni che ne sono sprovvisti per la teledidattica. Per segnalare disponibilit\u00e0: 3285897535 mauro.mariani2018@gmail.com"", ""Destinatari"": ""alunni che ne sono sprovvisti per la teledidattica"", ""Email"": ""mauro.mariani2018@gmail.com"", ""Indirizzo"": ""43.522505 13.243624 0 0"", ""Link"": ""https://t.me/ComuneJesi/628"", ""Nome"": ""Comune di Jesi""}","<pre><yamldata>
 Cosa: raccolta computer portatili
 Descrizione: 'Il Comune di Jesi ha attivato una raccolta di computer, preferibilmente portatili (massimo 7/8 anni di vita), funzionanti e con web-camera (con almeno windows 7, se possibile 64 bit) da mettere a disposizione degli alunni che ne sono sprovvisti per la teledidattica.
   Per segnalare disponibilità:
@@ -18342,6 +18354,17 @@ Provincia: Bergamo
 Regione: Lombardia
 Tipo_di_soggetto: privato
 Titolo: maite4people
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/720,583166144,2020-03-17 19:55:27,2020-03-17 17:09:07,"Raccolta fondi per presidio ospedaliero ""Dono Svizzero"" #Formia (LT)",41.25931,13.60802,Lazio,Latina,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione per DPI e ventilatori polmonari per l'Ospedale Dono Svizzero di Formia"", ""Descrizione"": ""Donazioni per presidio ospedaliero \""Dono Svizzero\"" di Formia"", ""IBAN"": ""IT05 L053 7273 9800 0001 1022 898"", ""Intestazione"": ""Associazione di Volontariato delle Protezione Civile VER Sud Pontino"", ""Link"": ""https://www.gofundme.com/f/aiutiamo-il-dono-svizzero-di-formia?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0lnWAzXGQtZF8jDJwITWG6nWxXwHvqc9fcpveKruNLOzYOzG8EQV_cU0I"", ""Nome"": ""Comune di Formia, Living Califormia,  Ver Sud Pontino Formia Protezione Civile, CURVA CONI FORMIA"", ""Posizione"": ""41.25931 13.60802""}","<pre><yamldata>
+Causale: Donazione per DPI e ventilatori polmonari per l'Ospedale Dono Svizzero di
+  Formia
+Descrizione: Donazioni per presidio ospedaliero ""Dono Svizzero"" di Formia
+IBAN: IT05 L053 7273 9800 0001 1022 898
+Intestazione: Associazione di Volontariato delle Protezione Civile VER Sud Pontino
+Link: https://www.gofundme.com/f/aiutiamo-il-dono-svizzero-di-formia?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0lnWAzXGQtZF8jDJwITWG6nWxXwHvqc9fcpveKruNLOzYOzG8EQV_cU0I
+Nome: Comune di Formia, Living Califormia,  Ver Sud Pontino Formia Protezione Civile,
+  CURVA CONI FORMIA
+Posizione: 41.25931 13.60802
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/720,583166144,2020-03-17 19:55:27,2020-03-17 17:09:07,"Raccolta fondi per presidio ospedaliero ""Dono Svizzero"" #Formia (LT)",41.25931,13.60802,Lazio,Latina,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione per DPI e ventilatori polmonari per l'Ospedale Dono Svizzero di Formia"", ""Descrizione"": ""Donazioni per presidio ospedaliero \""Dono Svizzero\"" di Formia"", ""IBAN"": ""IT05 L053 7273 9800 0001 1022 898"", ""Intestazione"": ""Associazione di Volontariato delle Protezione Civile VER Sud Pontino"", ""Link"": ""https://www.gofundme.com/f/aiutiamo-il-dono-svizzero-di-formia?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0lnWAzXGQtZF8jDJwITWG6nWxXwHvqc9fcpveKruNLOzYOzG8EQV_cU0I"", ""Nome"": ""Comune di Formia, Living Califormia,  Ver Sud Pontino Formia Protezione Civile, CURVA CONI FORMIA"", ""Posizione"": ""41.25931 13.60802""}","<pre><yamldata>
 Causale: Donazione per DPI e ventilatori polmonari per l'Ospedale Dono Svizzero di
