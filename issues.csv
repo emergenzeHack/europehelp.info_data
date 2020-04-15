@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2447,600167263,2020-04-15 10:24:26,2020-04-15 09:47:46,"Negozio ""Il Pinguino Alimentari e Surgelati ""consegna a domicilio #Pantelleria #Trapani",36.834027,11.945044,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alimentari"", ""Nome_dell_esercizio_commercial"": ""Pinguino"", ""Posizione"": ""36.834027 11.945044 0 0"", ""Telefono"": ""0923913659""}","<pre><yamldata>
+Descrizione: Alimentari
+Nome_dell_esercizio_commercial: Pinguino
+Posizione: 36.834027 11.945044 0 0
+Telefono: 0923913659
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2446,600164801,2020-04-15 10:21:10,2020-04-15 09:43:40,Raccolta fondi a sostegno di chi fa lavoro sessuale,45.65003,13.77066,Friuli Venezia Giulia,Trieste,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La pandemia COVID-19 sta influendo drammaticamente sulle vite di chi fa lavoro sessuale.\nLa maggior parte di loro non \u00e8 in grado di accedere alle prestazioni sociali istituite come misure di emergenza dal Governo, sono migranti e senza una rete familiare a cui far riferimento.\nEcco perch\u00e9 diverse organizzazioni hanno deciso di avviare una raccolta fondi per aiutare chi in questo momento di isolamento si trova in situazione di bisogno estremo.\nL'obiettivo iniziale \u00e8 di raccogliere 30.000 euro per andare a coprire le richieste di aiuto in tutta Italia.\nLa donazione verr\u00e0 addebitata sul conto corrente dedicato e gestito dal Comitato per i Diritti Civili delle Prostitute. Il Comitato distribuir\u00e0 le donazioni attraverso la rete composta da associazioni e unit\u00e0 di strada che da anni sono al fianco di chi fa lavoro sessuale, che raccoglie localmente i bisogni e le varie richieste di aiuto, valutandone l\u2019urgenza e le necessit\u00e0.\n\nCOME VERRANNO SPESI I SOLDI RACCOLTI\n- Distribuzione pacchi alimentari e generi di prima necessit\u00e0\n- Farmaci e presidi sanitari\n- Sostegno nel pagare le utenze\n- Sostegno nel pagare l\u2019affitto"", ""Email"": ""solidarieta.sw@gmail.com"", ""Link"": ""https://www.produzionidalbasso.com/project/covid19-nessuna-da-sola-solidarieta-immediata-alle-lavoratrici-sessuali-piu-colpite-dall-emergenza/"", ""Nome"": ""Comitato per i diritti civili delle prostitute Onlus"", ""Posizione"": ""45.65003 13.77066""}","<pre><yamldata>
 Descrizione: 'La pandemia COVID-19 sta influendo drammaticamente sulle vite di chi
   fa lavoro sessuale.
@@ -22535,6 +22541,15 @@ Posizione: 45.486908 9.216447 0 0
 Provincia: Milano
 Regione: Lombardia
 Titolo: Radio CIA Manzoni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/351,580618998,2020-03-13 22:06:44,2020-03-13 13:59:19,Raccolta fondi per l'Ospedale di #Vimercate ,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Diamo nel nostro possibile un aiuto importante all\u2019Ospedale di Vimercate, impegnata in questo momento delicato nel contenimento e nella cura di tutte le persone dell\u2019area del Vimercatese che hanno contratto il COVID-19."", ""Informativa"": ""OK"", ""Link"": ""https://www.gofundme.com/f/insieme-con-vimercate-contro-il-covid19"", ""Nome"": ""Ospedale di Vimercate""}","<pre><yamldata>
+Descrizione: Diamo nel nostro possibile un aiuto importante all’Ospedale di Vimercate,
+  impegnata in questo momento delicato nel contenimento e nella cura di tutte le persone
+  dell’area del Vimercatese che hanno contratto il COVID-19.
+Informativa: OK
+Link: https://www.gofundme.com/f/insieme-con-vimercate-contro-il-covid19
+Nome: Ospedale di Vimercate
+
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/351,580618998,2020-03-13 22:06:44,2020-03-13 13:59:19,Raccolta fondi per l'Ospedale di #Vimercate ,,,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Diamo nel nostro possibile un aiuto importante all\u2019Ospedale di Vimercate, impegnata in questo momento delicato nel contenimento e nella cura di tutte le persone dell\u2019area del Vimercatese che hanno contratto il COVID-19."", ""Informativa"": ""OK"", ""Link"": ""https://www.gofundme.com/f/insieme-con-vimercate-contro-il-covid19"", ""Nome"": ""Ospedale di Vimercate""}","<pre><yamldata>
 Descrizione: Diamo nel nostro possibile un aiuto importante all’Ospedale di Vimercate,
