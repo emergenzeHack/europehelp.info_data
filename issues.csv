@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2451,600181124,2020-04-15 10:34:30,2020-04-15 10:10:05,frutta,36.83237,11.944143,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""frutta"", ""Indirizzo"": ""Via Califari, 3, 91017 Pantelleria TP"", ""Nome_dell_esercizio_commercial"": ""Casa della Frutta di Quartana Davide"", ""Posizione"": ""36.83237 11.944143 0 0""}","<pre><yamldata>
+Descrizione: frutta
+Nome_dell_esercizio_commercial: Casa della Frutta di Quartana Davide
+Indirizzo: Via Califari, 3, 91017 Pantelleria TP
+Posizione: 36.83237 11.944143 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2450,600179636,2020-04-15 10:30:41,2020-04-15 10:07:30,Negozio Zazà consegna frutta e verdura #Pantelleria #Trapani,36.832293,11.943982,Sicilia,Trapani,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Frutta e verdura"", ""Nome_dell_esercizio_commercial"": ""Zaz\u00e0"", ""Posizione"": ""36.832293 11.943982 0 0"", ""Telefono"": ""0923691119 - 0923838824""}","<pre><yamldata>
 Descrizione: Frutta e verdura
 Nome_dell_esercizio_commercial: Zazà
