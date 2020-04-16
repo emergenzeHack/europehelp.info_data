@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2473,600847561,2020-04-16 08:44:56,2020-04-16 08:29:10,Sportello SPRAR CIR #Catania offre servizi online di mediazione linguistica e culturale e assistenza legale e ai servizi,,,,,"[""Bollettino"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""CIR - Consiglio Italiano per i Rifugiati"", ""Descrizione"": ""Sportello SPRAR, normalmente offre assistenza e consulenza presso i locali del Comune di Catania. Dal 12 Marzo lo sportello \u00e8 attivo su skype o via telefono dal lun al ven dalle 9.30 alle 12.30 e mar, gio e ven dalle 15.30 alle 17.30 all'account skype CIR CATANIA o ai numeri 335 1716126 e 335 1724483. \nGli operatori del CIR forniscono servizi di mediazione linguistico culturale, assistenza legale, orientamento ai servizi del territorio."", ""Destinatari"": ""Cittadini italiani e stranieri in tema di immigrazione"", ""Link"": ""http://www.cir-onlus.org/2020/03/13/i-servizi-garantiti-in-fase-di-emergenza-covid-19/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello informativo online""}","<pre><yamldata>
+Da_chi_offerta: CIR - Consiglio Italiano per i Rifugiati
+Descrizione: ""Sportello SPRAR, normalmente offre assistenza e consulenza presso i\
+  \ locali del Comune di Catania. Dal 12 Marzo lo sportello è attivo su skype o via\
+  \ telefono dal lun al ven dalle 9.30 alle 12.30 e mar, gio e ven dalle 15.30 alle\
+  \ 17.30 all'account skype CIR CATANIA o ai numeri 335 1716126 e 335 1724483. \n\
+  Gli operatori del CIR forniscono servizi di mediazione linguistico culturale, assistenza\
+  \ legale, orientamento ai servizi del territorio.""
+Destinatari: Cittadini italiani e stranieri in tema di immigrazione
+Link: http://www.cir-onlus.org/2020/03/13/i-servizi-garantiti-in-fase-di-emergenza-covid-19/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Sportello informativo online
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2471,600810207,2020-04-16 07:49:07,2020-04-16 07:27:39,Assistenza medica all'Hotel Michelangelo di #Milano per le persone dimesse per Covid19 che non possono tornare a casa o senza dimora ,45.485094,9.20635,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Associazione Medici Volontari Italiani Onlus"", ""Descrizione"": ""Assistenza medica (e farmaceutica) al centro di accoglienza creato all'H. Michelangelo di Milano per le persone dimesse dagli ospedali dopo ricovero x Covid19, post fase acuta, ma non idonee al rientro a domicilio, o senza dimora. Attualmente: 150 assistiti; previsti altri 100 ingressi."", ""Link"": ""https://milano.repubblica.it/cronaca/2020/03/30/news/coronavirus_milano_hotel-252699308/"", ""Posizione"": ""45.485094 9.20635 0 0""}","<pre><yamldata>
 Cosa: Associazione Medici Volontari Italiani Onlus
 Descrizione: 'Assistenza medica (e farmaceutica) al centro di accoglienza creato all''H.
