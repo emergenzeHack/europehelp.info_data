@@ -1,4 +1,27 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2470,600804838,2020-04-16 07:42:11,2020-04-16 07:18:01,"Servizio di supporto psicologico e/o psicoterapeutico a #Torino rivolto a immigrati, rifugiati e loro famiglie",45.072109,7.680618,Piemonte,Torino,"[""Bollettino"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Frantz Fanon, Torino"", ""Descrizione"": ""Servizio di supporto psicologico e/o psicoterapeutico rivolto a immigrati, rifugiati e loro famiglie;\nServizio di consulenza e supervisione rivolto a operatori.\nSu appuntamento, contatti: \n333 3373067 (lun h12-18, merc h 10-18)\nsegnalazioni@associazionefanon.it"", ""Destinatari"": ""Migranti e richiedenti o titolari di protezione internazionale, adulti e minori, e loro famiglie; operatori sociali e sanitari che hanno in carico soggetti migranti"", ""Link"": ""https://associazionefanon.it/"", ""Natura"": ""solidale"", ""Posizione"": ""45.072109 7.680618 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centro Frantz Fanon, Servizio di sostegno psicologico, psicoterapia, consulenza""}","<pre><yamldata>
+Da_chi_offerta: Associazione Frantz Fanon, Torino
+Descrizione: ""Servizio di supporto psicologico e/o psicoterapeutico rivolto a immigrati,\
+  \ rifugiati e loro famiglie;\nServizio di consulenza e supervisione rivolto a operatori.\n\
+  Su appuntamento, contatti: \n333 3373067 (lun h12-18, merc h 10-18)\nsegnalazioni@associazionefanon.it""
+Destinatari: Migranti e richiedenti o titolari di protezione internazionale, adulti
+  e minori, e loro famiglie; operatori sociali e sanitari che hanno in carico soggetti
+  migranti
+Link: https://associazionefanon.it/
+Natura: solidale
+Posizione: 45.072109 7.680618 0 0
+Tipo_di_soggetto: privato
+Titolo: Centro Frantz Fanon, Servizio di sostegno psicologico, psicoterapia, consulenza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2469,600568806,2020-04-16 07:40:56,2020-04-15 20:30:09,I Permessi di soggiorno ai tempi del Covid19: le deroghe e le sospensioni che modificano la normativa,41.92559,12.520766,Lazio,Roma,"[""Bollettino"", ""Dati utili"", ""Notizie Utili"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Cosa"": ""Permessi di soggiorno: cosa cambia nella normativa con l\u2019emergenza Covid19"", ""Descrizione"": ""I Permessi di soggiorno ai tempi del Covid19: le deroghe e le sospensioni che modificano la normativa.\nDisponibile online la scheda informativa realizzata da Caritas Roma."", ""Link"": ""https://bit.ly/2USgtJ9"", ""Posizione"": ""41.92559 12.520766 0 0""}","<pre><yamldata>
+Cosa: 'Permessi di soggiorno: cosa cambia nella normativa con l’emergenza Covid19'
+Descrizione: 'I Permessi di soggiorno ai tempi del Covid19: le deroghe e le sospensioni
+  che modificano la normativa.
+
+  Disponibile online la scheda informativa realizzata da Caritas Roma.'
+Link: https://bit.ly/2USgtJ9
+Posizione: 41.92559 12.520766 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2468,600559567,2020-04-16 07:38:49,2020-04-15 20:12:33,Riparte il Progetto Api ad Almaterra #Torino per donne o donne trans in difficoltà,45.090081,7.710063,Piemonte,Torino,"[""Bollettino"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Donne"", ""Servizi e iniziative solidali"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro interculturale delle donne Alma Mater"", ""Descrizione"": ""\ud83d\udc1dRiparte il Progetto Api ad Almaterra \ud83d\udc1d\n\nSei una donna o una donna trans in difficolt\u00e0?\n\n\ud83c\udf5d Dal luned\u00ec al venerd\u00ec a partire dalle 12.30 puoi venire a ritirare il pranzo nel nostro cortile. Ti consigliamo di arrivare prima, verso le 12, per metterti in coda.\n\n\u260e\ufe0fDal luned\u00ec al venerd\u00ec dalle 9 alle 13 puoi chiamarci al numero 371 4373551 e parlare con le nostre mediatrici."", ""Destinatari"": ""donne o trans in difficolt\u00e0"", ""Natura"": ""solidale"", ""Posizione"": ""45.090081 7.710063 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pranzi pronti  #Torino""}","<pre><yamldata>
 Da_chi_offerta: Centro interculturale delle donne Alma Mater
 Descrizione: '🐝Riparte il Progetto Api ad Almaterra 🐝
