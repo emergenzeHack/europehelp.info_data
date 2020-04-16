@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2476,600875346,2020-04-16 09:57:57,2020-04-16 09:10:16,Gruppo Abele Onlus attiva uno sportello telefonico per le persone vittime di tratta e sfruttamento ,45.17447,7.94722,Piemonte,Torino,"[""Servizi e iniziative solidali private"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Gruppo Abele O.N.L.U.S."", ""Descrizione"": ""Lo sportello \u00e8 attivo telefonicamente dal luned\u00ec al venerd\u00ec dalle 9 alle 18 ai numeri: 0113841022 o 3357766210."", ""Destinatari"": ""Persone vittime di tratta e sfruttamento"", ""Link"": ""https://www.gruppoabele.org/cosa-facciamo/immigrazione-e-vittime/prostituzione-e-tratta/"", ""Natura"": ""solidale"", ""Posizione"": ""45.17447 7.94722"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello vittime di tratta""}","<pre><yamldata>
+Da_chi_offerta: Associazione Gruppo Abele O.N.L.U.S.
+Descrizione: 'Lo sportello è attivo telefonicamente dal lunedì al venerdì dalle 9
+  alle 18 ai numeri: 0113841022 o 3357766210.'
+Destinatari: Persone vittime di tratta e sfruttamento
+Link: https://www.gruppoabele.org/cosa-facciamo/immigrazione-e-vittime/prostituzione-e-tratta/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Sportello vittime di tratta
+Posizione: 45.17447 7.94722
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2475,600866594,2020-04-16 09:53:18,2020-04-16 08:56:52,ARCI #Campania: informazioni in 7 lingue sulle misure di sostegno per cittadini stranieri,41.073981,14.338017,Campania,Caserta,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Campania"", ""Descrizione"": ""Informazioni in 7 lingue sulle misure di sostegno attivate dal Governo per l\u2019emergenza sociale ed economica legata al Coronavirus. La finalit\u00e0 \u00e8 raggiungere ed aiutare le persone pi\u00f9 fragili come, ad esempio, i braccianti agricoli stranieri o i piccoli ambulanti che, dalle informazioni raccolte, stanno pagando pesantemente le necessarie restrizioni del #iorestoacasa.\nChi ha bisogno di aiuto o informazioni pu\u00f2 contattare lo sportello Arci Rete per i diritti del Circolo Nero e non solo! di Caserta tramite Facebook; email info@neroenonsolo.it o whatsaap 0823449410"", ""Destinatari"": ""cittadini immigrati"", ""Link"": ""https://lnx.arcicampania.net/2020/04/14/cura-italia-le-misure-di-sostegno-in-7-lingue-per-i-cittadini-stranieri/"", ""Natura"": ""solidale"", ""Posizione"": ""41.073981 14.338017 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Cura Italia, informazioni in 7 lingue""}","<pre><yamldata>
 Da_chi_offerta: Arci Campania
 Descrizione: 'Informazioni in 7 lingue sulle misure di sostegno attivate dal Governo
