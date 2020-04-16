@@ -155,13 +155,12 @@ Link: https://www.gofundme.com/f/portiamo-il-cibo-in-tavola-ma-abbiamo-fame
 Nome: Campagna Braccianti
 regione_manuale: tutte
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2459,600394591,2020-04-15 18:43:20,2020-04-15 15:39:17,Croce Verde di #Vigevano offre un servizio gratuito di consegna biancheria per le persone ricoverate,45.31722,8.83702,Lombardia,Pavia,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce verde di Vigevano"", ""Descrizione"": ""Servizio gratuito di consegna biancheria per le persone ricoverate, disponibile a Vigevano e nelle vicinanze.\nNumero da contattare per prenotazioni:  0381 - 22527"", ""Destinatari"": ""Persone ricoverate"", ""Link"": ""https://www.facebook.com/Laverdevigevano/photos/a.1487783274767317/2577245382487762/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""45.31722 8.83702"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegna gratuita di biancheria a Vigevano e vicinanze""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2459,600394591,2020-04-16 09:30:59,2020-04-15 15:39:17,Croce Verde di #Vigevano offre un servizio gratuito di consegna biancheria per le persone ricoverate per Covid19,45.31722,8.83702,Lombardia,Pavia,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce verde di Vigevano"", ""Descrizione"": ""Servizio gratuito di consegna biancheria per le persone ricoverate per Covid19, disponibile a Vigevano e nelle vicinanze. Numero da contattare per prenotazioni:  0381 - 22527"", ""Destinatari"": ""Persone ricoverate per Covid19"", ""Link"": ""https://www.facebook.com/Laverdevigevano/photos/a.1487783274767317/2577245382487762/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""45.31722 8.83702"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegna gratuita di biancheria a Vigevano e vicinanze""}","<pre><yamldata>
 Da_chi_offerta: Croce verde di Vigevano
-Descrizione: 'Servizio gratuito di consegna biancheria per le persone ricoverate,
+Descrizione: 'Servizio gratuito di consegna biancheria per le persone ricoverate per Covid19,
   disponibile a Vigevano e nelle vicinanze.
-
   Numero da contattare per prenotazioni:  0381 - 22527'
-Destinatari: Persone ricoverate
+Destinatari: Persone ricoverate per Covid19
 Link: https://www.facebook.com/Laverdevigevano/photos/a.1487783274767317/2577245382487762/?type=3&theater&ifg=1
 Natura: solidale
 Tipo_di_soggetto: pubblico
