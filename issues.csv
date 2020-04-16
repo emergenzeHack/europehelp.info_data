@@ -1,4 +1,27 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2464,600496687,2020-04-16 07:20:25,2020-04-15 18:18:51,Online una piattaforma che mette in contatto chi vuole donare e chi ha bisogno di laptop/tablet,,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Volontari"", ""Descrizione"": ""In Italia il 14% delle famiglie con un minore a carico non ha un tablet o PC, nonostante l\u2019intero paese sia passato alla didattica a distanza.\n\nOgnistudenteonline.org mette in contatto i possessori di laptop, tablet e modem 4G con chi ne ha veramente bisogno. Sul sito \u00e8 possibile:\n\n- Segnalare la propria disponibilit\u00e0 a donare un dispositivo (se sei un'azienda o un privato cittadino)\n- Se sei un docente, dirigente scolastico o amministratore locale, \u00e8 possibile richiedere dei dispositivi\n\nIl portale mette in comunicazione diretta donatori e riceventi."", ""Destinatari"": ""Insegnanti, scuole, amministratori locali, aziende e privati cittadini"", ""Link"": ""www.ognistudenteonline.org"", ""Natura"": ""didattica"", ""Titolo"": ""Ogni Studente Online""}","<pre><yamldata>
+Da_chi_offerta: Volontari
+Descrizione: 'In Italia il 14% delle famiglie con un minore a carico non ha un tablet
+  o PC, nonostante l’intero paese sia passato alla didattica a distanza.
+
+
+  Ognistudenteonline.org mette in contatto i possessori di laptop, tablet e modem
+  4G con chi ne ha veramente bisogno. Sul sito è possibile:
+
+
+  - Segnalare la propria disponibilità a donare un dispositivo (se sei un''azienda
+  o un privato cittadino)
+
+  - Se sei un docente, dirigente scolastico o amministratore locale, è possibile richiedere
+  dei dispositivi
+
+
+  Il portale mette in comunicazione diretta donatori e riceventi.'
+Destinatari: Insegnanti, scuole, amministratori locali, aziende e privati cittadini
+Link: www.ognistudenteonline.org
+Natura: didattica
+Titolo: Ogni Studente Online
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2463,600448382,2020-04-15 19:04:02,2020-04-15 16:57:03,"""A Buon Diritto"" Onlus offre consulenza telefonica a cittadini stranieri, richiedenti asilo e rifugiati #Roma",41.86612,12.54517,Lazio,Roma,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""A Buon Diritto Onlus offre supporto e informativa legale a cittadini stranieri, richiedenti asilo e rifugiati attraverso il numero telefonico su: domanda di protezione internazionale; permesso di soggiorno; diritto alle cure mediche; assegnazione bonus spesa del Comune di Roma; richiesta prestazioni assistenziali per emergenza Covid-19."", ""Email"": ""abuondiritto@abuondiritto.it"", ""Link"": ""https://www.abuondiritto.it/notizie/2020/notizia/il-numero-dello-sportello-di-buon-diritto-attivo-anche-durante-lemergenza-covid-19"", ""Orari"": ""LUNED\u00cc - MERCOLED\u00cc - VENERD\u00cc, 15.00 - 17.00"", ""Posizione"": ""41.86612 12.54517"", ""Telefono"": ""3519443368""}","<pre><yamldata>
 Descrizione: ""A Buon Diritto Onlus offre supporto e informativa legale a cittadini stranieri, richiedenti asilo e rifugiati attraverso il numero telefonico su: domanda di protezione internazionale; permesso di soggiorno; diritto alle cure mediche; assegnazione bonus spesa del Comune di Roma; richiesta prestazioni assistenziali per emergenza Covid-19.""
 Orari:  ""LUNEDÌ - MERCOLEDÌ - VENERDÌ, 15.00 - 17.00""
