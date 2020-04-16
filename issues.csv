@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2488,601309455,2020-04-16 18:34:17,2020-04-16 18:20:52,Asl4 #Chiavari #Genova offre servizio di sostegno psico-sociale a richiedenti asilo e rifugiati,44.31771,9.32241,Liguria,Genova,"[""Servizi e iniziative solidali pubbliche"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Asl 4 Chiavarese"", ""Descrizione"": ""Attivit\u00e0 di sostegno psico-sociale realizzate da un'equipe multidisciplinare (etnopsichiatra, psicologi, medico antropologo, mediatori culturali). Contatto telefonico: 0185 329784"", ""Destinatari"": ""Richiedenti Asilo/Rifugiati"", ""Natura"": ""solidale"", ""Posizione"": ""44.31771 9.32241"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Progetto FAMI""}","<pre><yamldata>
+Da_chi_offerta: Asl 4 Chiavarese
+Descrizione: 'Attività di sostegno psico-sociale realizzate da un''equipe multidisciplinare
+  (etnopsichiatra, psicologi, medico antropologo, mediatori culturali).
+  Contatto telefonico: 0185 329784'
+Destinatari: Richiedenti Asilo/Rifugiati
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Progetto FAMI
+Posizione: 44.31771 9.32241
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2487,601300872,2020-04-16 18:23:15,2020-04-16 18:11:17,Raccolta fondi di CPS Ong per l’Ospedale Loreto Mare di #Napoli e per supportare famiglie in difficoltà di #CastellammarediStabia,40.718737,14.482684,Campania,Napoli,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Emergenza Covid19"", ""Descrizione"": ""Per uscire dall\u2019emergenza coronavirus occorre lavorare tutti insieme. In linea con la nostra filosofia, \u201cpiccoli gesti per cambiare il mondo\u201d, noi sentiamo il dovere di fare la nostra parte,  pertanto, la CPS ha assunto la decisione di effettuare insieme ai suoi soci due donazioni: \n- all\u2019Ospedale Loreto Mare di Napoli per l\u2019acquisto di materiale di protezione (maschere, tute, caschi, ecc.).\n- alla Parrocchia Maria SS. del Carmine di Castellammare di Stabia per l\u2019acquisto di generi alimentari destinati alle famiglie in difficolt\u00e0. \nPer un\u2019azione ancora pi\u00f9 incisiva, la CPS chiama a raccolta tutti i sostenitori e gli amici affinch\u00e9 si aggiungano all\u2019iniziativa con un loro contributo personale, cos\u00ec da garantire maggiore protezione a chi \u00e8 impegnato in prima linea ed offrire un sostegno pi\u00f9 efficace a chi ha pi\u00f9 bisogno. I risultati della nostra donazione saranno pubblicati e aggiornati costantemente su questa pagina https://www.cps-ong.it"", ""Email"": ""info@cps-ong.it"", ""IBAN"": ""IT55V0200822102000005210390"", ""Link"": ""https://cps-ong.it/Contents/Page/EmergenzaCovid19"", ""Nome"": ""Cps ong"", ""Posizione"": ""40.718737 14.482684 0 0""}","<pre><yamldata>
 Causale: Emergenza Covid19
 Descrizione: ""Per uscire dall’emergenza coronavirus occorre lavorare tutti insieme.\
