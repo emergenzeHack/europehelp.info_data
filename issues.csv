@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2468,600559567,2020-04-16 07:38:49,2020-04-15 20:12:33,Riparte il Progetto Api ad Almaterra #Torino per donne o donne trans in difficoltà,45.090081,7.710063,Piemonte,Torino,"[""Bollettino"", ""Contatti utili"", ""Donazioni beni e offerte servizi"", ""Donne"", ""Servizi e iniziative solidali"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro interculturale delle donne Alma Mater"", ""Descrizione"": ""\ud83d\udc1dRiparte il Progetto Api ad Almaterra \ud83d\udc1d\n\nSei una donna o una donna trans in difficolt\u00e0?\n\n\ud83c\udf5d Dal luned\u00ec al venerd\u00ec a partire dalle 12.30 puoi venire a ritirare il pranzo nel nostro cortile. Ti consigliamo di arrivare prima, verso le 12, per metterti in coda.\n\n\u260e\ufe0fDal luned\u00ec al venerd\u00ec dalle 9 alle 13 puoi chiamarci al numero 371 4373551 e parlare con le nostre mediatrici."", ""Destinatari"": ""donne o trans in difficolt\u00e0"", ""Natura"": ""solidale"", ""Posizione"": ""45.090081 7.710063 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pranzi pronti  #Torino""}","<pre><yamldata>
+Da_chi_offerta: Centro interculturale delle donne Alma Mater
+Descrizione: '🐝Riparte il Progetto Api ad Almaterra 🐝
+
+
+  Sei una donna o una donna trans in difficoltà?
+
+
+  🍝 Dal lunedì al venerdì a partire dalle 12.30 puoi venire a ritirare il pranzo nel
+  nostro cortile. Ti consigliamo di arrivare prima, verso le 12, per metterti in coda.
+
+
+  ☎️Dal lunedì al venerdì dalle 9 alle 13 puoi chiamarci al numero 371 4373551 e parlare
+  con le nostre mediatrici.'
+Destinatari: donne o trans in difficoltà
+Natura: solidale
+Posizione: 45.090081 7.710063 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Pranzi pronti  #Torino'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2467,600556253,2020-04-16 07:36:06,2020-04-15 20:06:19,Ai Bagni Pubblici Via Agliè #Torino si raccolgono beni da distribuire a domicilio a famiglie in difficoltà,45.087941,7.692527,Piemonte,Torino,"[""Bollettino"", ""Consegne e commissioni"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Bagni Pubblici via Agli\u00e8"", ""Descrizione"": ""Ai Bagni Pubblici Via Agli\u00e8 \u00e8 partita la distribuzione a domicilio di pacchi viveri gratuiti per persone e famiglie in difficolt\u00e0.\n\nSe ci volete aiutare, il vostro dono sar\u00e0 ben gradito.\nSi raccolgono:\n-prodotti alimentari secchi (pasta, riso, latte a lunga conservazione, prodotti in scatola)\n- prodotti per la prima infanzia (latte in polvere, pannolini)\n- prodotti per la casa (detersivi in genere)\n\nSi pu\u00f2 donare:\n- direttamente presso i bagni pubblici, dal luned\u00ec al venerd\u00ec dalle 10.00 alle 14.00\n- scrivendo una mail a bagnipubblici@consorziokairos.org"", ""Destinatari"": ""persone e famiglie in difficolt\u00e0"", ""Natura"": ""solidale"", ""Posizione"": ""45.087941 7.692527 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""distribuzione a domicilio pacchi vivero #Torino""}","<pre><yamldata>
 Da_chi_offerta: Bagni Pubblici via Agliè
 Descrizione: 'Ai Bagni Pubblici Via Agliè è partita la distribuzione a domicilio di
