@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2512,601980795,2020-04-17 18:13:30,2020-04-17 13:34:59,"Università di #Messina organizza webinar su ""Legislazione di emergenza e diritti fondamentali"" 21/04/2020",,,tutte,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]","Milestone(title=""21 aprile"", number=5)",,"{""Da_chi_offerta"": ""Universit\u00e0 di Messina"", ""Descrizione"": ""Marted\u00ec 21 aprile 2020\n Ore 10.00\n Microsoft Teams  Codice studenti Unime: syxpabd\n\nProgramma\nSaluti\nProf. S. Cuzzocrea, Magnifico Rettore dell\u2019Universit\u00e0 di Messina\nCoordinano\nProf. A. Saitta, Ordinario di Diritto Costituzionale nell\u2019Universit\u00e0 di Messina\nProf. L. D\u2019Andrea, Ordinario di Diritto Costituzionale nell\u2019Universit\u00e0 di Messina\nRelazioni\nProf. M. Luciani, Ordinario di Istituzioni di Diritto Pubblico nell'Universit\u00e0 \u201cLa Sapienza\u201d di Roma\nProf. G. Silvestri, Presidente emerito della Corte costituzionale\n\n \u00c8 prevista l'attribuzione di 0.25 CFU agli studenti universitari."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.unime.it/it/dipartimenti/giurisprudenza/evidenza/legislazione-di-emergenza-e-diritti-fondamentali-webinar-su"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Webinar su \""Legislazione di emergenza e diritti fondamentali\"""", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Università di Messina
+Descrizione: ""Martedì 21 aprile 2020\n Ore 10.00\n Microsoft Teams  Codice studenti\
+  \ Unime: syxpabd\n\nProgramma\nSaluti\nProf. S. Cuzzocrea, Magnifico Rettore dell’Università\
+  \ di Messina\nCoordinano\nProf. A. Saitta, Ordinario di Diritto Costituzionale nell’Università\
+  \ di Messina\nProf. L. D’Andrea, Ordinario di Diritto Costituzionale nell’Università\
+  \ di Messina\nRelazioni\nProf. M. Luciani, Ordinario di Istituzioni di Diritto Pubblico\
+  \ nell'Università “La Sapienza” di Roma\nProf. G. Silvestri, Presidente emerito\
+  \ della Corte costituzionale\n\n È prevista l'attribuzione di 0.25 CFU agli studenti\
+  \ universitari.""
+Destinatari: Tutte e tutti
+Link: https://www.unime.it/it/dipartimenti/giurisprudenza/evidenza/legislazione-di-emergenza-e-diritti-fondamentali-webinar-su
+Natura: culturale-ricr
+Titolo: Webinar su ""Legislazione di emergenza e diritti fondamentali""
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2510,601957507,2020-04-17 17:55:02,2020-04-17 12:58:19,Coop. LESS attiva raccolta fondi per acquisto generi alimentari e farmaci a #Napoli,40.86221,14.26635,Campania,Napoli,"[""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""raccolta fondi attivata da LESS per acquisto generi alimentari e farmaci - servizio legata all'iniziativa del numero verde 800-119-477, destinato a persone in quarantena o in isolamento, anziani, persone non autosufficienti, persone sole e cittadini stranieri che hanno bisogno di aiuto per fronteggiare l\u2019emergenza CODIV_19"", ""Email"": ""less-onlus@hotmail.it"", ""IBAN"": ""IT83V0306909606100000047404"", ""Intestazione"": ""LESS COOP. SOCIALE ARL ETS"", ""Link"": ""https://www.facebook.com/less.onlus/photos/a.712876448786676/3611289142278711/?type=1&theater"", ""Nome"": ""LESS Cooperativa sociale ar.l. ETS"", ""Posizione"": ""40.86221 14.26635""}","<pre><yamldata>
 Descrizione: raccolta fondi attivata da LESS per acquisto generi alimentari e farmaci
   - servizio legata all'iniziativa del numero verde 800-119-477, destinato a persone
