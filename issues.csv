@@ -1,5 +1,89 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2504,601938699,2020-04-17 13:45:13,2020-04-17 12:24:33,Associazione Penelope attiva servizio di assistenza via whatsapp per familiari e caregiver di persone malate di Alzheimer #Calabria,39.0565974,16.5249864,Calabria,Catanzaro,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Penelope Calabria"", ""Descrizione"": ""Assistenza via whatsapp per familiari e caregiver che vivono con malati di Alzheimer."", ""Destinatari"": ""Familiari e caregiver con malati di Alzheimer"", ""Link"": ""https://www.facebook.com/alzheimercalabria/"", ""Posizione"": ""39.0565974 16.5249864"", ""Titolo"": ""Supporto via whatsapp per chi assiste malati di Alzheimer""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2506,601946284,2020-04-17 14:17:03,2020-04-17 12:38:18,"L'Ass. Naga svolge attività di informazione e supporto medico, psicologico, legale per cittadine e cittadini stranieri #Milano ",45.445046,9.179705,Lombardia,Milano,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Naga ODV"", ""Descrizione"": ""Attivit\u00e0 di informazione per cittadine e cittadini stranieri su permessi di soggiorno, dinieghi, chiusure delle questure e altro ancora: https://naga.it/2020/04/14/informazioni-importanti-per-cittadini-stranieri/\n\nCorona Virus: info e materiali utili https://naga.it/2020/04/17/corona-virus-info-e-materiali-utili/\n\nAttivit\u00e0 in questo momento operative:\n\nAmbulatorio medico:\norari in continuo aggiornamento a questo link https://naga.it/2020/04/06/naga-chiuso-lunedi-23-febbraio/\n\n\nSupporto psicologico:\nL\u2019assistenza sanitaria che offriamo non si esaurisce nella cura del corpo. Il contatto quotidiano e diretto con le cittadine e i cittadini stranieri ha reso evidente la necessit\u00e0 di strutturare anche al Naga un servizio di supporto psicologico legato all\u2019emergenza Covid19. Il servizio \u00e8 attivo a distanza. Per appuntamenti e modalit\u00e0, rivolgiti al Naga, al numero 0258102599.\n\nSportello Legale:\nLo sportello legale si occuper\u00e0 solo delle situazioni urgenti per le quali i recenti decreti non hanno determinato sospensive, ovvero i procedimenti di espulsione e rimpatrio e i dinieghi di protezione internazionale; per accedere scrivere all\u2019indirizzo naga.sportello.legale.2020@gmail.com indicando nome, cognome e numero di telefono e allegando i documenti, oppure telefonare al n\u00b0 0258102599 dal luned\u00ec al venerd\u00ec tra le 19 e le 21. A questo link le modalit\u00e0 di funzionamento tradotte in inglese, francese, spagnolo, arabo, cinese e russo\n\nSportello Immigrazione:\nLo sportello immigrazione, che si occupa di permessi di soggiorno, di cittadinanza e altre richieste, segue su appuntamento solo i casi urgenti e indifferibili; per accedere telefonare al n\u00b0 0258102599 durante gli orari di apertura dell\u2019ambulatorio.\n\nCentro Naga Har:\nIl Centro Naga Har per richiedenti asilo, rifugiati e vittime della tortura di via San Colombano \u00e8 chiuso per l\u2019emergenza Covid 19 ma puoi lo stesso parlare con noi volontari telefonando al N\u00b03274578315, dal luned\u00ec al venerd\u00ec, dalle ore 16 alle 18.\n\nGruppo carcere:\nIl Gruppo Carcere pu\u00f2 essere contattato dai familiari delle persone recluse per informazioni e comunicazioni sempre telefonando al n\u00b0 0258102599 durante gli orari di apertura dell\u2019ambulatorio per essere successivamente richiamati."", ""Destinatari"": ""Migranti, richiedenti asilo e rifugiati, rom e sinti"", ""Link"": ""www.naga.it"", ""Natura"": ""solidale"", ""Posizione"": ""45.445046 9.179705 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Organizzazione di volontariato per l\u2019Assistenza Socio \u2013 Sanitaria e per i Diritti di Cittadini Stranieri, Rom e Sinti""}","<pre><yamldata>
+Da_chi_offerta: Associazione Naga ODV
+Descrizione: 'Attività di informazione per cittadine e cittadini stranieri su permessi
+  di soggiorno, dinieghi, chiusure delle questure e altro ancora: https://naga.it/2020/04/14/informazioni-importanti-per-cittadini-stranieri/
+
+
+  Corona Virus: info e materiali utili https://naga.it/2020/04/17/corona-virus-info-e-materiali-utili/
+
+
+  Attività in questo momento operative:
+
+
+  Ambulatorio medico:
+
+  orari in continuo aggiornamento a questo link https://naga.it/2020/04/06/naga-chiuso-lunedi-23-febbraio/
+
+
+
+  Supporto psicologico:
+
+  L’assistenza sanitaria che offriamo non si esaurisce nella cura del corpo. Il contatto
+  quotidiano e diretto con le cittadine e i cittadini stranieri ha reso evidente la
+  necessità di strutturare anche al Naga un servizio di supporto psicologico legato
+  all’emergenza Covid19. Il servizio è attivo a distanza. Per appuntamenti e modalità,
+  rivolgiti al Naga, al numero 0258102599.
+
+
+  Sportello Legale:
+
+  Lo sportello legale si occuperà solo delle situazioni urgenti per le quali i recenti
+  decreti non hanno determinato sospensive, ovvero i procedimenti di espulsione e
+  rimpatrio e i dinieghi di protezione internazionale; per accedere scrivere all’indirizzo
+  naga.sportello.legale.2020@gmail.com indicando nome, cognome e numero di telefono
+  e allegando i documenti, oppure telefonare al n° 0258102599 dal lunedì al venerdì
+  tra le 19 e le 21. A questo link le modalità di funzionamento tradotte in inglese,
+  francese, spagnolo, arabo, cinese e russo
+
+
+  Sportello Immigrazione:
+
+  Lo sportello immigrazione, che si occupa di permessi di soggiorno, di cittadinanza
+  e altre richieste, segue su appuntamento solo i casi urgenti e indifferibili; per
+  accedere telefonare al n° 0258102599 durante gli orari di apertura dell’ambulatorio.
+
+
+  Centro Naga Har:
+
+  Il Centro Naga Har per richiedenti asilo, rifugiati e vittime della tortura di via
+  San Colombano è chiuso per l’emergenza Covid 19 ma puoi lo stesso parlare con noi
+  volontari telefonando al N°3274578315, dal lunedì al venerdì, dalle ore 16 alle
+  18.
+
+
+  Gruppo carcere:
+
+  Il Gruppo Carcere può essere contattato dai familiari delle persone recluse per
+  informazioni e comunicazioni sempre telefonando al n° 0258102599 durante gli orari
+  di apertura dell’ambulatorio per essere successivamente richiamati.'
+Destinatari: Migranti, richiedenti asilo e rifugiati, rom e sinti
+Link: www.naga.it
+Natura: solidale
+Posizione: 45.445046 9.179705 0 0
+Tipo_di_soggetto: privato
+Titolo: Organizzazione di volontariato per l’Assistenza Socio – Sanitaria e per i
+  Diritti di Cittadini Stranieri, Rom e Sinti
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2505,601938953,2020-04-17 14:17:03,2020-04-17 12:24:55,A #Roma Potere al Popolo consegna gratuitamente pacchi spesa a famiglie e persone in difficoltà economica ,41.8933203,12.4829321,Lazio,Roma,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Potere al Popolo Roma"", ""Descrizione"": ""A Roma Potere al Popolo! Sta consegnando gratuitamente pacchi spesa alle famiglie e alle persone con difficolt\u00e0 economiche, aumentate a causa dell\u2019epidemia e della chiusura nazionale delle attivit\u00e0 produttive. \nDopo aver attivato la consegna di spesa a domicilio all\u2019inizio dell'emergenza,  con i pacchi spesa gratuiti si \u00e8 fatto un\u2019ulteriore passo avanti. Gi\u00e0 in altre citt\u00e0 d\u2019Italia (da Torino a Napoli, da Livorno a Catania) Potere al Popolo sta consegnando pacchi alimentari gratuiti in grado di alleviare le necessit\u00e0 delle persone pi\u00f9 esposte alla crisi economica, il tutto nel pieno rispetto delle norme di sicurezza: gli attivisti volontari consegnano pacchi con mascherine e guanti, mantenendo le distanze di sicurezza e prendendo tutte le precauzioni necessarie."", ""Link"": ""https://www.facebook.com/watch/?v=2245663095470153"", ""Natura"": ""solidale"", ""Posizione"": ""41.8933203 12.4829321"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa Solidale""}","<pre><yamldata>
+Da_chi_offerta: Potere al Popolo Roma
+Descrizione: ""A Roma Potere al Popolo! Sta consegnando gratuitamente pacchi spesa\
+  \ alle famiglie e alle persone con difficoltà economiche, aumentate a causa dell’epidemia\
+  \ e della chiusura nazionale delle attività produttive. \nDopo aver attivato la\
+  \ consegna di spesa a domicilio all’inizio dell'emergenza,  con i pacchi spesa gratuiti\
+  \ si è fatto un’ulteriore passo avanti. Già in altre città d’Italia (da Torino a\
+  \ Napoli, da Livorno a Catania) Potere al Popolo sta consegnando pacchi alimentari\
+  \ gratuiti in grado di alleviare le necessità delle persone più esposte alla crisi\
+  \ economica, il tutto nel pieno rispetto delle norme di sicurezza: gli attivisti\
+  \ volontari consegnano pacchi con mascherine e guanti, mantenendo le distanze di\
+  \ sicurezza e prendendo tutte le precauzioni necessarie.""
+Link: https://www.facebook.com/watch/?v=2245663095470153
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Spesa Solidale
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2504,601938699,2020-04-17 14:14:51,2020-04-17 12:24:33,Associazione Penelope attiva servizio di assistenza via whatsapp per familiari e caregiver di persone malate di Alzheimer #Calabria,39.0565974,16.5249864,Calabria,Catanzaro,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Penelope Calabria"", ""Descrizione"": ""Assistenza via whatsapp per familiari e caregiver che vivono con malati di Alzheimer."", ""Destinatari"": ""Familiari e caregiver con malati di Alzheimer"", ""Link"": ""https://www.facebook.com/alzheimercalabria/"", ""Posizione"": ""39.0565974 16.5249864"", ""Titolo"": ""Supporto via whatsapp per chi assiste malati di Alzheimer""}","<pre><yamldata>
 Da_chi_offerta: Associazione Penelope Calabria
 Descrizione: Assistenza via whatsapp per familiari e caregiver che vivono con malati
   di Alzheimer.
