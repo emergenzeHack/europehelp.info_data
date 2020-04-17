@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2517,602053060,2020-04-17 20:33:00,2020-04-17 15:22:02,Casa dei Giovani Onlus offre consulenza sociale e supporto alle donne vittime di tratta #Palermo #Sicilia,38.143902,13.341545,Sicilia,Palermo,"[""Donne"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Casa dei Giovani Onlus -  Progetto Maddalena"", ""Descrizione"": ""La Casa dei Giovani Onlus, attraverso il progetto Maddalena, offre un servizio di consulenza sociale e legale telefonico; un servizio di reperimento di generi alimentari di prima necessit\u00e0 e di farmaci, per le donne vittime di tratta. Per info 333 5761835 progettomaddalena@virgilio.it"", ""Destinatari"": ""Donne immigrate vittime di tratta"", ""Link"": ""http://www.casadeigiovani.it/vecchiosito/maddalena.html"", ""Natura"": ""solidale"", ""Posizione"": ""38.143902 13.341545 0 65"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di Consulenza legale e sociale; reperimento  generi alimentari di prima necessita, e di farmaci.""}","<pre><yamldata>
+Da_chi_offerta: Casa dei Giovani Onlus -  Progetto Maddalena
+Descrizione: La Casa dei Giovani Onlus, attraverso il progetto Maddalena, offre un
+  servizio di consulenza sociale e legale telefonico; un servizio di reperimento di
+  generi alimentari di prima necessità e di farmaci, per le donne vittime di tratta.
+  Per info 333 5761835 progettomaddalena@virgilio.it
+Destinatari: Donne immigrate vittime di tratta
+Link: http://www.casadeigiovani.it/vecchiosito/maddalena.html
+Natura: solidale
+Posizione: 38.143902 13.341545 0 65
+Tipo_di_soggetto: privato
+Titolo: Servizio di Consulenza legale e sociale; reperimento  generi alimentari di
+  prima necessita, e di farmaci.
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2516,602046346,2020-04-17 20:21:10,2020-04-17 15:11:52,"Trame di Quartiere, Officina Rebelde e quartiere di San Berillo raccolgono fondi per gli abitanti in difficoltà #Catania #Sicilia",37.504994,15.090559,Sicilia,Catania,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Insieme ad  Officina Rebelde Catania e gli abitanti del quartiere di San Berillo, Trame di Quartiere abbiamo avviato una raccolta fondi per contrastare l' emergenza e provvedere ai bisogni primari degli abitanti in difficolt\u00e0 a causa della pandemia Covid19."", ""Link"": ""https://www.tramediquartiere.org/faiunadonazione/?fbclid=IwAR1GTquOI8gQCGZedO8_GMb_A_IAULNJb87PfaEdjsFEerziWjEDD6i1kuk"", ""Nome"": ""Trame di Quartiere"", ""Posizione"": ""37.504994 15.090559 0 0""}","<pre><yamldata>
 Descrizione: Insieme ad  Officina Rebelde Catania e gli abitanti del quartiere di
   San Berillo, Trame di Quartiere abbiamo avviato una raccolta fondi per contrastare
