@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2518,602053796,2020-04-17 20:36:34,2020-04-17 15:23:14,Servizio sanitario per richiedenti e titolari di protezione internazionale e nazionale #Roma #Lazio,,,,,"[""Contatti utili"", ""Servizi e iniziative solidali"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Email"": ""samifo@aslroma1.it"", ""Indirizzo"": ""41.892125 12.509855 0 0"", ""Link"": ""www.aslroma1.it"", ""Nome"": ""UOSD Centro SAMIFO - ASL Roma1"", ""Scopo"": ""Il nostro \u00e8 un servizio sanitario a valenza regionale per richiedenti e titolari di protezione internazionale e nazionale. Offriamo servizi di accoglienza e orientamento sociosanitario, mediazione linguistico-culturale stabile, medicina generale, psichiatria,  psicologia, ginecologia, ostetricia, ortopedia, medicina legale. Nel periodo di lockdown per COVID 19 abbiamo integrato anche consulenze o mediazioni telefoniche, via mail o videochiamata per utenti e operatori dei centri di accoglienza."", ""Telefono"": ""0677307555""}","<pre><yamldata>
+Email: samifo@aslroma1.it
+Indirizzo: 41.892125 12.509855 0 0
+Link: www.aslroma1.it
+Nome: UOSD Centro SAMIFO - ASL Roma1
+Scopo: Il nostro è un servizio sanitario a valenza regionale per richiedenti e titolari
+  di protezione internazionale e nazionale. Offriamo servizi di accoglienza e orientamento
+  sociosanitario, mediazione linguistico-culturale stabile, medicina generale, psichiatria,  psicologia,
+  ginecologia, ostetricia, ortopedia, medicina legale. Nel periodo di lockdown per
+  COVID 19 abbiamo integrato anche consulenze o mediazioni telefoniche, via mail o
+  videochiamata per utenti e operatori dei centri di accoglienza.
+Telefono: '0677307555'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2517,602053060,2020-04-17 20:33:00,2020-04-17 15:22:02,Casa dei Giovani Onlus offre consulenza sociale e supporto alle donne vittime di tratta #Palermo #Sicilia,38.143902,13.341545,Sicilia,Palermo,"[""Donne"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Casa dei Giovani Onlus -  Progetto Maddalena"", ""Descrizione"": ""La Casa dei Giovani Onlus, attraverso il progetto Maddalena, offre un servizio di consulenza sociale e legale telefonico; un servizio di reperimento di generi alimentari di prima necessit\u00e0 e di farmaci, per le donne vittime di tratta. Per info 333 5761835 progettomaddalena@virgilio.it"", ""Destinatari"": ""Donne immigrate vittime di tratta"", ""Link"": ""http://www.casadeigiovani.it/vecchiosito/maddalena.html"", ""Natura"": ""solidale"", ""Posizione"": ""38.143902 13.341545 0 65"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di Consulenza legale e sociale; reperimento  generi alimentari di prima necessita, e di farmaci.""}","<pre><yamldata>
 Da_chi_offerta: Casa dei Giovani Onlus -  Progetto Maddalena
 Descrizione: La Casa dei Giovani Onlus, attraverso il progetto Maddalena, offre un
