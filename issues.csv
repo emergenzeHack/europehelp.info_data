@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2496,601854239,2020-04-17 10:09:57,2020-04-17 10:03:19,"#RadioKivuli: un canale che offre podcast scritti e realizzati da giovani attivisti ActionAid, con contenuti di approfondimento e inchieste ",,,tutte,,"[""Attivita culturali e ricreative"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""network attivisti ActionAid"", ""Descrizione"": ""Un canale che offre podcast scritti e realizzati da giovani attivisti, con contenuti di approfondimento, inchiesta su tematiche di rilevanza globale e intrattenimento. Il nome della radio in lingua swahili significa rifugio, ed \u00e8 stata scelta proprio perch\u00e9 i programmi vogliono essere un punto di riferimento presso cui rifugiarsi, anche se per poche ore alla settimana, e condividere le proprie passioni, approfondirle, e in qualche modo trovare sollievo da queste giornate e combattere lo sconforto."", ""Destinatari"": ""bambini, giovani, adulti"", ""Link"": ""https://www.spreaker.com/user/radiokivuli"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Radio Kivuli"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: network attivisti ActionAid
+Descrizione: Un canale che offre podcast scritti e realizzati da giovani attivisti,
+  con contenuti di approfondimento, inchiesta su tematiche di rilevanza globale e
+  intrattenimento. Il nome della radio in lingua swahili significa rifugio, ed è stata
+  scelta proprio perché i programmi vogliono essere un punto di riferimento presso
+  cui rifugiarsi, anche se per poche ore alla settimana, e condividere le proprie
+  passioni, approfondirle, e in qualche modo trovare sollievo da queste giornate e
+  combattere lo sconforto.
+Destinatari: bambini, giovani, adulti
+Link: https://www.spreaker.com/user/radiokivuli
+Natura: culturale-ricr
+Titolo: Radio Kivuli
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2495,601818254,2020-04-17 09:46:23,2020-04-17 09:03:39,"Istituto Superiore di Sanità: pubblicato bollettino ""Sorveglianza integrata epidemia Covid-19"" aggiornato al 16 aprile 2020",41.90595,12.514973,Lazio,Roma,"[""Bollettino"", ""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Bollettino  Istituto Superiore di Sanit\u00e0 (ISS) pubblicato il 17/04/2020"", ""Descrizione"": ""Il bollettino descrive, con grafici, mappe e tabelle la diffusione, nel tempo e nello spazio, dell\u2019epidemia di COVID-19 in Italia. Fornisce, inoltre, una descrizione delle caratteristiche delle persone affette.\nI dati vengono raccolti attraverso una piattaforma web dedicata e riguardano tutti i casi di COVID-19 diagnosticati dai laboratori di riferimento regionali. I dati vengono aggiornati giornalmente da ciascuna Regione anche se alcune informazioni possono richiedere qualche giorno per il loro inserimento."", ""Fonte"": ""Dati microbiologici ed epidemiologici"", ""Link"": ""https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf"", ""Posizione"": ""41.90595 12.514973 0 0""}","<pre><yamldata>
 Cosa: Bollettino  Istituto Superiore di Sanità (ISS) pubblicato il 17/04/2020
 Descrizione: 'Il bollettino descrive, con grafici, mappe e tabelle la diffusione,
