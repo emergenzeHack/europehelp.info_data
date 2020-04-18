@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2523,602407368,2020-04-18 12:11:27,2020-04-18 08:21:51,Servizio di spesa e condegna farmaci a domicilio Municipio 3 #Milano,45.4691,9.249458,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""SOS Lambrate Aiuta"", ""Descrizione"": ""Offriamo servizio spesa e consegna farmaci a domicilio per persone over65, o con disabilit\u00e0 o malati cronici.\nSe hai bisogno chiamaci dal luned\u00ec al sabato dalle ore 10 alle 18 al numero: 3407213798"", ""Destinatari"": ""Abitanti Municipio 3 Milano over 65 o con disabilit\u00e0"", ""Natura"": ""solidale"", ""Posizione"": ""45.4691 9.249458 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di spesa a domicilio Municipio 3 #Milano""}","<pre><yamldata>
+Da_chi_offerta: SOS Lambrate Aiuta
+Descrizione: 'Offriamo servizio spesa e consegna farmaci a domicilio per persone over65,
+  o con disabilità o malati cronici.
+
+  Se hai bisogno chiamaci dal lunedì al sabato dalle ore 10 alle 18 al numero: 3407213798'
+Destinatari: Abitanti Municipio 3 Milano over 65 o con disabilità
+Natura: solidale
+Posizione: 45.4691 9.249458 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Servizio di spesa a domicilio Municipio 3 #Milano'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2520,602125100,2020-04-17 20:56:00,2020-04-17 17:25:29,Arci: misure di sostegno Cura Italia in 7 lingue per i cittadini stranieri #Campania,40.679544,14.753928,Campania,Salerno,"[""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci - Fuoritratta"", ""Descrizione"": ""Il progetto \u201cFuori Tratta\u201d prevede delle azioni per l\u2019emersione, l\u2019assistenza e l\u2019integrazione sociale rivolte alle vittime di tratta e grave sfruttamento in ambito sessuale, lavorativo e nello svolgimento di attivit\u00e0 illegali e di accattonaggio.\nAbbiamo realizzato 7 brevi video in lingue diverse per diffondere informazioni e offrire supporto online. \nSi parla di buono spesa, pacco alimentare e permesso di soggiorno. Chi ne ha bisogno pu\u00f2 contattare i referenti del progetto sul territorio campano:\n\n    Avellino \u2013 3512485022\n    Caserta \u2013 3511858488\n    Salerno \u2013 3510651627"", ""Destinatari"": ""migranti in stato di necessit\u00e0 e sfruttamento"", ""Link"": ""https://lnx.arcicampania.net/2020/04/14/cura-italia-le-misure-di-sostegno-in-7-lingue-per-i-cittadini-stranieri/"", ""Natura"": ""solidale"", ""Posizione"": ""40.679544 14.753928 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuti in 5 lingue per vittime di tratta e sfruttamento""}","<pre><yamldata>
 Da_chi_offerta: Arci - Fuoritratta
 Descrizione: ""Il progetto “Fuori Tratta” prevede delle azioni per l’emersione, l’assistenza\
