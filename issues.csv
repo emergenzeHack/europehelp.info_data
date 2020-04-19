@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2524,602417199,2020-04-19 11:00:41,2020-04-18 09:17:30,Dipartimento SPPEFF Università di #Palermo attiva servizio per la salute psichica in emergenza COVID19,38.103406,13.348292,Sicilia,Palermo,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Servizio di Psicologia (SdP)-Dipartimento SPPEFF dell\u2019Universit\u00e0 degli Studi #Palermo"", ""Descrizione"": ""Interventi per la salute psichica in emergenza sanitaria per il COVID-19\n\nPresentazione\n\nIl Servizio di Psicologia (SdP) del Dipartimento SPPEFF dell\u2019Universit\u00e0 degli Studi Palermo durante l\u2019emergenza sanitaria causata della diffusione del COVID-19, propone un\u2019azione di public  \nengagement mirata a mettere a disposizione della cittadinanza la professionalit\u00e0 e le competenze degli psicologi e degli psicoterapeuti che compongono lo staff del servizio.\n\nLe condizioni restrittive imposte a tutela della salute della cittadinanza, stanno facendo emergere una condizione di disagio e distress psicologico diffuso caratterizzato da ansia, stress, confusione, rabbia, disturbi del sonno e altre importanti sintomatologie. I cambiamenti nella vita quotidiana e la radicale  \nmodifica delle abitudini, oltre alla paura del contagio dal COVID-19, e la condizione costrittiva di \u201crimanere a casa\u201d dentro una gestione a volte difficile delle relazioni familiari, possono diventare  \nimportanti fattori di rischio per la salute psichica e per il benessere soggettivo.\n\nLe rigide disposizioni governative possono, inoltre, essere particolarmente gravose per le famiglie di persone portatrici di particolari condizioni e problemi pregressi alla pandemia quali soggetti con patologie somatiche o problemi psicologici, minori con disturbi dello sviluppo o comportamentali, anziani con particolari fragilit\u00e0, persone che necessitano di supporto domiciliare, personale sanitario. In queste famiglie, durante questo momento di estremo disagio, i sentimenti di frustrazione, di inadeguatezza, di sconforto, di abbandono rischiano di prendere il sopravvento e il venir meno degli aiuti riservati ai caregiver pu\u00f2 alla lunga prosciugare le loro risorse in quanto la gestione del paziente dipende totalmente dal suo familiare, con ricadute importanti sulla salute sia dei caregivers che dei malati stessi.\n\nPer fare fronte a queste difficolt\u00e0 diffuse, il SdP propone tre interventi gratuiti di supporto psicologico.\nI destinatari potranno accedere direttamente al servizio attraverso una linea dedicata in cui sar\u00e0 possibile concordare un primo appuntamento o potranno essere indirizzati da tutti i Servizi pubblici che svolgono un intervento di supporto psicologico telefonico.\n\nContatti / Orari\nIl numero telefonico \u00e8: 091 238 97788\n\nE\u2019 possibile prenotare un primo appuntamento nei giorni (esclusi i festivi):\n\nLuned\u00ec \u2013 Marted\u00ec \u2013 Gioved\u00ec \u2013 Venerd\u00ec dalle ore 10,00 alle 12,30\n\nLuned\u00ec e Mercoled\u00ec dalle ore 16,00 alle ore 18,30"", ""Destinatari"": ""famiglie,minori con disturbi dello sviluppo o comportamentali, anziani con particolari fragilit\u00e0, persone che necessitano di supporto domiciliare, personale sanitario"", ""Link"": ""https://www.unipa.it/dipartimenti/sc.psicol.pedag.edellaformazione/Terza-Missione/servizio-di-psicologia/emergenza-covid-19"", ""Natura"": ""solidale"", ""Posizione"": ""38.103406 13.348292 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Universit\u00e0 di #Palermo - Interventi per la #salute psichica in emergenza sanitaria per il #COVID19""}","<pre><yamldata>
+Da_chi_offerta: 'Servizio di Psicologia (SdP)-Dipartimento SPPEFF dell’Università
+  degli Studi #Palermo'
+Descrizione: ""Interventi per la salute psichica in emergenza sanitaria per il COVID-19\n\
+  \nPresentazione\n\nIl Servizio di Psicologia (SdP) del Dipartimento SPPEFF dell’Università\
+  \ degli Studi Palermo durante l’emergenza sanitaria causata della diffusione del\
+  \ COVID-19, propone un’azione di public  \nengagement mirata a mettere a disposizione\
+  \ della cittadinanza la professionalità e le competenze degli psicologi e degli\
+  \ psicoterapeuti che compongono lo staff del servizio.\n\nLe condizioni restrittive\
+  \ imposte a tutela della salute della cittadinanza, stanno facendo emergere una\
+  \ condizione di disagio e distress psicologico diffuso caratterizzato da ansia,\
+  \ stress, confusione, rabbia, disturbi del sonno e altre importanti sintomatologie.\
+  \ I cambiamenti nella vita quotidiana e la radicale  \nmodifica delle abitudini,\
+  \ oltre alla paura del contagio dal COVID-19, e la condizione costrittiva di “rimanere\
+  \ a casa” dentro una gestione a volte difficile delle relazioni familiari, possono\
+  \ diventare  \nimportanti fattori di rischio per la salute psichica e per il benessere\
+  \ soggettivo.\n\nLe rigide disposizioni governative possono, inoltre, essere particolarmente\
+  \ gravose per le famiglie di persone portatrici di particolari condizioni e problemi\
+  \ pregressi alla pandemia quali soggetti con patologie somatiche o problemi psicologici,\
+  \ minori con disturbi dello sviluppo o comportamentali, anziani con particolari\
+  \ fragilità, persone che necessitano di supporto domiciliare, personale sanitario.\
+  \ In queste famiglie, durante questo momento di estremo disagio, i sentimenti di\
+  \ frustrazione, di inadeguatezza, di sconforto, di abbandono rischiano di prendere\
+  \ il sopravvento e il venir meno degli aiuti riservati ai caregiver può alla lunga\
+  \ prosciugare le loro risorse in quanto la gestione del paziente dipende totalmente\
+  \ dal suo familiare, con ricadute importanti sulla salute sia dei caregivers che\
+  \ dei malati stessi.\n\nPer fare fronte a queste difficoltà diffuse, il SdP propone\
+  \ tre interventi gratuiti di supporto psicologico.\nI destinatari potranno accedere\
+  \ direttamente al servizio attraverso una linea dedicata in cui sarà possibile concordare\
+  \ un primo appuntamento o potranno essere indirizzati da tutti i Servizi pubblici\
+  \ che svolgono un intervento di supporto psicologico telefonico.\n\nContatti / Orari\n\
+  Il numero telefonico è: 091 238 97788\n\nE’ possibile prenotare un primo appuntamento\
+  \ nei giorni (esclusi i festivi):\n\nLunedì – Martedì – Giovedì – Venerdì dalle\
+  \ ore 10,00 alle 12,30\n\nLunedì e Mercoledì dalle ore 16,00 alle ore 18,30""
+Destinatari: famiglie,minori con disturbi dello sviluppo o comportamentali, anziani
+  con particolari fragilità, persone che necessitano di supporto domiciliare, personale
+  sanitario
+Link: https://www.unipa.it/dipartimenti/sc.psicol.pedag.edellaformazione/Terza-Missione/servizio-di-psicologia/emergenza-covid-19
+Natura: solidale
+Posizione: 38.103406 13.348292 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Università di #Palermo - Interventi per la #salute psichica in emergenza
+  sanitaria per il #COVID19'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2523,602407368,2020-04-19 10:58:21,2020-04-18 08:21:51,Servizio di spesa e condegna farmaci a domicilio Municipio 3 #Milano,45.4691,9.249458,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""SOS Lambrate Aiuta"", ""Descrizione"": ""Offriamo servizio spesa e consegna farmaci a domicilio per persone over65, o con disabilit\u00e0 o malati cronici.\nSe hai bisogno chiamaci dal luned\u00ec al sabato dalle ore 10 alle 18 al numero: 3407213798"", ""Destinatari"": ""Abitanti Municipio 3 Milano over 65 o con disabilit\u00e0"", ""Natura"": ""solidale"", ""Posizione"": ""45.4691 9.249458 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di spesa a domicilio Municipio 3 #Milano""}","<pre><yamldata>
 Da_chi_offerta: SOS Lambrate Aiuta
 Descrizione: 'Offriamo servizio spesa e consegna farmaci a domicilio per persone over65,
