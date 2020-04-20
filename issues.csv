@@ -1,4 +1,31 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2538,603082808,2020-04-20 10:04:59,2020-04-20 09:24:01,Online le lezioni di docenti e ricercatori della Scuola Superiore Sant’Anna di #Pisa ,43.720618,10.402647,Toscana,Pisa,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Pisa Scuola Superiore Sant\u2019Anna"", ""Descrizione"": ""Le lezioni del catalogo online - tenute da docenti e ricercatori di Scuola Superiore Sant\u2019Anna e delle federate Scuola Normale Superiore e Scuola Universitaria Superiore IUSS Pavia - erano parte del programma di orientamento, un percorso strutturato in lezioni universitarie, dibattiti e laboratori di orientamento, in vista della scelta degli studi universitari\n\nOggi possono essere uno strumento efficace per integrare la didattica online e anche per animare il dibattito nelle classi virtuali della \u201cdidattica a distanza\u201d, in maniera interattiva.\n\nTroverete [ https://www.santannapisa.it/it/impara-con-noi-sessioni-didattiche-line] 60 video con altrettante lezioni, sessioni didattiche, approfondimenti di carattere interdisciplinare, per un totale di circa 80 ore, dedicati a oltre 20 temi di attualit\u00e0 e impatto, che oscillano dal clima, al terrorismo, alla salute e all\u2019innovazione, alla mente e alla tecnologia, presentati mettendo a confronto discipline diverse, dalle scienze sperimentali alle scienze sociali"", ""Destinatari"": ""insegnanti e studenti di scuola media superiore"", ""Link"": ""https://www.mastermepa.santannapisa.it/it/news/impara-con-le-nostre-sessioni-di-didattica-online-il-contributo-della-scuola-santanna-docenti-e"", ""Natura"": ""didattica"", ""Posizione"": ""43.720618 10.402647 0 0"", ""Titolo"": ""Tavole rotonde su temi d'attualit\u00e0 alla Scuola Universitaria Superiore Sant\u2019Anna - lezioni on line -""}","<pre><yamldata>
+Da_chi_offerta: Pisa Scuola Superiore Sant’Anna
+Descrizione: 'Le lezioni del catalogo online - tenute da docenti e ricercatori di
+  Scuola Superiore Sant’Anna e delle federate Scuola Normale Superiore e Scuola Universitaria
+  Superiore IUSS Pavia - erano parte del programma di orientamento, un percorso strutturato
+  in lezioni universitarie, dibattiti e laboratori di orientamento, in vista della
+  scelta degli studi universitari
+
+
+  Oggi possono essere uno strumento efficace per integrare la didattica online e anche
+  per animare il dibattito nelle classi virtuali della “didattica a distanza”, in
+  maniera interattiva.
+
+
+  Troverete [ https://www.santannapisa.it/it/impara-con-noi-sessioni-didattiche-line]
+  60 video con altrettante lezioni, sessioni didattiche, approfondimenti di carattere
+  interdisciplinare, per un totale di circa 80 ore, dedicati a oltre 20 temi di attualità
+  e impatto, che oscillano dal clima, al terrorismo, alla salute e all’innovazione,
+  alla mente e alla tecnologia, presentati mettendo a confronto discipline diverse,
+  dalle scienze sperimentali alle scienze sociali'
+Destinatari: insegnanti e studenti di scuola media superiore
+Link: https://www.mastermepa.santannapisa.it/it/news/impara-con-le-nostre-sessioni-di-didattica-online-il-contributo-della-scuola-santanna-docenti-e
+Natura: didattica
+Posizione: 43.720618 10.402647 0 0
+Titolo: Tavole rotonde su temi d'attualità alla Scuola Universitaria Superiore Sant’Anna
+  - lezioni on line -
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2537,603052374,2020-04-20 10:02:36,2020-04-20 08:40:41,Centro Interculturale Aiuto e Orientamento di Siracusa offre assistenza legale e supporto a distanza,,,,,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Email"": ""ciao@maristimediterranea.com"", ""Indirizzo"": ""37.075632 15.310822 0 0"", ""Link"": ""www.maristi.it/ciao"", ""Nome"": ""Centro Interculturale di Aiuto ed Orientamento"", ""Scopo"": ""Il Centro \u00e8 chiuso ma il C.I.A.O. non si ferma!\nHai bisogno di aiuto, orientamento o di assistenza legale a Siracusa? Contattaci!\n- Invia una mail a ciao@maristimediterranea.com\n- Su Whatsapp al 349 640 8846\n- Chiamando il nostro legale al 347 347 0188\n- Su Facebook (facebook.com/ciaomaristisiracusa) o Instagram (ciao.maristi.siracusa)"", ""Telefono"": ""09311563964""}","<pre><yamldata>
 Email: ciao@maristimediterranea.com
 Indirizzo: 37.075632 15.310822 0 0
@@ -18355,18 +18382,6 @@ Intestazione: Azienda ospedaliera Santa Croce e Carle
 Link: http://www.ospedale.cuneo.it/index.php?id=1130
 Nome: Azienda ospedaliera Santa Croce e Carle
 Posizione: 44.43648 7.57497
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/810,584294164,2020-03-23 21:05:46,2020-03-19 10:00:50,Raccolta fondi Ospedali Azienda Sanitaria Locale CN1 #Cuneo,44.45807,7.55814,Piemonte,Cuneo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOP IT 22"", ""Causale"": ""DONAZIONE COVID-19 seguito da cognome, nome e codice fiscale del benefattore"", ""Descrizione"": ""Raccolta fondi per affrontare l'emergenza Covid-19 negli ospedali di: Savigliano, Saluzzo, Fossano, Mondov\u00ec e Ceva"", ""Email"": ""ufficio.stampa@aslcn1.it"", ""IBAN"": ""IT40K0311110201000000032341"", ""Intestazione"": ""Azienda sanitaria locale Cn1"", ""Link"": ""http://www.aslcn1.it/index.php?id=10228"", ""Nome"": ""Azienda sanitaria locale Cn1"", ""Posizione"": ""44.45807 7.55814 0 0""}","<pre><yamldata>
-BIC_SWIFT: BLOP IT 22
-Causale: DONAZIONE COVID-19 seguito da cognome, nome e codice fiscale del benefattore
-Descrizione: 'Raccolta fondi per affrontare l''emergenza Covid-19 negli ospedali di:
-  Savigliano, Saluzzo, Fossano, Mondovì e Ceva'
-Email: ufficio.stampa@aslcn1.it
-IBAN: IT40K0311110201000000032341
-Intestazione: Azienda sanitaria locale Cn1
-Link: http://www.aslcn1.it/index.php?id=10228
-Nome: Azienda sanitaria locale Cn1
-Posizione: 44.45807 7.55814 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/810,584294164,2020-03-23 21:05:46,2020-03-19 10:00:50,Raccolta fondi Ospedali Azienda Sanitaria Locale CN1 #Cuneo,44.45807,7.55814,Piemonte,Cuneo,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOP IT 22"", ""Causale"": ""DONAZIONE COVID-19 seguito da cognome, nome e codice fiscale del benefattore"", ""Descrizione"": ""Raccolta fondi per affrontare l'emergenza Covid-19 negli ospedali di: Savigliano, Saluzzo, Fossano, Mondov\u00ec e Ceva"", ""Email"": ""ufficio.stampa@aslcn1.it"", ""IBAN"": ""IT40K0311110201000000032341"", ""Intestazione"": ""Azienda sanitaria locale Cn1"", ""Link"": ""http://www.aslcn1.it/index.php?id=10228"", ""Nome"": ""Azienda sanitaria locale Cn1"", ""Posizione"": ""44.45807 7.55814 0 0""}","<pre><yamldata>
 BIC_SWIFT: BLOP IT 22
