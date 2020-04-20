@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2547,603194482,2020-04-20 16:09:12,2020-04-20 12:18:51,Checklist per le strutture socio-sanitarie per autovalutazione monitoraggio azioni prevenzione Covid,,,tutte,,"[""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""RSA: check list della Regione Toscana monitoraggio Covid"", ""Descrizione"": ""Checklist per le strutture socio-sanitarie per autovalutazione monitoraggio azioni prevenzione Covid 19\n(Tradotto e riadattato da \""COVID-19 Preparedness Checklist for Nursing Homes and other Long-Term Care Settings\"" Centers for Disease Control and Prevention https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care.html )"", ""Fonte"": ""Regione Toscana - ARS"", ""Link"": ""https://www.regione.toscana.it/documents/10180/24263283/COVID-19-14042020_checklist.pdf/75ed8cf8-d946-dc5f-607a-b2b6e6b97b28?t=1586953581370"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Cosa: 'RSA: check list della Regione Toscana monitoraggio Covid'
+Descrizione: 'Checklist per le strutture socio-sanitarie per autovalutazione monitoraggio
+  azioni prevenzione Covid 19
+
+  (Tradotto e riadattato da ""COVID-19 Preparedness Checklist for Nursing Homes and
+  other Long-Term Care Settings"" Centers for Disease Control and Prevention https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care.html
+  )'
+Fonte: Regione Toscana - ARS
+Link: https://www.regione.toscana.it/documents/10180/24263283/COVID-19-14042020_checklist.pdf/75ed8cf8-d946-dc5f-607a-b2b6e6b97b28?t=1586953581370
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2546,603143551,2020-04-20 13:04:00,2020-04-20 10:54:33,Centri diurni per disabili chiusi: Istituto Serafico #Assisi ha attivato un numero verde per famiglie ,43.068713,12.622307,Umbria,Perugia,"[""Bollettino"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Serafico - Assisi (PG)"", ""Descrizione"": ""L'Istituto Serafico ha attivato un numero verde attraverso il quale un'equipe multidisciplinare di medici e professionisti potr\u00e0 rispondere alle richieste dei genitori in difficolt\u00e0\n\nLe famiglie di persone con disabilit\u00e0 si stanno trovano a combattere,  in questi giorni di pandemia, una emergenza nella emergenza: le conseguenze dello stop e della sospensione di tutte le attivit\u00e0 e i servizi a supporto, come la chiusura dei centri diurni.\n\nPer parlare con gli esperti del Serafico baster\u00e0 contattare il numero verde 800 090 122, che sar\u00e0 attivo dal luned\u00ec al venerd\u00ec, dalle 15 alle 17 (eccetto festivi)."", ""Destinatari"": ""Famiglie con disabili"", ""Link"": ""https://www.disabili.com/aiuto/articoli-qaiutoq/centri-diurni-per-persone-disabili-chiusi-attivato-un-numero-verde-per-famiglie"", ""Natura"": ""solidale"", ""Posizione"": ""43.068713 12.622307 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centri diurni per disabili chiusi: attivato un numero verde per famiglie""}","<pre><yamldata>
 Da_chi_offerta: Istituto Serafico - Assisi (PG)
 Descrizione: 'L''Istituto Serafico ha attivato un numero verde attraverso il quale
