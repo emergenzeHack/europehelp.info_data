@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2534,602850037,2020-04-20 09:56:56,2020-04-19 23:25:30,"Coronavirus, possibile l’acquisto di hardware con la Carta del docente fino al 31 luglio",,,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Miur"", ""Descrizione"": ""\u00c8 stato prorogato fino al 31 luglio 2020 il termine entro il quale sar\u00e0 possibile acquistare con la Carta del docente anche webcam e microfoni, penne touch screen, scanner e hotspot portatili. Lo rende noto la Ministra dell\u2019Istruzione Lucia Azzolina. L\u2019ampliamento del pacchetto dei dispositivi acquistabili con la Carta, finalizzato all\u2019aggiornamento professionale dei docenti per organizzare la didattica a distanza, era stato annunciato a marzo dalla Ministra. Gli acquisti ora potranno proseguire fino a fine luglio. Sul sito della Carta, le FAQ aggiornate relative ai beni acquistabili."", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.miur.gov.it/web/guest/-/coronavirus-possibile-l-acquisto-di-hardware-con-la-carta-del-docente-fino-al-31-luglio"", ""Natura"": ""didattica"", ""Titolo"": ""Coronavirus, possibile l\u2019acquisto di hardware con la Carta del docente fino al 31 luglio""}","<pre><yamldata>
+Da_chi_offerta: Miur
+Descrizione: 'È stato prorogato fino al 31 luglio 2020 il termine entro il quale sarà
+  possibile acquistare con la Carta del docente anche webcam e microfoni, penne touch
+  screen, scanner e hotspot portatili. Lo rende noto la Ministra dell’Istruzione Lucia
+  Azzolina.
+  L’ampliamento del pacchetto dei dispositivi acquistabili con la Carta, finalizzato
+  all’aggiornamento professionale dei docenti per organizzare la didattica a distanza,
+  era stato annunciato a marzo dalla Ministra. Gli acquisti ora potranno proseguire
+  fino a fine luglio.
+  Sul sito della Carta, le FAQ aggiornate relative ai beni acquistabili.'
+Destinatari: Docenti
+Link: https://www.miur.gov.it/web/guest/-/coronavirus-possibile-l-acquisto-di-hardware-con-la-carta-del-docente-fino-al-31-luglio
+Natura: didattica
+Titolo: Coronavirus, possibile l’acquisto di hardware con la Carta del docente fino
+  al 31 luglio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2533,602827704,2020-04-20 09:55:50,2020-04-19 21:43:52,Nel quartiere Feltre a #Milano è attiva la “spesa sospesa”,45.508272,9.24684,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozianti e cittadini di Milano - Quartiere Feltre"", ""Descrizione"": ""Siamo lieti di comunicarvi che abbiamo attivato il servizio di spesa sospesa nel quartiere Feltre. Chiunque vada a fare la spesa negli esercizi aderenti e vuole dare una mano pu\u00f2 segnalarlo al negoziante e acquistare prodotti che verranno messi a disposizione in uno spazio dedicato per chi ne ha bisogno. \nChi si trova in difficolt\u00e0 pu\u00f2 recarsi negli stessi negozi e prendere fino a tre articoli tra quelli della spesa sospesa. \nPer ora hanno aderito la farmacia S. Chiara, il panettiere di fronte alla chiesa S. Ignazio, Cascina Biblioteca, il panettiere in via Crescenzago di fianco alla lavanderia. A segnalare la possibilit\u00e0 di spesa sospesa ci sar\u00e0 in vetrina una locandina.\nSe qualcuno avesse altri contatti di negozianti della zona e riuscisse a coinvolgerli, l\u2019iniziativa sar\u00e0 ancora pi\u00f9 bella!"", ""Destinatari"": ""Cittadini in difficolt\u00e0"", ""Link"": ""https://www.facebook.com/pages/category/Local-Service/Spesa-Sospesa-quartiere-Feltre-106679674330983/"", ""Natura"": ""solidale"", ""Posizione"": ""45.508272 9.24684 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Nel quartiere Feltre a Milano \u00e8 attiva la \u201cspesa sospesa\u201d""}","<pre><yamldata>
 Da_chi_offerta: Negozianti e cittadini di Milano - Quartiere Feltre
 Descrizione: ""Siamo lieti di comunicarvi che abbiamo attivato il servizio di spesa\
@@ -8762,13 +8779,6 @@ Descrizione: ""Si tratta di un servizio per over 65 che provvede a consegne grat
 Link: https://www.retedeldono.it/it/progetti/associazione-energie-sociali-jesurum/mai-solo-se-resta-a-casa
 Nome_dell_esercizio_commercial: Mai solo, se resti a casa
 Posizione: 45.3570822 9.3226748 0 0
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1505,589777092,2020-03-29 14:30:50,2020-03-29 12:06:34,Lista dei negozi che consegnano a domicilio nei quartieri del #municipio 9 #Milano,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""Ecco la lista dei negozi che consegnano a domicilio nei quartieri del Municipio 9 del Comune di Milano"", ""Indirizzo"": ""45.5017713 9.1755188 00"", ""Link"": ""https://docs.google.com/spreadsheets/d/1E-2c3yOdhL-5hVCR7ui15f_E9qJkbr_Jk9KEsxPs3m0/htmlview"", ""Nome_dell_esercizio_commercial"": ""Negozi in Zona 9 - Milano""}","<pre><yamldata>
-Descrizione: Ecco la lista dei negozi che consegnano a domicilio nei quartieri del
-  Municipio 9 del Comune di Milano
-Indirizzo: 45.5017713 9.1755188 00
-Link: https://docs.google.com/spreadsheets/d/1E-2c3yOdhL-5hVCR7ui15f_E9qJkbr_Jk9KEsxPs3m0/htmlview
-Nome_dell_esercizio_commercial: Negozi in Zona 9 - Milano
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1505,589777092,2020-03-29 14:30:50,2020-03-29 12:06:34,Lista dei negozi che consegnano a domicilio nei quartieri del #municipio 9 #Milano,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""Ecco la lista dei negozi che consegnano a domicilio nei quartieri del Municipio 9 del Comune di Milano"", ""Indirizzo"": ""45.5017713 9.1755188 00"", ""Link"": ""https://docs.google.com/spreadsheets/d/1E-2c3yOdhL-5hVCR7ui15f_E9qJkbr_Jk9KEsxPs3m0/htmlview"", ""Nome_dell_esercizio_commercial"": ""Negozi in Zona 9 - Milano""}","<pre><yamldata>
 Descrizione: Ecco la lista dei negozi che consegnano a domicilio nei quartieri del
@@ -21109,6 +21119,22 @@ Descrizione: 'Il Comitato Regionale Lombardia ha la necessità di reclutare Psic
   una mail alla Referente dell''attività, dott.ssa Sabrina Manzi: sabrina.manzi@lombardia.cri.it'
 Destinatari: Psicologi
 Link: https://www.cri.it/15-03-20-reclutamento-sep
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/610,582204579,2020-03-16 12:11:07,2020-03-16 11:09:53,Comune di #Pisa cerca volontari tra le associazioni cittadine per consegne a domicilio,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune di Pisa cerca volontari tra le associazioni cittadine per consegne a domicilio"", ""Descrizione"": ""In base alla DGRT 332/2020 \u00e8 possibile fare richiesta per rendersi disponibili a realizzare un servizio di consegna a domicilio verso le persone.\nPer i Comuni della zona che aderiranno, ad eccezione del Comune di Pisa, vi saranno prossimamente indicate delle poste elettroniche. \nIn specifico per il Comune di Pisa \u00e8 importante che la vostra comunicazione di disponbilit\u00e0 arrivi alla seguente posta elettronica: segreteria.zonapisa@uslnordovest.toscana.it e riporti le seguenti indicazioni:\n- numero telefonico e posta elettronica ala quale fare riferimento\n- numero di volontari e/o operatori mediamente disponibili\n- dichiarazione in qauli quartieri si da la disponibilit\u00e0 di attivare il servizio."", ""Destinatari"": ""Volontari associazioni"", ""Indirizzo"": ""43.723552 10.401043 0 0"", ""Link"": ""http://www.sds.zonapisana.it/index.php?option=com_content&view=article&id=1476:avviso-rivolto-a-soggetti-del-terzo-settore-e-del-volontariato-interessati-ad-aderire-al-servizio-di-consegna-spesa-a-domicilio&catid=87&Itemid=119""}","<pre><yamldata>
+Cosa: Comune di Pisa cerca volontari tra le associazioni cittadine per consegne a
+  domicilio
+Descrizione: ""In base alla DGRT 332/2020 è possibile fare richiesta per rendersi disponibili\
+  \ a realizzare un servizio di consegna a domicilio verso le persone.\nPer i Comuni\
+  \ della zona che aderiranno, ad eccezione del Comune di Pisa, vi saranno prossimamente\
+  \ indicate delle poste elettroniche. \nIn specifico per il Comune di Pisa è importante\
+  \ che la vostra comunicazione di disponbilità arrivi alla seguente posta elettronica:\
+  \ segreteria.zonapisa@uslnordovest.toscana.it e riporti le seguenti indicazioni:\n\
+  - numero telefonico e posta elettronica ala quale fare riferimento\n- numero di\
+  \ volontari e/o operatori mediamente disponibili\n- dichiarazione in qauli quartieri\
+  \ si da la disponibilità di attivare il servizio.""
+Destinatari: Volontari associazioni
+Indirizzo: 43.723552 10.401043 0 0
+Link: http://www.sds.zonapisana.it/index.php?option=com_content&view=article&id=1476:avviso-rivolto-a-soggetti-del-terzo-settore-e-del-volontariato-interessati-ad-aderire-al-servizio-di-consegna-spesa-a-domicilio&catid=87&Itemid=119
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/610,582204579,2020-03-16 12:11:07,2020-03-16 11:09:53,Comune di #Pisa cerca volontari tra le associazioni cittadine per consegne a domicilio,,,,,"[""Bollettino"", ""Consegne e commissioni"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune di Pisa cerca volontari tra le associazioni cittadine per consegne a domicilio"", ""Descrizione"": ""In base alla DGRT 332/2020 \u00e8 possibile fare richiesta per rendersi disponibili a realizzare un servizio di consegna a domicilio verso le persone.\nPer i Comuni della zona che aderiranno, ad eccezione del Comune di Pisa, vi saranno prossimamente indicate delle poste elettroniche. \nIn specifico per il Comune di Pisa \u00e8 importante che la vostra comunicazione di disponbilit\u00e0 arrivi alla seguente posta elettronica: segreteria.zonapisa@uslnordovest.toscana.it e riporti le seguenti indicazioni:\n- numero telefonico e posta elettronica ala quale fare riferimento\n- numero di volontari e/o operatori mediamente disponibili\n- dichiarazione in qauli quartieri si da la disponibilit\u00e0 di attivare il servizio."", ""Destinatari"": ""Volontari associazioni"", ""Indirizzo"": ""43.723552 10.401043 0 0"", ""Link"": ""http://www.sds.zonapisana.it/index.php?option=com_content&view=article&id=1476:avviso-rivolto-a-soggetti-del-terzo-settore-e-del-volontariato-interessati-ad-aderire-al-servizio-di-consegna-spesa-a-domicilio&catid=87&Itemid=119""}","<pre><yamldata>
 Cosa: Comune di Pisa cerca volontari tra le associazioni cittadine per consegne a
