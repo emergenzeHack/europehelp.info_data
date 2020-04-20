@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2552,603304006,2020-04-20 16:30:05,2020-04-20 14:57:56,"Un Servizio telefonico gratuito, multilingue (italiano, arabo, inglese, francese, tigrino, somalo, h",,,tutte,,"[""Bollettino"", ""Contatti utili"", ""Stranieri"", ""Supporto psicologico"", ""accettato"", ""form"", ""iniziativa""]",,,"{""Da_chi_offerta"": ""Save the Children"", ""Descrizione"": ""Un Servizio telefonico gratuito, multilingue (italiano, arabo, inglese, francese, tigrino, somalo, hindi, urdu, marathi, pangiabi, curdo, persiano curdo e dialetti francofoni quali wolof, mandinga, bambara, djoula, more, biss\u00e0, kassena) che garantisce, supporto, consulenza ed orientamento, ai minori migranti e a tutti gli adulti coinvolti nella gestione ed accoglienza dei minori, al fine di informarli sui diritti dei minori stranieri non accompagnati, fornire assistenza legale, psicologica e mediazione linguistica, nonch\u00e9 attivare contatti locali con i servizi e associazioni."", ""Destinatari"": ""Minori e adulti"", ""Link"": ""https://www.savethechildren.it/cosa-facciamo/progetti/helpline-minori-migranti"", ""Titolo"": ""Helpline Minori Migranti"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Save the Children
+Descrizione: Un Servizio telefonico gratuito, multilingue (italiano, arabo, inglese,
+  francese, tigrino, somalo, hindi, urdu, marathi, pangiabi, curdo, persiano curdo
+  e dialetti francofoni quali wolof, mandinga, bambara, djoula, more, bissà, kassena)
+  che garantisce, supporto, consulenza ed orientamento, ai minori migranti e a tutti
+  gli adulti coinvolti nella gestione ed accoglienza dei minori, al fine di informarli
+  sui diritti dei minori stranieri non accompagnati, fornire assistenza legale, psicologica
+  e mediazione linguistica, nonché attivare contatti locali con i servizi e associazioni.
+Destinatari: Minori e adulti
+Link: https://www.savethechildren.it/cosa-facciamo/progetti/helpline-minori-migranti
+Titolo: Helpline Minori Migranti
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2549,603237589,2020-04-20 16:21:06,2020-04-20 13:26:58,CivicoZero. Centro di servizi e assistenza per minori stranieri  attivato da  Save the Children. ,45.48750,9.20913,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Save the Children _ CivicoZero"", ""Descrizione"": ""CivicoZero \u00e8 un centro diurno, attivato da  Save the Children e rivolto a minori stranieri. \nIl Centro offre servizi a bassa soglia (interventi di emergenza e messa in sicurezza), un servizio di orientamento legale, corsi di italiano, laboratori artistici, sportivi e ricreativi. \nAttualmente, per l'emergenza sanitaria in corso, tutte le attivit\u00e0 si svolgono da remoto attraverso colloqui telefonici, skype, WhatsApp e l'utilizzo di piattaforme digitali. Per usufruirne consulta il sito https://www.civicozero.eu/"", ""Destinatari"": ""Minori stranieri"", ""Natura"": ""solidale"", ""Posizione"": ""45.48750 9.20913 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""CivicoZero Milano""}","<pre><yamldata>
 Da_chi_offerta: Save the Children _ CivicoZero
 Descrizione: ""CivicoZero è un centro diurno, attivato da  Save the Children e rivolto\
