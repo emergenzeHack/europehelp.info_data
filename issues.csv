@@ -457,6 +457,20 @@ Natura: culturale-ricr
 Titolo: Webinar su ""Legislazione di emergenza e diritti fondamentali""
 regione_manuale: tutte
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2511,601967350,2020-04-20 10:15:12,2020-04-17 13:15:09,"Casa della Speranza della Fondazione Caritas di #Pescara - Penne offre accoglienza, tutela ed integrazione socio-lavorativa a 5 donne vittime di sfruttamento",42.3102619,13.95759010584892,Abruzzo,Pescara,"[""Donazioni beni e offerte servizi"", ""Donne"", ""Servizi e iniziative solidali private"", ""Stranieri"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Caritas Pescara dell'Arcidiocesi di Pescara - Penne ONLUS"", ""Descrizione"": ""Il centro di seconda accoglienza \u00e8 predisposto per l\u2019accoglienza, la tutela e l\u2019integrazione socio-lavorativa di 5 donne vittime di sfruttamento che abbiano firmato il Programma Unico di Emersione per la fuoriuscita dalla tratta per sfruttamento. \nLa struttura fornisce servizi di:\n\u2022\tAccoglienza\n\u2022\tTutela sanitaria, legale, psico-sociale\n\u2022\tIntegrazione socio - lavorativa. Per informazioni sul servizio chiamare il numero dello sportello Accoglienza: 0856921292 oppure il numero verde nazionale Antitratta: 800 290 290 per essere indirizzati al servizio specifico sul territorio"", ""Destinatari"": ""Donne Vittime di tratta"", ""Link"": ""http://www.caritaspescara.it/"", ""Natura"": ""solidale"", ""Posizione"": ""42.3102619 13.95759010584892"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Centro di Seconda Accoglienza Casa della Speranza""}","<pre><yamldata>
+Da_chi_offerta: Fondazione Caritas Pescara dell'Arcidiocesi di Pescara - Penne ONLUS
+Descrizione: ""Il centro di seconda accoglienza è predisposto per l’accoglienza, la\
+  \ tutela e l’integrazione socio-lavorativa di 5 donne vittime di sfruttamento che\
+  \ abbiano firmato il Programma Unico di Emersione per la fuoriuscita dalla tratta\
+  \ per sfruttamento. \nLa struttura fornisce servizi di:\n•\tAccoglienza\n•\tTutela\
+  \ sanitaria, legale, psico-sociale\n•\tIntegrazione socio - lavorativa. Per informazioni sul servizio chiamare il numero dello sportello Accoglienza: 0856921292 oppure il numero verde nazionale Antitratta: 800 290 290 per essere indirizzati al servizio specifico sul territorio""
+Destinatari: Donne Vittime di tratta
+Link: http://www.caritaspescara.it/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Centro di Seconda Accoglienza Casa della Speranza
+Posizione: 42.3102619 13.95759010584892
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2510,601957507,2020-04-17 17:55:02,2020-04-17 12:58:19,Coop. LESS attiva raccolta fondi per acquisto generi alimentari e farmaci a #Napoli,40.86221,14.26635,Campania,Napoli,"[""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""raccolta fondi attivata da LESS per acquisto generi alimentari e farmaci - servizio legata all'iniziativa del numero verde 800-119-477, destinato a persone in quarantena o in isolamento, anziani, persone non autosufficienti, persone sole e cittadini stranieri che hanno bisogno di aiuto per fronteggiare l\u2019emergenza CODIV_19"", ""Email"": ""less-onlus@hotmail.it"", ""IBAN"": ""IT83V0306909606100000047404"", ""Intestazione"": ""LESS COOP. SOCIALE ARL ETS"", ""Link"": ""https://www.facebook.com/less.onlus/photos/a.712876448786676/3611289142278711/?type=1&theater"", ""Nome"": ""LESS Cooperativa sociale ar.l. ETS"", ""Posizione"": ""40.86221 14.26635""}","<pre><yamldata>
 Descrizione: raccolta fondi attivata da LESS per acquisto generi alimentari e farmaci
   - servizio legata all'iniziativa del numero verde 800-119-477, destinato a persone
@@ -12123,21 +12137,6 @@ Natura: solidale
 Posizione: 41.119618 13.874316 0 0
 Tipo_di_soggetto: privato
 Titolo: Ambulatorio di EMERGENCY a Castel Volturno
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1282,588577459,2020-03-26 17:43:49,2020-03-26 17:02:10,ARS Cooperativa sociale offre servizio gratuito di ascolto psicologico,,,,,"[""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""servizio gratuito di ascolto psicologico"", ""Descrizione"": ""Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l\u2019incertezza sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di confrontarsi e di reinventare una propria normalit\u00e0 diventa necessario perch\u00e9 strettamente correlati al benessere psicologico e alla salute mentale."", ""Destinatari"": ""chiunque, in qualsiasi citt\u00e0 di Italia, in questi giorni \u00e8 chiuso in casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi ci \u00e8 accanto"", ""Email"": ""info@arscooperativa.it"", ""Immagine"": ""WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg"", ""Link"": ""https://www.facebook.com/arscooperativa/"", ""Telefono"": ""08119639950""}","<pre><yamldata>
-Cosa: servizio gratuito di ascolto psicologico
-Descrizione: Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre
-  abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l’incertezza
-  sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di
-  confrontarsi e di reinventare una propria normalità diventa necessario perché strettamente
-  correlati al benessere psicologico e alla salute mentale.
-Destinatari: chiunque, in qualsiasi città di Italia, in questi giorni è chiuso in
-  casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi
-  ci è accanto
-Email: info@arscooperativa.it
-Immagine: WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg
-Link: https://www.facebook.com/arscooperativa/
-Telefono: 08119639950
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/1282,588577459,2020-03-26 17:43:49,2020-03-26 17:02:10,ARS Cooperativa sociale offre servizio gratuito di ascolto psicologico,,,,,"[""Notizie Utili"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""servizio gratuito di ascolto psicologico"", ""Descrizione"": ""Attraverso la collaborazione di psicologhe, psicoterapeute e psichiatre abbiamo attivato uno sportello virtuale di ascolto. La solitudine, la paura e l\u2019incertezza sono le nuove compagne di viaggio di questi giorni difficili dove il bisogno di confrontarsi e di reinventare una propria normalit\u00e0 diventa necessario perch\u00e9 strettamente correlati al benessere psicologico e alla salute mentale."", ""Destinatari"": ""chiunque, in qualsiasi citt\u00e0 di Italia, in questi giorni \u00e8 chiuso in casa con le proprie paure ed i propri pensieri senza potersi confrontare con chi ci \u00e8 accanto"", ""Email"": ""info@arscooperativa.it"", ""Immagine"": ""WhatsApp Image 2020-03-23 at 12.42.35-18_0_56.jpeg"", ""Link"": ""https://www.facebook.com/arscooperativa/"", ""Telefono"": ""08119639950""}","<pre><yamldata>
 Cosa: servizio gratuito di ascolto psicologico
