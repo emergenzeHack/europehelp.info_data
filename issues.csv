@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2561,603349735,2020-04-21 08:43:19,2020-04-20 16:01:09,Rete di volontariato per aiutare chi è in difficoltà nel comune di #Arese (Mi),45.549164,9.078018,Lombardia,Milano,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Arese"", ""Descrizione"": ""Per portare aiuto a chi \u00e8 in difficolt\u00e0 il comune ha  messo in campo una rete di volontariato organizzato per coordinare ed evitare improvvisazioni e rispondere ai bisogni della comunit\u00e0: per candidarsi scrivere a aresesolidale@comune.arese.mi.it, indicando nome, cognome, numero di telefono, se si \u00e8 automuniti e la disponibilit\u00e0 di tempo."", ""Destinatari"": ""Abitanti comune di Arese"", ""Natura"": ""solidale"", ""Posizione"": ""45.549164 9.078018 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Rete di volontariatoComune di #Arese #Lombardia""}","<pre><yamldata>
+Da_chi_offerta: Comune di Arese
+Descrizione: 'Per portare aiuto a chi è in difficoltà il comune ha  messo in campo
+  una rete di volontariato organizzato per coordinare ed evitare improvvisazioni e
+  rispondere ai bisogni della comunità: per candidarsi scrivere a aresesolidale@comune.arese.mi.it,
+  indicando nome, cognome, numero di telefono, se si è automuniti e la disponibilità
+  di tempo.'
+Destinatari: Abitanti comune di Arese
+Natura: solidale
+Posizione: 45.549164 9.078018 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Rete di volontariatoComune di #Arese #Lombardia'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2560,603348291,2020-04-21 08:39:28,2020-04-20 15:59:02,Assistenza domiciliare e consegna pasti e farmaci a domicilio nel comune di #Abbiategrasso #Milano,45.398529,8.91595,Lombardia,Milano,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Abbiategrasso"", ""Descrizione"": ""E' possibilie richiedere; consegna pasti a domicilio, consegna farmaci a domicilio, segretariato sociale telefonico, servizio di assistenza domiciliare.\nTelefonare allo 0294692290 o allo 0294692250 dal lun al ven ore 9-13."", ""Destinatari"": ""Abitanti Comune di Abbiategrasso over 65"", ""Link"": ""http://www.comune.abbiategrasso.mi.it/Comunicazioni/Attivazione-servizio-di-assistenza-alla-popolazione"", ""Natura"": ""solidale"", ""Posizione"": ""45.398529 8.91595 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Attivazione servizio di assistenza alla popolazione Comune di #Abbiategrasso #Lombardia""}","<pre><yamldata>
 Da_chi_offerta: Comune di Abbiategrasso
 Descrizione: 'E'' possibilie richiedere; consegna pasti a domicilio, consegna farmaci
