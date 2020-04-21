@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2556,603336479,2020-04-21 08:06:43,2020-04-20 15:42:07,"Attività ricreative per anziani fragili e persone con demenza presso l'orto urbano ""Orto Domingo"". Municipio 2 #Bari",41.092979,16.863372,Puglia,Bari,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di bari"", ""Descrizione"": ""Una nuova iniziativa rivolta agli ANZIANI fragili e alle persone con demenza: da domani sar\u00e0 possibile trascorrere del tempo all'aria aperta all'interno dell'orto urbano \""Orto domingo\"" in via Lucarelli.\nChiunque fosse interessato pu\u00f2 prenotare o chiedere informazioni al numero 329 1630860. \nL'accesso avverr\u00e0 nel pieno rispetto di quanto previsto dalle vigenti disposizioni governative, con ingressi esclusivamente nella fascia oraria prenotata e con un solo accompagnatore coabitante."", ""Destinatari"": ""Anziani fragili e alle persone con demenza"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.092979 16.863372 0 0"", ""Titolo"": ""All'aria aperta all'interno dell'orto urbano \""Orto domingo\"" Municipio 2 #Bari""}","<pre><yamldata>
+Da_chi_offerta: Comune di bari
+Descrizione: ""Una nuova iniziativa rivolta agli ANZIANI fragili e alle persone con\
+  \ demenza: da domani sarà possibile trascorrere del tempo all'aria aperta all'interno\
+  \ dell'orto urbano \""Orto domingo\"" in via Lucarelli.\nChiunque fosse interessato\
+  \ può prenotare o chiedere informazioni al numero 329 1630860. \nL'accesso avverrà\
+  \ nel pieno rispetto di quanto previsto dalle vigenti disposizioni governative,\
+  \ con ingressi esclusivamente nella fascia oraria prenotata e con un solo accompagnatore\
+  \ coabitante.""
+Destinatari: Anziani fragili e alle persone con demenza
+Natura: culturale-ricr
+Posizione: 41.092979 16.863372 0 0
+Titolo: 'All''aria aperta all''interno dell''orto urbano ""Orto domingo"" Municipio
+  2 #Bari'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2555,603333505,2020-04-21 08:00:51,2020-04-20 15:37:54,QuBi: sostegno alimentare nel quartieri Bruzzano e Comasina di #Milano,45.527359,9.174492,Lombardia,Milano,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""QuB\u00ec Bruzzano Comasina Milano"", ""Descrizione"": ""Sostegno alimentare nel quartieri (Parrocchia BV Assunta, Parrocchia San Bernardo, Acli, Fondazione Aquilone, Condominio Solidale, Hub Municipio 9).\nPer orientamento, richieste e segnalazioni chiamare l'poperatrice di prossimit\u00e0 Angela al 3338744631 dal luned\u00ec al venerd\u00ec."", ""Destinatari"": ""Abitanti quartieri di Bruzzano e Comasina Milano"", ""Link"": ""https://www.facebook.com/QuBiBruzzanoComasina/photos/rpp.789595511424064/1077260579324221/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.527359 9.174492 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""S.O.S CIBO - Rete Qub\u00ec #Comasina #Bruzzano #Milano""}","<pre><yamldata>
 Da_chi_offerta: QuBì Bruzzano Comasina Milano
 Descrizione: 'Sostegno alimentare nel quartieri (Parrocchia BV Assunta, Parrocchia
