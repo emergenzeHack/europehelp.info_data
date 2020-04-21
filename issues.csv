@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2562,603360116,2020-04-21 08:46:41,2020-04-20 16:16:06,Servizio assistenza domiciliare per anziani e persone sole nel Comune di #Arese (Mi),45.548854,9.078404,Lombardia,Milano,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Arese"", ""Descrizione"": ""Il Comune di Arese all'interno dell'attivit\u00e0 del COC (Centro Operativo Comunale, attivato a causa dell'emergenza sanitaria) ha definito, in collaborazione con la Misericordia Arese, una serie di servizi a supporto delle persone pi\u00f9 fragili (over 65, persone non autosufficienti, persone soggette a procedimenti di restrizione di ATS) che sono in difficolt\u00e0 a causa dell\u2019emergenza sanitaria. \n\nIl numero da chiamare \u00e8 379 1909759 e resta attivo 7 giorni su 7, h 24.\n\nSottolineiamo che a questo numero possono rivolgersi solo alcune tipologie specifiche di cittadini e cio\u00e8: ultra 65enni, persone sole, senza rete di parenti, con patologie, in quarantena o in isolamento e in grave e non altrimenti rimediabile difficolt\u00e0 per provvedere alle proprie necessit\u00e0 primarie."", ""Destinatari"": ""ultra 65enni, persone sole, senza rete di parenti, con patologie, in quarantena o in isolamento e in grave e non altrimenti rimediabile difficolt\u00e0 per provvedere alle proprie necessit\u00e0 primarie"", ""Link"": ""https://www.comune.arese.mi.it/pubblicazioni/focus/focus_dettaglio.asp?id=27537&ID_M=13"", ""Natura"": ""solidale"", ""Posizione"": ""45.548854 9.078404 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Assistenza ai cittadini in difficolt\u00e0 Comune di #Arese #Lombardia""}","<pre><yamldata>
+Da_chi_offerta: Comune di Arese
+Descrizione: ""Il Comune di Arese all'interno dell'attività del COC (Centro Operativo\
+  \ Comunale, attivato a causa dell'emergenza sanitaria) ha definito, in collaborazione\
+  \ con la Misericordia Arese, una serie di servizi a supporto delle persone più fragili\
+  \ (over 65, persone non autosufficienti, persone soggette a procedimenti di restrizione\
+  \ di ATS) che sono in difficoltà a causa dell’emergenza sanitaria. \n\nIl numero\
+  \ da chiamare è 379 1909759 e resta attivo 7 giorni su 7, h 24.\n\nSottolineiamo\
+  \ che a questo numero possono rivolgersi solo alcune tipologie specifiche di cittadini\
+  \ e cioè: ultra 65enni, persone sole, senza rete di parenti, con patologie, in quarantena\
+  \ o in isolamento e in grave e non altrimenti rimediabile difficoltà per provvedere\
+  \ alle proprie necessità primarie.""
+Destinatari: ultra 65enni, persone sole, senza rete di parenti, con patologie, in
+  quarantena o in isolamento e in grave e non altrimenti rimediabile difficoltà per
+  provvedere alle proprie necessità primarie
+Link: https://www.comune.arese.mi.it/pubblicazioni/focus/focus_dettaglio.asp?id=27537&ID_M=13
+Natura: solidale
+Posizione: 45.548854 9.078404 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Assistenza ai cittadini in difficoltà Comune di #Arese #Lombardia'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2561,603349735,2020-04-21 08:43:19,2020-04-20 16:01:09,Rete di volontariato per aiutare chi è in difficoltà nel comune di #Arese (Mi),45.549164,9.078018,Lombardia,Milano,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Arese"", ""Descrizione"": ""Per portare aiuto a chi \u00e8 in difficolt\u00e0 il comune ha  messo in campo una rete di volontariato organizzato per coordinare ed evitare improvvisazioni e rispondere ai bisogni della comunit\u00e0: per candidarsi scrivere a aresesolidale@comune.arese.mi.it, indicando nome, cognome, numero di telefono, se si \u00e8 automuniti e la disponibilit\u00e0 di tempo."", ""Destinatari"": ""Abitanti comune di Arese"", ""Natura"": ""solidale"", ""Posizione"": ""45.549164 9.078018 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Rete di volontariatoComune di #Arese #Lombardia""}","<pre><yamldata>
 Da_chi_offerta: Comune di Arese
 Descrizione: 'Per portare aiuto a chi è in difficoltà il comune ha  messo in campo
