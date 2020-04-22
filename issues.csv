@@ -1,4 +1,31 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2592,605005830,2020-04-22 21:52:39,2020-04-22 19:28:01,DigitalePerVarese cerca e offre device digitali e connessione internet per docenti e studenti #Varese #Lombardia,45.83971,8.75416,Lombardia,Varese,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Offerta gratuita di device digitali e connessione internet per docenti e studenti"", ""Descrizione"": ""DigitalePerVarese, \u00e8 una piattaforma di solidariet\u00e0 che offre un computer o una connessione internet gratis a docenti e studenti della Provincia di Varese gestita dal team di TEDxVarese in collaborazione con l\u2019Ufficio Scolastico Territoriale.\n\nQuasi 100 device e una squadra di installatori internet dedicata sono gi\u00e0 a disposizione e possono essere richiesti gratuitamente da chi ne ha bisogno.\n\nAziende, associazioni e privati cittadini possono contribuire offrendo un computer tramite donazione o prestito, oppure proponendo un servizio digitale a supporto della comunit\u00e0 di docenti e studenti delle scuole della provincia.\n\nRicorda che questa \u00e8 un\u2019iniziativa privata che si affianca e supporta in modo autonomo le misure intraprese da ciascuna scuola."", ""Destinatari"": ""Studenti e docenti delle scuole della Provincia di Varese per ricevere le donazioni.\n\nAziende, associazioni e privati cittadini per donare e mettere a disposizione servizi."", ""Immagine"": ""WhatsApp Image 2020-04-11 at 23.46.38-21_26_0.jpeg"", ""Link"": ""https://www.digitalepervarese.it/"", ""Posizione"": ""45.83971 8.75416""}","<pre><yamldata>
+Cosa: Offerta gratuita di device digitali e connessione internet per docenti e studenti
+Descrizione: 'DigitalePerVarese, è una piattaforma di solidarietà che offre un computer
+  o una connessione internet gratis a docenti e studenti della Provincia di Varese
+  gestita dal team di TEDxVarese in collaborazione con l’Ufficio Scolastico Territoriale.
+
+
+  Quasi 100 device e una squadra di installatori internet dedicata sono già a disposizione
+  e possono essere richiesti gratuitamente da chi ne ha bisogno.
+
+
+  Aziende, associazioni e privati cittadini possono contribuire offrendo un computer
+  tramite donazione o prestito, oppure proponendo un servizio digitale a supporto
+  della comunità di docenti e studenti delle scuole della provincia.
+
+
+  Ricorda che questa è un’iniziativa privata che si affianca e supporta in modo autonomo
+  le misure intraprese da ciascuna scuola.'
+Destinatari: 'Studenti e docenti delle scuole della Provincia di Varese per ricevere
+  le donazioni.
+
+
+  Aziende, associazioni e privati cittadini per donare e mettere a disposizione servizi.'
+Immagine: WhatsApp Image 2020-04-11 at 23.46.38-21_26_0.jpeg
+Link: https://www.digitalepervarese.it/
+Posizione: 45.83971 8.75416
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2591,605000870,2020-04-22 21:46:37,2020-04-22 19:19:24,Accasa: sistema di telemonitoraggio Covid19 in #Puglia,,,,,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""#ACCASA: SISTEMA DI TELEMONITORAGGIO COVID19  IN PUGLIA"", ""Descrizione"": ""Una web app a uso del cittadino, per procedere ad una prima auto-diagnosi informativa mediante questionario, stabilendo un contatto con il medico di famiglia che, se opportuno, lo ricontatter\u00e0 per eseguire un pre-triage telefonico;\nUn portale web per gli operatori sanitari che consente di analizzare e categorizzare le informazioni fornite dai cittadini in sede di pre-triage per il monitoraggio della sintomatologia, di programmare eventuali interventi domiciliari di supporto specializzato (es. tampone, farmaci e ausili) e, conseguentemente, di attivare il teleconsulto (audio e/o video) e telemonitoraggio;\nDispositivi di diagnostica-strumentale per la trasmissione di dati clinici dal domicilio del paziente in piattaforma.\nLa soluzione \u00e8 stata sviluppata da Dedalus Italia e si basa sulla tecnologia derivante, per parte tecnica, dal Contratto di Programma HLCM \u2013 Health Life-Cycle Management - del valore di 9 milioni di euro (4 di cofinanziamento regionale) e, per parte organizzativa dal PON Talisman proposto da una cordata di 16 partner italiani ed esteri, tra cui AReSS Puglia, e che si \u00e8 aggiudicato a met\u00e0 2018 9 milioni e 800mila da parte del Ministero dell\u2019Universit\u00e0 e della Ricerca."", ""Link"": ""https://www.regione.puglia.it/web/press-regione/-/-accasa-il-monitoraggio-del-virus-a-domicilio-diventa-digitale-la-regione-puglia-vara-la-piattaforma-di-teleassistenza-clinica""}","<pre><yamldata>
 Cosa: '#ACCASA: SISTEMA DI TELEMONITORAGGIO COVID19  IN PUGLIA'
 Descrizione: 'Una web app a uso del cittadino, per procedere ad una prima auto-diagnosi
