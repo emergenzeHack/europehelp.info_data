@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2604,605429434,2020-04-23 10:42:54,2020-04-23 10:41:45,Fondo Emergenza promosso a #LAquila da 3e32 e United L'Aquila,42.353394,13.401441,Abruzzo,L'Aquila,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""In queste settimane di emergenza alcune persone hanno una forte difficolt\u00e0 ad affrontare le spese ordinarie che prima dell\u2019emergenza avrebbero sostenuto.\nPer questo vi chiediamo un aiuto concreto che potr\u00e0 aiutare i ragazzi a pagare bollette, affitti o altri bisogni necessari. Il mutuo aiuto \u00e8 un valore che non dobbiamo mai perdere, soprattutto in questo momento. Aiutiamo chi \u00e8 in difficolt\u00e0 per aiutarci tutti vicendevolmente, attraverso la solidariet\u00e0.\n\nPotete donare tramite PayPal all\u2019Associazione di Promozione Sociale 3e32 paypal.me/3e32 o tramite bonifico all\u2019Associazione Sportiva Dilettantistica United L\u2019Aquila IBAN: IT40Q0832703601000000005000 Causale: donazione per emergenza Covid-19"", ""Link"": ""http://www.3e32.org/?page_id=9660&fbclid=IwAR3bP_3UB3hgvqDOSn7EVswt0hrcIJKTjE3v5v8phIWY5ApLH8dahYrsOeY"", ""Nome"": ""Associazione di Promozione Sociale 3e32 L'Aquila"", ""Posizione"": ""42.353394 13.401441 0 0""}","<pre><yamldata>
+Descrizione: 'In queste settimane di emergenza alcune persone hanno una forte difficoltà
+  ad affrontare le spese ordinarie che prima dell’emergenza avrebbero sostenuto.
+
+  Per questo vi chiediamo un aiuto concreto che potrà aiutare i ragazzi a pagare bollette,
+  affitti o altri bisogni necessari. Il mutuo aiuto è un valore che non dobbiamo mai
+  perdere, soprattutto in questo momento. Aiutiamo chi è in difficoltà per aiutarci
+  tutti vicendevolmente, attraverso la solidarietà.
+
+
+  Potete donare tramite PayPal all’Associazione di Promozione Sociale 3e32 paypal.me/3e32
+  o tramite bonifico all’Associazione Sportiva Dilettantistica United L’Aquila IBAN:
+  IT40Q0832703601000000005000 Causale: donazione per emergenza Covid-19'
+Link: http://www.3e32.org/?page_id=9660&fbclid=IwAR3bP_3UB3hgvqDOSn7EVswt0hrcIJKTjE3v5v8phIWY5ApLH8dahYrsOeY
+Nome: Associazione di Promozione Sociale 3e32 L'Aquila
+Posizione: 42.353394 13.401441 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2603,605349857,2020-04-23 10:09:22,2020-04-23 08:41:02,Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico attiva sportello telefonico di ascolto per ansia e panico,,,tutte,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico"", ""Descrizione"": ""L\u2019Isidap, l\u2019Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico, ha deciso di istituire uno sportello telefonico di ascolto per ansia e panico per aiutare le persone che vivono uno stato di particolare difficolt\u00e0 emotiva, attivo tutti i giorni dalle ore 9.00 alle ore 20.00. Il numero \u00e8 800-913880.\nNon si occupano degli aspetti sanitari n\u00e9 danno suggerimenti circa comportamenti igienici, lo sportello \u00e8 di assistenza psicologica per le problematiche legate all'ansia."", ""Destinatari"": ""Persone affette da attacchi di panico e/o ansia"", ""Link"": ""https://www.isidap.it/isidap/Ansia-e-Attacchi-di-Panico/covid-19-no-panic"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello telefonico di ascolto"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico
 Descrizione: 'L’Isidap, l’Istituto Specialistico Italiano sui Disturbi da Attacchi
