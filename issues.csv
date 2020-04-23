@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2603,605349857,2020-04-23 10:05:12,2020-04-23 08:41:02,Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico attiva sportello telefonico per attacchi di panico o ansia,,,tutte,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico"", ""Descrizione"": ""L\u2019Isidap, l\u2019Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico, ha deciso di istituire uno sportello telefonico di ascolto per ansia e panico per aiutare le persone che vivono uno stato di particolare difficolt\u00e0 emotiva, attivo tutti i giorni dalle ore 9.00 alle ore 20.00. Il numero \u00e8 800-913880.\nNon si occupano degli aspetti sanitari n\u00e9 danno suggerimenti circa comportamenti igienici, lo sportello \u00e8 di assistenza psicologica per le problematiche legate all'ansia."", ""Destinatari"": ""Persone affette da attacchi di panico e/o ansia"", ""Link"": ""https://www.isidap.it/isidap/Ansia-e-Attacchi-di-Panico/covid-19-no-panic"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sportello telefonico di ascolto"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Istituto Specialistico Italiano sui Disturbi da Attacchi di Panico
+Descrizione: 'L’Isidap, l’Istituto Specialistico Italiano sui Disturbi da Attacchi
+  di Panico, ha deciso di istituire uno sportello telefonico di ascolto per ansia
+  e panico per aiutare le persone che vivono uno stato di particolare difficoltà emotiva,
+  attivo tutti i giorni dalle ore 9.00 alle ore 20.00. Il numero è 800-913880.
+
+  Non si occupano degli aspetti sanitari né danno suggerimenti circa comportamenti
+  igienici, lo sportello è di assistenza psicologica per le problematiche legate all''ansia.'
+Destinatari: Persone affette da attacchi di panico e/o ansia
+Link: https://www.isidap.it/isidap/Ansia-e-Attacchi-di-Panico/covid-19-no-panic
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Sportello telefonico di ascolto
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2602,605345649,2020-04-23 08:59:39,2020-04-23 08:34:29,Lega del Filo d'Oro raccoglie fondi per l'acquisto di DPI e sanificazione di 5 centri residenziali #uncontattochevale,43.48614,13.48241,tutte,Ancona,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L'associazione lancia la Campagna di raccolta fondi #uncontattochevale volta all\u2019acquisto di Dpi come mascherine, guanti, tute e per sostenere i costi di sanificazione e igienizzazione straordinari nei 5 Centri Residenziali presenti in Italia.\nSi pu\u00f2 contribuire con una donazione al numero verde 800915000 oppure scegliendo l\u2019importo di donazione direttamente sul sito uncontattochevale.it"", ""Link"": ""https://donazioni.legadelfilodoro.it/uncontattochevale?utm_source=sito_istituzionale&utm_medium=homeslider&utm_campaign=uncontattochevale_coronavirus"", ""Nome"": ""Lega del Filo d'Oro"", ""Posizione"": ""43.48614 13.48241"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Descrizione: 'L''associazione lancia la Campagna di raccolta fondi #uncontattochevale
   volta all’acquisto di Dpi come mascherine, guanti, tute e per sostenere i costi
