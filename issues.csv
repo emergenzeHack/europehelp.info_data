@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2608,605455652,2020-04-23 11:28:37,2020-04-23 11:27:00,"Punti solidali a #Milano: online la mappa delle raccolte alimentari, spese sospese e distribuzione pasti realizzata dalle Brigate Volontarie per l’Emergenza",45.495398,9.190793,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Brigate Volontarie per l\u2019Emergenza Milano in collaborazione con  Off Topic Lab di Milano"", ""Descrizione"": ""Sul sito di Off Topic Lab la mappa, in continuo aggiornamento, realizzata dalle Brigate Volontarie per l\u2019Emergenza con i punti solidali attivi a Milano per l\u2019emergenza coronavirus: punti di raccolta alimentare, spesa sospesa e distribuzione gratuita di pasti caldi e pane."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.offtopiclab.org/punti-solidali/"", ""Natura"": ""solidale"", ""Posizione"": ""45.495398 9.190793 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Punti solidali a Milano: la mappa delle raccolte alimentari, spese sospese e distribuzione pasti realizzata dalle Brigate Volontarie per l\u2019Emergenza""}","<pre><yamldata>
+Da_chi_offerta: Brigate Volontarie per l’Emergenza Milano in collaborazione con  Off
+  Topic Lab di Milano
+Descrizione: 'Sul sito di Off Topic Lab la mappa, in continuo aggiornamento, realizzata
+  dalle Brigate Volontarie per l’Emergenza con i punti solidali attivi a Milano per
+  l’emergenza coronavirus: punti di raccolta alimentare, spesa sospesa e distribuzione
+  gratuita di pasti caldi e pane.'
+Destinatari: Tutti
+Link: https://www.offtopiclab.org/punti-solidali/
+Natura: solidale
+Posizione: 45.495398 9.190793 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Punti solidali a Milano: la mappa delle raccolte alimentari, spese sospese
+  e distribuzione pasti realizzata dalle Brigate Volontarie per l’Emergenza'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2605,605436023,2020-04-23 10:59:26,2020-04-23 10:53:00,Associazione Maria Bianchi offre riflessioni per gestire il lutto dei bambini,45.189896,10.800704,Lombardia,Mantova,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Maria Bianchi"", ""Descrizione"": ""Riflessioni sul vissuto di lutto dei bambini che hanno perso un proprio caro in questo periodo a casa del Covid 19 con numerose indicazioni pratiche e strategie  relazioni utilizzabili agli adulti per supportarli."", ""Destinatari"": ""Genitori, docenti, persona e educativo e adulti che vivono in casa con un bambino in lutto"", ""Link"": ""https://www.mariabianchi.it/"", ""Natura"": ""solidale"", ""Posizione"": ""45.189896 10.800704 0 65"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""I bambini in lutto al tempo del Coronavirus""}","<pre><yamldata>
 Da_chi_offerta: Associazione Maria Bianchi
 Descrizione: Riflessioni sul vissuto di lutto dei bambini che hanno perso un proprio
