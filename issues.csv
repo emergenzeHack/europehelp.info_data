@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2601,605341959,2020-04-23 08:30:11,2020-04-23 08:28:52,Distribuzione di 150 pizze al giorno nel V Municipio #Roma ,41.859575,12.549841,Lazio,Roma,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Locanda dei Girasoli"", ""Descrizione"": ""Da mercoled\u00ec 22 aprile, la Locanda dei Girasoli inizier\u00e0 a consegnare 150 pizze al giorno alla Croce Rossa.\u00a0Sar\u00e0 poi quest'ultima a distribuirle alle famiglie in difficolt\u00e0 che ne faranno richiesta grazie alla collaborazione con la Croce Rossa del V Municipio."", ""Destinatari"": ""Croce rossa italiana"", ""Link"": ""https://roma.fanpage.it/la-locanda-dei-girasoli-150-pizze-al-giorno-gratis-a-chi-non-ha-i-soldi-per-mangiare/"", ""Natura"": ""solidale"", ""Posizione"": ""41.859575 12.549841 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""150 pizze al giorno gratis a chi non ha i soldi per mangiare""}","<pre><yamldata>
+Da_chi_offerta: Locanda dei Girasoli
+Descrizione: Da mercoledì 22 aprile, la Locanda dei Girasoli inizierà a consegnare
+  150 pizze al giorno alla Croce Rossa. Sarà poi quest'ultima a distribuirle alle
+  famiglie in difficoltà che ne faranno richiesta grazie alla collaborazione con la
+  Croce Rossa del V Municipio.
+Destinatari: Croce rossa italiana
+Link: https://roma.fanpage.it/la-locanda-dei-girasoli-150-pizze-al-giorno-gratis-a-chi-non-ha-i-soldi-per-mangiare/
+Natura: solidale
+Posizione: 41.859575 12.549841 0 0
+Tipo_di_soggetto: privato
+Titolo: 150 pizze al giorno gratis a chi non ha i soldi per mangiare
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2600,605337932,2020-04-23 08:23:55,2020-04-23 08:22:38,Raccolta generi alimentari e generi di prima necessità per la vallata del Valanidi #ReggioCalabria,38.058584,15.679507,Calabria,Reggio di Calabria,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Osservatorio sulla ndrangheta"", ""Descrizione"": ""In seguito a questa emergenza, viste le numerose famiglie in difficolt\u00e0, l'associazione ha deciso di organizzare un punto di raccolta e distribuzione di generi alimentari e beni di prima necessit\u00e0 per la zona della vallata del Valanidi.\nChiunque voglia contribuire a donare generi alimentari o segnalare persone in difficolt\u00e0 pu\u00f2 farlo contattando il numero 0965/643521. L'associazione provvede sia alla raccolta delle donazioni che alla consegna degli alimenti.\nSi prega cortesemente per il momento di non recarsi all'Osservatorio ma di contattarlo solo telefonicamente."", ""Destinatari"": ""zona della vallata del Valanidi"", ""Link"": ""https://www.facebook.com/osservatoriosullandranghetaofficial/posts/3046127602100614"", ""Natura"": ""solidale"", ""Posizione"": ""38.058584 15.679507 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta e distribuzione di generi alimentari e beni di prima necessit\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Osservatorio sulla ndrangheta
 Descrizione: 'In seguito a questa emergenza, viste le numerose famiglie in difficoltà,
