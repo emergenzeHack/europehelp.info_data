@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2600,605337932,2020-04-23 08:23:55,2020-04-23 08:22:38,Raccolta generi alimentari e generi di prima necessità per la vallata del Valanidi #ReggioCalabria,38.058584,15.679507,Calabria,Reggio di Calabria,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Osservatorio sulla ndrangheta"", ""Descrizione"": ""In seguito a questa emergenza, viste le numerose famiglie in difficolt\u00e0, l'associazione ha deciso di organizzare un punto di raccolta e distribuzione di generi alimentari e beni di prima necessit\u00e0 per la zona della vallata del Valanidi.\nChiunque voglia contribuire a donare generi alimentari o segnalare persone in difficolt\u00e0 pu\u00f2 farlo contattando il numero 0965/643521. L'associazione provvede sia alla raccolta delle donazioni che alla consegna degli alimenti.\nSi prega cortesemente per il momento di non recarsi all'Osservatorio ma di contattarlo solo telefonicamente."", ""Destinatari"": ""zona della vallata del Valanidi"", ""Link"": ""https://www.facebook.com/osservatoriosullandranghetaofficial/posts/3046127602100614"", ""Natura"": ""solidale"", ""Posizione"": ""38.058584 15.679507 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta e distribuzione di generi alimentari e beni di prima necessit\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Osservatorio sulla ndrangheta
+Descrizione: 'In seguito a questa emergenza, viste le numerose famiglie in difficoltà,
+  l''associazione ha deciso di organizzare un punto di raccolta e distribuzione di
+  generi alimentari e beni di prima necessità per la zona della vallata del Valanidi.
+
+  Chiunque voglia contribuire a donare generi alimentari o segnalare persone in difficoltà
+  può farlo contattando il numero 0965/643521. L''associazione provvede sia alla raccolta
+  delle donazioni che alla consegna degli alimenti.
+
+  Si prega cortesemente per il momento di non recarsi all''Osservatorio ma di contattarlo
+  solo telefonicamente.'
+Destinatari: zona della vallata del Valanidi
+Link: https://www.facebook.com/osservatoriosullandranghetaofficial/posts/3046127602100614
+Natura: solidale
+Posizione: 38.058584 15.679507 0 0
+Tipo_di_soggetto: privato
+Titolo: Raccolta e distribuzione di generi alimentari e beni di prima necessità
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2599,605330998,2020-04-23 08:12:35,2020-04-23 08:11:47,Spesa sospesa #LignanoSabbiadoro,45.689169,13.137717,Friuli Venezia Giulia,Udine,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Lignano in Fiore Onlus"", ""Descrizione"": ""Lignano in Fiore Onlus promuove l'iniziativa Spesa sospesa per raccogliere piccole somme da utilizzare per l'acquisto di buoni spesa o generi di prima necessit\u00e0 che verranno poi distribuiti nel territorio, attraverso il coordinamento del Servizio sociale comunale. Il contributo di 5,00 o 10,00 \u20ac pu\u00f2 essere lasciato presso le casse dei supermercati che aderiscono all'iniziativa."", ""Destinatari"": ""Servizio sociale del comune di Lignano Sabbiadoro"", ""Link"": ""https://www.facebook.com/AssociazioneLignanoInFioreONLUS/posts/3139696562717410"", ""Natura"": ""solidale"", ""Posizione"": ""45.689169 13.137717 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa sospesa""}","<pre><yamldata>
 Da_chi_offerta: Associazione Lignano in Fiore Onlus
 Descrizione: Lignano in Fiore Onlus promuove l'iniziativa Spesa sospesa per raccogliere
