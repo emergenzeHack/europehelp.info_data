@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2599,605330998,2020-04-23 08:12:35,2020-04-23 08:11:47,Spesa sospesa #LignanoSabbiadoro,45.689169,13.137717,Friuli Venezia Giulia,Udine,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazione Lignano in Fiore Onlus"", ""Descrizione"": ""Lignano in Fiore Onlus promuove l'iniziativa Spesa sospesa per raccogliere piccole somme da utilizzare per l'acquisto di buoni spesa o generi di prima necessit\u00e0 che verranno poi distribuiti nel territorio, attraverso il coordinamento del Servizio sociale comunale. Il contributo di 5,00 o 10,00 \u20ac pu\u00f2 essere lasciato presso le casse dei supermercati che aderiscono all'iniziativa."", ""Destinatari"": ""Servizio sociale del comune di Lignano Sabbiadoro"", ""Link"": ""https://www.facebook.com/AssociazioneLignanoInFioreONLUS/posts/3139696562717410"", ""Natura"": ""solidale"", ""Posizione"": ""45.689169 13.137717 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa sospesa""}","<pre><yamldata>
+Da_chi_offerta: Associazione Lignano in Fiore Onlus
+Descrizione: Lignano in Fiore Onlus promuove l'iniziativa Spesa sospesa per raccogliere
+  piccole somme da utilizzare per l'acquisto di buoni spesa o generi di prima necessità
+  che verranno poi distribuiti nel territorio, attraverso il coordinamento del Servizio
+  sociale comunale. Il contributo di 5,00 o 10,00 € può essere lasciato presso le
+  casse dei supermercati che aderiscono all'iniziativa.
+Destinatari: Servizio sociale del comune di Lignano Sabbiadoro
+Link: https://www.facebook.com/AssociazioneLignanoInFioreONLUS/posts/3139696562717410
+Natura: solidale
+Posizione: 45.689169 13.137717 0 0
+Tipo_di_soggetto: privato
+Titolo: Spesa sospesa
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2598,605321238,2020-04-23 07:56:43,2020-04-23 07:55:35,Raccolta fondi #cibointurin promossa dalla band torinese Eugenio in Via di Gioia #Torino,45.068186,7.681911,Piemonte,Torino,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Iniziativa di raccolta fondi #cibointurin promossa dalla band torinese Eugenio in Via di Gioia, a favore del progetto del Comune di Torino per aiutare le persone con difficolt\u00e0 a fare la spesa. Con 5 euro donati si prenota il proprio posto per una grande cena sociale online."", ""Link"": ""https://eugenioinviadigioia.it/letteralprossimo/"", ""Nome"": ""Eugenio in via di Gioia"", ""Posizione"": ""45.068186 7.681911 0 0""}","<pre><yamldata>
 Descrizione: 'Iniziativa di raccolta fondi #cibointurin promossa dalla band torinese
   Eugenio in Via di Gioia, a favore del progetto del Comune di Torino per aiutare
