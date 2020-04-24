@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2619,606148521,2020-04-24 09:20:17,2020-04-24 08:46:16,Fondazione Archè ha attivato il servizio di consegna a domicilio di spesa e farmaci a #Milano,45.4940966,9.2016451,Lombardia,Milano,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Arch\u00e9"", ""Descrizione"": ""Il servizio ha come scopo la consegna a domicilio di spesa e farmaci alle famiglie e ai cittadini che, per via dell\u2019emergenza Covid-19, sono impossibilitati ad uscire di casa.\nIl servizio sar\u00e0 attivo contattando la referente di progetto scrivendo una mail a archeconte@arche.it o telefonando a 3714182462.\nTrovate tutte le informazioni necessarie al link di seguito"", ""Destinatari"": ""Cittadini e famiglie in difficolt\u00e0 dal distanziamento sociale in atto a seguito dell'emergenza Covid-19"", ""Link"": ""https://arche.it/cosa-facciamo/sostegno-alle-famiglie/arche-con-te/"", ""Natura"": ""solidale"", ""Posizione"": ""45.4940966 9.2016451 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Arch\u00e8 con te""}","<pre><yamldata>
+Da_chi_offerta: Fondazione Arché
+Descrizione: 'Il servizio ha come scopo la consegna a domicilio di spesa e farmaci
+  alle famiglie e ai cittadini che, per via dell’emergenza Covid-19, sono impossibilitati
+  ad uscire di casa.
+
+  Il servizio sarà attivo contattando la referente di progetto scrivendo una mail
+  a archeconte@arche.it o telefonando a 3714182462.
+
+  Trovate tutte le informazioni necessarie al link di seguito'
+Destinatari: Cittadini e famiglie in difficoltà dal distanziamento sociale in atto
+  a seguito dell'emergenza Covid-19
+Link: https://arche.it/cosa-facciamo/sostegno-alle-famiglie/arche-con-te/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Posizione: 45.4940966 9.2016451 0 0
+Titolo: Archè con te
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2618,606118842,2020-04-24 09:05:53,2020-04-24 07:57:15,Solidarietà digitale - la casa editrice Gallucci mette a disposizione ebook per bambini gratuiti,,,,,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gallucci editore"", ""Descrizione"": ""E book per bambini for free"", ""Destinatari"": ""Bambini e ragazzi"", ""Link"": ""https://www.galluccieditore.com/ebookgratisperlemergenza/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Piumini e Rodari""}","<pre><yamldata>
 Da_chi_offerta: Gallucci editore
 Descrizione: E book per bambini for free
