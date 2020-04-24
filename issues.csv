@@ -1,18 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2627,606377776,2020-04-24 20:26:13,2020-04-24 14:59:02,Ordine degli ingegneri di #Bologna cerca computer dismessi da donare per la didattica a distanza,44.497771,11.348403,Emilia-Romagna,Bologna,"[""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine degli Ingegneri Bologna"", ""Descrizione"": ""L'ordine degli ingegneri di Bologna recupera computer dismessi per i ragazzi che non li hanno. Vista l\u2019emergenza coronavirus continua la didattica online e la necessit\u00e0 per le famiglie di avere in casa dispositivi che consentano ai loro figli di partecipare alle lezioni telematiche. A Bologna la domanda di molte famiglie \u00e8 stata soddisfatta grazie quasi sempre alle forniture delle scuole. Per garantire il diritto allo studio anche l\u2019Ordine degli Ingegneri di Bologna sta partecipando con una propria iniziativa: per venire incontro alle famiglie meno abbienti, nell\u2019ambito del progetto di volontariato per le Scuole, l\u2019Ordine degli Ingegneri ha recuperato direttamente da alcune aziende computer fissi e portatili dismessi che possono essere rigenerati."", ""Destinatari"": ""tutte e tutti"", ""Link"": ""http://www.bolognatoday.it/cronaca/ordine-ingegneri-pc-dismessi-bologna.html?fbclid=IwAR1RumUTFxDjK_z0ID1i-mAYcrJL_zH7jEQbRCzou0yuL3a-0Lpe689jNCc"", ""Natura"": ""solidale"", ""Posizione"": ""44.497771 11.348403 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""L'ordine degli ingegneri raccoglie pc dismessi per donarli a chi non ce l'ha""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2627,606377776,2020-04-24 20:31:05,2020-04-24 14:59:02,Ordine degli ingegneri di #Bologna cerca computer dismessi da rigenerare e donare a famiglie meno abbienti per la didattica a distanza,44.497771,11.348403,Emilia-Romagna,Bologna,"[""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine degli Ingegneri Bologna"", ""Descrizione"": ""L'ordine degli ingegneri di Bologna recupera computer dismessi per i ragazzi che non li hanno. Per per venire incontro alle famiglie meno abbienti, nell\u2019ambito del progetto di volontariato per le scuole, l\u2019Ordine sta recuperando direttamente da alcune aziende computer fissi e portatili dismessi che possono essere rigenerati e donati. Tutte le aziende che volessero dismettere i propri computer contribuendo cos\u00ec all\u2019iniziativa possono contattare l\u2019ingegnere Tizzani scrivendo a vincenzoandrea.tizzani@ordingbo.it"", ""Destinatari"": ""tutte e tutti"", ""Link"": ""https://www.ordingbo.it/2020/04/02/ingegneri-volontari-in-aiuto-delle-scuole/"", ""Natura"": ""solidale"", ""Posizione"": ""44.497771 11.348403 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""L'ordine degli ingegneri raccoglie pc dismessi per donarli a chi non ce l'ha""}","<pre><yamldata>
 Da_chi_offerta: Ordine degli Ingegneri Bologna
 Descrizione: 'L''ordine degli ingegneri di Bologna recupera computer dismessi per
-  i ragazzi che non li hanno. Vista l’emergenza coronavirus continua la didattica
-  online e la necessità per le famiglie di avere in casa dispositivi che consentano
-  ai loro figli di partecipare alle lezioni telematiche. A Bologna la domanda di molte
-  famiglie è stata soddisfatta grazie quasi sempre alle forniture delle scuole. Per
-  garantire il diritto allo studio anche l’Ordine degli Ingegneri di Bologna sta partecipando
-  con una propria iniziativa: per venire incontro alle famiglie meno abbienti, nell’ambito
-  del progetto di volontariato per le Scuole, l’Ordine degli Ingegneri ha recuperato
+  i ragazzi che non li hanno. Per
+  per venire incontro alle famiglie meno abbienti, nell’ambito
+  del progetto di volontariato per le scuole, l’Ordine sta recuperando
   direttamente da alcune aziende computer fissi e portatili dismessi che possono essere
-  rigenerati.'
+  rigenerati e donati. Tutte le aziende che volessero dismettere i propri computer contribuendo così all’iniziativa possono contattare l’ingegnere Tizzani scrivendo a vincenzoandrea.tizzani@ordingbo.it'
 Destinatari: tutte e tutti
-Link: http://www.bolognatoday.it/cronaca/ordine-ingegneri-pc-dismessi-bologna.html?fbclid=IwAR1RumUTFxDjK_z0ID1i-mAYcrJL_zH7jEQbRCzou0yuL3a-0Lpe689jNCc
+Link: https://www.ordingbo.it/2020/04/02/ingegneri-volontari-in-aiuto-delle-scuole/
 Natura: solidale
 Posizione: 44.497771 11.348403 0 0
 Tipo_di_soggetto: privato
