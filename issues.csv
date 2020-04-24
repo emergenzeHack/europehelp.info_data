@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2623,606367817,2020-04-24 14:50:48,2020-04-24 14:45:21,"Croce Rossa Italiana è alla ricerca di medici, infermieri e operatori socio sanitari con disponibilità immediata",,,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cerchiamo medici, infermieri e oss"", ""Descrizione"": ""Se sei un medico, un infermiere o un operatore socio sanitario con disponibilit\u00e0 immediata e voglia di supportarci, registrati sul sito  https://operatorisanitari.cri.it/"", ""Destinatari"": ""Medici, infermieri e oss"", ""Email"": ""milano@cri.it"", ""Indirizzo"": ""45.463973 9.189499 0 0"", ""Link"": ""https://operatorisanitari.cri.it/"", ""Nome"": ""Croce Rossa Italiana""}","<pre><yamldata>
+Cosa: Cerchiamo medici, infermieri e oss
+Descrizione: Se sei un medico, un infermiere o un operatore socio sanitario con disponibilità
+  immediata e voglia di supportarci, registrati sul sito  https://operatorisanitari.cri.it/
+Destinatari: Medici, infermieri e oss
+Email: milano@cri.it
+Indirizzo: 45.463973 9.189499 0 0
+Link: https://operatorisanitari.cri.it/
+Nome: Croce Rossa Italiana
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2622,606364993,2020-04-24 14:47:11,2020-04-24 14:41:32,Il Ministero della Salute informa sulla salute della donna ai tempi del Covid-19,,,tutte,,"[""Bollettino"", ""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""La salute della donna ai tempi di Covid-19"", ""Descrizione"": ""Il ministero offre una sintesi dei dati relativi alle differenze di contagio e mortalit\u00e0 in uomini e donne e sulle ripercussioni di Covid-19 su depressione, allattamento, violenza sulle donne, assistenza nel percorso nascita; numeri utili e App cui rivolgersi sui temi dedicati alla salute al femminile."", ""Fonte"": ""Ministero della Salute"", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4565&fbclid=IwAR151lUORNS8rGMvBvCIzxMbrNe0rhn6zH4j1XEqOO43imWeIIai2ll614w"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Cosa: La salute della donna ai tempi di Covid-19
 Descrizione: Il ministero offre una sintesi dei dati relativi alle differenze di contagio
