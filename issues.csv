@@ -1,4 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2628,606434000,2020-04-24 20:49:47,2020-04-24 16:23:28,A #Torino l’Associazione Traumi Encefalici cerca tablet da donare ai propri utenti per attività terapeutiche a distanza,,,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""TABLET"", ""Descrizione"": ""Da circa 2 mesi abbiamo messo in atto delle sessioni di videoconferenza trisettimanali per i nostri utenti, e per le loro famiglie svolgendo comunque le attivit\u00e0 terapeutiche che prima della pandemia svolgevamo nei locali del Centro servizi IL VOLTO di Torino.\nPurtroppo per\u00f2 i non tutti i nostri utenti hanno disponibili un PC per questo utilizzo e non si possono permettere questa spesa.\nChiediamo quindi, se possibile, ricevere 20/25 TABLET  ad uso gratuito o perlomeno una sovvenzione che ci aiuti a dotare i nostri utenti di questo strumento.\nwww.associazioneate.it"", ""Destinatari"": ""PERSONE ADULTE CON ESITI DA TRAUMI ENCEFALICI"", ""Email"": ""associazioneate@gmail.com"", ""Indirizzo"": ""45.068308 -352.314548 0 0"", ""Link"": ""www.associazioneate.it"", ""Nome"": ""A.T.E. odv"", ""Telefono"": ""3488537610""}","<pre><yamldata>
+Cosa: TABLET
+Descrizione: 'Da circa 2 mesi abbiamo messo in atto delle sessioni di videoconferenza
+  trisettimanali per i nostri utenti, e per le loro famiglie svolgendo comunque le
+  attività terapeutiche che prima della pandemia svolgevamo nei locali del Centro
+  servizi IL VOLTO di Torino.
+
+  Purtroppo però i non tutti i nostri utenti hanno disponibili un PC per questo utilizzo
+  e non si possono permettere questa spesa.
+
+  Chiediamo quindi, se possibile, ricevere 20/25 TABLET  ad uso gratuito o perlomeno
+  una sovvenzione che ci aiuti a dotare i nostri utenti di questo strumento.
+
+  www.associazioneate.it'
+Destinatari: PERSONE ADULTE CON ESITI DA TRAUMI ENCEFALICI
+Email: associazioneate@gmail.com
+Indirizzo: 45.068308 -352.314548 0 0
+Link: www.associazioneate.it
+Nome: A.T.E. odv
+Telefono: '3488537610'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2627,606377776,2020-04-24 20:32:33,2020-04-24 14:59:02,Ordine degli ingegneri di #Bologna cerca computer dismessi da rigenerare e donare a famiglie meno abbienti per la didattica a distanza,44.497771,11.348403,Emilia-Romagna,Bologna,"[""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine degli Ingegneri Bologna"", ""Descrizione"": ""L'ordine degli ingegneri di Bologna recupera computer dismessi per i ragazzi che non li hanno. Per per venire incontro alle famiglie meno abbienti, nell\u2019ambito del progetto di volontariato per le scuole, l\u2019Ordine sta recuperando direttamente da alcune aziende computer fissi e portatili dismessi che possono essere rigenerati e donati. Tutte le aziende che volessero dismettere i propri computer contribuendo cos\u00ec all\u2019iniziativa possono contattare l\u2019ingegnere Tizzani scrivendo a vincenzoandrea.tizzani@ordingbo.it"", ""Destinatari"": ""tutte e tutti"", ""Link"": ""https://www.ordingbo.it/2020/04/02/ingegneri-volontari-in-aiuto-delle-scuole/"", ""Natura"": ""solidale"", ""Posizione"": ""44.497771 11.348403 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""L'ordine degli ingegneri raccoglie pc dismessi per donarli a chi non ce l'ha""}","<pre><yamldata>
 Da_chi_offerta: Ordine degli Ingegneri Bologna
 Descrizione: 'L''ordine degli ingegneri di Bologna recupera computer dismessi per
@@ -51,18 +72,15 @@ Posizione: 44.496254 11.342104 0 0
 Tipo_di_soggetto: privato
 Titolo: 'Dona la spesa con Coop Alleanza 3.0 Bologna'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2624,606369639,2020-04-24 15:04:07,2020-04-24 14:47:56,"#panoramidilibertà, una testimonianza di libertà dal balcone di casa per il 25 aprile 2020 ",45.464949,9.186557,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]","Milestone(title=""25 aprile 2020"", number=10)",,"{""Da_chi_offerta"": ""Cinevan, Radio Popolare, La scheggia associazione culturale, Alma Ros\u00e9, Arci Milano, Shareradio, Il Cinemino, Perimetro, Cooperativa Dar Casa, Il festival delle periferie a Milano, Dike Sociale - Segnali dal territorio e Campsirago Residenza"", ""Descrizione"": ""Il 25 aprile 2020 la porta delle nostre case rester\u00e0 chiusa.\nUna data cos\u00ec importante dovr\u00e0 essere celebrata all\u2019insegna dell\u2019isolamento sociale.\nSe possiedi un videoproiettore o un vecchio proiettore per diapositive, spolveralo e appoggialo sul davanzale della tua finestra.\nScegli una foto, scene di un film, visioni di paesaggi o immagini capaci di raccontare cosa \u00e8 per te oggi la Liberazione e proiettale sul muro dei tuoi vicini."", ""Destinatari"": ""tutte e tutti"", ""Link"": ""https://www.facebook.com/events/2837968476317134/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.464949 9.186557 0 0"", ""Titolo"": ""Panorami di Libert\u00e0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2624,606369639,2020-04-24 20:50:50,2020-04-24 14:47:56,"#panoramidilibertà, una testimonianza di libertà dal balcone di casa per il 25 aprile ",45.464949,9.186557,Lombardia,Milano,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]","Milestone(title=""25 aprile 2020"", number=10)",,"{""Da_chi_offerta"": ""Cinevan, Radio Popolare, La scheggia associazione culturale, Alma Ros\u00e9, Arci Milano, Shareradio, Il Cinemino, Perimetro, Cooperativa Dar Casa, Il festival delle periferie a Milano, Dike Sociale - Segnali dal territorio e Campsirago Residenza"", ""Descrizione"": ""Il 25 aprile 2020 la porta delle nostre case rester\u00e0 chiusa. Una data cos\u00ec importante dovr\u00e0 essere celebrata all\u2019insegna dell\u2019isolamento sociale. Se possiedi un videoproiettore o un vecchio proiettore per diapositive, spolveralo e appoggialo sul davanzale della tua finestra. Scegli una foto, scene di un film, visioni di paesaggi o immagini capaci di raccontare cosa \u00e8 per te oggi la Liberazione e proiettale sul muro dei tuoi vicini."", ""Destinatari"": ""tutte e tutti"", ""Link"": ""https://www.facebook.com/events/2837968476317134/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.464949 9.186557 0 0"", ""Titolo"": ""Panorami di Libert\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Cinevan, Radio Popolare, La scheggia associazione culturale, Alma
   Rosé, Arci Milano, Shareradio, Il Cinemino, Perimetro, Cooperativa Dar Casa, Il
   festival delle periferie a Milano, Dike Sociale - Segnali dal territorio e Campsirago
   Residenza
 Descrizione: 'Il 25 aprile 2020 la porta delle nostre case resterà chiusa.
-
   Una data così importante dovrà essere celebrata all’insegna dell’isolamento sociale.
-
   Se possiedi un videoproiettore o un vecchio proiettore per diapositive, spolveralo
   e appoggialo sul davanzale della tua finestra.
-
   Scegli una foto, scene di un film, visioni di paesaggi o immagini capaci di raccontare
   cosa è per te oggi la Liberazione e proiettale sul muro dei tuoi vicini.'
 Destinatari: tutte e tutti
