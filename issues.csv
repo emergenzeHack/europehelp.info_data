@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2615,605767830,2020-04-24 08:54:16,2020-04-23 18:39:49,Circolare del Ministero della salute sui test diagnostici e su criteri per definire le priorità - 03 aprile 2020,,,,,"[""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""circolare del Ministero sui test diagnostici e su criteri per definire le priorit\u00e0"", ""Descrizione"": ""Emanata il 3 aprile dal ministero della Salute la circolare che fornisce l\u2019aggiornamento delle indicazioni sui test diagnostici e sui criteri da adottare nella determinazione delle priorit\u00e0 e l\u2019aggiornamento delle indicazioni relative alla diagnosi di laboratorio.\n\nIl documento, seguendo le raccomandazioni dell\u2019Organizzazione mondiale della sanit\u00e0 (OMS) e della Commissione europea (EUCOMM), ravvisa la necessit\u00e0 di adattare una strategia che individui priorit\u00e0 per l'esecuzione dei test diagnostici per il nuovo coronavirus al fine di assicurare un uso ottimale delle risorse e alleviare la pressione sui laboratori designati dalle Regioni/Province autonome (PA).\n\nLa circolare fornisce informazioni su test molecolari rapidi CE-IVD e/o EUA/FDA (Point of Care tests, POCT) sottolineando che \u201cbasati sulla rilevazione dei geni virali direttamente nelle secrezioni respiratorie permetterebbero di ottenere risultati in tempi brevi. Secondo il Comitato Tecnico Scientifico (CTS), questi test, in grado attualmente di processare solo pochi campioni contemporaneamente, potrebbero essere utili nei casi in cui la diagnosi di infezione da nuovo coronavirus assuma carattere di urgenza\u201d. Il documento fornisce l\u2019elenco dei kit diagnostici e delle aziende certificate produttrici e/o distributrici, predisposto dal gruppo di lavoro \u201cdiagnostici in vitro\u201d del CTS ed evidenzia che \u201cla diagnosi molecolare per casi di infezione da SARS-CoV-2 va eseguita presso i laboratori di riferimento regionali e laboratori aggiuntivi individuati dalle regioni secondo le modalit\u00e0 concordate con il Laboratorio di Riferimento Nazionale dell'Istituto Superiore di Sanit\u00e0\u201d.\n\nIl documento interviene anche sui test sierologici ritenendo che siano \u201cmolto importanti nella ricerca e nella valutazione epidemiologica della circolazione virale. Diversamente, come attualmente anche l'OMS raccomanda, per il loro uso nell'attivit\u00e0 diagnostica d\u2019infezione in atto da SARS-CoV-2, necessitano di ulteriori evidenze sulle loro performance e utilit\u00e0 operativa\u201d.\n\nQualora in aree con diffusa trasmissione di COVID-19 la capacit\u00e0 di laboratorio non consenta di effettuare le analisi diagnostiche previste dalla circolare del 20 marzo 2020, andr\u00e0 valutata, inoltre, la possibilit\u00e0 di ampliare ulteriormente il numero di laboratori aggiuntivi identificati dalle Regioni/PA e coordinati dai laboratori di riferimento regionali, considerando la possibilit\u00e0 di utilizzare laboratori mobili o drive-in clinics, consistenti in strutture per il prelievo di campioni attraverso il finestrino aperto dell\u2019automobile su cui permane il paziente. Secondo la Commissione europea, queste strutture permettono di ridurre il rischio di infezione al personale sanitario o ad altri pazienti."", ""Fonte"": ""Ministero della Salute"", ""Link"": ""http://www.trovanorme.salute.gov.it/norme/renderNormsanPdf?anno=2020&codLeg=73799&parte=1%20&serie=null""}","<pre><yamldata>
+Cosa: circolare del Ministero sui test diagnostici e su criteri per definire le priorità
+Descrizione: 'Emanata il 3 aprile dal ministero della Salute la circolare che fornisce
+  l’aggiornamento delle indicazioni sui test diagnostici e sui criteri da adottare
+  nella determinazione delle priorità e l’aggiornamento delle indicazioni relative
+  alla diagnosi di laboratorio.
+
+
+  Il documento, seguendo le raccomandazioni dell’Organizzazione mondiale della sanità
+  (OMS) e della Commissione europea (EUCOMM), ravvisa la necessità di adattare una
+  strategia che individui priorità per l''esecuzione dei test diagnostici per il nuovo
+  coronavirus al fine di assicurare un uso ottimale delle risorse e alleviare la pressione
+  sui laboratori designati dalle Regioni/Province autonome (PA).
+
+
+  La circolare fornisce informazioni su test molecolari rapidi CE-IVD e/o EUA/FDA
+  (Point of Care tests, POCT) sottolineando che “basati sulla rilevazione dei geni
+  virali direttamente nelle secrezioni respiratorie permetterebbero di ottenere risultati
+  in tempi brevi. Secondo il Comitato Tecnico Scientifico (CTS), questi test, in grado
+  attualmente di processare solo pochi campioni contemporaneamente, potrebbero essere
+  utili nei casi in cui la diagnosi di infezione da nuovo coronavirus assuma carattere
+  di urgenza”. Il documento fornisce l’elenco dei kit diagnostici e delle aziende
+  certificate produttrici e/o distributrici, predisposto dal gruppo di lavoro “diagnostici
+  in vitro” del CTS ed evidenzia che “la diagnosi molecolare per casi di infezione
+  da SARS-CoV-2 va eseguita presso i laboratori di riferimento regionali e laboratori
+  aggiuntivi individuati dalle regioni secondo le modalità concordate con il Laboratorio
+  di Riferimento Nazionale dell''Istituto Superiore di Sanità”.
+
+
+  Il documento interviene anche sui test sierologici ritenendo che siano “molto importanti
+  nella ricerca e nella valutazione epidemiologica della circolazione virale. Diversamente,
+  come attualmente anche l''OMS raccomanda, per il loro uso nell''attività diagnostica
+  d’infezione in atto da SARS-CoV-2, necessitano di ulteriori evidenze sulle loro
+  performance e utilità operativa”.
+
+
+  Qualora in aree con diffusa trasmissione di COVID-19 la capacità di laboratorio
+  non consenta di effettuare le analisi diagnostiche previste dalla circolare del
+  20 marzo 2020, andrà valutata, inoltre, la possibilità di ampliare ulteriormente
+  il numero di laboratori aggiuntivi identificati dalle Regioni/PA e coordinati dai
+  laboratori di riferimento regionali, considerando la possibilità di utilizzare laboratori
+  mobili o drive-in clinics, consistenti in strutture per il prelievo di campioni
+  attraverso il finestrino aperto dell’automobile su cui permane il paziente. Secondo
+  la Commissione europea, queste strutture permettono di ridurre il rischio di infezione
+  al personale sanitario o ad altri pazienti.'
+Fonte: Ministero della Salute
+Link: http://www.trovanorme.salute.gov.it/norme/renderNormsanPdf?anno=2020&codLeg=73799&parte=1%20&serie=null
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2611,605595628,2020-04-24 08:37:06,2020-04-23 14:40:25,"L'I.C. ""Sacco"" di #Fossano in provincia di #Cuneo propone materiali per la didattica a distanza in occasione della giornata della terra",44.55289515,7.725540740856184,Piemonte,Cuneo,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Comprensivo \""Federico Sacco\"""", ""Descrizione"": ""I nonni han curato per noi l'insalata e le fragole dell'orto. I fiori che abbiamo piantato ed annaffiato sono in fiore! Dai cartelloni pensati dai bambini grandi, tutti abbiamo imparato a fare azioni per aiutare la terra. Sono azioni importantissime. Se riusciamo a farle anche ora che siamo a casa, il nostro pianeta sar\u00e0 pi\u00f9 bello!\n\nIl filmato fa parte di una pi\u00f9 ampia raccolta di proposte per la didattica a distanza  - nella Scuola dell'Infanzia, Scuola Elementare e Media - dell' Istituto Comprensivo\n\n\n  http://www.icsacco.it/didattica-a-distanza.html"", ""Destinatari"": ""Scuola dell'Infanzia"", ""Link"": ""https://drive.google.com/drive/folders/1MU4gPa99AYIv1J2XnYclo20QWb50fKpd"", ""Natura"": ""didattica"", ""Posizione"": ""44.55289515 7.725540740856184 0 0"", ""Titolo"": ""Bambini ... anche adesso che siamo a casa, facciamo bella la terra!""}","<pre><yamldata>
 Da_chi_offerta: Istituto Comprensivo ""Federico Sacco""
 Descrizione: ""I nonni han curato per noi l'insalata e le fragole dell'orto. I fiori\
