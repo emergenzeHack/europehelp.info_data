@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2632,606628737,2020-04-25 13:59:45,2020-04-24 23:04:17,"Misure più stringenti contro il Covid-19 anche nei cantieri temporanei o mobili, pubblici e privati.",43.784294,11.261673,Toscana,Firenze,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Regione Toscana, ordinanza n.40 del 18 aprile sulle precauzioni da adottare nei cantieri toscani"", ""Descrizione"": ""Misure pi\u00f9 stringenti contro il Covid-19 anche nei cantieri temporanei o mobili, pubblici e privati. Sono i cantieri ad esempio di movimento terra, quelli stradali ma anche edili, di opere di bonifica o smontaggio e montaggio di prefabbricati, quelli per interventi di manutenzione e per la realizzazione di nuove infrastruture. Pure in questi ambienti di lavoro, fino ad oggi esclusi, si applicher\u00e0 di fatto il decalogo toscano anti-contagio deciso dal presidente della Regione il 18 aprile. L\u2019estensione entra in vigore con l\u2019ordinanza firmata ieri sera, la numero 40."", ""Fonte"": ""Regione Toscana"", ""Link"": ""http://www301.regione.toscana.it/bancadati/atti/Contenuto.xml?id=5250476&nomeFile=Ordinanza_del_Presidente_n.40_del_22-04-2020"", ""Posizione"": ""43.784294 11.261673 0 0""}","<pre><yamldata>
+Cosa: Regione Toscana, ordinanza n.40 del 18 aprile sulle precauzioni da adottare
+  nei cantieri toscani
+Descrizione: Misure più stringenti contro il Covid-19 anche nei cantieri temporanei
+  o mobili, pubblici e privati. Sono i cantieri ad esempio di movimento terra, quelli
+  stradali ma anche edili, di opere di bonifica o smontaggio e montaggio di prefabbricati,
+  quelli per interventi di manutenzione e per la realizzazione di nuove infrastruture.
+  Pure in questi ambienti di lavoro, fino ad oggi esclusi, si applicherà di fatto
+  il decalogo toscano anti-contagio deciso dal presidente della Regione il 18 aprile.
+  L’estensione entra in vigore con l’ordinanza firmata ieri sera, la numero 40.
+Fonte: Regione Toscana
+Link: http://www301.regione.toscana.it/bancadati/atti/Contenuto.xml?id=5250476&nomeFile=Ordinanza_del_Presidente_n.40_del_22-04-2020
+Posizione: 43.784294 11.261673 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2631,606627773,2020-04-25 13:45:03,2020-04-24 23:00:56,Non è vero il documento attribuito alla Questura di #Roma che vieterebbe ancune attività ricreative fino all'11 giugno,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Il falso documento della Questura di Roma con i divieti durante l'emergenza"", ""Descrizione"": ""Circola via Whatsapp lo screenshot di un documento attribuito alla Questura di Roma dove sarebbero riportati dei divieti in merito all\u2019emergenza Coronavirus nel nostro paese. Nel documento si sostiene che vi sia un divieto assoluto fino a data 11/06/2020 di svolgere determinate attivit\u00e0 a scopo ricreativo. Sulla sua pagina Facebook la Questura ha definito il documento un falso."", ""Link"": ""https://www.open.online/2020/04/24/coronavirus-il-falso-documento-della-questura-di-roma-con-i-divieti-per-le-attivita-ricreative-in-mare/""}","<pre><yamldata>
 Cosa: Il falso documento della Questura di Roma con i divieti durante l'emergenza
 Descrizione: Circola via Whatsapp lo screenshot di un documento attribuito alla Questura
@@ -5721,23 +5735,6 @@ Intestazione: Fondazione della Comunità Bergamasca
 Link: http://www.fondazionebergamo.it/sosteniamobergamo/?fbclid=IwAR2FgEwVT9Fp_96MgU8MAbKk0j4Zlxvs9KXVYydV9zvbDx2QSvAfP9HeLp0
 Nome: Fondazione della Comunità Bergamasca
 Posizione: 45.75666 9.75422
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2246,593820060,2020-04-21 00:04:01,2020-04-04 12:10:52,"Make in Italy, pagina web di incontro tra domanda e offerta di dispositivi sanitari stampati in 3D",45.488388,9.150925,tutte,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Make in Italy"", ""Descrizione"": ""L\u2019associazione Make in Italy (Milano) ha creato una pagina web di incontro tra domanda e offerta di dispositivi sanitari prodotti con stampa 3D. Attraverso una form stampatori 3D, aziende e FabLab possono offrire il proprio contributo per l\u2019emergenza in termini di materiali, produzione e progettazione di dispositivi. Attraverso un\u2019altra form, invece, \u00e8 possibile inoltrare richieste di dispositivi da parte di ospedali e operatori sanitari."", ""Destinatari"": ""Ospedali, aziende, stampatori 3D, FabLab"", ""Link"": ""http://www.makeinitaly.org/?fbclid=IwAR34Ds_JpJyMCDQUODxcUt0-56NANc5GB_lQqt7ctX8CX7XtJZKu6eP1oWE"", ""Natura"": ""solidale"", ""Posizione"": ""45.488388 9.150925 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Make in Italy, pagina web di incontro tra domanda e offerta di dispositivi sanitari stampati in 3D"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
-Da_chi_offerta: Make in Italy
-Descrizione: L’associazione Make in Italy (Milano) ha creato una pagina web di incontro
-  tra domanda e offerta di dispositivi sanitari prodotti con stampa 3D. Attraverso
-  una form stampatori 3D, aziende e FabLab possono offrire il proprio contributo per
-  l’emergenza in termini di materiali, produzione e progettazione di dispositivi.
-  Attraverso un’altra form, invece, è possibile inoltrare richieste di dispositivi
-  da parte di ospedali e operatori sanitari.
-Destinatari: Ospedali, aziende, stampatori 3D, FabLab
-Link: http://www.makeinitaly.org/?fbclid=IwAR34Ds_JpJyMCDQUODxcUt0-56NANc5GB_lQqt7ctX8CX7XtJZKu6eP1oWE
-Natura: solidale
-Posizione: 45.488388 9.150925 0 0
-Tipo_di_soggetto: privato
-Titolo: Make in Italy, pagina web di incontro tra domanda e offerta di dispositivi
-  sanitari stampati in 3D
-regione_manuale: tutte
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2246,593820060,2020-04-21 00:04:01,2020-04-04 12:10:52,"Make in Italy, pagina web di incontro tra domanda e offerta di dispositivi sanitari stampati in 3D",45.488388,9.150925,tutte,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Notizie Utili"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Make in Italy"", ""Descrizione"": ""L\u2019associazione Make in Italy (Milano) ha creato una pagina web di incontro tra domanda e offerta di dispositivi sanitari prodotti con stampa 3D. Attraverso una form stampatori 3D, aziende e FabLab possono offrire il proprio contributo per l\u2019emergenza in termini di materiali, produzione e progettazione di dispositivi. Attraverso un\u2019altra form, invece, \u00e8 possibile inoltrare richieste di dispositivi da parte di ospedali e operatori sanitari."", ""Destinatari"": ""Ospedali, aziende, stampatori 3D, FabLab"", ""Link"": ""http://www.makeinitaly.org/?fbclid=IwAR34Ds_JpJyMCDQUODxcUt0-56NANc5GB_lQqt7ctX8CX7XtJZKu6eP1oWE"", ""Natura"": ""solidale"", ""Posizione"": ""45.488388 9.150925 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Make in Italy, pagina web di incontro tra domanda e offerta di dispositivi sanitari stampati in 3D"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Make in Italy
@@ -17263,6 +17260,23 @@ Descrizione: ""Avviso rivolto alle aziende: \n\ncerchiamo aziende che siano in g
 Destinatari: Aziende
 Indirizzo: 45.565987 9.753113 0 0
 Link: https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioAvviso/istituzione/attivita-istituzionali/avv-mascherine-made-in-italy?fbclid=IwAR2PrPH-hrNeulcbPX_JDmVsUu_8-pWY7S3YX0ywcSKegC9E_yxCVzk7IsM
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/992,585606646,2020-03-22 12:47:51,2020-03-21 23:37:05,#Versilia - consegne a domicilio - lista in aggiornamento,43.981007,10.201355,Toscana,Lucca,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ELENA LUISI, consigliere Comune di Seravezza"", ""Descrizione"": ""Al link una lista di esercizi commerciali che consegnano la spesa a domicilio.\nInoltre anche  Associazioni di Volontariato disponibili per la consegna di spesa e farmaci a domicilio per le persone costrette in casa dall'emergenza coronavirus o anziani e malati.\nIl territorio coperto \u00e8 la Versilia, e l'elenco \u00e8 in continuo aggiornamento"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/elena.luisi.12/posts/1477980665713976"", ""Natura"": ""solidale"", ""Posizione"": ""43.981007 10.201355 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""PER TUTTA LA #VERSILIA, #RIMANETE A CASA - CI SONO LORO PER TUTTO""}","<pre><yamldata>
+Da_chi_offerta: ELENA LUISI, consigliere Comune di Seravezza
+Descrizione: 'Al link una lista di esercizi commerciali che consegnano la spesa a
+  domicilio.
+
+  Inoltre anche  Associazioni di Volontariato disponibili per la consegna di spesa
+  e farmaci a domicilio per le persone costrette in casa dall''emergenza coronavirus
+  o anziani e malati.
+
+  Il territorio coperto è la Versilia, e l''elenco è in continuo aggiornamento'
+Destinatari: tutti
+Link: https://www.facebook.com/elena.luisi.12/posts/1477980665713976
+Natura: solidale
+Posizione: 43.981007 10.201355 0 0
+Tipo_di_soggetto: privato
+Titolo: 'PER TUTTA LA #VERSILIA, #RIMANETE A CASA - CI SONO LORO PER TUTTO'
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/992,585606646,2020-03-22 12:47:51,2020-03-21 23:37:05,#Versilia - consegne a domicilio - lista in aggiornamento,43.981007,10.201355,Toscana,Lucca,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ELENA LUISI, consigliere Comune di Seravezza"", ""Descrizione"": ""Al link una lista di esercizi commerciali che consegnano la spesa a domicilio.\nInoltre anche  Associazioni di Volontariato disponibili per la consegna di spesa e farmaci a domicilio per le persone costrette in casa dall'emergenza coronavirus o anziani e malati.\nIl territorio coperto \u00e8 la Versilia, e l'elenco \u00e8 in continuo aggiornamento"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/elena.luisi.12/posts/1477980665713976"", ""Natura"": ""solidale"", ""Posizione"": ""43.981007 10.201355 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""PER TUTTA LA #VERSILIA, #RIMANETE A CASA - CI SONO LORO PER TUTTO""}","<pre><yamldata>
 Da_chi_offerta: ELENA LUISI, consigliere Comune di Seravezza
