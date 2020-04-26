@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2804,607077263,2020-04-26 18:17:35,2020-04-26 18:13:46,"Il Comune di #Milano avvia il confronto con associazioni, categorie e cittadini per progettare la fase 2",45.46669,9.19041,Lombardia,Milano,"[""Bollettino"", ""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Il Comune di #Milano avvia la progettazione partecipata della fase 2"", ""Descrizione"": ""Il Comune di Milano avvia il confronto con associazioni, categorie e cittadini sul documento \u201cMilano 2020. Strategia di adattamento\u201d dedicato alla fase 2 dell\u2019emergenza Covid19"", ""Link"": ""https://www.comune.milano.it/aree-tematiche/partecipazione/milano-2020"", ""Posizione"": ""45.46669 9.19041""}","<pre><yamldata>
+Cosa: 'Il Comune di #Milano avvia la progettazione partecipata della fase 2'
+Descrizione: Il Comune di Milano avvia il confronto con associazioni, categorie e
+  cittadini sul documento “Milano 2020. Strategia di adattamento” dedicato alla fase
+  2 dell’emergenza Covid19
+Link: https://www.comune.milano.it/aree-tematiche/partecipazione/milano-2020
+Posizione: 45.46669 9.19041
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2803,607070643,2020-04-26 17:54:49,2020-04-26 17:46:17,"L’Istituto Superiore di Sanità  pubblica una guida in 8 lingue , dedicata a chi si prende cura degli anziani",,,,,"[""Bollettino"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""L\u2019ISS pubblica una guida per prendersi cura degli anziani in sicurezza."", ""Descrizione"": ""Una guida dedicata a chi si prende cura degli #anziani \u00e8 disponibile sul sito ISS in 8 lingue (inglese, francese, spagnolo e da luned\u00ec anche rumeno, polacco, russo portoghese e tamil) si rivolge a #badanti e da indicazioni su come accudire in sicurezza"", ""Fonte"": ""Istituto Superiore di Sanit\u00e0"", ""Link"": ""https://www.iss.it/covid-19-opuscoli""}","<pre><yamldata>
 Cosa: L’ISS pubblica una guida per prendersi cura degli anziani in sicurezza.
 Descrizione: 'Una guida dedicata a chi si prende cura degli #anziani è disponibile
