@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2812,607649720,2020-04-27 16:43:17,2020-04-27 15:40:07,Ordinanza 26 aprile 2020 - Disposizioni urgenti per la vendita al consumo di mascherine facciali,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Prezzo calmierato delle mascherine"", ""Descrizione"": ""ORDINANZA 26 aprile 2020  Disposizioni urgenti per la vendita al consumo di mascherine facciali. (Ordinanza n. 11). (20A02353) (GU Serie Generale n.108 del 27-04-2020)"", ""Fonte"": ""Gazzetta Ufficiale n. 108 del 27/4/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-04-27&atto.codiceRedazionale=20A02353&elenco30giorni=false""}","<pre><yamldata>
+Cosa: Prezzo calmierato delle mascherine
+Descrizione: ORDINANZA 26 aprile 2020  Disposizioni urgenti per la vendita al consumo
+  di mascherine facciali. (Ordinanza n. 11). (20A02353) (GU Serie Generale n.108 del
+  27-04-2020)
+Fonte: Gazzetta Ufficiale n. 108 del 27/4/2020
+Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-04-27&atto.codiceRedazionale=20A02353&elenco30giorni=false
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2811,607646276,2020-04-27 16:42:13,2020-04-27 15:35:19,Decreto Presidente del Consiglio del 26 aprile 2020 - Ulteriori disposizioni su contenimento e gestione emergenza Covid-19,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Decreto fase 2"", ""Descrizione"": ""DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 26 aprile 2020 - Ulteriori disposizioni attuative del decreto-legge 23 febbraio 2020, n. 6, recante misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19, applicabili sull'intero territorio nazionale. (20A02352) (GU Serie Generale n.108 del 27-04-2020)"", ""Fonte"": ""Gazzetta Ufficiale n. 108 del 27/4/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-04-27&atto.codiceRedazionale=20A02352&elenco30giorni=false""}","<pre><yamldata>
+Cosa: Decreto fase 2
+Descrizione: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 26 aprile 2020 - Ulteriori
+  disposizioni attuative del decreto-legge 23 febbraio 2020, n. 6, recante misure
+  urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19,
+  applicabili sull'intero territorio nazionale. (20A02352) (GU Serie Generale n.108
+  del 27-04-2020)
+Fonte: Gazzetta Ufficiale n. 108 del 27/4/2020
+Link: https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-04-27&atto.codiceRedazionale=20A02352&elenco30giorni=false
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2810,607526343,2020-04-27 16:28:37,2020-04-27 12:55:39,Associazione Maria Bianchi offre supporto per i bambini  in lutto a causa del covid19,45.190839,10.936418,tutte,Mantova,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Maria Bianchi"", ""Descrizione"": ""La nostra riflessione, a cura di Marcella Oliva (operatrice dell\u2019Unit\u00e0 Di Crisi Scolastica) per sostenere i bambini che in questo periodo hanno perso un famigliare, un parente o un amico per il Coronavirus: una serie di indicazioni, suggerimenti e azioni concrete.\n\nIl testo in allegato \u00e8 disponibile anche nella pagina Facebook dell\u2019Associazione e nella home-page del nostro sito (www.mariabianchi.it).\n\n\n---\nNicola Ferrari\nsupporto alle persone in lutto, formatore, autore\n\n348 - 3623379\nmariabianchi.it"", ""Destinatari"": ""famiglie/tutori"", ""Link"": ""https://www.facebook.com/notes/associazione-maria-bianchi/i-bambini-in-lutto-al-tempo-del-coronavirus-cosa-fare/3155083891171498/"", ""Natura"": ""solidale"", ""Posizione"": ""45.190839 10.936418 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""I bambini in lutto al tempo del coronavirus"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Associazione Maria Bianchi
 Descrizione: 'La nostra riflessione, a cura di Marcella Oliva (operatrice dell’Unità
