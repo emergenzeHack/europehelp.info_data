@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2808,607330267,2020-04-27 16:16:50,2020-04-27 08:06:04,Brigata Lia raccoglie beni di prima necessità in diversi luoghi del Municipio 9 a #Milano,45.502149,9.176602,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Brigata Lia"", ""Descrizione"": ""Grazie ai punti di raccolta siete voi stessi/e a poterci portare ci\u00f2 che volete donare, questa \u00e8 una grande occasione per chi volesse contribuire ma non sa dove trovarci:\n \u2022 il tabaccaio/ristorante \u201cLa Torre Milano\u201d in VIA CARLO IMBONATI 51, aperto dal luned\u00ec al venerd\u00ec tra le 10 e le 17;\n\u2022 la \u201cParafarmacia Soma\u201d in VIALE ZARA 112, aperta dal luned\u00ec al venerd\u00ec tra le 9 e le 12 e tra le 16 e le 19, mentre il sabato solo dalle 9 alle 12;\n\u2022 con i Pronto Intervento Clown, presso il sagrato della Chiesa di Santa Maria alla Fontana (PIAZZA S. MARIA FONTANA 7), aperto gioved\u00ec e venerd\u00ec dalle 15 alle 19.30\n\u2022 nel cortile del Frida, in VIA POLLAIUOLO 3, ogni LUNED\u00cc dalle 14.00 alle 18.00;\n\u2022 alla libreria, in VIA POLLAIUOLO 5, ogni MERCOLEDI\u2019 e SABATO dalle 10.00 alle 13.00.\n\nPer donazioni medie e grandi, contattateci sulla pagina o alla mail brigatalia@gmail.com : verremo noi a prenderla col furgone!"", ""Destinatari"": ""Abitanti municipio 9 Milano"", ""Natura"": ""solidale"", ""Posizione"": ""45.502149 9.176602 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Punti di raccolta spesa Minicipio 9 Milano""}","<pre><yamldata>
+Da_chi_offerta: Brigata Lia
+Descrizione: ""Grazie ai punti di raccolta siete voi stessi/e a poterci portare ciò\
+  \ che volete donare, questa è una grande occasione per chi volesse contribuire ma\
+  \ non sa dove trovarci:\n • il tabaccaio/ristorante “La Torre Milano” in VIA CARLO\
+  \ IMBONATI 51, aperto dal lunedì al venerdì tra le 10 e le 17;\n• la “Parafarmacia\
+  \ Soma” in VIALE ZARA 112, aperta dal lunedì al venerdì tra le 9 e le 12 e tra le\
+  \ 16 e le 19, mentre il sabato solo dalle 9 alle 12;\n• con i Pronto Intervento\
+  \ Clown, presso il sagrato della Chiesa di Santa Maria alla Fontana (PIAZZA S. MARIA\
+  \ FONTANA 7), aperto giovedì e venerdì dalle 15 alle 19.30\n• nel cortile del Frida,\
+  \ in VIA POLLAIUOLO 3, ogni LUNEDÌ dalle 14.00 alle 18.00;\n• alla libreria, in\
+  \ VIA POLLAIUOLO 5, ogni MERCOLEDI’ e SABATO dalle 10.00 alle 13.00.\n\nPer donazioni\
+  \ medie e grandi, contattateci sulla pagina o alla mail brigatalia@gmail.com : verremo\
+  \ noi a prenderla col furgone!""
+Destinatari: Abitanti municipio 9 Milano
+Natura: solidale
+Posizione: 45.502149 9.176602 0 0
+Tipo_di_soggetto: privato
+Titolo: Punti di raccolta spesa Minicipio 9 Milano
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2806,607117461,2020-04-27 15:09:03,2020-04-26 21:26:39,DonoSalute: raccolta fondi a sostegno dei reparti dell’Ospedale di #Biella #Piemonte,45.625563,8.074951,Piemonte,Biella,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""SELBIT2BXXX"", ""Causale"": ""\""Donazione Covid-19\"" seguito da Cognome, nome, codice fiscale del donatore"", ""Descrizione"": ""Con il progetto #DONOSALUTE \u00e8 possibile sostenere la raccolta fondi a sostegno dei reparti dell\u2019Ospedale di Biella che stanno fronteggiando l\u2019#emergenza #coronavirus: Rianimazione, Semintensiva, Pronto Soccorso...e per ogni altra necessit\u00e0 sanitaria che si render\u00e0 prioritaria.\n \nCausale: \u201cDonazione Covid-19\u201d seguito da cognome, nome e codice fiscale del donante.\n \nhttps://www.donosalute.it/\n \n\u00c8 la piattaforma ufficiale di raccolta fondi dell\u2019ospedale e dell\u2019Associazione Amici dell\u2019Ospedale."", ""Email"": ""urp@aslbi.piemonte.it"", ""IBAN"": ""IT56 F032 6844 4300 5211 7928 350"", ""Intestazione"": ""Amici Ospedale di Biella"", ""Link"": ""www.donosalute.it"", ""Nome"": ""Ospedale di Biella"", ""Posizione"": ""45.625563 8.074951 0 0""}","<pre><yamldata>
 BIC_SWIFT: SELBIT2BXXX
 Causale: '""Donazione Covid-19"" seguito da Cognome, nome, codice fiscale del donatore'
