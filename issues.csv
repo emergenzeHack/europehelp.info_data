@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2806,607117461,2020-04-27 15:09:03,2020-04-26 21:26:39,DonoSalute: raccolta fondi a sostegno dei reparti dell’Ospedale di #Biella #Piemonte,45.625563,8.074951,Piemonte,Biella,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""SELBIT2BXXX"", ""Causale"": ""\""Donazione Covid-19\"" seguito da Cognome, nome, codice fiscale del donatore"", ""Descrizione"": ""Con il progetto #DONOSALUTE \u00e8 possibile sostenere la raccolta fondi a sostegno dei reparti dell\u2019Ospedale di Biella che stanno fronteggiando l\u2019#emergenza #coronavirus: Rianimazione, Semintensiva, Pronto Soccorso...e per ogni altra necessit\u00e0 sanitaria che si render\u00e0 prioritaria.\n \nCausale: \u201cDonazione Covid-19\u201d seguito da cognome, nome e codice fiscale del donante.\n \nhttps://www.donosalute.it/\n \n\u00c8 la piattaforma ufficiale di raccolta fondi dell\u2019ospedale e dell\u2019Associazione Amici dell\u2019Ospedale."", ""Email"": ""urp@aslbi.piemonte.it"", ""IBAN"": ""IT56 F032 6844 4300 5211 7928 350"", ""Intestazione"": ""Amici Ospedale di Biella"", ""Link"": ""www.donosalute.it"", ""Nome"": ""Ospedale di Biella"", ""Posizione"": ""45.625563 8.074951 0 0""}","<pre><yamldata>
+BIC_SWIFT: SELBIT2BXXX
+Causale: '""Donazione Covid-19"" seguito da Cognome, nome, codice fiscale del donatore'
+Descrizione: ""Con il progetto #DONOSALUTE è possibile sostenere la raccolta fondi\
+  \ a sostegno dei reparti dell’Ospedale di Biella che stanno fronteggiando l’#emergenza\
+  \ #coronavirus: Rianimazione, Semintensiva, Pronto Soccorso...e per ogni altra necessità\
+  \ sanitaria che si renderà prioritaria.\n \nCausale: “Donazione Covid-19” seguito\
+  \ da cognome, nome e codice fiscale del donante.\n \nhttps://www.donosalute.it/\n\
+  \ \nÈ la piattaforma ufficiale di raccolta fondi dell’ospedale e dell’Associazione\
+  \ Amici dell’Ospedale.""
+Email: urp@aslbi.piemonte.it
+IBAN: IT56 F032 6844 4300 5211 7928 350
+Intestazione: Amici Ospedale di Biella
+Link: www.donosalute.it
+Nome: Ospedale di Biella
+Posizione: 45.625563 8.074951 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2805,607078180,2020-04-27 15:04:01,2020-04-26 18:17:19,l'Associazione Genitori Scuola Toti #Roma promuove la spesa solidale per le famiglie del quartiere,41.888241,12.528979,Lazio,Roma,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Genitori Scuola Toti"", ""Descrizione"": ""Dall'inizio del lockdown l'Associazione Genitori Scuola Toti sta  aiutando con una busta di spesa solidale le famiglie del quartiere che hanno problemi economici per perdita o diminuzione del lavoro. Sono stati destinati a questo progetto i fondi raccolti con gli ultimi mercatini fatti dall'associazione contributi dati da tante persone dall'inizio del lockdown. Si pu\u00f2 contribuire alla raccolta contattando l'associazione tramite sua la pagina facebook: \nhttps://www.facebook.com/Associazione-Genitori-Scuola-Toti-156726827697919/"", ""Destinatari"": ""famiglie del quartiere"", ""Link"": ""https://www.facebook.com/Associazione-Genitori-Scuola-Toti-156726827697919/"", ""Natura"": ""solidale"", ""Posizione"": ""41.888241 12.528979 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa solidale Pigneto #Roma""}","<pre><yamldata>
 Da_chi_offerta: Associazione Genitori Scuola Toti
 Descrizione: ""Dall'inizio del lockdown l'Associazione Genitori Scuola Toti sta  aiutando\
