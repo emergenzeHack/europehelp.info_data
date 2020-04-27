@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2805,607078180,2020-04-27 15:04:01,2020-04-26 18:17:19,l'Associazione Genitori Scuola Toti #Roma promuove la spesa solidale per le famiglie del quartiere,41.888241,12.528979,Lazio,Roma,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Genitori Scuola Toti"", ""Descrizione"": ""Dall'inizio del lockdown l'Associazione Genitori Scuola Toti sta  aiutando con una busta di spesa solidale le famiglie del quartiere che hanno problemi economici per perdita o diminuzione del lavoro. Sono stati destinati a questo progetto i fondi raccolti con gli ultimi mercatini fatti dall'associazione contributi dati da tante persone dall'inizio del lockdown. Si pu\u00f2 contribuire alla raccolta contattando l'associazione tramite sua la pagina facebook: \nhttps://www.facebook.com/Associazione-Genitori-Scuola-Toti-156726827697919/"", ""Destinatari"": ""famiglie del quartiere"", ""Link"": ""https://www.facebook.com/Associazione-Genitori-Scuola-Toti-156726827697919/"", ""Natura"": ""solidale"", ""Posizione"": ""41.888241 12.528979 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa solidale Pigneto #Roma""}","<pre><yamldata>
+Da_chi_offerta: Associazione Genitori Scuola Toti
+Descrizione: ""Dall'inizio del lockdown l'Associazione Genitori Scuola Toti sta  aiutando\
+  \ con una busta di spesa solidale le famiglie del quartiere che hanno problemi economici\
+  \ per perdita o diminuzione del lavoro. Sono stati destinati a questo progetto i\
+  \ fondi raccolti con gli ultimi mercatini fatti dall'associazione contributi dati\
+  \ da tante persone dall'inizio del lockdown. Si può contribuire alla raccolta contattando\
+  \ l'associazione tramite sua la pagina facebook: \nhttps://www.facebook.com/Associazione-Genitori-Scuola-Toti-156726827697919/""
+Destinatari: famiglie del quartiere
+Link: https://www.facebook.com/Associazione-Genitori-Scuola-Toti-156726827697919/
+Natura: solidale
+Posizione: 41.888241 12.528979 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Spesa solidale Pigneto #Roma'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2804,607077263,2020-04-26 18:17:35,2020-04-26 18:13:46,"Il Comune di #Milano avvia il confronto con associazioni, categorie e cittadini per progettare la fase 2",45.46669,9.19041,Lombardia,Milano,"[""Bollettino"", ""Dati utili"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Il Comune di #Milano avvia la progettazione partecipata della fase 2"", ""Descrizione"": ""Il Comune di Milano avvia il confronto con associazioni, categorie e cittadini sul documento \u201cMilano 2020. Strategia di adattamento\u201d dedicato alla fase 2 dell\u2019emergenza Covid19"", ""Link"": ""https://www.comune.milano.it/aree-tematiche/partecipazione/milano-2020"", ""Posizione"": ""45.46669 9.19041""}","<pre><yamldata>
 Cosa: 'Il Comune di #Milano avvia la progettazione partecipata della fase 2'
 Descrizione: Il Comune di Milano avvia il confronto con associazioni, categorie e
