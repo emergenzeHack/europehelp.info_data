@@ -1,5 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2813,607682328,2020-04-27 16:46:22,2020-04-27 16:25:55,Online brevi video realizzati da Scuola di Impresa Sociale - Consorzio SiR sull’utilizzo Dpi e sui corretti comportamenti che devono tenere operatori volontari e professionali ,,,,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Scuola di Impresa Sociale - Consorzio SiR"", ""Descrizione"": ""Si tratta di una serie di brevi video che sono a disposizione gratuitamente di chi si trova ad operare in contesti Covid-19. I video hanno l'obiettivo di informare su la natura del virus, sull'utilizzo dei DPI (mascherine, guanti, ecc.) e sui corretti comportamenti da tenere per la tutela della salute propria e delle persone con cui si entra in contatto."", ""Destinatari"": ""Operatori/trici volontari e professionali"", ""Link"": ""https://bit.ly/3aE4FjD"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiutiamo in sicurezza!""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2814,607684101,2020-04-27 16:51:08,2020-04-27 16:28:35,Risorse on line di Mestieri Lombardia per aiutare i giovani nella ricerca di lavoro,,,,,"[""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Mestieri Lombardia"", ""Descrizione"": ""Una raccolta di risorse on line che possono aiutare i giovani a prepararsi per il proprio percorso di ricerca del lavoro; un modo per valorizzare il tempo che il lock-down mette a disposizione di tutti, fruendo di opportunit\u00e0 che vengono selezionate affinch\u00e9 abbiamo specifiche caratteristiche: gratuite, di qualit\u00e0 elevata, accessibili da qualsiasi device."", ""Destinatari"": ""Giovani"", ""Link"": ""www.mestierilombardia.it/risorseonline"", ""Natura"": ""didattica"", ""Titolo"": ""Risorse on line""}","<pre><yamldata>
+Da_chi_offerta: Mestieri Lombardia
+Descrizione: 'Una raccolta di risorse on line che possono aiutare i giovani a prepararsi
+  per il proprio percorso di ricerca del lavoro; un modo per valorizzare il tempo
+  che il lock-down mette a disposizione di tutti, fruendo di opportunità che vengono
+  selezionate affinché abbiamo specifiche caratteristiche: gratuite, di qualità elevata,
+  accessibili da qualsiasi device.'
+Destinatari: Giovani
+Link: www.mestierilombardia.it/risorseonline
+Natura: didattica
+Titolo: Risorse on line
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2813,607682328,2020-04-27 16:49:16,2020-04-27 16:25:55,Online brevi video realizzati da Scuola di Impresa Sociale - Consorzio SiR sull’utilizzo Dpi e sui corretti comportamenti che devono tenere operatori volontari e professionali ,45.459885,9.2439283,tutte,Milano,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Scuola di Impresa Sociale - Consorzio SiR"", ""Descrizione"": ""Si tratta di una serie di brevi video che sono a disposizione gratuitamente di chi si trova ad operare in contesti Covid-19. I video hanno l'obiettivo di informare su la natura del virus, sull'utilizzo dei DPI (mascherine, guanti, ecc.) e sui corretti comportamenti da tenere per la tutela della salute propria e delle persone con cui si entra in contatto."", ""Destinatari"": ""Operatori/trici volontari e professionali"", ""Link"": ""https://bit.ly/3aE4FjD"", ""Natura"": ""solidale"", ""Posizione"": ""45.459885 9.2439283"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiutiamo in sicurezza!"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Scuola di Impresa Sociale - Consorzio SiR
 Descrizione: Si tratta di una serie di brevi video che sono a disposizione gratuitamente
   di chi si trova ad operare in contesti Covid-19. I video hanno l'obiettivo di informare
@@ -11,6 +23,8 @@ Link: https://bit.ly/3aE4FjD
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Aiutiamo in sicurezza!
+Posizione: 45.459885 9.2439283
+regione_manuale: tutte
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2812,607649720,2020-04-27 16:43:17,2020-04-27 15:40:07,Ordinanza 26 aprile 2020 - Disposizioni urgenti per la vendita al consumo di mascherine facciali,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Prezzo calmierato delle mascherine"", ""Descrizione"": ""ORDINANZA 26 aprile 2020  Disposizioni urgenti per la vendita al consumo di mascherine facciali. (Ordinanza n. 11). (20A02353) (GU Serie Generale n.108 del 27-04-2020)"", ""Fonte"": ""Gazzetta Ufficiale n. 108 del 27/4/2020"", ""Link"": ""https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-04-27&atto.codiceRedazionale=20A02353&elenco30giorni=false""}","<pre><yamldata>
 Cosa: Prezzo calmierato delle mascherine
