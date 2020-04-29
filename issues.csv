@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2846,609099085,2020-04-29 22:28:20,2020-04-29 14:23:28,"#Torino City Love offre gratuitamente risorse, azioni e competenze a supporto   di cittadini e imprese del territorio durante l’emergenza COVID-19",45.080006,7.656054,Piemonte,Torino,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Torino City Lab - Comune di Torino"", ""Descrizione"": ""Torino City Love \u00e8 un\u2019iniziativa di solidariet\u00e0 e di innovazione aperta rivolta ai partner di Torino City Lab e non solo per offrire gratuitamente risorse, azioni e competenze a supporto di cittadini e imprese del territorio durante l\u2019emergenza COVID-19. \nAmbiti di interesse:\n- Lavoro e scuola: soluzioni di collaboration, connettivit\u00e0, strumenti e device per consentire il lavoro e lo studio da remoto.\n- Salute: soluzioni per il monitoraggio e la comunicazione a distanza.\n- Servizi informativi e digitali: soluzioni per la facilitazione di accesso a beni e servizi su scala locale.\n- Formazione:  risorse per la formazione di PA, imprese e professionisti. Una sezione in particolare \u00e8 dedicata alle opportunit\u00e0 sviluppate nell\u2019ambito dell\u2019iniziativa Torino Skills City.\n- Altro: ulteriori soluzioni/servizi in ambiti diversi ma con l'obiettivo comune di fornire servizi/utilit\u00e0 per una migliore vivibilit\u00e0 (es. leasure, cultura, mobilit\u00e0)."", ""Destinatari"": ""Cittadini, scuole, associazioni e imprese di Torino"", ""Link"": ""https://www.torinocitylab.com/it/submit-to/challenge/torino-city-love"", ""Natura"": ""solidale"", ""Posizione"": ""45.080006 7.656054 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Torino City Love offre gratuitamente risorse, azioni e competenze a supporto di cittadini e imprese del territorio durante l\u2019emergenza COVID-19""}","<pre><yamldata>
+Da_chi_offerta: Torino City Lab - Comune di Torino
+Descrizione: ""Torino City Love è un’iniziativa di solidarietà e di innovazione aperta\
+  \ rivolta ai partner di Torino City Lab e non solo per offrire gratuitamente risorse,\
+  \ azioni e competenze a supporto di cittadini e imprese del territorio durante l’emergenza\
+  \ COVID-19. \nAmbiti di interesse:\n- Lavoro e scuola: soluzioni di collaboration,\
+  \ connettività, strumenti e device per consentire il lavoro e lo studio da remoto.\n\
+  - Salute: soluzioni per il monitoraggio e la comunicazione a distanza.\n- Servizi\
+  \ informativi e digitali: soluzioni per la facilitazione di accesso a beni e servizi\
+  \ su scala locale.\n- Formazione:  risorse per la formazione di PA, imprese e professionisti.\
+  \ Una sezione in particolare è dedicata alle opportunità sviluppate nell’ambito\
+  \ dell’iniziativa Torino Skills City.\n- Altro: ulteriori soluzioni/servizi in ambiti\
+  \ diversi ma con l'obiettivo comune di fornire servizi/utilità per una migliore\
+  \ vivibilità (es. leasure, cultura, mobilità).""
+Destinatari: Cittadini, scuole, associazioni e imprese di Torino
+Link: https://www.torinocitylab.com/it/submit-to/challenge/torino-city-love
+Natura: solidale
+Posizione: 45.080006 7.656054 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Torino City Love offre gratuitamente risorse, azioni e competenze a supporto
+  di cittadini e imprese del territorio durante l’emergenza COVID-19
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2845,609093478,2020-04-29 22:25:57,2020-04-29 14:15:52,"È online Aiutiamo La Scuola, community di professionisti che offre supporto   gratuito per la didattica a distanza",,,tutte,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Community di professioni ed esperti"", ""Descrizione"": ""Un progetto non profit, una community di esperti e professionisti del mondo digitale uniti per dare un aiuto gratuito a docenti e studenti durante la chiusura della scuole a causa del Covid-19. Professori, maestri elementari, docenti universitari, studenti o genitori possono inviare le loro richieste d\u2019aiuto accedendo al sito web. Gli Esperti Digitali della community offrono il proprio tempo e le proprie competenze in maniera volontaria e del tutto gratuita."", ""Destinatari"": ""Professori, maestri elementari, docenti universitari, studenti, genitori"", ""Link"": ""https://www.aiutiamolascuola.it"", ""Natura"": ""didattica"", ""Titolo"": ""\u00c8 online Aiutiamo La Scuola, community di professionisti che offre supporto gratuito per la didattica a distanza"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Community di professioni ed esperti
 Descrizione: Un progetto non profit, una community di esperti e professionisti del
