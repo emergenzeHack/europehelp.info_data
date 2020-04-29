@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2842,608874867,2020-04-29 12:15:19,2020-04-29 08:32:08,Fondazione Arché e Coop. Nivalis attivano progetto di supporto educativo e psicologico per minori e famiglie a #Milano #Roma e #SanBenedettodelTronto,,,tutte,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Contatti"": ""Scrivi una mail a Marta Falanga, falanga@arche.it, 342 1169183."", ""Da_chi_offerta"": ""Fondazione Arch\u00e9"", ""Descrizione"": ""Il progetto nasce durante la pandemia Covid-19 e attraverso l\u2019uso di strumenti telematici, con l\u2019attivazione di un\u2019\u00e9quipe di professionisti e il supporto di volontari, mira a prevenire la nascita di problemi nel percorso scolastico (o il suo abbandono), garantendo un supporto educativo adeguato, favorendo le competenze genitoriali e monitorando il benessere psico-fisico di minori e genitori attraverso azioni di ascolto e sostegno psicologico."", ""Destinatari"": ""Famiglie messe in difficolt\u00e0 nel seguire il percorso educativo dei figli"", ""Link"": ""https://arche.it/cosa-facciamo/sostegno-alle-famiglie/smart-together/"", ""Luogo"": ""Milano, Roma, San Benedetto del Tronto (AP)."", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Smart Together"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+Da_chi_offerta: Fondazione Arché
+Descrizione: Il progetto nasce durante la pandemia Covid-19 e attraverso l’uso di
+  strumenti telematici, con l’attivazione di un’équipe di professionisti e il supporto
+  di volontari, mira a prevenire la nascita di problemi nel percorso scolastico (o
+  il suo abbandono), garantendo un supporto educativo adeguato, favorendo le competenze
+  genitoriali e monitorando il benessere psico-fisico di minori e genitori attraverso
+  azioni di ascolto e sostegno psicologico.
+Luogo: Milano, Roma, San Benedetto del Tronto (AP).
+Contatti: Scrivi una mail a Marta Falanga, falanga@arche.it, 342 1169183.
+Destinatari: Famiglie messe in difficoltà nel seguire il percorso educativo dei figli
+Link: https://arche.it/cosa-facciamo/sostegno-alle-famiglie/smart-together/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Smart Together
+regione_manuale: tutte
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2841,608857169,2020-04-29 12:04:40,2020-04-29 08:01:45,A #Milano Fondazione Arché offre supporto telefonico a nuclei familiari in difficoltà a causa dell'emergenza Covid-19 ,45.49410,9.20165,Lombardia,Milano,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Arch\u00e9"", ""Descrizione"": ""Offriamo affiancamento mediante la presa in carico delle richieste di supporto telefonico in merito alle difficolt\u00e0 incontrate nel periodo di isolamento domiciliare per Covid-19.\nIl tipo di assistenza fornita pu\u00f2 caratterizzarsi nel supporto pi\u00f9 semplice quale fornire informazioni e affiancare alle compilazioni online di moduli/istanze o richieste pi\u00f9 complesse.\nModalit\u00e0 di attivazione: Attraverso il contatto diretto con il numero 346 5097122, numero di servizio per il progetto. Condizioni del servizio: Il numero di telefono sar\u00e0 attivo dal luned\u00ec a gioved\u00ec dalle 10:00 alle 17:00 \u2013 il venerd\u00ec dalle 10:00 alle 16:00. Modalit\u00e0 di pagamento: Gratuit\u00e0. Contatti: Paola Ehsaei: ehsaei@arche.it, 346 5097122. Municipi in cui opera: Municipio 2 e Municipio 8."", ""Destinatari"": ""Nuclei familiari in difficolt\u00e0 a causa dell'emergenza sanitaria Covid-19"", ""Link"": ""https://arche.it/cosa-facciamo/sostegno-alle-famiglie/aiuta-adesso/"", ""Natura"": ""solidale"", ""Posizione"": ""45.49410 9.20165"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""AAA: Arch\u00e9 Aiuta Adesso""}","<pre><yamldata>
 Da_chi_offerta: Fondazione Arché
 Descrizione: 'Offriamo affiancamento mediante la presa in carico delle richieste di
