@@ -28093,15 +28093,15 @@ Posizione: 45.816926 9.22637 0 0
 Provincia: Como
 Regione: Lombardia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/343,580565243,2020-03-13 12:26:31,2020-03-13 12:18:03,Film in streaming gratuiti,,,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione cineteca di Milano"", ""Descrizione"": ""Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming dei film. Basta registrarsi: Cinetecamilano.it/biblioteca."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.cinetecamilano.it/biblioteca?fbclid=IwAR1K8eMp_mNmxMIH3jIyzvIWrLPAEPPSbI-Wizod7UsK6b6rGUs1OOPjuOk"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Film in streaming gratuiti""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/343,580565243,2020-04-30 09:13:02,2020-03-13 12:18:03,Film in streaming gratuiti,,,tutte,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione cineteca di Milano"", ""Descrizione"": ""Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming dei film. Basta registrarsi: Cinetecamilano.it/biblioteca."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.cinetecamilano.it/biblioteca"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Film in streaming gratuiti"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Da_chi_offerta: Fondazione cineteca di Milano
 Descrizione: 'Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming
   dei film. Basta registrarsi: Cinetecamilano.it/biblioteca.'
 Destinatari: Tutte e tutti
-Link: https://www.cinetecamilano.it/biblioteca?fbclid=IwAR1K8eMp_mNmxMIH3jIyzvIWrLPAEPPSbI-Wizod7UsK6b6rGUs1OOPjuOk
+Link: https://www.cinetecamilano.it/biblioteca
 Natura: culturale-ricr
 Titolo: Film in streaming gratuiti
-
+regione_manuale: tutte
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/342,580517319,2020-03-13 22:40:25,2020-03-13 10:44:24,Global Strike in digitale venerdì 13 marzo - Fridays For Future,,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""https://www.facebook.com/FridaysItalia/"", ""Descrizione"": ""un anno esatto dal primo 'Global Strike' purtroppo non sar\u00e0 possibile difendere il nostro futuro nelle piazze. Questo non significa smettere o arrendersi. Anzi! Alla crisi sanitaria noi rispondiamo essendo ancora pi\u00f9 attivi sui social e gridando ancora pi\u00f9 forte!\n\nCOME PARTECIPARE?\u2800\n Posta sul tuo profilo una foto mentre manifesti da casa con un cartellone sulla #CrisiClimatica!\u2800\n\u2800\nUsa gli hashtag #ClimateStrikeOnline e #DigitalStrike... E non dimenticarti di taggarci!\u2800\n\nSabato pubblicheremo una foto collage con tutti i partecipanti che ci avranno taggato!\u2800\n\nLEGGI IL COMUNICATO STAMPA DI FRIDAYS FOR FUTURE: https://www.fridaysforfutureitalia.it/sciopero-online-clima\u2026"", ""Link"": ""https://www.facebook.com/FridaysItalia/""}","<pre><yamldata>
 Cosa: https://www.facebook.com/FridaysItalia/
@@ -29715,13 +29715,13 @@ Posizione: 43.7148603 13.217754 0 0
 Provincia: Ancona
 Regione: Marche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-04-30 09:11:54,2020-03-11 09:16:45,Accesso gratuito catalogo film in streaming di Cineteca di #Milano,,,tutte,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Cosa"": ""Catalogo di film in streaming gratuiti"", ""Descrizione"": ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming dei film. \u00c8 sufficiente registrarsi."", ""Link"": ""https://www.cinetecamilano.it/biblioteca"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-04-30 09:13:28,2020-03-11 09:16:45,Accesso gratuito catalogo film in streaming di Cineteca di #Milano,,,tutte,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Cosa"": ""Catalogo di film in streaming gratuiti"", ""Descrizione"": ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming dei film. \u00c8 sufficiente registrarsi."", ""Link"": ""https://www.cinetecamilano.it/biblioteca"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Cosa: Catalogo di film in streaming gratuiti
 Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming\
   \ dei film. \xC8 sufficiente registrarsi.""
 Link: https://www.cinetecamilano.it/biblioteca
 regione_manuale: tutte
-</yamldata></pre>",open
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-16 23:12:43,2020-03-10 23:53:54,Raccolta fondi per aiutare ospedali a #Bologna,44.4936714,11.3430347,Emilia-Romagna,Bologna,"[""Raccolte fondi"", ""accettato""]",,,"{""Comune"": ""Bologna"", ""Posizione"": ""44.4936714 11.3430347 0 0"", ""Provincia"": ""Bologna"", ""Regione"": ""Emilia-Romagna"", ""chi"": ""Fondazione Policlinico Santa Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali di Bologna."", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>
 Comune: Bologna
 Posizione: 44.4936714 11.3430347 0 0
