@@ -25802,7 +25802,7 @@ Link: https://www.iusteam.net/iusteam-a-fianco-delle-piccole-imprese-delle-ditte
 Natura: sostegno-lavor
 Titolo: Sportello legale di orientamento durante l'emergenza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/566,581729234,2020-03-16 23:09:18,2020-03-15 16:03:21,Festival della Comunicazione #Camogli offre contenuti speciali sui propri social,44.348404,9.156246,Liguria,Genova,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Comune"": ""Camogli"", ""Da_chi_offerta"": ""Festival della Comunicazione Camogli"", ""Descrizione"": ""Il Festival della Comunicazione di Camogli aderisce alla campagna del Mibact per offrire contenuti speciali e vivere questo momento in compagnia dei protagonisti della cultura italiana. Abbiamo selezionato alcuni degli incontri e degli spettacoli pi\u00f9 interessanti delle edizioni passate (2014-2019). \nOgni giorno, a partire da luned\u00ec 16 marzo, sui nostri social un video per tenervi compagnia!\nFacebook: @FestivalComunicazione \nInstagram: @festivalcom"", ""Destinatari"": ""tutti"", ""Link"": ""www.festivalcomunicazione.it"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""44.348404 9.156246 0 0"", ""Provincia"": ""Genova"", ""Regione"": ""Liguria"", ""Titolo"": ""#iorestoacasa con il Festival della Comunicazione""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/566,581729234,2020-04-30 09:03:38,2020-03-15 16:03:21,Festival della Comunicazione #Camogli offre contenuti speciali sui propri social,44.348404,9.156246,tutte,Genova,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Comune"": ""Camogli"", ""Da_chi_offerta"": ""Festival della Comunicazione Camogli"", ""Descrizione"": ""Il Festival della Comunicazione di Camogli aderisce alla campagna del Mibact per offrire contenuti speciali e vivere questo momento in compagnia dei protagonisti della cultura italiana. Abbiamo selezionato alcuni degli incontri e degli spettacoli pi\u00f9 interessanti delle edizioni passate (2014-2019). \nOgni giorno, a partire da luned\u00ec 16 marzo, sui nostri social un video per tenervi compagnia!\nFacebook: @FestivalComunicazione \nInstagram: @festivalcom"", ""Destinatari"": ""tutti"", ""Link"": ""www.festivalcomunicazione.it"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""44.348404 9.156246 0 0"", ""Titolo"": ""#iorestoacasa con il Festival della Comunicazione"", ""regione_manuale"": ""tutte""}","<pre><yamldata>
 Comune: Camogli
 Da_chi_offerta: Festival della Comunicazione Camogli
 Descrizione: ""Il Festival della Comunicazione di Camogli aderisce alla campagna del\
@@ -25815,9 +25815,8 @@ Destinatari: tutti
 Link: www.festivalcomunicazione.it
 Natura: culturale-ricr
 Posizione: 44.348404 9.156246 0 0
-Provincia: Genova
-Regione: Liguria
 Titolo: '#iorestoacasa con il Festival della Comunicazione'
+regione_manuale: tutte
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/565,581724699,2020-03-24 21:44:41,2020-03-15 15:49:13,Centro Nazionale Sangue: mappa punti di raccolta sangue su tutto il territorio nazionale,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mappa punti di raccolta per la donazione del sangue su tutto il territorio nazionale"", ""Descrizione"": ""Sul sito del Centro nazionale sangue \u00e8 disponibile un sistema di localizzazione dei Punti di Raccolta aperti ai cittadini su tutto il territorio italiano. Per effettuare la ricerca \u00e8 sufficiente selezionare dalla mappa o dai menu a tendina a sinistra la propria regione, la provincia e il comune. \nDai risultati della ricerca si potr\u00e0 conoscere l'indirizzo del Punto di Raccolta e decidere il percorso pi\u00f9 breve dove effettuare la Donazione tramite una Mappa Interattiva."", ""Fonte"": ""Centro nazionale sangue"", ""Link"": ""https://cns.sanita.it/GEOBLOOD/""}","<pre><yamldata>
 Cosa: Mappa punti di raccolta per la donazione del sangue su tutto il territorio nazionale
@@ -29871,7 +29870,7 @@ provincia: Italia
 regione: Italia
 tag: Didattica a distanza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-16 23:12:56,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,40.734205,13.947125,Campania,Napoli,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Comune"": ""Ischia"", ""Posizione"": ""40.734205 13.947125 0 0"", ""Provincia"": ""Napoli"", ""Regione"": ""Campania"", ""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-04-30 09:04:21,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,40.734205,13.947125,tutte,Napoli,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Comune"": ""Ischia"", ""Posizione"": ""40.734205 13.947125 0 0"", ""Provincia"": ""Napoli"", ""Regione"": ""Campania"", ""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""regione_manuale"": ""tutte"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>
 Comune: Ischia
 Posizione: 40.734205 13.947125 0 0
 Provincia: Napoli
@@ -29881,9 +29880,8 @@ comune: Italia
 contatti: ''
 descrizione: Visione libera e gratuita dei film in concorso a Ischia Film Festival
 destinatari: tutti
+regione_manuale: tutte
 fonte: http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM
-provincia: Italia
-regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-04-02 09:28:04,2020-03-10 23:53:39,Lettura giornaliera di tutto il Decamerone,,,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
