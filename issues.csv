@@ -1,4 +1,29 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2859,610101617,2020-05-01 09:41:20,2020-04-30 14:55:05,Online le Faq di Cittadinanzattiva sul coronavirus e su tutte le misure previste dai vari decreti,,,,,"[""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, le Faq di Cittadinanzattiva per capire tutto ci\u00f2 che prevede la normativa e le misure anti-contagio"", ""Descrizione"": ""Online le Faq di Cittadinanzattiva sul coronavirus e su tutte le misure previste dai vari decreti, compreso quello relativo alla fase 2. Le Faq sono articolate in 9 aree tematiche: - Salute - Trasporti e spostamenti - Fisco e Tasse - Mutui e agevolazioni - Utenze domestiche e telefonia - Scuola - Sport e tempo libero - Viaggi - Giustizia"", ""Link"": ""https://www.cittadinanzattiva.it/faq/salute/13022-coronavirus-le-faq-di-cittadinanzattiva.html#Salute""}","<pre><yamldata>
+Cosa: Coronavirus, le Faq di Cittadinanzattiva per capire tutto ciò che prevede la
+  normativa e le misure anti-contagio
+Descrizione: 'Online le Faq di Cittadinanzattiva sul coronavirus e su tutte le misure
+  previste dai vari decreti, compreso quello relativo alla fase 2. Le Faq sono articolate
+  in 9 aree tematiche:
+  - Salute
+  - Trasporti e spostamenti
+  - Fisco e Tasse
+  - Mutui e agevolazioni
+  - Utenze domestiche e telefonia
+  - Scuola
+  - Sport e tempo libero
+  - Viaggi
+  - Giustizia'
+Link: https://www.cittadinanzattiva.it/faq/salute/13022-coronavirus-le-faq-di-cittadinanzattiva.html#Salute
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2858,609967049,2020-05-01 09:40:19,2020-04-30 13:11:53,Ministero degli Interni: precisazioni in merito alle cerimonie funebri a seguito delle misure di contenimento e gestione dell’emergenza epidemiologica da Covid-19,,,,,"[""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cerimonie funebri: disposizioni operative"", ""Descrizione"": ""Quesito in ordine alla celebrazione della cerimonia funebre a seguito dell\u2019emanazione delle misure di contenimento e gestione dell\u2019emergenza epidemiologica da Covid-19."", ""Fonte"": ""Ministero degli Interni"", ""Link"": ""https://www.interno.gov.it/sites/default/files/allegati/circolare_cerimonie_funebri.pdf""}","<pre><yamldata>
+Cosa: 'Cerimonie funebri: disposizioni operative'
+Descrizione: Quesito in ordine alla celebrazione della cerimonia funebre a seguito
+  dell’emanazione delle misure di contenimento e gestione dell’emergenza epidemiologica
+  da Covid-19.
+Fonte: Ministero degli Interni
+Link: https://www.interno.gov.it/sites/default/files/allegati/circolare_cerimonie_funebri.pdf
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2856,609939166,2020-04-30 12:52:39,2020-04-30 12:49:20,Fondazione Brescia Musei offre laboratori virtuali e commenti delle opere online,45.53961,10.22530,Lombardia,Brescia,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""Da_chi_offerta"": ""Fondazione Brescia Musei"", ""Descrizione"": ""La Fondazione Brescia Musei mette a disposizione sulla propria pagina Facebook laboratori creativi online per bambini ma anche video di approfondimento per conoscere i tesori delle collezioni bresciane attraverso la voce dei loro curatori."", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/bresciamusei/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.53961 10.22530"", ""Titolo"": ""Laboratori virtuali e commenti delle opere delle collezioni""}","<pre><yamldata>
 Da_chi_offerta: Fondazione Brescia Musei
 Descrizione: La Fondazione Brescia Musei mette a disposizione sulla propria pagina
@@ -9920,19 +9945,6 @@ Scopo: 'EMERGENZA CORONAVIRUS - SERVIZI AI CITTADINI CON PIÙ DI 65 ANNI o NUCLE
   IN ISOLAMENTO E PRIVI DI RETE FAMILIARE
   SI SEGNALANO I NUOVI NUMERI DIRETTI DELL''UFFICIO SERVIZI SOCIALI: 035603041 E
   035603043'
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2145,592563684,2020-04-02 22:43:32,2020-04-02 11:36:27,D.O.P.O Piattaforma open source su progetti e proposte operative per affrontare il post-emergenza,,,,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Vari professionisti"", ""Descrizione"": ""DOPO sta per Design Oriented Postpamdemic Opportunities \u00e8 ed una piattaforma multidisciplinare open source nata da un\u2019idea di Flavia Brenci, Maurizio Carta e Mos\u00e8 Ricci. Primi propositi? Occuparsi ora del post-emergenza, studiando cosa si impara da questa situazione, mettere a valore diversi approcci progettuali, e avanzare proposte operative, tecnicamente fondate ed economicamente sostenibili."", ""Destinatari"": ""Cittadinanza attiva"", ""Link"": ""http://www.ppan.it/stories/piattaforma-open-source-post-covid-19/?fbclid=IwAR1MmLsToUJpCBQffXStP7AvHtkxAA3n0zM4aB6qhQlO-ao-v5AXl4CIcfo"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""D.O.P.O design oriented postpamdemic opportunities""}","<pre><yamldata>
-Da_chi_offerta: Vari professionisti
-Descrizione: DOPO sta per Design Oriented Postpamdemic Opportunities è ed una piattaforma
-  multidisciplinare open source nata da un’idea di Flavia Brenci, Maurizio Carta e
-  Mosè Ricci. Primi propositi? Occuparsi ora del post-emergenza, studiando cosa si
-  impara da questa situazione, mettere a valore diversi approcci progettuali, e avanzare
-  proposte operative, tecnicamente fondate ed economicamente sostenibili.
-Destinatari: Cittadinanza attiva
-Link: http://www.ppan.it/stories/piattaforma-open-source-post-covid-19/?fbclid=IwAR1MmLsToUJpCBQffXStP7AvHtkxAA3n0zM4aB6qhQlO-ao-v5AXl4CIcfo
-Natura: solidale
-Tipo_di_soggetto: privato
-Titolo: D.O.P.O design oriented postpamdemic opportunities
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2145,592563684,2020-04-02 22:43:32,2020-04-02 11:36:27,D.O.P.O Piattaforma open source su progetti e proposte operative per affrontare il post-emergenza,,,,,"[""Notizie Utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Vari professionisti"", ""Descrizione"": ""DOPO sta per Design Oriented Postpamdemic Opportunities \u00e8 ed una piattaforma multidisciplinare open source nata da un\u2019idea di Flavia Brenci, Maurizio Carta e Mos\u00e8 Ricci. Primi propositi? Occuparsi ora del post-emergenza, studiando cosa si impara da questa situazione, mettere a valore diversi approcci progettuali, e avanzare proposte operative, tecnicamente fondate ed economicamente sostenibili."", ""Destinatari"": ""Cittadinanza attiva"", ""Link"": ""http://www.ppan.it/stories/piattaforma-open-source-post-covid-19/?fbclid=IwAR1MmLsToUJpCBQffXStP7AvHtkxAA3n0zM4aB6qhQlO-ao-v5AXl4CIcfo"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""D.O.P.O design oriented postpamdemic opportunities""}","<pre><yamldata>
 Da_chi_offerta: Vari professionisti
