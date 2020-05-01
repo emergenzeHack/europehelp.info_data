@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2873,610766571,2020-05-01 14:08:12,2020-05-01 14:03:21,Asur #Marche cerca medici e infermieri per il Fiera Covid Hospital di #Civitanova,43.327738,13.677506,Marche,Macerata,"[""Notizie Utili"", ""Richiesta aiuto"", ""accettato"", ""form""]","Milestone(title=""1 luglio"", number=15)",,"{""Cosa"": ""Asur Marche cerca medici e infermieri per il Fiera Covid Hospital di Civitanova"", ""Descrizione"": ""Dirigenti di Anestesia, Rianimazione, Malattie dell\u2019Apparato Respiratorio, Malattie Infettive, Cardiologia, Medicina Interna, Radiodiagnostica. E poi: infermieri e tecnici sanitari di Radiologia. Sono queste le figure professionali ricercate dalla Regione Marche per la struttura di emergenza Covid-19 denominata \u201cCivitanova 100\u201d. Il personale \u00e8 quello gi\u00e0 dipendente delle sistema sanitario regionale, per cui l\u2019Asur Marche invita \u201cle Aree Vaste e le Aziende di appartenenza ad adottare le misure organizzative per il recupero del tempo delle assenze a giornata piena del personale aderente\u201d. Scadenza 30 giugno 2020."", ""Link"": ""https://www.asur.marche.it/documents/24401/742842/Avviso_pubblico.pdf"", ""Posizione"": ""43.327738 13.677506 0 0""}","<pre><yamldata>
+Cosa: Asur Marche cerca medici e infermieri per il Fiera Covid Hospital di Civitanova
+Descrizione: 'Dirigenti di Anestesia, Rianimazione, Malattie dell’Apparato Respiratorio,
+  Malattie Infettive, Cardiologia, Medicina Interna, Radiodiagnostica. E poi: infermieri
+  e tecnici sanitari di Radiologia. Sono queste le figure professionali ricercate
+  dalla Regione Marche per la struttura di emergenza Covid-19 denominata “Civitanova
+  100”.
+  Il personale è quello già dipendente delle sistema sanitario regionale, per cui
+  l’Asur Marche invita “le Aree Vaste e le Aziende di appartenenza ad adottare le
+  misure organizzative per il recupero del tempo delle assenze a giornata piena del
+  personale aderente”. Scadenza 30 giugno 2020.'
+Link: https://www.asur.marche.it/documents/24401/742842/Avviso_pubblico.pdf
+Posizione: 43.327738 13.677506 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2871,610411016,2020-05-01 09:54:18,2020-04-30 21:51:58,La bufala sul numero dei morti in Italia nel 2020 secondo Istat,,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""La bufala sul numero dei morti in Italia nel 2020 secondo Istat"", ""Descrizione"": ""Da circa un mese circola in varie forme sui social media e su WhatsApp una bufala secondo cui i dati ufficiali dell\u2019ISTAT mostrerebbero che i decessi avvenuti in Italia nei primi tre mesi del 2020 sono inferiori a quelli dello stesso periodo dell\u2019anno precedente. La pandemia di coronavirus, di conseguenza, sarebbe molto meno pericolosa di quanto viene raccontata. \u00c8 una notizia completamente falsa. L\u2019ISTAT infatti non ha ancora prodotto i dati definitivi sul numero di decessi nei primi tre mesi del 2020, mentre i dati parziali, che misurano l\u2019incremento di decessi in alcuni comuni selezionati, mostrano che il numero di morti rispetto ad un anno fa \u00e8 aumentato di quasi il 50 per cento. Al link l\u2019analisi del Post con ulteriori informazioni."", ""Link"": ""https://www.ilpost.it/2020/04/29/bufala-morti-istat/""}","<pre><yamldata>
 Cosa: La bufala sul numero dei morti in Italia nel 2020 secondo Istat
 Descrizione: 'Da circa un mese circola in varie forme sui social media e su WhatsApp
