@@ -1,4 +1,36 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2888,611246510,2020-05-02 19:25:59,2020-05-02 18:22:30,Diocesi di #Brescia attiva Fondo di Solidarietà per famiglie e persone in difficoltà a causa del coronavirus ,45.554449,10.224495,Lombardia,Brescia,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Diocesi di Brescia"", ""Descrizione"": ""Il vescovo di Brescia mons. Pierantonio Tremolada, per rispondere alle gravi emergenze generate dall\u2019epidemia Covid-19, ha istituito un Fondo di solidariet\u00e0 al quale sono chiamati a contribuire tutti i fedeli della Chiesa bresciana e primariamente \u00abla Caritas diocesana e i ministri ordinati, in particolare i presbiteri\u00bb. \nI destinatari del Fondo diocesano di solidariet\u00e0 sono persone e famiglie in situazione di povert\u00e0 o difficolt\u00e0 per la perdita del lavoro a seguito dell\u2019emergenza Covid-19. Sul sito della Diocesi \u00e8 disponibile il regolamento del Fondo e il modulo attraverso cui \u00e8 possibile inoltrare la richiesta di contributo.\nIl Fondo di solidariet\u00e0 \u00e8 aperto anche alle donazioni di privati con bonifico bancario avente come beneficiario la Diocesi di Brescia IBAN: IT63C 03111 11236 0000 0000 3463. Causale: FONDO SOLIDARIETA\u2019 COVID-19."", ""Destinatari"": ""Famiglie e persone in difficolt\u00e0 a causa del Covid19"", ""Link"": ""https://www.diocesi.brescia.it/main/coronavirus/fase-2/news/fondo-di-solidarieta-do.mani-alla-speranza"", ""Natura"": ""solidale"", ""Posizione"": ""45.554449 10.224495 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Diocesi di Brescia attiva Fondo di Solidariet\u00e0 per famiglie e persone in difficolt\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Diocesi di Brescia
+Descrizione: ""Il vescovo di Brescia mons. Pierantonio Tremolada, per rispondere alle\
+  \ gravi emergenze generate dall’epidemia Covid-19, ha istituito un Fondo di solidarietà\
+  \ al quale sono chiamati a contribuire tutti i fedeli della Chiesa bresciana e primariamente\
+  \ «la Caritas diocesana e i ministri ordinati, in particolare i presbiteri». \n\
+  I destinatari del Fondo diocesano di solidarietà sono persone e famiglie in situazione\
+  \ di povertà o difficoltà per la perdita del lavoro a seguito dell’emergenza Covid-19.\
+  \ Sul sito della Diocesi è disponibile il regolamento del Fondo e il modulo attraverso\
+  \ cui è possibile inoltrare la richiesta di contributo.\nIl Fondo di solidarietà\
+  \ è aperto anche alle donazioni di privati con bonifico bancario avente come beneficiario\
+  \ la Diocesi di Brescia IBAN: IT63C 03111 11236 0000 0000 3463. Causale: FONDO SOLIDARIETA’\
+  \ COVID-19.""
+Destinatari: Famiglie e persone in difficoltà a causa del Covid19
+Link: https://www.diocesi.brescia.it/main/coronavirus/fase-2/news/fondo-di-solidarieta-do.mani-alla-speranza
+Natura: solidale
+Posizione: 45.554449 10.224495 0 0
+Tipo_di_soggetto: privato
+Titolo: Diocesi di Brescia attiva Fondo di Solidarietà per famiglie e persone in difficoltà
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2887,611243527,2020-05-02 19:26:44,2020-05-02 18:06:15,"Restiamo vicini, la piattaforma del Comune di #Brescia per bambini e genitori",45.555891,10.217714,Lombardia,Brescia,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Brescia"", ""Descrizione"": ""Restiamo Vicini\u201d, ovvero una piattaforma virtuale su cui vengono caricati i contributi dei diversi servizi (video, immagini, testi) che ciascuna famiglia potr\u00e0 visionare insieme ai propri figli e dove potr\u00e0 trovare spunti utili per trascorrere le giornate a casa."", ""Destinatari"": ""Genitori e bambini"", ""Link"": ""https://restiamovicini.comune.brescia.it/"", ""Natura"": ""didattica"", ""Posizione"": ""45.555891 10.217714 0 0"", ""Titolo"": ""Restiamo vicini, la piattaforma del Comune di Brescia per bambini e genitori""}","<pre><yamldata>
+Da_chi_offerta: Comune di Brescia
+Descrizione: Restiamo Vicini”, ovvero una piattaforma virtuale su cui vengono caricati
+  i contributi dei diversi servizi (video, immagini, testi) che ciascuna famiglia
+  potrà visionare insieme ai propri figli e dove potrà trovare spunti utili per trascorrere
+  le giornate a casa.
+Destinatari: Genitori e bambini
+Link: https://restiamovicini.comune.brescia.it/
+Natura: didattica
+Posizione: 45.555891 10.217714 0 0
+Titolo: Restiamo vicini, la piattaforma del Comune di Brescia per bambini e genitori
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2879,611179000,2020-05-02 16:26:46,2020-05-02 12:38:33,"Ministero Infrastrutture e Trasporti: proroga termini di validità delle abilitazioni alla guida - artt. 103 e 104 del D.L. 17.03.2020, n. 103",,,,,"[""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Proroga dei termini di validit\u00e0 delle abilitazioni alla guida e dei documenti necessari per il loro rilascio o conferma di validit\u00e0, ai sensi degli articoli 103 e 104 decreto legge 17 marzo 2020, n. 18."", ""Descrizione"": ""L\u2019art. 103, comma 1 del decreto legge 17 marzo 2020, n. 18, convertito con legge 24 aprile 2020, n. 27- come modificato dall\u2019art. 37 del decreto legge 8 aprile 2020, n. 23 \u2013 dispone che \u201cIl termine del 15 aprile 2020 previsto dai commi 1 e 5 dell'articolo 103 del decreto-legge 17 marzo 2020, n. 18, \u00e8 prorogato al 15 maggio 2020\u201d."", ""Fonte"": ""Ministero delle Infrastrutture e dei Trasporti"", ""Link"": ""http://www.mit.gov.it/sites/default/files/media/normativa/2020-05/Circolare%2012058.pdf""}","<pre><yamldata>
 Cosa: Proroga dei termini di validità delle abilitazioni alla guida e dei documenti
   necessari per il loro rilascio o conferma di validità, ai sensi degli articoli 103
