@@ -1,4 +1,33 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2909,612000853,2020-05-04 16:23:17,2020-05-04 16:20:43,Free Now offre corse taxi gratuite al personale sanitario da e verso gli ospedali di #Milano e #Roma,45.4773,9.1815,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Free Now"", ""Descrizione"": ""La situazione di emergenza sanitaria che stiamo affrontando come Paese, richiede il contributo di ciascuno di noi. FREE NOW, in collaborazione con Q8, ha deciso di impegnarsi concretamente nella lotta contro la diffusione del coronavirus (COVID-19). Attraverso l\u2019App FREE NOW \u00e8 ora possibile selezionare un nuovo modo di viaggiare in taxi, dedicato al personale sanitario che ha la necessit\u00e0 di spostarsi da e verso gli ospedali di Milano e Roma con massima urgenza. Il servizio si chiama EROI, e rappresenta il nostro pi\u00f9 sentito ringraziamento per l\u2019impegno che tutti i medici, infermieri ed operatori delle strutture sanitarie italiane stanno garantendo in questo momento delicato. Ecco alcune informazioni pratiche sul funzionamento del servizio EROI. Il servizio \u00e8 completamente gratuito: baster\u00e0 selezionare, tra le modalit\u00e0 di viaggio disponibili in App, il taxi EROI; Una volta salito a bordo, sar\u00e0 necessario mostrare al tassista il tesserino o qualsiasi altro documento atto a comprovare la qualifica di medico, infermiere o membro dello staff sanitario; Il servizio \u00e8 al momento disponibile nelle sole citt\u00e0 di Milano e Roma, vista la maggiore necessit\u00e0 dal punto di vista sanitario. Tuttavia, \u00e8 nostra intenzione estendere il servizio anche nelle altre citt\u00e0 in cui FREE NOW \u00e8 attiva."", ""Destinatari"": ""Personale sanitario ospedali di Roma e Milano"", ""Link"": ""https://free-now.com/it/eroi/"", ""Natura"": ""solidale"", ""Posizione"": ""45.4773 9.1815"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Free Now offre corse taxi gratuite al personale sanitario da e verso gli ospedali di Milano e Roma""}","<pre><yamldata>
+Da_chi_offerta: Free Now
+Descrizione: 'La situazione di emergenza sanitaria che stiamo affrontando come Paese,
+  richiede il contributo di ciascuno di noi. FREE NOW, in collaborazione con Q8, ha
+  deciso di impegnarsi concretamente nella lotta contro la diffusione del coronavirus
+  (COVID-19).
+  Attraverso l’App FREE NOW è ora possibile selezionare un nuovo modo di viaggiare
+  in taxi, dedicato al personale sanitario che ha la necessità di spostarsi da e verso
+  gli ospedali di Milano e Roma con massima urgenza. Il servizio si chiama EROI, e
+  rappresenta il nostro più sentito ringraziamento per l’impegno che tutti i medici,
+  infermieri ed operatori delle strutture sanitarie italiane stanno garantendo in
+  questo momento delicato.
+  Ecco alcune informazioni pratiche sul funzionamento del servizio EROI.
+  Il servizio è completamente gratuito: basterà selezionare, tra le modalità di viaggio
+  disponibili in App, il taxi EROI;
+  Una volta salito a bordo, sarà necessario mostrare al tassista il tesserino o qualsiasi
+  altro documento atto a comprovare la qualifica di medico, infermiere o membro dello
+  staff sanitario;
+  Il servizio è al momento disponibile nelle sole città di Milano e Roma, vista la
+  maggiore necessità dal punto di vista sanitario. Tuttavia, è nostra intenzione estendere
+  il servizio anche nelle altre città in cui FREE NOW è attiva.'
+Destinatari: Personale sanitario ospedali di Roma e Milano
+Link: https://free-now.com/it/eroi/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Free Now offre corse taxi gratuite al personale sanitario da e verso gli ospedali
+  di Milano e Roma
+Posizione: 45.4773 9.1815
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2907,611893891,2020-05-04 14:00:56,2020-05-04 13:55:02,Ciessevi #Milano offre alle associazioni della città metropolitana servizio di ricerca volontari,45.4724139,9.1797453,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ciessevi - Centro servizi volontariato Milano"", ""Descrizione"": ""Il Centro servizi volontariato Milano offre alle associazioni presenti sul territorio un servizio di ricerca volontari che possa aiutarle a garantire con continuit\u00e0 la propria attivit\u00e0 di supporto e assistenza in questo periodo di emergenza. Per info e contatti: tel. 02 45475851, promozione.milano@csvlombardia.it"", ""Destinatari"": ""Associazioni citt\u00e0 metropolitana Milano"", ""Link"": ""http://www.csvlombardia.it/milano/post/hai-bisogno-di-volontari-ti-aiutiamo-noi/"", ""Natura"": ""solidale"", ""Posizione"": ""45.4724139 9.1797453 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ciessevi Milano offre alle associazioni servizio di ricerca volontari""}","<pre><yamldata>
 Da_chi_offerta: Ciessevi - Centro servizi volontariato Milano
 Descrizione: 'Il Centro servizi volontariato Milano offre alle associazioni presenti
