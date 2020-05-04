@@ -1,4 +1,159 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2901,611477088,2020-05-04 08:37:10,2020-05-03 18:33:20,"Covid-19, il nuovo modello di autodichiarazione per gli spostamenti dal 4 maggio",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Covid-19, il nuovo modello di autodichiarazione per gli spostamenti dal 4 maggio"", ""Descrizione"": ""\u00c8 online sul sito del Viminale il nuovo modello di autodichiarazione per gli spostamenti valido dal 4 maggio 2020. Il Viminale precisa che pu\u00f2 essere ancora utilizzato il precedente modello barrando le voci non pi\u00f9 attuali. L'autodichiarazione \u00e8 in possesso degli operatori di polizia e pu\u00f2 essere compilata al momento del controllo."", ""Fonte"": ""Ministero degli interni"", ""Link"": ""https://www.interno.gov.it/it/notizie/covid-19-line-modello-autodichiarazione-spostamenti-dal-4-maggio""}","<pre><yamldata>
+Cosa: Covid-19, il nuovo modello di autodichiarazione per gli spostamenti dal 4 maggio
+Descrizione: 'È online sul sito del Viminale il nuovo modello di autodichiarazione
+  per gli spostamenti valido dal 4 maggio 2020. Il Viminale precisa che può essere
+  ancora utilizzato il precedente modello barrando le voci non più attuali.
+  L''autodichiarazione è in possesso degli operatori di polizia e può essere compilata
+  al momento del controllo.'
+Fonte: Ministero degli interni
+Link: https://www.interno.gov.it/it/notizie/covid-19-line-modello-autodichiarazione-spostamenti-dal-4-maggio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2900,611458843,2020-05-04 09:22:15,2020-05-03 17:02:38,"Dal 4 maggio mascherine a 0,50€ in 50mila punti vendita. Accordi con Federfarma, Confcommercio, Federdistribuzione e Coop",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dal 4 maggio mascherine a 0,50\u20ac in 50mila punti vendita. Accordi con Federfarma, Confcommercio, Federdistribuzione e Coop"", ""Descrizione"": ""Da luned\u00ec 4 maggio i cittadini che le vorranno acquistare, troveranno le mascherine chirurgiche al prezzo massimo di \u20ac0,50 (al netto dell'IVA) in 50.000 punti vendita, uno ogni 1200 abitanti. Dalla met\u00e0 del mese di maggio i punti vendita diventeranno 100.000, uno ogni 600 abitanti\"".\nCos\u00ec Domenico Arcuri, Commissario Straordinario per l'emergenza Covid-19, nella conferenza stampa di questa mattina alla Protezione Civile. \n\""Questo perch\u00e9 abbiamo sottoscritto importanti accordi con: Federfarma, Assofarm, l\u2019ADF che con le farmacie e le parafarmacie italiane hanno 26.000 punti vendita sul nostro territorio e hanno ripreso a mettere in vendita le mascherine chirurgiche entro il prezzo massimo fissato dall\u2019ordinanza; Confcommercio, che raggruppa tra gli altri le catene della grande distribuzione Sigma, Sisal, Crai, Coal e Conad che ha nel suo insieme altri 13.000 punti vendita sul nostro territorio; Federdistribuzione, che raggruppa Esselunga, Carrefour, VeG\u00e8, Leroy Merlin e altre catene di distribuzione, che ha fino a 7.000 punti di vendita sul territorio; infine Coop, che ha 1100 punti vendita sul territorio nazionale e a cui va un ringraziamento particolare, perch\u00e8 ha deciso di mettere sul mercato i dispositivi che ha acquistato al prezzo che abbiamo fissato, anche se il loro prezzo d\u2019acquisto \u00e8 stato pi\u00f9 alto. Contiamo nei prossimi giorni di sottoscrivere un uguale accordo l'Associazione nazionale dei tabaccai che ha altri 50.000 punti vendita sul nostro territorio\""."", ""Fonte"": ""Commissario Straordinario per l'emergenza Covid-19"", ""Link"": ""https://www.invitalia.it/chi-siamo/area-media/notizie-e-comunicati-stampa/conferenza-stampa-commissario-straordinario-2-maggio""}","<pre><yamldata>
+Cosa: Dal 4 maggio mascherine a 0,50€ in 50mila punti vendita. Accordi con Federfarma,
+  Confcommercio, Federdistribuzione e Coop
+Descrizione: ""Da lunedì 4 maggio i cittadini che le vorranno acquistare, troveranno\
+  \ le mascherine chirurgiche al prezzo massimo di €0,50 (al netto dell'IVA) in 50.000\
+  \ punti vendita, uno ogni 1200 abitanti. Dalla metà del mese di maggio i punti vendita\
+  \ diventeranno 100.000, uno ogni 600 abitanti\"".\nCosì Domenico Arcuri, Commissario\
+  \ Straordinario per l'emergenza Covid-19, nella conferenza stampa di questa mattina\
+  \ alla Protezione Civile. \n\""Questo perché abbiamo sottoscritto importanti accordi\
+  \ con: Federfarma, Assofarm, l’ADF che con le farmacie e le parafarmacie italiane\
+  \ hanno 26.000 punti vendita sul nostro territorio e hanno ripreso a mettere in\
+  \ vendita le mascherine chirurgiche entro il prezzo massimo fissato dall’ordinanza;\
+  \ Confcommercio, che raggruppa tra gli altri le catene della grande distribuzione\
+  \ Sigma, Sisal, Crai, Coal e Conad che ha nel suo insieme altri 13.000 punti vendita\
+  \ sul nostro territorio; Federdistribuzione, che raggruppa Esselunga, Carrefour,\
+  \ VeGè, Leroy Merlin e altre catene di distribuzione, che ha fino a 7.000 punti\
+  \ di vendita sul territorio; infine Coop, che ha 1100 punti vendita sul territorio\
+  \ nazionale e a cui va un ringraziamento particolare, perchè ha deciso di mettere\
+  \ sul mercato i dispositivi che ha acquistato al prezzo che abbiamo fissato, anche\
+  \ se il loro prezzo d’acquisto è stato più alto. Contiamo nei prossimi giorni di\
+  \ sottoscrivere un uguale accordo l'Associazione nazionale dei tabaccai che ha altri\
+  \ 50.000 punti vendita sul nostro territorio\"".""
+Fonte: Commissario Straordinario per l'emergenza Covid-19
+Link: https://www.invitalia.it/chi-siamo/area-media/notizie-e-comunicati-stampa/conferenza-stampa-commissario-straordinario-2-maggio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2896,611391420,2020-05-03 16:58:12,2020-05-03 11:33:04,Ministero dell'Interno: Circolare del 2.05.2020 con le indicazioni operative relative al DPCM del 26.04.2020 (Fase 2),,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Circolare ai prefetti sulle misure della fase 2"", ""Descrizione"": ""Le indicazioni operative relative al decreto del Presidente del Consiglio dei ministri (dPcm) 26 aprile 2020 su contenimento e gestione dell'emergenza epidemiologica da Covid-19.Le principali misure, in vigore su tutto il territorio nazionale da domani 4 maggio, sono illustrate nella circolare del capo di Gabinetto ai prefetti del 2 maggio 2020. \nL'obiettivo del nuovo quadro di regole, spiega il documento, \u00e8 trovare un punto di equilibrio tra la salvaguardia primaria della salute pubblica e l'esigenza di contenere l'impatto delle restrizioni sulla vita dei cittadini, tra il sostegno al riavvio del sistema economico produttivo e la sicurezza dei lavoratori."", ""Fonte"": ""Ministero degli Interni"", ""Link"": ""https://www.interno.gov.it/sites/default/files/allegati/circolare_2_maggio_2020.pdf""}","<pre><yamldata>
+Cosa: Circolare ai prefetti sulle misure della fase 2
+Descrizione: ""Le indicazioni operative relative al decreto del Presidente del Consiglio\
+  \ dei ministri (dPcm) 26 aprile 2020 su contenimento e gestione dell'emergenza epidemiologica\
+  \ da Covid-19.Le principali misure, in vigore su tutto il territorio nazionale da\
+  \ domani 4 maggio, sono illustrate nella circolare del capo di Gabinetto ai prefetti\
+  \ del 2 maggio 2020. \nL'obiettivo del nuovo quadro di regole, spiega il documento,\
+  \ è trovare un punto di equilibrio tra la salvaguardia primaria della salute pubblica\
+  \ e l'esigenza di contenere l'impatto delle restrizioni sulla vita dei cittadini,\
+  \ tra il sostegno al riavvio del sistema economico produttivo e la sicurezza dei\
+  \ lavoratori.""
+Fonte: 'Ministero degli Interni'
+Link: https://www.interno.gov.it/sites/default/files/allegati/circolare_2_maggio_2020.pdf
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2894,611378301,2020-05-03 16:13:39,2020-05-03 10:17:54,Informatici Senza Frontiere: 10 videolezioni gratuite di Scratch disponibili sul canale YouTube,,,,,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Informatici Senza Frontiere"", ""Descrizione"": ""Sul canale YouTube di Informatici Senza Frontiere, sono disponibili per tutti 10 videolezioni gratuite di Scratch: in ciascuna lezione, spieghiamo come prendere confidenza con il linguaggo Scratch, sviluppato dal MIT di Boston, come creare scene e animazioni.\nIl coding attraverso Scratch \u00e8 uno strumento oggi fondamentale per imparare competenze che possono tornare utili in tutte le materie che si studiano."", ""Destinatari"": ""Bambini, ragazzi e docenti"", ""Link"": ""https://www.informaticisenzafrontiere.org/progetti/videolezioni-di-scratch/"", ""Natura"": ""didattica"", ""Titolo"": ""Videolezioni di coding con Scratch""}","<pre><yamldata>
+Da_chi_offerta: Informatici Senza Frontiere
+Descrizione: 'Sul canale YouTube di Informatici Senza Frontiere, sono disponibili
+  per tutti 10 videolezioni gratuite di Scratch: in ciascuna lezione, spieghiamo come
+  prendere confidenza con il linguaggo Scratch, sviluppato dal MIT di Boston, come
+  creare scene e animazioni.
+
+  Il coding attraverso Scratch è uno strumento oggi fondamentale per imparare competenze
+  che possono tornare utili in tutte le materie che si studiano.'
+Destinatari: Bambini, ragazzi e docenti
+Link: https://www.informaticisenzafrontiere.org/progetti/videolezioni-di-scratch/
+Natura: didattica
+Titolo: Videolezioni di coding con Scratch
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2893,611377905,2020-05-03 16:11:20,2020-05-03 10:15:25,Informatici Senza Frontiere: supporto tecnico per gestire la condivisione della propria rete con i vicini che ne hanno bisogno,,,,,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Informatici Senza Frontiere"", ""Descrizione"": ""Condividere la propria rete con i vicini che ne hanno bisogno, \u00e8 in questo momento un piccolo grande gesto di aiuto che pu\u00f2 davvero cambiare l\u2019accesso all\u2019educazione di bambini e ragazzi.\n\nSe sei nella situazione di poter condividere la tua rete con piccoli e grandi studenti che vivono vicino a te ma non sai da dove cominciare per modificare le impostazioni del router, puoi scriverci alla casella: wifi.help@informaticisenzafrontiere.org\n\nUn gruppo di soci volontari risponder\u00e0 alle tue domande e ti aiuter\u00e0 a dare le giuste impostazioni alla rete wi-fi."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.informaticisenzafrontiere.org/progetti/wi-fi-solidale/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Wi-Fi solidale""}","<pre><yamldata>
+Da_chi_offerta: Informatici Senza Frontiere
+Descrizione: 'Condividere la propria rete con i vicini che ne hanno bisogno, è in
+  questo momento un piccolo grande gesto di aiuto che può davvero cambiare l’accesso
+  all’educazione di bambini e ragazzi.
+
+
+  Se sei nella situazione di poter condividere la tua rete con piccoli e grandi studenti
+  che vivono vicino a te ma non sai da dove cominciare per modificare le impostazioni
+  del router, puoi scriverci alla casella: wifi.help@informaticisenzafrontiere.org
+
+
+  Un gruppo di soci volontari risponderà alle tue domande e ti aiuterà a dare le giuste
+  impostazioni alla rete wi-fi.'
+Destinatari: Tutti
+Link: https://www.informaticisenzafrontiere.org/progetti/wi-fi-solidale/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Wi-Fi solidale
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2892,611377689,2020-05-04 06:28:49,2020-05-03 10:13:55,"Informatici Senza Frontiere: servizio ""SOS Videochiamate"" guide gratuite e sportello di supporto per l'uso delle varie applicazioni",,,,,"[""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Informatici Senza Frontiere"", ""Descrizione"": ""In questo momento di isolamento e distanza, abbiamo sempre pi\u00f9 bisogno di farci aiutare dalle tecnologie per comunicare con i nostri familiari e amici. Non tutti, tuttavia, hanno le conoscenze di questi sistemi. Per far fronte a queste necessit\u00e0, abbiamo messo a punto  \u201cSOS Videochiamate\u201c. SOS videochiamate \u00e8 un progetto di supporto per usare varie applicazioni di videochiamata attraverso delle mini-guide e uno sportello di assistenza. Le guide sono pensate soprattutto per chi si trova per la prima volta ad usare questi sistemi su computer, tablet o telefoni.\n\nSono disponibili per essere scaricate dal nostro sito e riguardano le app pi\u00f9 in uso su smartphone, tablet e computer. \n\nPer chi avesse ulteriori dubbi o difficolt\u00e0, \u00e8 attivo uno sportello di supporto attraverso cui i nostri volontari offrono assistenza sia per telefono che per e-mail: sosvideochiamate@informaticisenzafrontiere.org"", ""Destinatari"": ""Anziani e famiglie"", ""Link"": ""https://www.informaticisenzafrontiere.org/sos-videochiamate/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SOS videochiamate""}","<pre><yamldata>
+Da_chi_offerta: Informatici Senza Frontiere
+Descrizione: ""In questo momento di isolamento e distanza, abbiamo sempre più bisogno\
+  \ di farci aiutare dalle tecnologie per comunicare con i nostri familiari e amici.\
+  \ Non tutti, tuttavia, hanno le conoscenze di questi sistemi. Per far fronte a queste\
+  \ necessità, abbiamo messo a punto  “SOS Videochiamate“. SOS videochiamate è un\
+  \ progetto di supporto per usare varie applicazioni di videochiamata attraverso\
+  \ delle mini-guide e uno sportello di assistenza. Le guide sono pensate soprattutto\
+  \ per chi si trova per la prima volta ad usare questi sistemi su computer, tablet\
+  \ o telefoni.\n\nSono disponibili per essere scaricate dal nostro sito e riguardano\
+  \ le app più in uso su smartphone, tablet e computer. \n\nPer chi avesse ulteriori\
+  \ dubbi o difficoltà, è attivo uno sportello di supporto attraverso cui i nostri\
+  \ volontari offrono assistenza sia per telefono che per e-mail: sosvideochiamate@informaticisenzafrontiere.org""
+Destinatari: Anziani e famiglie
+Link: https://www.informaticisenzafrontiere.org/sos-videochiamate/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: SOS videochiamate
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2891,611377105,2020-05-03 16:01:28,2020-05-03 10:10:17,"Informatici Senza Frontiere: raccolta fondi per acquisto tablet, smartphone, computer da donare a persone in difficoltà",,,,,"[""Donazioni beni e offerte servizi"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Causale"": ""Emergenza COVID-19"", ""Descrizione"": ""L\u2019esperienza sviluppata negli anni ci ha insegnato quanto \u00e8 importante poter comunicare con famiglia e amici nei momenti di difficolt\u00e0: in questo momento pi\u00f9 che mai avere a disposizione un tablet, un computer, un telefono per poter vedere in viso i nostri cari aiuta ad affrontare con pi\u00f9 facilit\u00e0 questo momento.\n\nRaccogliamo donazioni per poter dare dispositivi di collegamento a distanza alle persone che pi\u00f9 ne hanno bisogno: anziani, ricoverati negli ospedali e persone in isolamento. Ogni tablet, smartphone o computer acquistato grazie alle donazioni pu\u00f2 fare la differenza.\n\nPuoi donare, anche una cifra simbolica, via bonifico bancario o attraverso PayPal dal nostro sito"", ""Email"": ""info@informaticisenzafrontiere.org"", ""IBAN"": ""IT65 B050 1812 0000000 1130 7261"", ""Intestazione"": ""Informatici Senza Frontiere onlus"", ""Link"": ""https://www.informaticisenzafrontiere.org/isf-per-lemergenza-covid-19/"", ""Nome"": ""Informatici Senza Frontiere""}","<pre><yamldata>
+Causale: Emergenza COVID-19
+Descrizione: 'L’esperienza sviluppata negli anni ci ha insegnato quanto è importante
+  poter comunicare con famiglia e amici nei momenti di difficoltà: in questo momento
+  più che mai avere a disposizione un tablet, un computer, un telefono per poter vedere
+  in viso i nostri cari aiuta ad affrontare con più facilità questo momento.
+
+
+  Raccogliamo donazioni per poter dare dispositivi di collegamento a distanza alle
+  persone che più ne hanno bisogno: anziani, ricoverati negli ospedali e persone in
+  isolamento. Ogni tablet, smartphone o computer acquistato grazie alle donazioni
+  può fare la differenza.
+
+
+  Puoi donare, anche una cifra simbolica, via bonifico bancario o attraverso PayPal
+  dal nostro sito'
+Email: info@informaticisenzafrontiere.org
+IBAN: IT65 B050 1812 0000000 1130 7261
+Intestazione: Informatici Senza Frontiere onlus
+Link: https://www.informaticisenzafrontiere.org/isf-per-lemergenza-covid-19/
+Nome: Informatici Senza Frontiere
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2890,611376633,2020-05-03 15:53:15,2020-05-03 10:07:21,Informatici Senza Frontiere offre supporto alla didattica online per l'utilizzo delle principali piattaforme,,,,,"[""Didattica a distanza e-learning"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Informatici Senza Frontiere"", ""Descrizione"": ""Offriamo un servizio di supporto alla didattica online rivolto a docenti, famiglie e ragazzi, con l\u2019obiettivo di guidare all\u2019utilizzo delle piattaforme pi\u00f9 in uso.\n\nGrazie alla disponibilit\u00e0 di alcuni soci volontari, abbiamo attivato uno sportello a cui ci si pu\u00f2 rivolgere per avere supporto per l'uso delle pi\u00f9 comuni piattaforme, come, ad es., Zoom, Google Suite, GoToMeeting ed altre.\n\nPer avere supporto su queste piattaforme, puoi scrivere direttamente le tue domande e i tuoi dubbi a: didattica.helpme@informaticisenzafrontiere.org\n\nCon il progetto diamo supporto anche su alcune piattaforme open source. Se stai usando Meet di Jitsi e vuoi rivolgerti al nostro sportello di supporto, scrivici a: jitsi.helpme@informaticisenzafrontiere.org\n\nPer la piattaforma Moodle, anch\u2019essa open source, puoi chiederci supporto scrivendo a: moodle.helpme@informaticisenzafrontiere.org\n\nIl servizio \u00e8 gratuito e aperto a tutti."", ""Destinatari"": ""Docenti, famiglie e studenti"", ""Link"": ""https://www.informaticisenzafrontiere.org/progetti/supporto-alla-didattica-online/"", ""Natura"": ""didattica"", ""Titolo"": ""Supporto alla didattica online""}","<pre><yamldata>
+Da_chi_offerta: Informatici Senza Frontiere
+Descrizione: 'Offriamo un servizio di supporto alla didattica online rivolto a docenti,
+  famiglie e ragazzi, con l’obiettivo di guidare all’utilizzo delle piattaforme più
+  in uso.
+
+
+  Grazie alla disponibilità di alcuni soci volontari, abbiamo attivato uno sportello
+  a cui ci si può rivolgere per avere supporto per l''uso delle più comuni piattaforme,
+  come, ad es., Zoom, Google Suite, GoToMeeting ed altre.
+
+
+  Per avere supporto su queste piattaforme, puoi scrivere direttamente le tue domande
+  e i tuoi dubbi a: didattica.helpme@informaticisenzafrontiere.org
+
+
+  Con il progetto diamo supporto anche su alcune piattaforme open source. Se stai
+  usando Meet di Jitsi e vuoi rivolgerti al nostro sportello di supporto, scrivici
+  a: jitsi.helpme@informaticisenzafrontiere.org
+
+
+  Per la piattaforma Moodle, anch’essa open source, puoi chiederci supporto scrivendo
+  a: moodle.helpme@informaticisenzafrontiere.org
+
+
+  Il servizio è gratuito e aperto a tutti.'
+Destinatari: Docenti, famiglie e studenti
+Link: https://www.informaticisenzafrontiere.org/progetti/supporto-alla-didattica-online/
+Natura: didattica
+Titolo: Supporto alla didattica online
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2889,611364663,2020-05-03 08:54:27,2020-05-03 08:51:29,Coronavirus - Fase 2: online le domande frequenti sulle misure del Governo in vigore dal 4 maggio,,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""\u201cFase 2\u201d - Domande frequenti sulle misure adottate dal Governo in vigore dal 4 maggio"", ""Descrizione"": ""Online sul sito del Governo le FAQ relative alle misure contenute del Dpcm 26 aprile 2020, in vigore dal 4 maggio."", ""Fonte"": ""Governo italiano"", ""Link"": ""http://www.governo.it/it/faq-fasedue""}","<pre><yamldata>
 Cosa: “Fase 2” - Domande frequenti sulle misure adottate dal Governo in vigore dal
   4 maggio
