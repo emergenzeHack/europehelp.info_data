@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2907,611893891,2020-05-04 13:56:34,2020-05-04 13:55:02,Ciessevi #Milano offre alle associazioni della città metropolitana servizio di ricerca volontari,45.4724139,9.1797453,Lombardia,Milano,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ciessevi - Centro servizi volontariato Milano"", ""Descrizione"": ""Il Centro servizi volontariato Milano offre alle associazioni presenti sul territorio un servizio di ricerca volontari che possa aiutarle a garantire con continuit\u00e0 la propria attivit\u00e0 di supporto e assistenza in questo periodo di emergenza."", ""Destinatari"": ""Associazioni citt\u00e0 metropolitana Milano"", ""Link"": ""http://www.csvlombardia.it/milano/post/hai-bisogno-di-volontari-ti-aiutiamo-noi/"", ""Natura"": ""solidale"", ""Posizione"": ""45.4724139 9.1797453 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Ciessevi Milano offre alle associazioni servizio di ricerca volontari""}","<pre><yamldata>
+Da_chi_offerta: Ciessevi - Centro servizi volontariato Milano
+Descrizione: Il Centro servizi volontariato Milano offre alle associazioni presenti
+  sul territorio un servizio di ricerca volontari che possa aiutarle a garantire con
+  continuità la propria attività di supporto e assistenza in questo periodo di emergenza.
+Destinatari: Associazioni città metropolitana Milano
+Link: http://www.csvlombardia.it/milano/post/hai-bisogno-di-volontari-ti-aiutiamo-noi/
+Natura: solidale
+Posizione: 45.4724139 9.1797453 0 0
+Tipo_di_soggetto: privato
+Titolo: Ciessevi Milano offre alle associazioni servizio di ricerca volontari
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2906,611874430,2020-05-04 13:28:59,2020-05-04 13:27:12,"Ministero dell’Economia, online le Faq sulle misure economiche adottate dal governo per l’emergenza COVID-19",,,,,"[""Bollettino"", ""Fonti istituzionali"", ""Notizie Utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ministero dell\u2019Economia, online le Faq sulle misure economiche adottate dal governo per emergenza COVID-19"", ""Descrizione"": ""Online sul sito del Mef le Faq (risposte alle domande pi\u00f9 frequenti) in merito ai provvedimenti economici assunti dal Governo per contrastare l\u2019emergenza derivante dall\u2019epidemia COVID-19. Le faq sono in continuo aggiornamento e articolate in aree tematiche: Sanit\u00e0, Lavoro, Fisco, Liquidit\u00e0 a famiglie e imprese."", ""Fonte"": ""Ministero dell\u2019Economia e Finanze"", ""Link"": ""http://www.mef.gov.it/covid-19/faq.html""}","<pre><yamldata>
 Cosa: Ministero dell’Economia, online le Faq sulle misure economiche adottate dal governo
   per emergenza COVID-19
