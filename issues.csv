@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2912,612523902,2020-05-05 11:25:22,2020-05-05 11:16:05,A #Torino la Rete Case di Quartiere distribuisce pacchi alimentari a persone e famiglie in difficoltà,45.084612,7.686996,Piemonte,Torino,"[""Bollettino"", ""Donazioni beni e offerte servizi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Rete Case di Quartiere - Comune di Torino"", ""Descrizione"": ""La Rete delle Case del Quartiere di Torino ha attivato, in collaborazione con i Servizi Sociali del Comune di Torino, dei centri di distribuzione di beni alimentari e di prima necessit\u00e0 a favore di persone in difficolt\u00e0. I centri sono attivi in 5 Case del Quartiere (c.d.Q. San Salvario, +Spazio 4, Bagni di via Agli\u00e8, Casa nel Parco a Mirafiori Sud, Casa di Quartiere Vallette). \nPer richiedere il sostegno alimentare si pu\u00f2 chiamare il Call Center della PROTEZIONE CIVILE COMUNALE: numero verde 800444004 \u2013 01101137000 (servizio attivo tutti i giorni dalle 10 alle 17), e-mail: emergenza.protezionecivile@comune.torino.it\nLa Casa del Quartiere non \u00e8 aperta al pubblico, pertanto i beni vengono consegnati direttamente a casa delle persone e famiglie in difficolt\u00e0."", ""Destinatari"": ""Cittadini e famiglie in difficolt\u00e0 di Torino"", ""Link"": ""http://www.retecasedelquartiere.org/rete-solidale-case-del-quartiere/?fbclid=IwAR1YcJ_Wk9yX_rdpctBvjLe-VrIsat1g3Fhc1NcizEbgcpmu5PQoNCFXTNM"", ""Natura"": ""solidale"", ""Posizione"": ""45.084612 7.686996 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""A Torino la Rete Case di Quartiere distribuisce pacchi alimentari a persone e famiglie in difficolt\u00e0""}","<pre><yamldata>
+Da_chi_offerta: Rete Case di Quartiere - Comune di Torino
+Descrizione: ""La Rete delle Case del Quartiere di Torino ha attivato, in collaborazione\
+  \ con i Servizi Sociali del Comune di Torino, dei centri di distribuzione di beni\
+  \ alimentari e di prima necessità a favore di persone in difficoltà. I centri sono\
+  \ attivi in 5 Case del Quartiere (c.d.Q. San Salvario, +Spazio 4, Bagni di via Agliè,\
+  \ Casa nel Parco a Mirafiori Sud, Casa di Quartiere Vallette). \nPer richiedere\
+  \ il sostegno alimentare si può chiamare il Call Center della PROTEZIONE CIVILE\
+  \ COMUNALE: numero verde 800444004 – 01101137000 (servizio attivo tutti i giorni\
+  \ dalle 10 alle 17), e-mail: emergenza.protezionecivile@comune.torino.it\nLa Casa\
+  \ del Quartiere non è aperta al pubblico, pertanto i beni vengono consegnati direttamente\
+  \ a casa delle persone e famiglie in difficoltà.""
+Destinatari: Cittadini e famiglie in difficoltà di Torino
+Link: http://www.retecasedelquartiere.org/rete-solidale-case-del-quartiere/?fbclid=IwAR1YcJ_Wk9yX_rdpctBvjLe-VrIsat1g3Fhc1NcizEbgcpmu5PQoNCFXTNM
+Natura: solidale
+Posizione: 45.084612 7.686996 0 0
+Tipo_di_soggetto: pubblico
+Titolo: A Torino la Rete Case di Quartiere distribuisce pacchi alimentari a persone
+  e famiglie in difficoltà
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2911,612463884,2020-05-05 11:05:15,2020-05-05 09:26:47,"Bonus 600 euro, Inps avverte: attenzione ai tentativi di truffa tramite email di phishing",,,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Inps: tentativo di truffa tramite phishing"", ""Descrizione"": ""L\u2019Inps avvisa gli utenti che \u00e8 in corso un tentativo di truffa tramite email di phishing finalizzata a sottrarre fraudolentemente il numero della carta di credito, con la falsa motivazione che servirebbe a ottenere un rimborso o il pagamento del Bonus 600 euro. Si invitano tutti gli utenti ad ignorare email che propongono di cliccare su un link per ottenere il pagamento del Bonus 600 euro o qualsiasi forma di rimborso da parte dell\u2019Inps."", ""Link"": ""https://www.inps.it/nuovoportaleinps/home.htm""}","<pre><yamldata>
 Cosa: 'Inps: tentativo di truffa tramite phishing'
 Descrizione: L’Inps avvisa gli utenti che è in corso un tentativo di truffa tramite
