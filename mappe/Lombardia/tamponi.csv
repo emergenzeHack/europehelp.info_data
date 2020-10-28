@@ -1,9 +1,9 @@
 ATS,DOVE,ORARI,NOTE SUL SERVIZIO,LATITUDINE,LONGITUDINE
 Bergamo,Ospedale di San Giovanni Bianco,"da lunedì a sabato, dalle 10 alle 14",,45.87146465000000,9.65445785000000
 Bergamo,ASST Papa Giovanni XXIII - Presidio medico avanzato Fiera di Bergamo,"da lunedì a sabato, dalle 9 alle 14",Restare in macchina e seguire le indicazioni che conducono all'ingresso riservato,45.68566335000000,9.63728297300000
-Bergamo,"Drive-Through presso l’Ospedale di Treviglio, Piazzale ospedale n°1 ","dalle ore 09.00 alle ore 13.00, da lunedì a sabato",,45.51100940000000,9.61037710000000
-Bergamo,Drive-Through a Martinengo in Via Gramsci (di fronte alla Sede degli Alpini),"dalle ore 09.00 alle ore 13.00, da lunedì a venerdì",,45.57417000000000,9.77609776500000
-Bergamo,Drive-Through a Dalmine in Piazzale Piscine,"dalle ore 09.00 alle ore 13.00, da lunedì a sabato",,45.64370890000000,9.61245640800000
+Bergamo,"Drive-Through presso l’Ospedale di Treviglio, Piazzale ospedale 1 ","dalle 09.00 alle 13.00, da lunedì a sabato",,45.51100940000000,9.61037710000000
+Bergamo,Drive-Through a Martinengo in Via Gramsci (di fronte alla Sede degli Alpini),"dalle 09.00 alle 13.00, da lunedì a venerdì",,45.57417000000000,9.77609776500000
+Bergamo,Drive-Through a Dalmine in Piazzale Piscine,"dalle 09.00 alle 13.00, da lunedì a sabato",,45.64370890000000,9.61245640800000
 Bergamo,Ospedale di Seriate (tenda adiacente all'ingresso),dalle 9 alle 14,,45.68312870000000,9.71757990000000
 Bergamo,Ospedale di Alzano Lombardo (tenda all'ingresso),dalle 9 alle 14,,45.73155815000000,9.72575139895122
 Bergamo ,Ospedale di Piario (tenda all'ingresso),dalle 9 alle 14,,45.88882979999990,9.91882542928204
@@ -14,29 +14,30 @@ Brescia,"Presidio Ospedaliero di Gavardo, via Andrea Gosa 74",dal lunedì al ven
 Brescia,"Presidio Ospedaliero di Desenzano del Garda, località Montecroce",dal lunedì al venerdì dalle 11.00 alle 14.30,,45.47110823366110,10.52180883954450
 Brescia,"Presidio Ospedaliero di Manerbio, Via Lungomella Valsecchi, 2 – 25025 Manerbio (Bs)",,,45.35684977450980,10.14597584324240
 Brianza,"Ospedale Manzoni di Lecco, Via dell'Eremo 9/11  - ingresso principqle, ambulatorio 21 piano 0",Dal lunedì al venerdì dalle 9.00 alle 13.00 - Il sabato dalle 9.00 alle 12.00,,45.85212135000000,9.41492244608182
-Brianza,"Ospedale di Vimercate Via Santi Cosma e Damiano, 10 (drive through)",Dal lunedì a sabato dalle ore 8:00 alle ore 12:00,,45.60828159000000,9.35634383436581
-Brianza,"Drive trough presso ospedale vecchio San Gerardo di Monza, con ingresso da Via Magenta",Dal lunedì a sabato dalle ore 8.30 alle ore 14.30,,45.57979000000000,9.26917000000000
-Brianza,"Ospedale di Desio (Ambulatorio tamponi), Via Mazzini 1",Dal lunedì a sabato dalle ore 8.00 alle ore 13.00,,45.62597000000000,9.19731000000000
-Milano,"CASALPUSTERLENGO - Ospedale Rossi - Via Fleming, 1 - Ambulatorio Prelievi",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"CODOGNO - Viale Guglielmo Marconi, 1 -",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"LODI - Largo Donatori del Sangue, 1",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"SANT’ANGELO L. - Ospedale Delmati - SP19, 1 - Ambulatorio prelievi",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"PESCHIERA BORROMEO - Via Matteotti, 25",Lunedì-Venerdì 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"VIZZOLO PREDABISSI – Ospedale - Via Pandina, 1",Sabato-domenica 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"GORGONZOLA - PreSST - Via Bellini, 5",Lunedì-Venerdì 10.30-12.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,ABBIATEGRASSO - Ospedale Cantù - Piazza Mussi 1 - Punto di Primo Soccorso,Lunedì-sabato 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,LEGNANO - Via Papa Giovanni Paolo II - Pronto Soccorso - Area Pediatrica,Sabato 9-13,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,MAGENTA - Via Donatori del sangue - Ambulatorio Post Dimissioni (ingresso dalla sbarra del vecchio Pronto Soccorso),Lunedì-sabato 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"LEGNANO - Via Canazza 1, Ingresso Vecchio Ospedale (drive through-seguire frecce gialle)",Lunedì-Venerdì 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,BOLLATE - Ospedale B - Via Piave 20 - DRIVE THROUGH,"Lunedì-Venerdì 8.30-13.00, sabato 10.30-12.30",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,MILANO - Ospedale San Carlo - Via Pio II dopo ingresso Pronto Soccorso - DRIVE THROUGH,"Da Lunedì a Venerdì ore 8.00-22.00, Sabato e Domenica ore 9.00-13.00 (orari in vigore dal 28 ottobre)",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,MILANO - Ospedale San Paolo - Via Ovada 26 - DRIVE THROUGH,"Da Lunedì a Venerdì ore 8.00-22.00, Sabato e Domenica ore 9.00-13.00 (orari in vigore dal 28 ottobre)",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,MILANO - Via Palermo 6 - Centro Vaccinale,Lunedì-Venerdì 9.00-15.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,MILANO - Ospedale Sacco Via G.B. Grassi 74 – Ambulatorio 62,Lunedì-sabato 8.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,"Ospedale BUZZI ""casetta arcobaleno"" DRIVE THROUGH ingresso SOLO con automobile – Milano Via Castelvetro 28",Lunedì-sabato 8.00-15.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,MILANO Via Ippocrate 45 - Ambulatorio,Martedì 10-11.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,CINISELLO BALSAMO - Ospedale Bassini - Via Gorki 50 DRIVE THROUGH,Lunedì-sabato 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
-Milano,CUSANO MILANINO - Ospedale Bassini - Via Ginestra 1 - Ambulatorio,Mercoledì e venerdì 10-13.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,,
+Brianza,"Ospedale di Vimercate, Via Santi Cosma e Damiano, 10 (drive through)",Dal lunedì a sabato dalle 8:00 alle 12:00,,45.60828159000000,9.35634383436581
+Brianza,"Drive trough presso ospedale vecchio San Gerardo di Monza, con ingresso da Via Magenta",Dal lunedì a sabato dalle 8.30 alle 14.30,,45.57979000000000,9.26917000000000
+Brianza,"Ospedale di Desio (Ambulatorio tamponi), Via Mazzini 1",Dal lunedì a sabato dalle 8.00 alle 13.00,,45.62597000000000,9.19731000000000
+Brianza,"Limbiate - Parcheggio Centro Sportivo, via Tolstoj ","Dal lunedì al sabato, 8.30-14.30",Per studenti e personale della scuola.,45.59148710000000,9.1296128
+Milano,"CASALPUSTERLENGO - Ospedale Rossi - Via Fleming, 1 - Ambulatorio Prelievi",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.17070000000000,9.65431000000000
+Milano,"CODOGNO - Viale Guglielmo Marconi, 1 -",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.15969000000000,9.71167000000000
+Milano,"LODI - Largo Donatori del Sangue, 1",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.31496000000000,9.51143000000000
+Milano,"SANT’ANGELO L. - Ospedale Delmati - SP19, 1 - Ambulatorio prelievi",Lunedì-Venerdì 10.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.22930000000000,9.41541000000000
+Milano,"PESCHIERA BORROMEO - Via Matteotti, 25",Lunedì-Venerdì 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.42883000000000,9.30422000000000
+Milano,"VIZZOLO PREDABISSI – Ospedale - Via Pandina, 1",Sabato-domenica 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.35980000000000,9.33969000000000
+Milano,"GORGONZOLA - PreSST - Via Bellini, 5",Lunedì-Venerdì 10.30-12.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.53449000000000,9.41331000000000
+Milano,ABBIATEGRASSO - Ospedale Cantù - Piazza Mussi 1 - Punto di Primo Soccorso,Lunedì-sabato 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.39511000000000,8.91431000000000
+Milano,LEGNANO - Via Papa Giovanni Paolo II - Pronto Soccorso - Area Pediatrica,Sabato 9-13,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.58380000000000,8.88767000000000
+Milano,MAGENTA - Via Donatori del sangue - Ambulatorio Post Dimissioni (ingresso dalla sbarra del vecchio Pronto Soccorso),Lunedì-sabato 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.47032000000000,8.89182000000000
+Milano,"LEGNANO - Via Canazza 1, Ingresso Vecchio Ospedale (drive through-seguire frecce gialle)",Lunedì-Venerdì 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.59399000000000,8.93247000000000
+Milano,BOLLATE - Ospedale B - Via Piave 20 - DRIVE THROUGH,"Lunedì-Venerdì 8.30-13.00, sabato 10.30-12.30",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.54062000000000,9.11770000000000
+Milano,MILANO - Ospedale San Carlo - Via Pio II dopo ingresso Pronto Soccorso - DRIVE THROUGH,"Da Lunedì a Venerdì 8.00-22.00, Sabato e Domenica 9.00-13.00 (orari in vigore dal 28 ottobre)",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.47021000000000,9.11305000000000
+Milano,MILANO - Ospedale San Paolo - Via Ovada 26 - DRIVE THROUGH,"Da Lunedì a Venerdì 8.00-22.00, Sabato e Domenica 9.00-13.00 (orari in vigore dal 28 ottobre)",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.43592000000000,9.15874000000000
+Milano,MILANO - Via Palermo 6 - Centro Vaccinale,Lunedì-Venerdì 9.00-15.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.47529000000000,9.18584000000000
+Milano,MILANO - Ospedale Sacco Via G.B. Grassi 74 – Ambulatorio 62,Lunedì-sabato 8.30-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.51777000000000,9.11987000000000
+Milano,"MILANO - Ospedale BUZZI ""Casetta Arcobaleno"", DRIVE THROUGH ingresso solo con automobile – Via Castelvetro 28",Lunedì-sabato 8.00-15.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.48569000000000,9.16596000000000
+Milano,MILANO Via Ippocrate 45 - Ambulatorio,Martedì 10-11.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.52178000000000,9.16436000000000
+Milano,CINISELLO BALSAMO - Ospedale Bassini - Via Gorki 50 DRIVE THROUGH,Lunedì-sabato 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.54687000000000,9.21804000000000
+Milano,CUSANO MILANINO - Ospedale Bassini - Via Ginestra 1 - Ambulatorio,Mercoledì e venerdì 10-13.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.55309000000000,9.18656000000000
 Milano,MILANO - Villa Marelli - Viale Zara 81 - Ambulatorio dedicato,"Lunedì-venerdì 8,30-12,00 13,00-17,30",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.49624000000000,9.19446000000000
 Milano,"MILANO - IRCCS POLICLINICO CA' GRANDA - Via Pace, 9 Corridoio Centrale - Ambulatorio Tamponi",Lunedì-sabato 8.00-15.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.45917000000000,9.20301000000000
 Milano,MILANO - CARDIOLOGICO MONZINO - Via Parea 4,Lunedì-Venerdì 9.00-13.00,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.44339000000000,9.26319000000000
@@ -48,4 +49,48 @@ Milano,MILANO - IRCCS IST. ORTOPEDICO GALEAZZI - Via Riccardo Galeazzi 4 - Ingre
 Milano,"MILANO - OSPEDALE SAN GIUSEPPE MULTIMEDICA - Via De Togni, 26","Lunedi - Venerdì 15-16, sabato 11.30-12.00",Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.46348000000000,9.17270000000000
 Milano,"ROZZANO - IRCCS ISTITUTO CLINICO HUMANITAS - BUILDING 4, area punto prelievi, via Manzoni, 56",Lunedì-Venerdì 12-13.30,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.37244000000000,9.16809000000000
 Milano,"MILANO - HUMANITAS SAN PIO X, Via Francesco Nava 31, Ambulatori B piano -1",Giovedi-venerdì 14-14.45,Prenotazione online su https://portaleinformativosalute.azurewebsites.net/index_self.php,45.49515000000000,9.18969000000000
-,MILANO - OSPEDALE SAN RAFFAELE Via Olgettina 60 presso Drive Through - area dedicata seguendo cartelli stradali (vengono gestiti cittadini che si presentano anche senza automezzo). Partendo dalla rotonda davanti all’AMSA seguire i cartelli per Hotel Rafael e successivamente per PORTINERIA CENTRALE (sulla sinistra si trovano i Gazebo),,,,
+Milano,"MILANO - OSPEDALE SAN RAFFAELE, Via Olgettina 60 (drive-through)","Lunedi-venerdì 9.30-12.30 e 14.30-16.00, sabato 9.30-11.30",area dedicata seguendo cartelli stradali (vengono gestiti cittadini che si presentano anche senza automezzo). Partendo dalla rotonda davanti all’AMSA seguire i cartelli per Hotel Rafael e successivamente per PORTINERIA CENTRALE (sulla sinistra si trovano i Gazebo),45.50620000000000,9.26548000000000
+Milano,"BINASCO Punto Prelievi Synlab Italia, VIA FILIPPO BINASCHI, 1",Martedì 10.00-11.30,,45.33335670000000,9.10122200000000
+Milano,"MILANO Punto Prelievi Synlab Italia, VIA DORIA, 48/A ","Lunedi-venerdì 11-12, 14-16",,45.48577360000000,9.21445380000000
+Milano,"MELEGNANO Punto prelievi Synlab Italia, P.ZA G. MATTEOTTI, 12",Martedì-giovedì 10.15-11.15,,45.35882535000000,9.32333123919374
+Milano,"MILANO Punto prelievi Synlab Italia, V.LE ARGONNE, 24",Lunedi-martedì-giovedi 10.30-11.30,,45.46767740000000,9.22734410000000
+Milano,"RHO Punto prelievi Synlab Italia, VIA DANTE, 51","Martedì-Mercoledi-giovedi 10,30-11.30",,45.52787860548530,9.04623009423937
+Milano,"SESTO S. GIOVANNI Punto prelievi Synlab Italia, VIA SALVEMINI, 28",Martedì 14.30-16.00 ,,45.53538480000000,9.23737230000000
+Insubria,Como - Presidio Poliambulatorio di via Napoleona - ingresso Via Colonna (drive-through),da lunedì a venerdì dalle 9 alle 13,,45.79146190000000,9.08897636790670
+Insubria,Menaggio - Ospedale Erba Renaldi c/o tendone (drive-through),da lunedì a venerdì dalle 9 alle 13,,46.01800541560720,9.22765606579469
+Insubria,Cantù - Ospedale Sant'Antonio Abate c/o camper via Caduti di Nassiriya (drive-through),da lunedì a venerdì dalle 9 alle 13,,45.73914560000000,9.14223254955756
+Insubria,Varese - Ospedale di Circolo - Padiglione di ingresso in Viale Borri 57,da lunedì a venerdì dalle 9 alle 13,,45.80765234505370,8.83757181343241
+Insubria,Cittiglio - Ospedale Causa Pia Luvini,da lunedì a venerdì dalle 9 alle 13,,45.89388410000000,8.66793790000000
+Insubria,Tradate - Ospedale Galmarini ,da lunedì a venerdì dalle 9 alle 13,,45.72090964999990,8.90068945409139
+Insubria,"Busto Arsizio - Malpensa Fiere via XI Settembre, 16 (drive-through)",da lunedì a venerdì dalle 9 alle 13,,45.63568640000000,8.85173741227295
+Montagna,"ASST Valcamonica, presso Presidio Ospedaliero Esine",dal lunedì al sabato dalle 8.00 alle 12.00 ,,45.92836830000000,10.24811610000000
+Montagna,"ASST Valtellina e Alto Lario, presso Presidio Territoriale di Bormio, via Agoi, 8",da lunedì al sabato dalle 11.00 alle 12.00,,46.46096380000000,10.35897600000000
+Montagna,"ASST Valtellina e Alto Lario, Presidio Territoriale di Tirano, via Pedrotti, 57",da lunedì al venerdì dalle 11.00 alle 12.00,,46.21849710000000,10.16890680000000
+Montagna,"ASST Valtellina e Alto Lario, Presidio Territoriale di Sondrio, via Don Bosco presso il parcheggio ATS",da lunedì al venerdì dalle 11.00 alle 12.00,,46.17222710000000,9.88029240000000
+Montagna,"ASST Valtellina e Alto Lario, Presidio Territoriale di Morbegno, via Morelli, 1",da lunedì al venerdì dalle 11.00 alle 12.00,,46.13342190000000,9.57375110000000
+Montagna,"ASST Valtellina e Alto Lario, Presidio Territoriale di Chiavenna, Piazzetta Corbetta",da lunedì al sabato dalle 11.00 alle 12.00,,46.32124650000000,9.40022670000000
+Montagna,"ASST Valtellina e Alto Lario, Presidio Territoriale di Dongo, via Regina presso postazione primo intervento",da lunedì al venerdì dalle 11.00 alle 12.00,,46.14257140000000,9.29582650000000
+Pavia,"LABORATORIO ESAMI CHIMICO CLINICI SRL, BRONI - Piazza Cagnoni, 1 ",,,45.06270670000000,9.26334330000000
+Pavia,"LABORATORIO ANALISI MEDICHE SAN GIORGIO, P.zza Marelli 4/5","LUNEDì, MERCOLEDì, GIOVEDì E SABATO dalle 10.00 alle 12.00",,45.19084060000000,9.14957780000000
+Pavia,"L.A.M. SANT'AMBROGIO LABORATORIO ANALISI MEDICHE - VIGEVANO, Via L.Da Vinci 20",,,45.31977600000000,8.86434100000000
+Pavia,"L.A.M. SANT'AMBROGIO LABORATORIO ANALISI MEDICHE - MORTARA, Strada Vecchia per Galliate 4",,,45.25610650000000,8.74261390000000
+Pavia,"L.A.M. SANT'AMBROGIO LABORATORIO ANALISI MEDICHE - CASORATE PRIMO,  Via S. Protaso, 1 bis",,,45.31073640000000,9.02093810000000
+Pavia,"L.A.M. VOGHERA LABORATORIO ANALISI MEDICHE, via Garibaldi, 107/Bis - Voghera",,,44.99116120000000,9.01344270000000
+Pavia,"M.A.D. ANALISI SRL - VOGHERA, Via XX Settembre, 82",,,44.98956440000000,9.01141650000000
+Pavia,"ASST DI PAVIA, Via Indipendenza, 3",,,45.19350650000000,9.15543450000000
+Pavia,"I.R.C.C.S. FONDAZIONE POLICLINICO SAN MATTEO, Viale Camillo Golgi 19 - Pavia",,,45.19622000000000,9.14884090000000
+Pavia,"ISTITUTI CLINICI SCIENTIFICI MAUGERI SPA, Via S. Maugeri, 10 - Pavia",,,45.20367600000000,9.14174420000000
+Pavia,"FONDAZIONE ISTITUTO NEUROLOGICO NAZIONALE C. MONDINO, Via Mondino, 2 - Pavia",,,45.20321050000000,9.14010790000000
+Valpadana ,"Cremona - V.le Concordia, 1 – palazzina n. 8","dal lunedì al venerdì, dalle 8:00 alle 13:00, sabato dalle 08:30 alle 10:00",,45.13003280000000,10.05229710000000
+Valpadana ,"Ospedale Oglio Po - Casalmaggiore (CR) frazione di Vicomoscano - Via Staffolo, 51","dal lunedì al venerdì, dalle 8:00 alle 13:00, sabato dalle 08:30 alle 10:00",,44.97499940000000,10.46783900000000
+Valpadana ,"Ospedale Soresina (CR) - Via Inzani, 4","dal lunedì al venerdì, dalle 10:00 alle 13:00, sabato, dalle 8:00 alle 10:00",,45.28160730000000,9.87092500000000
+Valpadana ,"Mantova - Str. Lago Paiolo, 10 tensostruttura davanti al Pronto Soccorso","dal lunedì al sabato, dalle 9:30 alle 12:30",,45.14483340000000,10.77324020000000
+Valpadana ,Asola (MN) - Via Vicolo chiuso,"dal lunedì al sabato, dalle 9:30 alle 11:30",,45.22103390000000,10.41043970000000
+Valpadana ,"Ospedale Pieve di Coriano (MN) - Via Bugatte, 1 Borgo Mantovano","dal lunedì al sabato, dalle 9:30 alle 11:30",,45.03439680000000,11.11558210000000
+Valpadana ,Viadana (MN) - Via Learco Guerra,"dal lunedì al sabato, dalle 9:30 alle 11:30",,44.93490830000000,10.51759300000000
+Valpadana ,"Crema - L.go Dossena, 2 – Centro Prelievi","dal lunedì al venerdì, dalle ore 9:00 alle ore 12:30 sabato, dalle ore 8:30 alle ore 11:00",,45.35438170000000,9.68120200000000
+Valpadana ,"Rivolta d'Adda (CR) - Via Monte Grappa, 15 – palazzina esterna dell'Ospedale Santa Marta","dal lunedì al venerdì, dalle ore 8:30 alle ore 10:30",,45.46882780000000,9.51465990000000
+Valpadana ,"Ospedale San Pellegrino, Castiglione delle Stiviere (MN) - Via Grabaldi, 81",dal lunedì al venerdì dalle ore 9:00 alle ore 13:00 sabato dalle ore 9:00 alle ore 12:00,,45.38871490000000,10.49391610000000
+Valpadana ,Ospedale San Pellegrino - Ambulatorio Green Park Mantova - Strada Circonvallazione sud 21/b,dal lunedì al sabato dalle ore 9:00 alle ore 11:00,,45.14924210000000,10.75226030000000
+Valpadana ,"Ospedale Suzzara  (MN), Via Cantore, 14","dal lunedì al venerdì, dalle ore 9:00 alle ore 12:00","punto prelievo dedicato è raggiungibile dalla rampa esterna del Pronto Soccorso, prima della discesa della via d'uscita, seguendo le indicazioni dedicate",44.98682630000000,10.75200540000000
+Valpadana ,"ICS Maugeri - IRCCS Castel Goffredo (MN) - Via Ospedale, 36","dal lunedì al venerdì, dalle ore 9:00 alle ore 11:00",punto prelievi piano terra,45.30131330000000,10.48115130000000
